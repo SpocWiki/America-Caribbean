@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 10.3 , -109.22 ] 
 type: geo-Region
 title: Island~Clipperton
