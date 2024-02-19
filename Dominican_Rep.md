@@ -17,7 +17,7 @@ id: Dominican Rep.
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Dominican_Rep//
+geojsonFolder: ./Dominican_Rep///
 markerFolder: ./Dominican_Rep/
 ```
 
