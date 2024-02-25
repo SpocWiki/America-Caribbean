@@ -130,7 +130,7 @@ Continent :: [[South-America]]
 
 
 ## Confidential Links & Embeds: 
-- [[British_Virgin~Islands|British_Virgin~Islands]] 
+-[[British_Virgin-Islands|British_Virgin-Islands]]] 
 - [[../../../../_internal/geo/Continent/America~Caribbean/British_Virgin~Islands.internal|British_Virgin~Islands.internal]] 
 - [[../../../../_protect/geo/Continent/America~Caribbean/British_Virgin~Islands.protect|British_Virgin~Islands.protect]] 
 - [[../../../../_private/geo/Continent/America~Caribbean/British_Virgin~Islands.private|British_Virgin~Islands.private]] 
