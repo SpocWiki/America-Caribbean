@@ -17,7 +17,7 @@ id: Trinidad And Tobago
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Trinidad_and_Tobago~Islands//
+geojsonFolder: ./Trinidad_and_Tobago~Islands///
 markerFolder: ./Trinidad_and_Tobago~Islands/
 ```
 
