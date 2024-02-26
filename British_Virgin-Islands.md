@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 18.4314
 - -64.62305
@@ -103,13 +103,16 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 [ISO2::VG] 
 [ISO3::VGB] 
 
+## #has_/map 
+
+
 ```leaflet
 id: British Virgin Islands
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./British_Virgin~Islands/
-markerFolder: ./British_Virgin~Islands/
+geojsonFolder: ./British_Virgin-Islands/
+markerFolder: ./British_Virgin-Islands/
 ```
 
 [name-en::British Virgin Islands] 
@@ -131,8 +134,8 @@ Continent :: [[South-America]]
 
 ## Confidential Links & Embeds: 
 -[[British_Virgin-Islands|British_Virgin-Islands]]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/British_Virgin~Islands.internal|British_Virgin~Islands.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/British_Virgin~Islands.protect|British_Virgin~Islands.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/British_Virgin~Islands.private|British_Virgin~Islands.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/British_Virgin~Islands.personal|British_Virgin~Islands.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/British_Virgin~Islands.secret|British_Virgin~Islands.secret]] 
+- [[../../../../_internal/geo/Continent/America~Caribbean/British_Virgin-Islands.internal|British_Virgin-Islands.internal]] 
+- [[../../../../_protect/geo/Continent/America~Caribbean/British_Virgin-Islands.protect|British_Virgin-Islands.protect]] 
+- [[../../../../_private/geo/Continent/America~Caribbean/British_Virgin-Islands.private|British_Virgin-Islands.private]] 
+- [[../../../../_personal/geo/Continent/America~Caribbean/British_Virgin-Islands.personal|British_Virgin-Islands.personal]] 
+- [[../../../../_secret/geo/Continent/America~Caribbean/British_Virgin-Islands.secret|British_Virgin-Islands.secret]] 
