@@ -1,16 +1,20 @@
 ---
-location: [ 17.98 , -76.77 ] 
-type: geo-Region
+location: [17.98333,-76.8] 
+mapzoom: [7,12] 
+mapmarker: city 
+type: City
 title: Kingston
 
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
+SpocWebEntityId: 35932
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
 
 tags:
+- geo/City
 - geo/Country/Region
 aliases:
 - Kingston
@@ -26,11 +30,22 @@ layout:
 publishDate: 
 expiryDate: 
 ---
+[geo-lon::-76.8] 
+[geo-lat::17.98333] 
+[name::Kingston] 
+State ::  
+Country :: [[../../../../../../../../Jamaica]]  
+[StateId::] 
+[Population::] 
+[Unknown::32] 
 
 # Kingston
 
 ```leaflet
 id: Kingston
+coordinates: [[Kingston]] 
+markerFile: [[Kingston]] 
+defaultZoom: 11 
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18

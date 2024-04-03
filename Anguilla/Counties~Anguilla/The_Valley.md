@@ -1,7 +1,10 @@
 ---
-location: [ 18.24 , -63.06 ] 
-type: geo-Region
+location: [18.22723,-63.04899] 
+mapzoom: [7,12] 
+mapmarker: city 
 title: The_Valley
+type: City
+SpocWebEntityId: 35903
 
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
@@ -26,11 +29,22 @@ layout:
 publishDate: 
 expiryDate: 
 ---
+[geo-lon::-63.04899] 
+[geo-lat::18.22723] 
+[name::The Valley] 
+State ::  
+Country :: [[../../../../Anguilla]] ] 
+[StateId::] 
+[Population::] 
+[Unknown::32] 
 
 # The_Valley
 
 ```leaflet
-id: The_Valley
+id: The Valley
+coordinates: [[The_Valley]] 
+markerFile: [[The_Valley]] 
+defaultZoom: 11 
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
