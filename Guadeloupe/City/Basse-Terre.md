@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-61.73333] 
-[geo-lat::16] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-61.73333] 
+[has_place_latitude::16] 
 [name::Basse-Terre] 
 State ::  
 Country :: [[../../Guadeloupe]] 

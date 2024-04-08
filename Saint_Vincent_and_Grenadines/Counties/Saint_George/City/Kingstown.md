@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-61.23333] 
-[geo-lat::13.16667] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-61.23333] 
+[has_place_latitude::13.16667] 
 [name::Kingstown] 
 State ::  
 Country :: [[../../Saint_Vincent_and_Grenadines]]  

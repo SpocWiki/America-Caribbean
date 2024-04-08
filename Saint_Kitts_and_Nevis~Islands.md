@@ -33,8 +33,10 @@ Continent :: [[South-America]]
 [Capital-Id::] 
 [Alcohol-l::9.4] 
 [Language-Id::499] 
-[geo-lon::-62.7333] 
-[geo-lat::17.3] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-62.7333] 
+[has_place_latitude::17.3] 
 
 
 

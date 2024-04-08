@@ -129,8 +129,10 @@ Capital :: [[Haiti/Counties/Ouest/City/Port-au-Prince]]
 
 [Alcohol-l::6.6] 
 [Language-Id::496] 
-[geo-lon::-72.3333] 
-[geo-lat::18.5333] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-72.3333] 
+[has_place_latitude::18.5333] 
 
 
 

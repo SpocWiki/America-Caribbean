@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-60.98333] 
-[geo-lat::14.03333] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-60.98333] 
+[has_place_latitude::14.03333] 
 [name::Castries] 
 State ::  
 Country :: [[../../../../Saint_Lucia]]  

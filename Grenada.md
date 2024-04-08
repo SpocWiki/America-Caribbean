@@ -126,8 +126,10 @@ Continent :: [[South-America]]
 Capital :: [[Grenada/City/St._George’s]]  
 [Alcohol-l::10.4] 
 [Language-Id::499] 
-[geo-lon::-61.75] 
-[geo-lat::12.05] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-61.75] 
+[has_place_latitude::12.05] 
 
 
 

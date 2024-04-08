@@ -36,8 +36,10 @@ Continent :: [[South-America]]
 Capital :: [[Saint_Lucia/Counties/Castries/City/Castries]]  
 [Alcohol-l::11.9] 
 [Language-Id::499] 
-[geo-lon::-60.9833] 
-[geo-lat::14.0333] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-60.9833] 
+[has_place_latitude::14.0333] 
 
 
 

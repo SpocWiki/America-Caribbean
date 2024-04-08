@@ -29,8 +29,10 @@ layout:
 publishDate: 
 expiryDate: 
 ---
-[geo-lon::-63.04899] 
-[geo-lat::18.22723] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-63.04899] 
+[has_place_latitude::18.22723] 
 [name::The Valley] 
 State ::  
 Country :: [[../../../../Anguilla]] ] 

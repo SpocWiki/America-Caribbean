@@ -126,8 +126,10 @@ Continent :: [[South-America]]
 Capital :: [[Anguilla/Counties/The_Valley/City/The_Valley]]  
 [Alcohol-l::] 
 [Language-Id::] 
-[geo-lon::-63.049] 
-[geo-lat::18.2272] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-63.049] 
+[has_place_latitude::18.2272] 
 
 
 

@@ -30,8 +30,10 @@ layout:
 publishDate: 
 expiryDate: 
 ---
-[geo-lon::-76.8] 
-[geo-lat::17.98333] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-76.8] 
+[has_place_latitude::17.98333] 
 [name::Kingston] 
 State ::  
 Country :: [[../../../../../../../../Jamaica]]  

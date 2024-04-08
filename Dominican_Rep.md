@@ -33,8 +33,10 @@ Capital :: [[Dominican_Rep/Counties/La_Vega/City/Santo_Domingo]]
 ![[Flag_of_Dominican-republic.svg|350]] 
 [Alcohol-l::6.4] 
 [Language-Id::492] 
-[geo-lon::-70.6667] 
-[geo-lat::19] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-70.6667] 
+[has_place_latitude::19] 
 
 
 

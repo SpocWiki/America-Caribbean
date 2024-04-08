@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-81.36667] 
-[geo-lat::19.28333] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-81.36667] 
+[has_place_latitude::19.28333] 
 [name::George Town] 
 State ::  
 Country :: [[../../../Cayman~Islands]]  

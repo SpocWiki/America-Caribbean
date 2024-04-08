@@ -128,8 +128,10 @@ Capital :: [[Aruba/City/Oranjestad]]
 
 [Alcohol-l::] 
 [Language-Id::] 
-[geo-lon::-69.9933] 
-[geo-lat::12.5083] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-69.9933] 
+[has_place_latitude::12.5083] 
 
 ```leaflet
 id: Aruba

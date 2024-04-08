@@ -126,8 +126,10 @@ Continent :: [[South-America]]
 Capital :: [[Martinique/City/Fort-de-France]]  
 [Alcohol-l::] 
 [Language-Id::] 
-[geo-lon::-61.0667] 
-[geo-lat::14.6] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-61.0667] 
+[has_place_latitude::14.6] 
 
 
 

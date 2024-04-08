@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-59.53333] 
-[geo-lat::13] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-59.53333] 
+[has_place_latitude::13] 
 [name::Bridgetown] 
 State ::  
 Country :: [[../../Barbados]] 

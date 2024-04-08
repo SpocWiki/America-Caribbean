@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::18.4314] 
-[geo-lat::-64.62305] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::18.4314] 
+[has_place_latitude::-64.62305] 
 [name::Road Town] 
 State ::  
 Country :: [[../../../British_Virgin~Islands]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-72.33334] 
-[geo-lat::18.53333] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-72.33334] 
+[has_place_latitude::18.53333] 
 [name::Port-au-Prince] 
 State ::  
 Country :: [[../../../../Haiti]]  

@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-61.75] 
-[geo-lat::12.05] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-61.75] 
+[has_place_latitude::12.05] 
 [name::St. George’s] 
 State ::  
 Country :: [[../../Grenada]]  

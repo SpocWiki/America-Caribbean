@@ -128,8 +128,10 @@ Capital :: [[Cuba/City/Habana=Havana=Havanna]]
 
 [Alcohol-l::5.5] 
 [Language-Id::492] 
-[geo-lon::-82.37] 
-[geo-lat::22.13] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-82.37] 
+[has_place_latitude::22.13] 
 
 
 

@@ -127,8 +127,10 @@ Continent :: [[South-America]]
 ![[Flag_of_Virgin-islands.svg|350]] 
 [Alcohol-l::] 
 [Language-Id::] 
-[geo-lon::-64.62305] 
-[geo-lat::18.4314] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-64.62305] 
+[has_place_latitude::18.4314] 
 
 
 

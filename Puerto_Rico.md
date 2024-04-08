@@ -130,8 +130,10 @@ Capital :: [[Puerto_Rico/City/San_Juan]]
 
 [Alcohol-l::5.8] 
 [Language-Id::492] 
-[geo-lon::-66.1] 
-[geo-lat::18.45] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-66.1] 
+[has_place_latitude::18.45] 
 
 
 

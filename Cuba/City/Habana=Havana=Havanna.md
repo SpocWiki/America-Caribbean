@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-82.37] 
-[geo-lat::22.13] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-82.37] 
+[has_place_latitude::22.13] 
 [name::Habana=Havana=Havanna] 
 State ::  
 Country :: [[../../Cuba]] 

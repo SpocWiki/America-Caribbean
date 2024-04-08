@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-62.73333] 
-[geo-lat::17.3] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-62.73333] 
+[has_place_latitude::17.3] 
 [name::Basseterre] 
 State ::  
 Country :: [[../../Saint_Kitts_and_Nevis~Islands]]  

@@ -126,8 +126,10 @@ Continent :: [[South-America]]
 [Capital-Id::] 
 [Alcohol-l::] 
 [Language-Id::] 
-[geo-lon::-69] 
-[geo-lat::12.1833] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-69] 
+[has_place_latitude::12.1833] 
 
 
 
