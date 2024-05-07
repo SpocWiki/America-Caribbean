@@ -7,6 +7,7 @@ tags:
 aliases:
 - St._Kitts-Nevis-Anguilla
 
+has_id_wikidata: Q763 
 SpocWebEntityId: 26939
 isDeleted: false
 confidential: public

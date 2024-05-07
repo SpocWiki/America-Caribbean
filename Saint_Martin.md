@@ -4,7 +4,7 @@ location: [ 18.08 , -63.06 ]
 type: Country
 tags:
 - geo/Country
-
+has_id_wikidata: Q26273 
 SpocWebEntityId: 76731
 isDeleted: false
 confidential: public
