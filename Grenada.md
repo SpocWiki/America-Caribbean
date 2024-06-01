@@ -22,8 +22,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- GD
-- GRD
 - Grenada
 - Granada
 - Grenade

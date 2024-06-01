@@ -22,8 +22,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- CU
-- CUB
 - Cuba
 - كوبا
 - 古巴
