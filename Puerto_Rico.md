@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 18.45
 - -66.1
@@ -32,6 +32,7 @@ Languages:
 - es-PR
 ---
 
+# [[Puerto_Rico]] 
 
 [	ISO4217-currency_alphabetic	 :: USD ] 
 [	ISO4217-currency_name	 :: US Dollar ] 
@@ -134,6 +135,17 @@ Capital :: [[Puerto_Rico/City/San_Juan]]
 [has_place_latitude::18.45] 
 
 
+## #has_/text_of_/abstract 
+
+> **Puerto Rico** (Spanish for 'rich port'; abbreviated PR), officially the Commonwealth of Puerto Rico, is a self-governing Caribbean archipelago and island organized as an unincorporated territory of the United States under the designation of commonwealth. Located about 1,000 miles (1,600 km) southeast of Miami, Florida, between the Dominican Republic in the Greater Antilles and the U.S. Virgin Islands in the Lesser Antilles, it consists of the eponymous main island and numerous smaller islands, including Vieques, Culebra, and Mona. With approximately 3.2 million residents, it is divided into 78 municipalities, of which the most populous is the capital municipality of San Juan, followed by those within the San Juan metropolitan area. Spanish and English are the official languages of the government, though Spanish predominates.
+>
+> Puerto Rico was settled by a succession of Amerindian peoples beginning 2,000 to 4,000 years ago; these included the Ortoiroid, Saladoid, and Taíno. It was claimed by Spain following the arrival of Christopher Columbus in 1493 and subsequently colonized by Juan Ponce de León in 1508. Puerto Rico was contested by other European powers into the 18th century but remained a Spanish possession for the next 400 years. The decline of the indigenous population, followed by an influx of Spanish settlers, primarily from the Canary Islands and Andalusia, and African slaves vastly changed the cultural and demographic landscape of the archipelago. Within the Spanish Empire, Puerto Rico played a secondary but strategically significant role compared to larger and wealthier colonies like Peru and New Spain. By the late 19th century, a distinct Puerto Rican identity began to emerge, centered on a fusion of European, African, and indigenous elements. In 1898, following the Spanish–American War, Puerto Rico was acquired by the United States.
+>
+> Puerto Ricans have been U.S. citizens since 1917 and can move freely between the archipelago and the mainland. However, residents of Puerto Rico are disenfranchised from federal elections and generally do not pay federal income tax. In common with four other territories, Puerto Rico sends a nonvoting representative to the U.S. Congress, called a Resident Commissioner, and participates in presidential primaries; as it is not a state, Puerto Rico does not have a vote in the U.S. Congress, which oversees it under the Puerto Rico Federal Relations Act of 1950. Congress approved a territorial constitution in 1952, allowing residents of the archipelago to elect a governor in addition to a senate and house of representatives. The political status of Puerto Rico is an ongoing debate.
+>
+> Beginning in the mid-20th century, the U.S. government, together with the Puerto Rico Industrial Development Company, launched a series of economic projects to develop Puerto Rico into an industrial high-income economy. It is classified by the International Monetary Fund as a developed jurisdiction with an advanced, high-income economy; it ranks 40th on the Human Development Index. The major sectors of Puerto Rico's economy are manufacturing, primarily pharmaceuticals, petrochemicals, and electronics, followed by services, namely tourism and hospitality.
+>
+> [Wikipedia](https://en.wikipedia.org/wiki/Puerto%20Rico)
 
 ## Confidential Links & Embeds: 
 - [[Puerto_Rico|Puerto_Rico]] 
