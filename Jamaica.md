@@ -95,7 +95,7 @@ GitHub_topic: jamaica
 CIVICUS_Monitor_country_entry: jamaica
 Colon_Classification: SG--7926
 Krugosvet_article: strany_mira/YAMAKA.html
-Libris-URI: xv8b9zdg44wwt0m
+Libris_URI: xv8b9zdg44wwt0m
 demonym:
 - جمايكي
 - جمايكية
@@ -222,7 +222,7 @@ BTI_Status_Index:
 literacy_rate: 87
 mains_voltage: 116
 VAT_rate: 12.5
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.jm,41943]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.jm,41943]]'
 head_of_state: "[[_Standards/WikiData/WD~Charles III,43274]]"
 Gini_coefficient: 45.5
 BTI_Governance_Index:
@@ -234,7 +234,7 @@ BTI_Governance_Index:
 - 5.94
 - 5.99
 Happy_Planet_Index_score: 57.9
-Inequality-adjusted_Human_Development_Index: 0.591
+Inequality_adjusted_Human_Development_Index: 0.591
 Democracy_Index: 6.96
 Human_Development_Index: 0.709
 total_fertility_rate: 2.046
@@ -242,10 +242,10 @@ death_rate: 8.787
 birth_rate: 11.531
 maritime_identification_digits: 339
 Dewey_Decimal_Classification: 2--7292
-ISO_3166-1_numeric_code: 388
+ISO_3166_1_numeric_code: 388
 M49_code: 388
 OmegaWiki_Defined_Meaning: 7962
-number_of_out-of-school_children: 58546
+number_of_out_of_school_children: 58546
 IAB_code: 1327
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Jamaica.svg"
 Commons_category: Jamaica
@@ -274,12 +274,12 @@ urban_population:
 - 1611831
 PM20_geo_code: E28
 population: 2697983
-ISO_3166-1_alpha-3_code: JAM
+ISO_3166_1_alpha_3_code: JAM
 IOC_country_code: JAM
 coordinates_of_northernmost_point: "Point(-77.8469 18.52493)"
 inception: "1962-01-01T00:00:00Z"
-ISO_3166-1_alpha-2_code: JM
-FIPS_10-4_countries_and_regions_: JM
+ISO_3166_1_alpha_2_code: JM
+FIPS_10_4_countries_and_regions_: JM
 WIPO_ST_3: JM
 ITU_letter_code: JMC
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Jamaica%20banner.jpg"

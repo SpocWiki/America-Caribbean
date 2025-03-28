@@ -227,14 +227,14 @@ BTI_Governance_Index:
 - 3.95
 - 4.12
 - 4.46
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.cu,41006]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.cu,41006]]'
 Democracy_Index: 2.84
 twinned_administrative_body: "[[_Standards/WikiData/WD~Santa Fe,44244]]"
 trunk_prefix: 0
 Human_Development_Index: 0.764
 total_fertility_rate: 1.615
 UIC_numerical_country_code: 40
-ISO_3166-1_numeric_code: 192
+ISO_3166_1_numeric_code: 192
 M49_code: 192
 maritime_identification_digits: 323
 IAB_code: 1278
@@ -245,12 +245,12 @@ licence_plate_code: C
 mobile_country_code: 368
 OmegaWiki_Defined_Meaning: 8011
 area: 109884
-number_of_out-of-school_children: 150812
-ISO_3166-1_alpha-2_code: CU
-FIPS_10-4_countries_and_regions_: CU
+number_of_out_of_school_children: 150812
+ISO_3166_1_alpha_2_code: CU
+FIPS_10_4_countries_and_regions_: CU
 WIPO_ST_3: CU
 UIC_alphabetical_country_code: CU
-ISO_3166-1_alpha-3_code: CUB
+ISO_3166_1_alpha_3_code: CUB
 IOC_country_code: CUB
 ITU_letter_code: CUB
 female_population:

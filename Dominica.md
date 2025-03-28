@@ -205,13 +205,13 @@ mains_voltage: 230
 life_expectancy: 73
 Human_Development_Index: 0.74
 capital: '[[_Standards/WikiData/WD~Roseau,36281]]'
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.dm,41032]]'
-number_of_out-of-school_children: 631
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.dm,41032]]'
+number_of_out_of_school_children: 631
 head_of_government: "[[_Standards/WikiData/WD~Roosevelt Skerrit,57823]]"
-ISO_3166-1_numeric_code: 212
+ISO_3166_1_numeric_code: 212
 M49_code: 212
 maritime_identification_digits: 325
-ISO_3166-1_alpha-2_code: DM
+ISO_3166_1_alpha_2_code: DM
 WIPO_ST_3: DM
 death_rate: 8.921
 birth_rate: 13.278
@@ -240,9 +240,9 @@ IAB_code: 1284
 population: 74656
 OmegaWiki_Defined_Meaning: 8350
 INSEE_countries_and_foreign_territories_code: 99438
-FIPS_10-4_countries_and_regions_: DO
+FIPS_10_4_countries_and_regions_: DO
 licence_plate_code: WD
-ISO_3166-1_alpha-3_code: DMA
+ISO_3166_1_alpha_3_code: DMA
 ITU_letter_code: DMA
 IOC_country_code: DMA
 nominal_GDP:

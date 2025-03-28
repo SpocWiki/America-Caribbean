@@ -118,16 +118,16 @@ elevation_above_sea_level: 25
 area: 53
 total_fertility_rate: 1.63
 anthem: "[[_Standards/WikiData/WD~God Save the King,40807]]"
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.bm,41028]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.bm,41028]]'
 basic_form_of_government:
 - "[[_Standards/WikiData/WD~constitutional monarchy,41614]]"
 - "[[_Standards/WikiData/WD~British overseas territories,46395]]"
 located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~British overseas territories,46395]]"
-number_of_out-of-school_children: 2022
+number_of_out_of_school_children: 2022
 maritime_identification_digits: 310
-FIPS_10-4_countries_and_regions_: BD
+FIPS_10_4_countries_and_regions_: BD
 INSEE_countries_and_foreign_territories_code: 99425
-ISO_3166-1_alpha-2_code: BM
+ISO_3166_1_alpha_2_code: BM
 WIPO_ST_3: BM
 IAB_code: 1252
 motto_text:
@@ -144,12 +144,12 @@ nominal_GDP:
 - 7550500000
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bermuda.svg"
 Unicode_character: "\U0001F1E7\U0001F1F2"
-ISO_3166-1_numeric_code: 060
+ISO_3166_1_numeric_code: 060
 M49_code: 060
 IOC_country_code: BER
 native_label: Bermuda
 OmegaWiki_Defined_Meaning: 615978
-ISO_3166-1_alpha-3_code: BMU
+ISO_3166_1_alpha_3_code: BMU
 PM20_geo_code: E11
 life_expectancy: 81.22707
 coordinate_location: "Point(-64.74 32.32)"

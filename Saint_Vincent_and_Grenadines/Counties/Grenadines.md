@@ -169,12 +169,12 @@ death_rate:
 - 14.004
 capital: '[[_Standards/WikiData/WD~Kingstown,41474]]'
 basic_form_of_government: "[[_Standards/WikiData/WD~constitutional monarchy,41614]]"
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.vc,42863]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.vc,42863]]'
 head_of_state: "[[_Standards/WikiData/WD~Charles III,43274]]"
 area: 389
 Human_Development_Index: 0.751
 head_of_government: "[[_Standards/WikiData/WD~Ralph Gonsalves,57800]]"
-number_of_out-of-school_children: 1194
+number_of_out_of_school_children: 1194
 total_fertility_rate: 1.974
 maritime_identification_digits:
 - 376
@@ -191,10 +191,10 @@ birth_rate:
 - 12.901
 - 13.071
 - 13.346
-ISO_3166-1_numeric_code: 670
+ISO_3166_1_numeric_code: 670
 M49_code: 670
-FIPS_10-4_countries_and_regions_: VC
-ISO_3166-1_alpha-2_code: VC
+FIPS_10_4_countries_and_regions_: VC
+ISO_3166_1_alpha_2_code: VC
 WIPO_ST_3: VC
 INSEE_countries_and_foreign_territories_code: 99440
 rural_population:
@@ -242,7 +242,7 @@ subreddit: Saintvincent
 hashtag: SaintVincentandtheGrenadines
 CIVICUS_Monitor_country_entry: st-vincent-and-grenadines
 Krugosvet_article: strany_mira/SENT-VINSENT_I_GRENADINI.html
-ISO_3166-1_alpha-3_code: VCT
+ISO_3166_1_alpha_3_code: VCT
 ITU_letter_code: VCT
 short_name: "\U0001F1FB\U0001F1E8"
 official_website: "https://www.gov.vc/"

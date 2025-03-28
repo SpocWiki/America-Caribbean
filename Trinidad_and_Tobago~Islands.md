@@ -185,18 +185,18 @@ mains_voltage: 115
 VAT_rate: 12.5
 capital: "[[_Standards/WikiData/WD~Port of Spain,39178]]"
 Happy_Planet_Index_score: 31.6
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.tt,43118]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.tt,43118]]'
 Gini_coefficient: 40.3
 trunk_prefix: 1
 BTI_Governance_Index:
 - 6.02
 - 6.09
-Inequality-adjusted_Human_Development_Index: 0.673
+Inequality_adjusted_Human_Development_Index: 0.673
 Democracy_Index: 7.16
 BTI_Status_Index:
 - 7.43
 - 7.49
-ISO_3166-1_numeric_code: 780
+ISO_3166_1_numeric_code: 780
 M49_code: 780
 total_fertility_rate: 1.778
 mobile_country_code: 374
@@ -207,7 +207,7 @@ birth_rate:
 - 11.946
 - 12.359
 maritime_identification_digits: 362
-number_of_out-of-school_children: 27364
+number_of_out_of_school_children: 27364
 life_expectancy: 70.673
 rural_population:
 - 710280
@@ -228,13 +228,13 @@ hashtag: TrinidadandTobago
 MeSH_tree_code:
 - Z01.107.084.900.900
 - Z01.639.880.900
-Libris-URI: zw9cbdzh41brz3z
+Libris_URI: zw9cbdzh41brz3z
 native_label: "Republic of Trinidad and Tobago"
 name_in_native_language: "Republic of Trinidad and Tobago"
 short_name: "\U0001F1F9\U0001F1F9"
 coordinate_location: "Point(-61.516666666 10.666666666)"
 licence_plate_code: TT
-ISO_3166-1_alpha-2_code: TT
+ISO_3166_1_alpha_2_code: TT
 WIPO_ST_3: TT
 female_population:
 - 768058
@@ -251,12 +251,12 @@ coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20o
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Trinidad%20and%20Tobago.svg"
 official_name: "Trinidad and Tobago"
 ITU_letter_code: TRD
-FIPS_10-4_countries_and_regions_: TD
+FIPS_10_4_countries_and_regions_: TD
 PM20_geo_code: E46
 INSEE_countries_and_foreign_territories_code: 99433
 OmegaWiki_Defined_Meaning: 154360
 inception: "1976-08-01T00:00:00Z"
-ISO_3166-1_alpha-3_code: TTO
+ISO_3166_1_alpha_3_code: TTO
 IOC_country_code: TTO
 coordinates_of_easternmost_point: "Point(-60.492730555 11.296711111)"
 Commons_category: "Trinidad and Tobago"

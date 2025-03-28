@@ -226,8 +226,8 @@ BTI_Governance_Index:
 - 3.51
 - 4.75
 capital: '[[_Standards/WikiData/WD~Port-au-Prince,34261]]'
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.ht,41110]]'
-Inequality-adjusted_Human_Development_Index: 0.327
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.ht,41110]]'
+Inequality_adjusted_Human_Development_Index: 0.327
 Happy_Planet_Index_score: 38.2
 Gini_coefficient: 41.1
 Democracy_Index: 4.22
@@ -241,7 +241,7 @@ area: 27750
 total_fertility_rate: 3.033
 maritime_identification_digits: 336
 life_expectancy: 63.33
-ISO_3166-1_numeric_code: 332
+ISO_3166_1_numeric_code: 332
 M49_code: 332
 IAB_code: 1313
 licence_plate_code: RH
@@ -257,7 +257,7 @@ rural_population:
 - 4851974
 - 4889165
 mobile_country_code: 372
-FIPS_10-4_countries_and_regions_: HA
+FIPS_10_4_countries_and_regions_: HA
 CIVICUS_Monitor_country_entry: haiti
 subreddit: haiti
 GitHub_topic: haiti
@@ -289,7 +289,7 @@ ISNI: 000000040466965X
 coordinates_of_westernmost_point: "Point(-74.45 18.49)"
 PM20_geo_code: E25
 INSEE_countries_and_foreign_territories_code: 99410
-ISO_3166-1_alpha-3_code: HTI
+ISO_3166_1_alpha_3_code: HTI
 ITU_letter_code: HTI
 female_population:
 - 5625310
@@ -304,7 +304,7 @@ male_population:
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Haiti.svg"
 coordinates_of_southernmost_point: "Point(-73.87266 18.02188)"
 IOC_country_code: HAI
-ISO_3166-1_alpha-2_code: HT
+ISO_3166_1_alpha_2_code: HT
 WIPO_ST_3: HT
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Haiti.svg"
 urban_population:

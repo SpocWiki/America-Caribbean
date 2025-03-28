@@ -201,15 +201,15 @@ VAT_rate: 15
 marriageable_age: 21
 mains_voltage: 230
 life_expectancy: 75
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.gd,41435]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.gd,41435]]'
 capital: "[[_Standards/WikiData/WD~St. George's,41547]]"
 head_of_state: "[[_Standards/WikiData/WD~Charles III,43274]]"
 Human_Development_Index: 0.795
-number_of_out-of-school_children: 1022
+number_of_out_of_school_children: 1022
 total_fertility_rate: 2.149
 area: 348.5
 WIPO_ST_3: GD
-ISO_3166-1_alpha-2_code: GD
+ISO_3166_1_alpha_2_code: GD
 rural_population:
 - 78480
 - 78057
@@ -223,7 +223,7 @@ nominal_GDP:
 - 1256413185
 birth_rate: 15.616
 M49_code: 308
-ISO_3166-1_numeric_code: 308
+ISO_3166_1_numeric_code: 308
 urban_population:
 - 44667
 - 45183
@@ -236,9 +236,9 @@ flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Gren
 IOC_country_code: GRN
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Grenada.svg"
 licence_plate_code: WG
-FIPS_10-4_countries_and_regions_: GJ
+FIPS_10_4_countries_and_regions_: GJ
 ITU_letter_code: GRD
-ISO_3166-1_alpha-3_code: GRD
+ISO_3166_1_alpha_3_code: GRD
 INSEE_countries_and_foreign_territories_code: 99435
 hashtag: Grenada
 official_name:
@@ -265,7 +265,7 @@ audio: "http://commons.wikimedia.org/wiki/Special:FilePath/HWW%20God%20Save%20ou
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/StGeorgesGrenada2000.jpg"
 official_website: "https://www.gov.gd/"
 country_calling_code: +1473
-Libris-URI: 86lnm76s577pnt2
+Libris_URI: 86lnm76s577pnt2
 Unicode_character: "\U0001F1EC\U0001F1E9"
 GitHub_topic: grenada
 CIVICUS_Monitor_country_entry: grenada

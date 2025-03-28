@@ -220,15 +220,15 @@ capital: '[[_Standards/WikiData/WD~Bridgetown,36168]]'
 mains_voltage: 115
 unemployment_rate: 12.8
 VAT_rate: 17.5
-top-level_Internet_domain: '[[_Standards/WikiData/WD~.bb,39539]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.bb,39539]]'
 area: 439
-Inequality-adjusted_Human_Development_Index: 0.657
+Inequality_adjusted_Human_Development_Index: 0.657
 total_fertility_rate: 1.794
-number_of_out-of-school_children: 2261
+number_of_out_of_school_children: 2261
 IAB_code: 1247
 death_rate: 9.114
 birth_rate: 10.783
-ISO_3166-1_numeric_code: 052
+ISO_3166_1_numeric_code: 052
 M49_code: 052
 female_population:
 - 146550
@@ -242,9 +242,9 @@ urban_population:
 - 87551
 - 87864
 - 88219
-ISO_3166-1_alpha-2_code: BB
+ISO_3166_1_alpha_2_code: BB
 WIPO_ST_3: BB
-FIPS_10-4_countries_and_regions_: BB
+FIPS_10_4_countries_and_regions_: BB
 male_population:
 - 134222
 - 134528
@@ -254,7 +254,7 @@ IPA_transcription:
 - bɑrˈbeɪdɒs
 - bɑrˈbeɪdoʊs
 Wolfram_Language_entity_code: "Entity[\"Country\", \"Barbados\"]"
-Libris-URI: sq465h9b2t27vsk
+Libris_URI: sq465h9b2t27vsk
 Krugosvet_article: strany_mira/BARBADOS.html
 official_name:
 - "la Barbade"
@@ -274,7 +274,7 @@ PM20_geo_code: E45
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Barbados.svg"
 detail_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Barbados-CIA%20WFB%20Map.png"
 INSEE_countries_and_foreign_territories_code: 99434
-ISO_3166-1_alpha-3_code: BRB
+ISO_3166_1_alpha_3_code: BRB
 ITU_letter_code: BRB
 inception: "1966-11-30T00:00:00Z"
 native_label: Barbados
