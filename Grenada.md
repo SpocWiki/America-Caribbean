@@ -1,17 +1,17 @@
----
+﻿---
 location:
-  - 12.05
-  - -61.75
+- 12.05
+- -61.75
 type: Country
 tags:
-  - geo/Country
+- geo/Country
 has_id_wikidata: Q769
 SpocWebEntityId: 26900
 isDeleted: false
 confidential: public
-license: CC BY-SA 4.0
+license: "CC BY-SA 4.0"
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: "https://datahub.io/core/country-codes"
 cssclasses: Country
 publish: true
 title: Grenada
@@ -22,254 +22,254 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-  - Grenada
-  - Granada
-  - Grenade
-  - غرينادا
-  - 格林纳达
-  - Гренада
+- Grenada
+- Granada
+- Grenade
+- غرينادا
+- 格林纳达
+- Гренада
 Languages:
-  - en-GD
-located in/on physical feature:
-  - "[[_Standards/WikiData/WD~Lesser Antilles,93259]]"
-  - "[[_Standards/WikiData/WD~Southern Caribbean,7569750]]"
-part of:
-  - "[[_Standards/WikiData/WD~Lesser Antilles,93259]]"
-  - "[[_Standards/WikiData/WD~Caribbean,664609]]"
-  - "[[_Standards/WikiData/WD~European Union tax haven blacklist,66458647]]"
-  - "[[_Standards/WikiData/WD~Windward Islands,107049386]]"
+- en-GD
+located_in_on_physical_feature:
+- "[[_Standards/WikiData/WD~Lesser Antilles,93259]]"
+- "[[_Standards/WikiData/WD~Southern Caribbean,7569750]]"
+part_of:
+- "[[_Standards/WikiData/WD~Lesser Antilles,93259]]"
+- '[[_Standards/WikiData/WD~Caribbean,664609]]'
+- "[[_Standards/WikiData/WD~European Union tax haven blacklist,66458647]]"
+- "[[_Standards/WikiData/WD~Windward Islands,107049386]]"
 flag: "[[_Standards/WikiData/WD~flag of Grenada,103414]]"
-instance of:
-  - "[[_Standards/WikiData/WD~island country,112099]]"
-  - "[[_Standards/WikiData/WD~Commonwealth realm,202686]]"
-  - "[[_Standards/WikiData/WD~sovereign state,3624078]]"
-  - "[[_Standards/WikiData/WD~archipelagic state,13107770]]"
-  - "[[_Standards/WikiData/WD~country,6256]]"
-member of:
-  - "[[_Standards/WikiData/WD~Organization of American States,123759]]"
-  - "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-  - "[[_Standards/WikiData/WD~Caribbean Community,205995]]"
-  - "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
-  - "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-  - "[[_Standards/WikiData/WD~Alliance of Small Island States,496967]]"
-  - "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-  - "[[_Standards/WikiData/WD~International Development Association,827525]]"
-  - "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-  - "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-  - "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-  - "[[_Standards/WikiData/WD~Petrocaribe,1735573]]"
-  - "[[_Standards/WikiData/WD~Agency for the Prohibition of Nuclear Weapons in Latin America and the Caribbean,3369762]]"
-  - "[[_Standards/WikiData/WD~Caribbean Development Bank,3772571]]"
-  - "[[_Standards/WikiData/WD~Caribbean Disaster Emergency Management Agency,5039374]]"
-  - "[[_Standards/WikiData/WD~United Nations,1065]]"
-  - "[[_Standards/WikiData/WD~Commonwealth of Nations,7785]]"
-  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
-  - "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-  - "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
-  - "[[_Standards/WikiData/WD~Interpol,8475]]"
-  - "[[_Standards/WikiData/WD~Bolivarian Alliance for the Americas,8874]]"
-  - "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-coat of arms: "[[_Standards/WikiData/WD~coat of arms of Grenada,504591]]"
-different from:
-  - "[[_Standards/WikiData/WD~Grenada,521798]]"
-  - "[[_Standards/WikiData/WD~Grenado,12348350]]"
-highest point: "[[_Standards/WikiData/WD~Mount Saint Catherine,525281]]"
-emergency phone number:
-  - "[[_Standards/WikiData/WD~911,533806]]"
-  - "[[_Standards/WikiData/WD~434,25743506]]"
-  - "[[_Standards/WikiData/WD~724,25743510]]"
-  - "[[_Standards/WikiData/WD~774,25743511]]"
-contains the administrative territorial entity:
-  - "[[_Standards/WikiData/WD~Saint George Parish,576651]]"
-  - "[[_Standards/WikiData/WD~Carriacou Island,795647]]"
-  - "[[_Standards/WikiData/WD~Petite Martinique,967714]]"
-  - "[[_Standards/WikiData/WD~Saint Andrew Parish,977183]]"
-  - "[[_Standards/WikiData/WD~Saint Mark Parish,1291077]]"
-  - "[[_Standards/WikiData/WD~Saint John Parish,1476289]]"
-  - "[[_Standards/WikiData/WD~Saint Patrick Parish,1476309]]"
-  - "[[_Standards/WikiData/WD~Saint David Parish,2087806]]"
+instance_of:
+- "[[_Standards/WikiData/WD~island country,112099]]"
+- "[[_Standards/WikiData/WD~Commonwealth realm,202686]]"
+- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~archipelagic state,13107770]]"
+- '[[_Standards/WikiData/WD~country,6256]]'
+member_of:
+- "[[_Standards/WikiData/WD~Organization of American States,123759]]"
+- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
+- "[[_Standards/WikiData/WD~Caribbean Community,205995]]"
+- "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
+- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
+- "[[_Standards/WikiData/WD~Alliance of Small Island States,496967]]"
+- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International Development Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
+- '[[_Standards/WikiData/WD~Petrocaribe,1735573]]'
+- "[[_Standards/WikiData/WD~Agency for the Prohibition of Nuclear Weapons in Latin America and the Caribbean,3369762]]"
+- "[[_Standards/WikiData/WD~Caribbean Development Bank,3772571]]"
+- "[[_Standards/WikiData/WD~Caribbean Disaster Emergency Management Agency,5039374]]"
+- "[[_Standards/WikiData/WD~United Nations,1065]]"
+- "[[_Standards/WikiData/WD~Commonwealth of Nations,7785]]"
+- '[[_Standards/WikiData/WD~UNESCO,7809]]'
+- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
+- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- '[[_Standards/WikiData/WD~Interpol,8475]]'
+- "[[_Standards/WikiData/WD~Bolivarian Alliance for the Americas,8874]]"
+- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Grenada,504591]]"
+different_from:
+- '[[_Standards/WikiData/WD~Grenada,521798]]'
+- '[[_Standards/WikiData/WD~Grenado,12348350]]'
+highest_point: "[[_Standards/WikiData/WD~Mount Saint Catherine,525281]]"
+emergency_phone_number:
+- '[[_Standards/WikiData/WD~911,533806]]'
+- '[[_Standards/WikiData/WD~434,25743506]]'
+- '[[_Standards/WikiData/WD~724,25743510]]'
+- '[[_Standards/WikiData/WD~774,25743511]]'
+contains_the_administrative_territorial_entity:
+- "[[_Standards/WikiData/WD~Saint George Parish,576651]]"
+- "[[_Standards/WikiData/WD~Carriacou Island,795647]]"
+- "[[_Standards/WikiData/WD~Petite Martinique,967714]]"
+- "[[_Standards/WikiData/WD~Saint Andrew Parish,977183]]"
+- "[[_Standards/WikiData/WD~Saint Mark Parish,1291077]]"
+- "[[_Standards/WikiData/WD~Saint John Parish,1476289]]"
+- "[[_Standards/WikiData/WD~Saint Patrick Parish,1476309]]"
+- "[[_Standards/WikiData/WD~Saint David Parish,2087806]]"
 follows: "[[_Standards/WikiData/WD~West Indies Federation,652560]]"
-described by source: "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-central bank: "[[_Standards/WikiData/WD~Eastern Caribbean Central Bank,1210260]]"
-legislative body: "[[_Standards/WikiData/WD~Parliament of Grenada,1253647]]"
-history of topic: "[[_Standards/WikiData/WD~history of Grenada,1516422]]"
-electrical plug type: "[[_Standards/WikiData/WD~BS 1363,1528507]]"
-economy of topic: "[[_Standards/WikiData/WD~economy of Grenada,2477612]]"
-geography of topic: "[[_Standards/WikiData/WD~geography of Grenada,2984752]]"
-language used:
-  - "[[_Standards/WikiData/WD~Saint Lucian Creole,3006285]]"
-  - "[[_Standards/WikiData/WD~Grenadian Creole English,4252500]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
-demographics of topic: "[[_Standards/WikiData/WD~demographics of Grenada,3044257]]"
-has characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
-official language:
-  - "[[_Standards/WikiData/WD~Grenadian Creole English,4252500]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
+described_by_source: "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+central_bank: "[[_Standards/WikiData/WD~Eastern Caribbean Central Bank,1210260]]"
+legislative_body: "[[_Standards/WikiData/WD~Parliament of Grenada,1253647]]"
+history_of_topic: "[[_Standards/WikiData/WD~history of Grenada,1516422]]"
+electrical_plug_type: "[[_Standards/WikiData/WD~BS 1363,1528507]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy of Grenada,2477612]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography of Grenada,2984752]]"
+language_used:
+- "[[_Standards/WikiData/WD~Saint Lucian Creole,3006285]]"
+- "[[_Standards/WikiData/WD~Grenadian Creole English,4252500]]"
+- '[[_Standards/WikiData/WD~English,1860]]'
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Grenada,3044257]]"
+has_characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
+official_language:
+- "[[_Standards/WikiData/WD~Grenadian Creole English,4252500]]"
+- '[[_Standards/WikiData/WD~English,1860]]'
 culture: "[[_Standards/WikiData/WD~culture of Grenada,5193563]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of Grenada,7112277]]"
-category for people born here: "[[_Standards/WikiData/WD~Q8082323,8082323]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Grenada,11168668]]"
-driving side: "[[_Standards/WikiData/WD~left,13196750]]"
-office held by head of state: "[[_Standards/WikiData/WD~monarch of Grenada,26869646]]"
-permanent duplicated item:
-  - "[[_Standards/WikiData/WD~Q27103680,27103680]]"
-  - "[[_Standards/WikiData/WD~Q111268335,111268335]]"
-office held by head of government: "[[_Standards/WikiData/WD~Prime Minister of Grenada,30100613]]"
-detail map: http://commons.wikimedia.org/wiki/Special:FilePath/Grenada-CIA%20WFB%20Map.png
-located in time zone:
-  - "[[_Standards/WikiData/WD~America_Grenada,109529664]]"
-  - "[[_Standards/WikiData/WD~UTC−04_00,5762]]"
-head of government: "[[_Standards/WikiData/WD~Dickon Mitchell,112679881]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Grenada,7112277]]"
+category_for_people_born_here: '[[_Standards/WikiData/WD~Q8082323,8082323]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Grenada,11168668]]'
+driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~monarch of Grenada,26869646]]"
+permanent_duplicated_item:
+- '[[_Standards/WikiData/WD~Q27103680,27103680]]'
+- '[[_Standards/WikiData/WD~Q111268335,111268335]]'
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Grenada,30100613]]"
+detail_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Grenada-CIA%20WFB%20Map.png"
+located_in_time_zone:
+- '[[_Standards/WikiData/WD~America_Grenada,109529664]]'
+- '[[_Standards/WikiData/WD~UTC−04_00,5762]]'
+head_of_government: "[[_Standards/WikiData/WD~Dickon Mitchell,112679881]]"
 demonym:
-  - ڭرينادي
-  - ڭرينادية
-  - ڭريناديين
-  - ݣريناديات
-  - Greanádach
-  - גרנדי
-  - גרנדית
-  - grenadai
-  - Grenadano
-  - grenadina
-  - grenadine
-  - grenadini
-  - grenadino
-  - grenadian
-  - grenadiană
-  - grenadieni
-  - grenadin
-  - grenadina
-  - grenadine
-  - grenadini
-  - Grenadeänan
-  - Grenadian
-  - granadín
-  - granadina
-  - غرينلاندية
-  - grenadian
-  - غرينلاندي
-  - غرينلانديون
-  - গ্রেনাডীয়
-  - Grenader
-  - Grenaderin
-  - Grenadano
-  - Grenadien
-  - Grenadienne
-ISNI: "0000000404585464"
-motto text:
-  - Wastad yn Ymwybodol, Dyheuwn, Adeiladwn a Symudwn Ymlaen fel Un Bobl
-  - Grenada Pur
-  - Винаги със съзнание за Бог, ние се стремим, изграждаме и напредваме като един народ
-  - Ever Conscious of God We Aspire, Build and Advance as One People
-  - Pure Grenada
-native label: State of Grenada
-pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Grenada.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8752%20%28eus%29-Xabier%20Ca%C3%B1as-Grenada.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7026%20%28cat%29-Millars-Grenada.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Grenada.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Grenada.wav
-MeSH tree code:
-  - Z01.107.084.900.362
-  - Z01.639.880.362
-coordinates of westernmost point: Point(-61.802 12.0027)
-coordinates of easternmost point: Point(-61.3844 12.5164)
-diplomatic relation:
-  - "[[_Standards/WikiData/WD~Australia,408]]"
-  - "[[_Standards/WikiData/WD~North Korea,423]]"
-  - "[[_Standards/WikiData/WD~Trinidad and Tobago,754]]"
-  - "[[_Standards/WikiData/WD~Taiwan,865]]"
-  - "[[_Standards/WikiData/WD~South Korea,884]]"
-  - "[[_Standards/WikiData/WD~Libya,1016]]"
-  - "[[_Standards/WikiData/WD~Kosovo,1246]]"
-  - "[[_Standards/WikiData/WD~Soviet Union,15180]]"
-  - "[[_Standards/WikiData/WD~Canada,16]]"
-  - "[[_Standards/WikiData/WD~Japan,17]]"
-  - "[[_Standards/WikiData/WD~United States,30]]"
-  - "[[_Standards/WikiData/WD~United Kingdom,145]]"
-  - "[[_Standards/WikiData/WD~People's Republic of China,148]]"
-  - "[[_Standards/WikiData/WD~Georgia,230]]"
-  - "[[_Standards/WikiData/WD~Cuba,241]]"
-  - "[[_Standards/WikiData/WD~Barbados,244]]"
-shares border with: "[[_Standards/WikiData/WD~Venezuela,717]]"
-country: "[[_Standards/WikiData/WD~Grenada,769]]"
-lowest point: "[[_Standards/WikiData/WD~Caribbean Sea,1247]]"
-located in or next to body of water: "[[_Standards/WikiData/WD~Caribbean Sea,1247]]"
-named after: "[[_Standards/WikiData/WD~Granada,8810]]"
+- ڭرينادي
+- ڭرينادية
+- ڭريناديين
+- ݣريناديات
+- Greanádach
+- גרנדי
+- גרנדית
+- grenadai
+- Grenadano
+- grenadina
+- grenadine
+- grenadini
+- grenadino
+- grenadian
+- grenadiană
+- grenadieni
+- grenadin
+- grenadina
+- grenadine
+- grenadini
+- Grenadeänan
+- Grenadian
+- granadín
+- granadina
+- غرينلاندية
+- grenadian
+- غرينلاندي
+- غرينلانديون
+- গ্রেনাডীয়
+- Grenader
+- Grenaderin
+- Grenadano
+- Grenadien
+- Grenadienne
+ISNI: 0000000404585464
+motto_text:
+- "Wastad yn Ymwybodol, Dyheuwn, Adeiladwn a Symudwn Ymlaen fel Un Bobl"
+- "Grenada Pur"
+- "Винаги със съзнание за Бог, ние се стремим, изграждаме и напредваме като един народ"
+- "Ever Conscious of God We Aspire, Build and Advance as One People"
+- "Pure Grenada"
+native_label: "State of Grenada"
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Moonhouse-Grenada.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8752%20%28eus%29-Xabier%20Ca%C3%B1as-Grenada.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7026%20%28cat%29-Millars-Grenada.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Grenada.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Grenada.wav"
+MeSH_tree_code:
+- Z01.107.084.900.362
+- Z01.639.880.362
+coordinates_of_westernmost_point: "Point(-61.802 12.0027)"
+coordinates_of_easternmost_point: "Point(-61.3844 12.5164)"
+diplomatic_relation:
+- '[[_Standards/WikiData/WD~Australia,408]]'
+- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~Trinidad and Tobago,754]]"
+- '[[_Standards/WikiData/WD~Taiwan,865]]'
+- "[[_Standards/WikiData/WD~South Korea,884]]"
+- '[[_Standards/WikiData/WD~Libya,1016]]'
+- '[[_Standards/WikiData/WD~Kosovo,1246]]'
+- "[[_Standards/WikiData/WD~Soviet Union,15180]]"
+- '[[_Standards/WikiData/WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~Japan,17]]'
+- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United Kingdom,145]]"
+- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- '[[_Standards/WikiData/WD~Georgia,230]]'
+- '[[_Standards/WikiData/WD~Cuba,241]]'
+- '[[_Standards/WikiData/WD~Barbados,244]]'
+shares_border_with: '[[_Standards/WikiData/WD~Venezuela,717]]'
+country: '[[_Standards/WikiData/WD~Grenada,769]]'
+lowest_point: "[[_Standards/WikiData/WD~Caribbean Sea,1247]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Caribbean Sea,1247]]"
+named_after: '[[_Standards/WikiData/WD~Granada,8810]]'
 continent: "[[_Standards/WikiData/WD~North America,49]]"
-VAT rate: 15
-marriageable age: 21
-mains voltage: 230
-life expectancy: 75
-top-level Internet domain: "[[_Standards/WikiData/WD~.gd,41435]]"
+VAT_rate: 15
+marriageable_age: 21
+mains_voltage: 230
+life_expectancy: 75
+top-level_Internet_domain: '[[_Standards/WikiData/WD~.gd,41435]]'
 capital: "[[_Standards/WikiData/WD~St. George's,41547]]"
-head of state: "[[_Standards/WikiData/WD~Charles III,43274]]"
-Human Development Index: 0.795
-number of out-of-school children: 1022
-total fertility rate: 2.149
+head_of_state: "[[_Standards/WikiData/WD~Charles III,43274]]"
+Human_Development_Index: 0.795
+number_of_out-of-school_children: 1022
+total_fertility_rate: 2.149
 area: 348.5
-WIPO ST.3: GD
-ISO 3166-1 alpha-2 code: GD
-rural population:
-  - 78480
-  - 78057
-  - 78886
-  - 79192
-death rate: 7.942
-IAB code: "1305"
-maritime identification digits: "330"
-nominal GDP:
-  - 1122800000
-  - 1256413185
-birth rate: 15.616
-M49 code: "308"
-ISO 3166-1 numeric code: "308"
-urban population:
-  - 44667
-  - 45183
-  - 45724
-  - 46246
-female population: 52771
-male population: 53898
+WIPO_ST_3: GD
+ISO_3166-1_alpha-2_code: GD
+rural_population:
+- 78480
+- 78057
+- 78886
+- 79192
+death_rate: 7.942
+IAB_code: 1305
+maritime_identification_digits: 330
+nominal_GDP:
+- 1122800000
+- 1256413185
+birth_rate: 15.616
+M49_code: 308
+ISO_3166-1_numeric_code: 308
+urban_population:
+- 44667
+- 45183
+- 45724
+- 46246
+female_population: 52771
+male_population: 53898
 population: 114299
-flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Grenada.svg
-IOC country code: GRN
-coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Grenada.svg
-licence plate code: WG
-FIPS 10-4 (countries and regions): GJ
-ITU letter code: GRD
-ISO 3166-1 alpha-3 code: GRD
-INSEE countries and foreign territories code: "99435"
+flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Grenada.svg"
+IOC_country_code: GRN
+coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Grenada.svg"
+licence_plate_code: WG
+FIPS_10-4_countries_and_regions_: GJ
+ITU_letter_code: GRD
+ISO_3166-1_alpha-3_code: GRD
+INSEE_countries_and_foreign_territories_code: 99435
 hashtag: Grenada
-official name:
-  - la Grenade
-  - Grenada
-  - Grenada
-short name: 🇬🇩
-coordinates of northernmost point: Point(-61.43 12.53)
-time of discovery or invention: 1498-01-01T00:00:00Z
+official_name:
+- "la Grenade"
+- Grenada
+- Grenada
+short_name: "\U0001F1EC\U0001F1E9"
+coordinates_of_northernmost_point: "Point(-61.43 12.53)"
+time_of_discovery_or_invention: "1498-01-01T00:00:00Z"
 subreddit: Grenada
-Commons gallery: Grenada
-Commons category: Grenada
-OmegaWiki Defined Meaning: "154232"
-inception: 1974-01-01T00:00:00Z
-U.S. National Archives Identifier: "10044769"
-coordinates of southernmost point: Point(-61.78786 11.98499)
-coordinate location: Point(-61.7 12.1)
-geoshape: http://commons.wikimedia.org/data/main/Data:Grenada.map
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Grenada%20banner.jpg
-locator map image:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Grenada%20in%20its%20region.svg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Grenada%20on%20the%20globe%20%28Americas%20centered%29.svg
-audio: http://commons.wikimedia.org/wiki/Special:FilePath/HWW%20God%20Save%20our%20Gracious%20Queen%202V.ogg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/StGeorgesGrenada2000.jpg
-official website: https://www.gov.gd/
-country calling code: "+1473"
+Commons_gallery: Grenada
+Commons_category: Grenada
+OmegaWiki_Defined_Meaning: 154232
+inception: "1974-01-01T00:00:00Z"
+U_S_National_Archives_Identifier: 10044769
+coordinates_of_southernmost_point: "Point(-61.78786 11.98499)"
+coordinate_location: "Point(-61.7 12.1)"
+geoshape: "http://commons.wikimedia.org/data/main/Data:Grenada.map"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Grenada%20banner.jpg"
+locator_map_image:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Grenada%20in%20its%20region.svg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Grenada%20on%20the%20globe%20%28Americas%20centered%29.svg"
+audio: "http://commons.wikimedia.org/wiki/Special:FilePath/HWW%20God%20Save%20our%20Gracious%20Queen%202V.ogg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/StGeorgesGrenada2000.jpg"
+official_website: "https://www.gov.gd/"
+country_calling_code: +1473
 Libris-URI: 86lnm76s577pnt2
-Unicode character: 🇬🇩
-GitHub topic: grenada
-CIVICUS Monitor country entry: grenada
-Krugosvet article: strany_mira/GRENADA.html
+Unicode_character: "\U0001F1EC\U0001F1E9"
+GitHub_topic: grenada
+CIVICUS_Monitor_country_entry: grenada
+Krugosvet_article: strany_mira/GRENADA.html
 ---
 
 # [[Grenada]] 

@@ -1,17 +1,17 @@
----
+﻿---
 location:
-  - 22.13
-  - -82.37
+- 22.13
+- -82.37
 type: Country
 tags:
-  - geo/Country
+- geo/Country
 has_id_wikidata: Q241
 SpocWebEntityId: 26873
 isDeleted: false
 confidential: public
-license: CC BY-SA 4.0
+license: "CC BY-SA 4.0"
 isReadOnly: false
-source: https://datahub.io/core/country-codes
+source: "https://datahub.io/core/country-codes"
 cssclasses: Country
 publish: true
 title: Cuba
@@ -22,350 +22,350 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-  - Cuba
-  - كوبا
-  - 古巴
-  - Куба
-  - the Republic of Cuba
-  - la República de Cuba
+- Cuba
+- كوبا
+- 古巴
+- Куба
+- "the Republic of Cuba"
+- "la República de Cuba"
 Languages:
-  - es-CU
-  - pap
+- es-CU
+- pap
 demonym:
-  - كوبي
-  - كوبية
-  - كوبيات
-  - كوبيين
-  - Cúbach
-  - كوبي
-  - Kubaner
-  - كوبية
-  - كوبيون
-  - cubana
-  - cubanu
-  - কিউবান
-  - cubà
-  - cubaner
-  - Kubanerin
-  - κουβανές
-  - κουβανή
-  - κουβανοί
-  - κουβανός
-  - Kubano
-  - cubana
-  - cubano
-  - cubain
-  - Cubain
-  - Cubaine
-  - קובני
-  - קובנית
-  - kubai
-  - Kubano
-  - cubana
-  - cubane
-  - cubani
-  - cubano
-  - cuban
-  - cubanar
-  - kubanar
-  - cubanez
-  - cubaneză
-  - cubanezi
-  - кубинцы
-  - кубинець
-  - кубинка
-  - кубинці
-  - cuban
-  - cubana
-  - cubane
-  - cubani
-  - Kubeänan
-  - Cuban
+- كوبي
+- كوبية
+- كوبيات
+- كوبيين
+- Cúbach
+- كوبي
+- Kubaner
+- كوبية
+- كوبيون
+- cubana
+- cubanu
+- কিউবান
+- cubà
+- cubaner
+- Kubanerin
+- κουβανές
+- κουβανή
+- κουβανοί
+- κουβανός
+- Kubano
+- cubana
+- cubano
+- cubain
+- Cubain
+- Cubaine
+- קובני
+- קובנית
+- kubai
+- Kubano
+- cubana
+- cubane
+- cubani
+- cubano
+- cuban
+- cubanar
+- kubanar
+- cubanez
+- cubaneză
+- cubanezi
+- кубинцы
+- кубинець
+- кубинка
+- кубинці
+- cuban
+- cubana
+- cubane
+- cubani
+- Kubeänan
+- Cuban
 ISNI: 000000012174332X
-MeSH tree code:
-  - Z01.107.084.900.225
-  - Z01.639.880.225
-coordinates of westernmost point: Point(-84.951888888 21.86875)
-diplomatic relation:
-  - "[[_Standards/WikiData/WD~South Africa,258]]"
-  - "[[_Standards/WikiData/WD~Chile,298]]"
-  - "[[_Standards/WikiData/WD~Peru,419]]"
-  - "[[_Standards/WikiData/WD~North Korea,423]]"
-  - "[[_Standards/WikiData/WD~European Union,458]]"
-  - "[[_Standards/WikiData/WD~India,668]]"
-  - "[[_Standards/WikiData/WD~Tuvalu,672]]"
-  - "[[_Standards/WikiData/WD~Vanuatu,686]]"
-  - "[[_Standards/WikiData/WD~Solomon Islands,685]]"
-  - "[[_Standards/WikiData/WD~Kiribati,710]]"
-  - "[[_Standards/WikiData/WD~Venezuela,717]]"
-  - "[[_Standards/WikiData/WD~Bolivia,750]]"
-  - "[[_Standards/WikiData/WD~Trinidad and Tobago,754]]"
-  - "[[_Standards/WikiData/WD~Grenada,769]]"
-  - "[[_Standards/WikiData/WD~Iran,794]]"
-  - "[[_Standards/WikiData/WD~Iraq,796]]"
-  - "[[_Standards/WikiData/WD~Israel,801]]"
-  - "[[_Standards/WikiData/WD~Malaysia,833]]"
-  - "[[_Standards/WikiData/WD~Pakistan,843]]"
-  - "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
-  - "[[_Standards/WikiData/WD~Sri Lanka,854]]"
-  - "[[_Standards/WikiData/WD~Taiwan,865]]"
-  - "[[_Standards/WikiData/WD~Vietnam,881]]"
-  - "[[_Standards/WikiData/WD~Bangladesh,902]]"
-  - "[[_Standards/WikiData/WD~Angola,916]]"
-  - "[[_Standards/WikiData/WD~Philippines,928]]"
-  - "[[_Standards/WikiData/WD~Cape Verde,1011]]"
-  - "[[_Standards/WikiData/WD~Namibia,1030]]"
-  - "[[_Standards/WikiData/WD~Soviet Union,15180]]"
-  - "[[_Standards/WikiData/WD~Canada,16]]"
-  - "[[_Standards/WikiData/WD~Hungary,28]]"
-  - "[[_Standards/WikiData/WD~Spain,29]]"
-  - "[[_Standards/WikiData/WD~Greece,41]]"
-  - "[[_Standards/WikiData/WD~Uruguay,77]]"
-  - "[[_Standards/WikiData/WD~Mexico,96]]"
-  - "[[_Standards/WikiData/WD~United Kingdom,145]]"
-  - "[[_Standards/WikiData/WD~People's Republic of China,148]]"
-  - "[[_Standards/WikiData/WD~Brazil,155]]"
-  - "[[_Standards/WikiData/WD~Russia,159]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
-  - "[[_Standards/WikiData/WD~Belarus,184]]"
-  - "[[_Standards/WikiData/WD~Georgia,230]]"
-  - "[[_Standards/WikiData/WD~Indonesia,252]]"
-  - "[[_Standards/WikiData/WD~Sahrawi Arab Democratic Republic,40362]]"
-  - "[[_Standards/WikiData/WD~Holy See,159583]]"
-member of:
-  - "[[_Standards/WikiData/WD~United Nations,1065]]"
-  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
-  - "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-  - "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
-  - "[[_Standards/WikiData/WD~Interpol,8475]]"
-  - "[[_Standards/WikiData/WD~Bolivarian Alliance for the Americas,8874]]"
-  - "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-  - "[[_Standards/WikiData/WD~Organization of American States,123759]]"
-  - "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
-  - "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-  - "[[_Standards/WikiData/WD~COMECON,191582]]"
-  - "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
-  - "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
-  - "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-  - "[[_Standards/WikiData/WD~Alliance of Small Island States,496967]]"
-  - "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-  - "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-  - "[[_Standards/WikiData/WD~Community of Latin American and Caribbean States,1045401]]"
-  - "[[_Standards/WikiData/WD~Agency for the Prohibition of Nuclear Weapons in Latin America and the Caribbean,3369762]]"
-lowest point: "[[_Standards/WikiData/WD~Caribbean Sea,1247]]"
-located in or next to body of water:
-  - "[[_Standards/WikiData/WD~Caribbean Sea,1247]]"
-  - "[[_Standards/WikiData/WD~Gulf of Mexico,12630]]"
-language used:
-  - "[[_Standards/WikiData/WD~Spanish,1321]]"
-  - "[[_Standards/WikiData/WD~Lucumí,1768321]]"
-  - "[[_Standards/WikiData/WD~Cuban Sign Language,5192046]]"
-official language: "[[_Standards/WikiData/WD~Spanish,1321]]"
-capital: "[[_Standards/WikiData/WD~Havana,1563]]"
-located in time zone:
-  - "[[_Standards/WikiData/WD~UTC−05_00,5390]]"
-  - "[[_Standards/WikiData/WD~America_Havana,63230233]]"
-instance of:
-  - "[[_Standards/WikiData/WD~country,6256]]"
-  - "[[_Standards/WikiData/WD~island country,112099]]"
-  - "[[_Standards/WikiData/WD~unitary state,179164]]"
-  - "[[_Standards/WikiData/WD~communist state,849866]]"
-  - "[[_Standards/WikiData/WD~sovereign state,3624078]]"
-part of:
-  - "[[_Standards/WikiData/WD~Latin America,12585]]"
-  - "[[_Standards/WikiData/WD~Hispanic America,653884]]"
-  - "[[_Standards/WikiData/WD~Caribbean,664609]]"
-contains the administrative territorial entity:
-  - "[[_Standards/WikiData/WD~Havana Province,12588]]"
-  - "[[_Standards/WikiData/WD~Isla de la Juventud,115027]]"
-  - "[[_Standards/WikiData/WD~Granma Province,115046]]"
-  - "[[_Standards/WikiData/WD~Holguín Province,115302]]"
-  - "[[_Standards/WikiData/WD~Mayabeque Province,115310]]"
-  - "[[_Standards/WikiData/WD~Guantánamo Province,115319]]"
-  - "[[_Standards/WikiData/WD~Artemisa Province,115325]]"
-  - "[[_Standards/WikiData/WD~Las Tunas Province,115334]]"
-  - "[[_Standards/WikiData/WD~Villa Clara Province,115434]]"
-  - "[[_Standards/WikiData/WD~Matanzas Province,115438]]"
-  - "[[_Standards/WikiData/WD~Sancti Spíritus Province,115441]]"
-  - "[[_Standards/WikiData/WD~Cienfuegos Province,115444]]"
-  - "[[_Standards/WikiData/WD~Pinar del Río Province,115497]]"
-  - "[[_Standards/WikiData/WD~Camagüey Province,215147]]"
-  - "[[_Standards/WikiData/WD~Ciego de Ávila Province,220692]]"
-  - "[[_Standards/WikiData/WD~Santiago de Cuba Province,234200]]"
-shares border with:
-  - "[[_Standards/WikiData/WD~United States,30]]"
-  - "[[_Standards/WikiData/WD~United Kingdom,145]]"
+MeSH_tree_code:
+- Z01.107.084.900.225
+- Z01.639.880.225
+coordinates_of_westernmost_point: "Point(-84.951888888 21.86875)"
+diplomatic_relation:
+- "[[_Standards/WikiData/WD~South Africa,258]]"
+- '[[_Standards/WikiData/WD~Chile,298]]'
+- '[[_Standards/WikiData/WD~Peru,419]]'
+- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~European Union,458]]"
+- '[[_Standards/WikiData/WD~India,668]]'
+- '[[_Standards/WikiData/WD~Tuvalu,672]]'
+- '[[_Standards/WikiData/WD~Vanuatu,686]]'
+- "[[_Standards/WikiData/WD~Solomon Islands,685]]"
+- '[[_Standards/WikiData/WD~Kiribati,710]]'
+- '[[_Standards/WikiData/WD~Venezuela,717]]'
+- '[[_Standards/WikiData/WD~Bolivia,750]]'
+- "[[_Standards/WikiData/WD~Trinidad and Tobago,754]]"
+- '[[_Standards/WikiData/WD~Grenada,769]]'
+- '[[_Standards/WikiData/WD~Iran,794]]'
+- '[[_Standards/WikiData/WD~Iraq,796]]'
+- '[[_Standards/WikiData/WD~Israel,801]]'
+- '[[_Standards/WikiData/WD~Malaysia,833]]'
+- '[[_Standards/WikiData/WD~Pakistan,843]]'
+- "[[_Standards/WikiData/WD~Saudi Arabia,851]]"
+- "[[_Standards/WikiData/WD~Sri Lanka,854]]"
+- '[[_Standards/WikiData/WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~Vietnam,881]]'
+- '[[_Standards/WikiData/WD~Bangladesh,902]]'
+- '[[_Standards/WikiData/WD~Angola,916]]'
+- '[[_Standards/WikiData/WD~Philippines,928]]'
+- "[[_Standards/WikiData/WD~Cape Verde,1011]]"
+- '[[_Standards/WikiData/WD~Namibia,1030]]'
+- "[[_Standards/WikiData/WD~Soviet Union,15180]]"
+- '[[_Standards/WikiData/WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~Hungary,28]]'
+- '[[_Standards/WikiData/WD~Spain,29]]'
+- '[[_Standards/WikiData/WD~Greece,41]]'
+- '[[_Standards/WikiData/WD~Uruguay,77]]'
+- '[[_Standards/WikiData/WD~Mexico,96]]'
+- "[[_Standards/WikiData/WD~United Kingdom,145]]"
+- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- '[[_Standards/WikiData/WD~Brazil,155]]'
+- '[[_Standards/WikiData/WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Belarus,184]]'
+- '[[_Standards/WikiData/WD~Georgia,230]]'
+- '[[_Standards/WikiData/WD~Indonesia,252]]'
+- "[[_Standards/WikiData/WD~Sahrawi Arab Democratic Republic,40362]]"
+- "[[_Standards/WikiData/WD~Holy See,159583]]"
+member_of:
+- "[[_Standards/WikiData/WD~United Nations,1065]]"
+- '[[_Standards/WikiData/WD~UNESCO,7809]]'
+- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
+- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- '[[_Standards/WikiData/WD~Interpol,8475]]'
+- "[[_Standards/WikiData/WD~Bolivarian Alliance for the Americas,8874]]"
+- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
+- "[[_Standards/WikiData/WD~Organization of American States,123759]]"
+- "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
+- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
+- '[[_Standards/WikiData/WD~COMECON,191582]]'
+- "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
+- "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
+- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
+- "[[_Standards/WikiData/WD~Alliance of Small Island States,496967]]"
+- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
+- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
+- "[[_Standards/WikiData/WD~Community of Latin American and Caribbean States,1045401]]"
+- "[[_Standards/WikiData/WD~Agency for the Prohibition of Nuclear Weapons in Latin America and the Caribbean,3369762]]"
+lowest_point: "[[_Standards/WikiData/WD~Caribbean Sea,1247]]"
+located_in_or_next_to_body_of_water:
+- "[[_Standards/WikiData/WD~Caribbean Sea,1247]]"
+- "[[_Standards/WikiData/WD~Gulf of Mexico,12630]]"
+language_used:
+- '[[_Standards/WikiData/WD~Spanish,1321]]'
+- '[[_Standards/WikiData/WD~Lucumí,1768321]]'
+- "[[_Standards/WikiData/WD~Cuban Sign Language,5192046]]"
+official_language: '[[_Standards/WikiData/WD~Spanish,1321]]'
+capital: '[[_Standards/WikiData/WD~Havana,1563]]'
+located_in_time_zone:
+- '[[_Standards/WikiData/WD~UTC−05_00,5390]]'
+- '[[_Standards/WikiData/WD~America_Havana,63230233]]'
+instance_of:
+- '[[_Standards/WikiData/WD~country,6256]]'
+- "[[_Standards/WikiData/WD~island country,112099]]"
+- "[[_Standards/WikiData/WD~unitary state,179164]]"
+- "[[_Standards/WikiData/WD~communist state,849866]]"
+- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+part_of:
+- "[[_Standards/WikiData/WD~Latin America,12585]]"
+- "[[_Standards/WikiData/WD~Hispanic America,653884]]"
+- '[[_Standards/WikiData/WD~Caribbean,664609]]'
+contains_the_administrative_territorial_entity:
+- "[[_Standards/WikiData/WD~Havana Province,12588]]"
+- "[[_Standards/WikiData/WD~Isla de la Juventud,115027]]"
+- "[[_Standards/WikiData/WD~Granma Province,115046]]"
+- "[[_Standards/WikiData/WD~Holguín Province,115302]]"
+- "[[_Standards/WikiData/WD~Mayabeque Province,115310]]"
+- "[[_Standards/WikiData/WD~Guantánamo Province,115319]]"
+- "[[_Standards/WikiData/WD~Artemisa Province,115325]]"
+- "[[_Standards/WikiData/WD~Las Tunas Province,115334]]"
+- "[[_Standards/WikiData/WD~Villa Clara Province,115434]]"
+- "[[_Standards/WikiData/WD~Matanzas Province,115438]]"
+- "[[_Standards/WikiData/WD~Sancti Spíritus Province,115441]]"
+- "[[_Standards/WikiData/WD~Cienfuegos Province,115444]]"
+- "[[_Standards/WikiData/WD~Pinar del Río Province,115497]]"
+- "[[_Standards/WikiData/WD~Camagüey Province,215147]]"
+- "[[_Standards/WikiData/WD~Ciego de Ávila Province,220692]]"
+- "[[_Standards/WikiData/WD~Santiago de Cuba Province,234200]]"
+shares_border_with:
+- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United Kingdom,145]]"
 continent: "[[_Standards/WikiData/WD~North America,49]]"
-unemployment rate:
-  - 3
-  - 1.2
-country: "[[_Standards/WikiData/WD~Cuba,241]]"
-mains voltage: 110
-marriageable age:
-  - 16
-  - 18
-age of majority: 18
-BTI Status Index:
-  - 3.7
-  - 3.77
-  - 3.93
-  - 4.02
-  - 4.05
-  - 4.13
-  - 4.15
-  - 4.36
-  - 4.37
-life expectancy: 78
-suicide rate: 13.9
-BTI Governance Index:
-  - 2.59
-  - 2.91
-  - 3.42
-  - 3.58
-  - 3.67
-  - 3.93
-  - 3.95
-  - 4.12
-  - 4.46
-top-level Internet domain: "[[_Standards/WikiData/WD~.cu,41006]]"
-Democracy Index: 2.84
-twinned administrative body: "[[_Standards/WikiData/WD~Santa Fe,44244]]"
-trunk prefix: "0"
-Human Development Index: 0.764
-total fertility rate: 1.615
-UIC numerical country code: "40"
-ISO 3166-1 numeric code: "192"
-M49 code: "192"
-maritime identification digits: "323"
-IAB code: "1278"
-birth rate: 8.889
-death rate: 9.852
-GS1 country code: "850"
-licence plate code: C
-mobile country code: "368"
-OmegaWiki Defined Meaning: "8011"
+unemployment_rate:
+- 3
+- 1.2
+country: '[[_Standards/WikiData/WD~Cuba,241]]'
+mains_voltage: 110
+marriageable_age:
+- 16
+- 18
+age_of_majority: 18
+BTI_Status_Index:
+- 3.7
+- 3.77
+- 3.93
+- 4.02
+- 4.05
+- 4.13
+- 4.15
+- 4.36
+- 4.37
+life_expectancy: 78
+suicide_rate: 13.9
+BTI_Governance_Index:
+- 2.59
+- 2.91
+- 3.42
+- 3.58
+- 3.67
+- 3.93
+- 3.95
+- 4.12
+- 4.46
+top-level_Internet_domain: '[[_Standards/WikiData/WD~.cu,41006]]'
+Democracy_Index: 2.84
+twinned_administrative_body: "[[_Standards/WikiData/WD~Santa Fe,44244]]"
+trunk_prefix: 0
+Human_Development_Index: 0.764
+total_fertility_rate: 1.615
+UIC_numerical_country_code: 40
+ISO_3166-1_numeric_code: 192
+M49_code: 192
+maritime_identification_digits: 323
+IAB_code: 1278
+birth_rate: 8.889
+death_rate: 9.852
+GS1_country_code: 850
+licence_plate_code: C
+mobile_country_code: 368
+OmegaWiki_Defined_Meaning: 8011
 area: 109884
-number of out-of-school children: 150812
-ISO 3166-1 alpha-2 code: CU
-FIPS 10-4 (countries and regions): CU
-WIPO ST.3: CU
-UIC alphabetical country code: CU
-ISO 3166-1 alpha-3 code: CUB
-IOC country code: CUB
-ITU letter code: CUB
-female population:
-  - 5683880
-  - 5649497
-  - 5667114
-  - 5688414
-flag image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cuba.svg
-INSEE countries and foreign territories code: "99407"
-rural population:
-  - 2533843
-  - 2556097
-  - 2577237
-  - 2590505
-PM20 geo code: E24
-male population:
-  - 5562694
-  - 5589258
-  - 5616818
-  - 5628282
-Commons gallery: Cuba
-Commons category: Cuba
+number_of_out-of-school_children: 150812
+ISO_3166-1_alpha-2_code: CU
+FIPS_10-4_countries_and_regions_: CU
+WIPO_ST_3: CU
+UIC_alphabetical_country_code: CU
+ISO_3166-1_alpha-3_code: CUB
+IOC_country_code: CUB
+ITU_letter_code: CUB
+female_population:
+- 5683880
+- 5649497
+- 5667114
+- 5688414
+flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cuba.svg"
+INSEE_countries_and_foreign_territories_code: 99407
+rural_population:
+- 2533843
+- 2556097
+- 2577237
+- 2590505
+PM20_geo_code: E24
+male_population:
+- 5562694
+- 5589258
+- 5616818
+- 5628282
+Commons_gallery: Cuba
+Commons_category: Cuba
 flag: "[[_Standards/WikiData/WD~flag of Cuba,163008]]"
-basic form of government: "[[_Standards/WikiData/WD~unitary state,179164]]"
+basic_form_of_government: "[[_Standards/WikiData/WD~unitary state,179164]]"
 anthem: "[[_Standards/WikiData/WD~El Himno de Bayamo,237591]]"
-coat of arms: "[[_Standards/WikiData/WD~coat of arms of Cuba,242912]]"
-described by source:
-  - "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-  - "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-  - "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
-  - "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
-  - "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyer’s Universum, Achter Band,131447403]]"
-history of topic: "[[_Standards/WikiData/WD~history of Cuba,473130]]"
-different from: "[[_Standards/WikiData/WD~Cuba,586657]]"
-legislative body: "[[_Standards/WikiData/WD~National Assembly of People's Power,720753]]"
-economy of topic: "[[_Standards/WikiData/WD~economy of Cuba,751025]]"
-executive body: "[[_Standards/WikiData/WD~Council of Ministers,834304]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Cuba,242912]]"
+described_by_source:
+- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
+- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
+- "[[_Standards/WikiData/WD~The New Student's Reference Work,16082057]]"
+- "[[_Standards/WikiData/WD~Collier's New Encyclopedia, 1921,19047539]]"
+- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Meyer’s Universum, Achter Band,131447403]]"
+history_of_topic: "[[_Standards/WikiData/WD~history of Cuba,473130]]"
+different_from: '[[_Standards/WikiData/WD~Cuba,586657]]'
+legislative_body: "[[_Standards/WikiData/WD~National Assembly of People's Power,720753]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy of Cuba,751025]]"
+executive_body: "[[_Standards/WikiData/WD~Council of Ministers,834304]]"
 culture: "[[_Standards/WikiData/WD~culture of Cuba,951893]]"
-highest point: "[[_Standards/WikiData/WD~Pico Turquino,1145743]]"
-office held by head of state: "[[_Standards/WikiData/WD~President of Cuba,1370482]]"
-geography of topic: "[[_Standards/WikiData/WD~geography of Cuba,1503155]]"
-head of state: "[[_Standards/WikiData/WD~Miguel Díaz-Canel,1932603]]"
+highest_point: "[[_Standards/WikiData/WD~Pico Turquino,1145743]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Cuba,1370482]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography of Cuba,1503155]]"
+head_of_state: "[[_Standards/WikiData/WD~Miguel Díaz-Canel,1932603]]"
 follows: "[[_Standards/WikiData/WD~Captaincy General of Cuba,2039931]]"
-demographics of topic: "[[_Standards/WikiData/WD~demographics of Cuba,2477946]]"
-central bank: "[[_Standards/WikiData/WD~Central Bank of Cuba,2607787]]"
-emergency phone number:
-  - "[[_Standards/WikiData/WD~106,4546664]]"
-  - "[[_Standards/WikiData/WD~104,25648855]]"
-  - "[[_Standards/WikiData/WD~105,25648856]]"
-office held by head of government: "[[_Standards/WikiData/WD~Prime Minister of Cuba,6502015]]"
-Wikimedia outline: "[[_Standards/WikiData/WD~outline of Cuba,7112242]]"
-highest judicial authority: "[[_Standards/WikiData/WD~Supreme Court of Cuba,7644899]]"
-topic's main Wikimedia portal: "[[_Standards/WikiData/WD~Portal_Cuba,11313604]]"
-driving side: "[[_Standards/WikiData/WD~right,14565199]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Cuba,2477946]]"
+central_bank: "[[_Standards/WikiData/WD~Central Bank of Cuba,2607787]]"
+emergency_phone_number:
+- '[[_Standards/WikiData/WD~106,4546664]]'
+- '[[_Standards/WikiData/WD~104,25648855]]'
+- '[[_Standards/WikiData/WD~105,25648856]]'
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Cuba,6502015]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Cuba,7112242]]"
+highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme Court of Cuba,7644899]]"
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Cuba,11313604]]'
+driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
 replaces: "[[_Standards/WikiData/WD~Republic of Cuba,14905932]]"
-maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject Cuba,15518377]]"
-electrical plug type:
-  - "[[_Standards/WikiData/WD~NEMA 1-15,24288454]]"
-  - "[[_Standards/WikiData/WD~NEMA 5-15,24288456]]"
-permanent duplicated item:
-  - "[[_Standards/WikiData/WD~Q27103638,27103638]]"
-  - "[[_Standards/WikiData/WD~Q111397859,111397859]]"
-has characteristic: "[[_Standards/WikiData/WD~not-free country,47185282]]"
-head of government: "[[_Standards/WikiData/WD~Manuel Marrero Cruz,79358625]]"
-inception: 1898-12-10T00:00:00Z
-coordinates of southernmost point: Point(-77.675361111 19.825888888)
-Baidu Tieba name: 古巴
-location map: http://commons.wikimedia.org/wiki/Special:FilePath/Cuba%20%28location%20map%29.svg
-motto text:
-  - Родина или смърт, ние ще победим!
-  - Fe Orchfygwn Angau neu Famwlad
-  - Autentica Cuba
-  - Homeland or Death, we shall overcome!
-  - ¡Patria o Muerte, Venceremos!
-official name:
-  - Republic of Cuba
-  - República de Cuba
-  - la République de Cuba
-native label: República de Cuba
-short name: 🇨🇺
-coordinate location: Point(-79.5 22.0)
-coordinates of easternmost point: Point(-74.13225 20.211388888)
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Cuba,15518377]]"
+electrical_plug_type:
+- "[[_Standards/WikiData/WD~NEMA 1-15,24288454]]"
+- "[[_Standards/WikiData/WD~NEMA 5-15,24288456]]"
+permanent_duplicated_item:
+- '[[_Standards/WikiData/WD~Q27103638,27103638]]'
+- '[[_Standards/WikiData/WD~Q111397859,111397859]]'
+has_characteristic: "[[_Standards/WikiData/WD~not-free country,47185282]]"
+head_of_government: "[[_Standards/WikiData/WD~Manuel Marrero Cruz,79358625]]"
+inception: "1898-12-10T00:00:00Z"
+coordinates_of_southernmost_point: "Point(-77.675361111 19.825888888)"
+Baidu_Tieba_name: 古巴
+location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Cuba%20%28location%20map%29.svg"
+motto_text:
+- "Родина или смърт, ние ще победим!"
+- "Fe Orchfygwn Angau neu Famwlad"
+- "Autentica Cuba"
+- "Homeland or Death, we shall overcome!"
+- "¡Patria o Muerte, Venceremos!"
+official_name:
+- "Republic of Cuba"
+- "República de Cuba"
+- "la République de Cuba"
+native_label: "República de Cuba"
+short_name: "\U0001F1E8\U0001F1FA"
+coordinate_location: "Point(-79.5 22.0)"
+coordinates_of_easternmost_point: "Point(-74.13225 20.211388888)"
 hashtag: Cuba
-urban population:
-  - 8678348
-  - 8700275
-  - 8723461
-  - 8726192
+urban_population:
+- 8678348
+- 8700275
+- 8723461
+- 8726192
 population: 10985974
-coat of arms image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Cuba.svg
-coordinates of northernmost point: Point(-80.9 23.28)
-geoshape: http://commons.wikimedia.org/data/main/Data:Cuba.map
-locator map image: http://commons.wikimedia.org/wiki/Special:FilePath/Cuba%20%28orthographic%20projection%29.svg
-pronunciation audio:
-  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Kuba.ogg
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%95%E0%AD%8D%E0%AD%9F%E0%AD%81%E0%AC%AC%E0%AC%BE.wav
-  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Cuba.wav
-spoken text audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Cuba%20%28land%29-article.ogg
-image: http://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Clara%20%28Cuba%29.jpg
-page banner: http://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Clara%20%28Cuba%29%29%20banner%20Monument%20to%20Che%20Guevara.jpg
-official website: http://www.cuba.cu
-country calling code: "+53"
-U.S. National Archives Identifier: "10044686"
-Dewey Decimal Classification: 2--7291
-Unicode character: 🇨🇺
-CIVICUS Monitor country entry: cuba
+coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Cuba.svg"
+coordinates_of_northernmost_point: "Point(-80.9 23.28)"
+geoshape: "http://commons.wikimedia.org/data/main/Data:Cuba.map"
+locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Cuba%20%28orthographic%20projection%29.svg"
+pronunciation_audio:
+- "http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Kuba.ogg"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%95%E0%AD%8D%E0%AD%9F%E0%AD%81%E0%AC%AC%E0%AC%BE.wav"
+- "http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Cuba.wav"
+spoken_text_audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Cuba%20%28land%29-article.ogg"
+image: "http://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Clara%20%28Cuba%29.jpg"
+page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Santa%20Clara%20%28Cuba%29%29%20banner%20Monument%20to%20Che%20Guevara.jpg"
+official_website: "http://www.cuba.cu"
+country_calling_code: +53
+U_S_National_Archives_Identifier: 10044686
+Dewey_Decimal_Classification: 2--7291
+Unicode_character: "\U0001F1E8\U0001F1FA"
+CIVICUS_Monitor_country_entry: cuba
 subreddit: cuba
-GitHub topic: cuba
-Colon Classification: SG--7927
-Krugosvet article: strany-mira/kuba
+GitHub_topic: cuba
+Colon_Classification: SG--7927
+Krugosvet_article: strany-mira/kuba
 ---
 
 # [[Cuba]] 
