@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 13.01
 - -61.23
@@ -221,7 +221,9 @@ coordinates_of_easternmost_point: "Point(-61.1309 12.9613)"
 inception: "1979-01-01T00:00:00Z"
 coordinates_of_northernmost_point: "Point(-61.17 13.38)"
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Saint%20Vincent%20and%20the%20Grenadines.svg"
-Unicode_character: "\U0001F1FB\U0001F1E8"
+Unicode_character: 
+- 🇻🇨
+- "\U0001F1FB\U0001F1E8"
 licence_plate_code: WV
 native_label: "Saint Vincent and the Grenadines"
 official_name:

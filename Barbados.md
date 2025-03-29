@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 13
 - -59.5333
@@ -288,7 +288,7 @@ Commons_gallery: Barbados
 coordinates_of_westernmost_point: "Point(-59.6508459 13.30576166)"
 coordinate_location: "Point(-59.5525 13.17)"
 U_S_National_Archives_Identifier: 10044806
-Unicode_character: "\U0001F1E7\U0001F1E7"
+Unicode_character: 🇧🇧 
 geoshape: "http://commons.wikimedia.org/data/main/Data:Barbados.map"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Barbados%20%2850%29.jpg"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Barbados%20banner.jpg"

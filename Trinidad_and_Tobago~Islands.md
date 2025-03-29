@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 10.6667
 - -61.5167
@@ -261,7 +261,7 @@ IOC_country_code: TTO
 coordinates_of_easternmost_point: "Point(-60.492730555 11.296711111)"
 Commons_category: "Trinidad and Tobago"
 Commons_gallery: "Trinidad and Tobago"
-Unicode_character: "\U0001F1F9\U0001F1F9"
+Unicode_character: 🇹🇹 
 coordinates_of_northernmost_point: "Point(-60.525083333 11.3625)"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Pigeon%20Point%20beach.jpg"
 geoshape: "http://commons.wikimedia.org/data/main/Data:Trinidad+and+Tobago.map"

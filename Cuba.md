@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 22.13
 - -82.37
@@ -360,7 +360,7 @@ official_website: "http://www.cuba.cu"
 country_calling_code: +53
 U_S_National_Archives_Identifier: 10044686
 Dewey_Decimal_Classification: 2--7291
-Unicode_character: "\U0001F1E8\U0001F1FA"
+Unicode_character: 🇨🇺 
 CIVICUS_Monitor_country_entry: cuba
 subreddit: cuba
 GitHub_topic: cuba

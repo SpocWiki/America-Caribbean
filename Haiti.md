@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 18.5333
 - -72.3333
@@ -107,7 +107,7 @@ language_used:
 - "[[_Standards/WikiData/WD~Haitian Creole,33491]]"
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Haiti,7112283]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Haiti,11215907]]'
-Unicode_character: "\U0001F1ED\U0001F1F9"
+Unicode_character: 🇭🇹 
 permanent_duplicated_item:
 - '[[_Standards/WikiData/WD~Q13203876,13203876]]'
 - '[[_Standards/WikiData/WD~Q111279762,111279762]]'

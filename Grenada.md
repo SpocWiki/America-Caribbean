@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 12.05
 - -61.75
@@ -266,7 +266,7 @@ image: "http://commons.wikimedia.org/wiki/Special:FilePath/StGeorgesGrenada2000.
 official_website: "https://www.gov.gd/"
 country_calling_code: +1473
 Libris_URI: 86lnm76s577pnt2
-Unicode_character: "\U0001F1EC\U0001F1E9"
+Unicode_character: 🇬🇩 
 GitHub_topic: grenada
 CIVICUS_Monitor_country_entry: grenada
 Krugosvet_article: strany_mira/GRENADA.html

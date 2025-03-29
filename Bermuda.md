@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 32.32
 - -64.74
@@ -143,7 +143,7 @@ nominal_GDP:
 - 7127200000
 - 7550500000
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bermuda.svg"
-Unicode_character: "\U0001F1E7\U0001F1F2"
+Unicode_character: 🇧🇲 
 ISO_3166_1_numeric_code: 060
 M49_code: 060
 IOC_country_code: BER

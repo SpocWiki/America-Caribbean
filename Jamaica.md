@@ -1,4 +1,4 @@
-﻿---
+---
 has_id_wikidata: Q766
 aliases: 
 instance_of:
@@ -252,7 +252,7 @@ Commons_category: Jamaica
 Commons_gallery: Jamaica
 subreddit: Jamaica
 hashtag: Jamaica
-Unicode_character: "\U0001F1EF\U0001F1F2"
+Unicode_character: 🇯🇲 
 rural_population:
 - 1232220
 - 1215546

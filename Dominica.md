@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 15.3
 - -61.3833
@@ -192,7 +192,7 @@ pronunciation_audio:
 official_website: "http://www.dominica.gov.dm/"
 country_calling_code: +1767
 Dewey_Decimal_Classification: 2--729841
-Unicode_character: "\U0001F1E9\U0001F1F2"
+Unicode_character: 🇩🇲 
 CIVICUS_Monitor_country_entry: dominica
 GitHub_topic: dominica
 continent: "[[_Standards/WikiData/WD~North America,49]]"
