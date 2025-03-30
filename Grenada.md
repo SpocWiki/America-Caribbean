@@ -247,12 +247,12 @@ official_name:
 - Grenada
 short_name: "\U0001F1EC\U0001F1E9"
 coordinates_of_northernmost_point: "Point(-61.43 12.53)"
-time_of_discovery_or_invention: "1498-01-01T00:00:00Z"
+time_of_discovery_or_invention: "1498"
 subreddit: Grenada
 Commons_gallery: Grenada
 Commons_category: Grenada
 OmegaWiki_Defined_Meaning: 154232
-inception: "1974-01-01T00:00:00Z"
+inception: "1974"
 U_S_National_Archives_Identifier: 10044769
 coordinates_of_southernmost_point: "Point(-61.78786 11.98499)"
 coordinate_location: "Point(-61.7 12.1)"

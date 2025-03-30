@@ -87,7 +87,7 @@ open_data_portal: '[[_Standards/WikiData/WD~bermuda.io,97024956]]'
 executive_body: "[[_Standards/WikiData/WD~Cabinet of Bermuda,107979988]]"
 highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme Court of Bermuda,113006163]]"
 main_regulatory_text: "[[_Standards/WikiData/WD~Constitution of Bermuda,131425450]]"
-inception: "1612-01-01T00:00:00Z"
+inception: "1612"
 official_website: "https://www.gov.bm/"
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/ISS017-E-10695%20-%20View%20of%20Bermuda.jpg"
 demonym:

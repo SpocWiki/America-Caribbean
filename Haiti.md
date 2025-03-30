@@ -318,7 +318,7 @@ hashtag: Haiti
 official_website: "http://primature.gouv.ht/"
 U_S_National_Archives_Identifier: 10044783
 coordinates_of_easternmost_point: "Point(-71.62183 19.20649)"
-inception: "1804-01-01T00:00:00Z"
+inception: "1804"
 ---
 
 # [[Haiti]] 

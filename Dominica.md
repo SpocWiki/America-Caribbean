@@ -249,7 +249,7 @@ nominal_GDP:
 - 555266667
 - 612048148
 flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Dominica.svg"
-inception: "1978-01-01T00:00:00Z"
+inception: "1978"
 coordinates_of_westernmost_point: "Point(-61.47985 15.53773)"
 U_S_National_Archives_Identifier: 10044924
 Commons_gallery: Dominica

@@ -320,7 +320,7 @@ permanent_duplicated_item:
 - '[[_Standards/WikiData/WD~Q111397859,111397859]]'
 has_characteristic: "[[_Standards/WikiData/WD~not-free country,47185282]]"
 head_of_government: "[[_Standards/WikiData/WD~Manuel Marrero Cruz,79358625]]"
-inception: "1898-12-10T00:00:00Z"
+inception: "1898-12-10"
 coordinates_of_southernmost_point: "Point(-77.675361111 19.825888888)"
 Baidu_Tieba_name: 古巴
 location_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Cuba%20%28location%20map%29.svg"

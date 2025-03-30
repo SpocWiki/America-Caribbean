@@ -276,7 +276,7 @@ detail_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Barbados-CIA%20W
 INSEE_countries_and_foreign_territories_code: 99434
 ISO_3166_1_alpha_3_code: BRB
 ITU_letter_code: BRB
-inception: "1966-11-30T00:00:00Z"
+inception: "1966-11-30"
 native_label: Barbados
 licence_plate_code: BDS
 coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Barbados%20%282%29.svg"

@@ -255,7 +255,7 @@ FIPS_10_4_countries_and_regions_: TD
 PM20_geo_code: E46
 INSEE_countries_and_foreign_territories_code: 99433
 OmegaWiki_Defined_Meaning: 154360
-inception: "1976-08-01T00:00:00Z"
+inception: "1976-08-01"
 ISO_3166_1_alpha_3_code: TTO
 IOC_country_code: TTO
 coordinates_of_easternmost_point: "Point(-60.492730555 11.296711111)"

@@ -277,7 +277,7 @@ population: 2697983
 ISO_3166_1_alpha_3_code: JAM
 IOC_country_code: JAM
 coordinates_of_northernmost_point: "Point(-77.8469 18.52493)"
-inception: "1962-01-01T00:00:00Z"
+inception: "1962"
 ISO_3166_1_alpha_2_code: JM
 FIPS_10_4_countries_and_regions_: JM
 WIPO_ST_3: JM
