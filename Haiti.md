@@ -33,35 +33,35 @@ aliases:
 Languages:
 - ht
 - fr-HT
-flag: "[[_Standards/WikiData/WD~flag of Haiti,102987]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Haiti,102987]]"
 instance_of:
-- "[[_Standards/WikiData/WD~island country,112099]]"
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
+- "[[_Standards/WikiData/WD~island_country,112099]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
 member_of:
-- "[[_Standards/WikiData/WD~Organization of American States,123759]]"
-- "[[_Standards/WikiData/WD~Organisation internationale de la Francophonie,134102]]"
-- "[[_Standards/WikiData/WD~International Civil Defence Organisation,162656]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~Caribbean Community,205995]]"
-- "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~Alliance of Small Island States,496967]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Agency for the Prohibition of Nuclear Weapons in Latin America and the Caribbean,3369762]]"
-- "[[_Standards/WikiData/WD~Caribbean Development Bank,3772571]]"
-- "[[_Standards/WikiData/WD~Caribbean Disaster Emergency Management Agency,5039374]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
+- "[[_Standards/WikiData/WD~Organization_of_American_States,123759]]"
+- "[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]"
+- "[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~Caribbean_Community,205995]]"
+- "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~Alliance_of_Small_Island_States,496967]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Agency_for_the_Prohibition_of_Nuclear_Weapons_in_Latin_America_and_the_Caribbean,3369762]]"
+- "[[_Standards/WikiData/WD~Caribbean_Development_Bank,3772571]]"
+- "[[_Standards/WikiData/WD~Caribbean_Disaster_Emergency_Management_Agency,5039374]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
 contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Nippes,125232]]'
 - '[[_Standards/WikiData/WD~Nord-Ouest,608361]]'
@@ -73,61 +73,61 @@ contains_the_administrative_territorial_entity:
 - '[[_Standards/WikiData/WD~Sud-Est,936717]]'
 - '[[_Standards/WikiData/WD~Nord,943932]]'
 - '[[_Standards/WikiData/WD~Ouest,1434621]]'
-coat_of_arms: "[[_Standards/WikiData/WD~Coat of Arms of Haiti,207701]]"
-anthem: "[[_Standards/WikiData/WD~La Dessalinienne,214459]]"
-motto: "[[_Standards/WikiData/WD~Liberté, égalité, fraternité,251583]]"
+coat_of_arms: "[[_Standards/WikiData/WD~Coat_of_Arms_of_Haiti,207701]]"
+anthem: "[[_Standards/WikiData/WD~La_Dessalinienne,214459]]"
+motto: "[[_Standards/WikiData/WD~Liberté,_égalité,_fraternité,251583]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Catholic Encyclopedia,302556]]"
-- "[[_Standards/WikiData/WD~1922 Encyclopædia Britannica,15987490]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica Ninth Edition,20096917]]"
+- "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+- "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
 part_of:
 - '[[_Standards/WikiData/WD~Caribbean,664609]]'
-- "[[_Standards/WikiData/WD~Latin America,12585]]"
+- "[[_Standards/WikiData/WD~Latin_America,12585]]"
 located_in_on_physical_feature: '[[_Standards/WikiData/WD~Caribbean,664609]]'
-legislative_body: "[[_Standards/WikiData/WD~Parliament of Haiti,742110]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Haiti,846445]]"
+legislative_body: "[[_Standards/WikiData/WD~Parliament_of_Haiti,742110]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Haiti,846445]]"
 follows: '[[_Standards/WikiData/WD~Saint-Domingue,861551]]'
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Haiti,1064589]]"
-highest_point: "[[_Standards/WikiData/WD~Pic la Selle,1971319]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Haiti,1996232]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Haiti,2405285]]"
-central_bank: "[[_Standards/WikiData/WD~Bank of the Republic of Haiti,2883379]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Haiti,1064589]]"
+highest_point: "[[_Standards/WikiData/WD~Pic_la_Selle,1971319]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Haiti,1996232]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Haiti,2405285]]"
+central_bank: "[[_Standards/WikiData/WD~Bank_of_the_Republic_of_Haiti,2883379]]"
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~114,2945964]]'
 - '[[_Standards/WikiData/WD~116,25648807]]'
 - '[[_Standards/WikiData/WD~115,25648805]]'
 - '[[_Standards/WikiData/WD~122,25648812]]'
-replaces: "[[_Standards/WikiData/WD~Second Empire of Haiti,2979717]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Haiti,2992378]]"
-culture: "[[_Standards/WikiData/WD~culture of Haiti,3244653]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Haiti,3290543]]"
+replaces: "[[_Standards/WikiData/WD~Second_Empire_of_Haiti,2979717]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Haiti,2992378]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Haiti,3244653]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Haiti,3290543]]"
 language_used:
-- "[[_Standards/WikiData/WD~Haitian Vodoun Culture Language,3504239]]"
+- "[[_Standards/WikiData/WD~Haitian_Vodoun_Culture_Language,3504239]]"
 - '[[_Standards/WikiData/WD~French,150]]'
-- "[[_Standards/WikiData/WD~Haitian Creole,33491]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Haiti,7112283]]"
+- "[[_Standards/WikiData/WD~Haitian_Creole,33491]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Haiti,7112283]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Haiti,11215907]]'
 Unicode_character: 🇭🇹 
 permanent_duplicated_item:
 - '[[_Standards/WikiData/WD~Q13203876,13203876]]'
 - '[[_Standards/WikiData/WD~Q111279762,111279762]]'
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject African diaspora,15304953]]"
-executive_body: "[[_Standards/WikiData/WD~Government of Haiti,16146706]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject Haiti,21830103]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]"
+executive_body: "[[_Standards/WikiData/WD~Government_of_Haiti,16146706]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Haiti,21830103]]"
 electrical_plug_type:
-- "[[_Standards/WikiData/WD~NEMA 1-15,24288454]]"
-- "[[_Standards/WikiData/WD~NEMA 5-15,24288456]]"
+- "[[_Standards/WikiData/WD~NEMA_1-15,24288454]]"
+- "[[_Standards/WikiData/WD~NEMA_5-15,24288456]]"
 locator_map_image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Haiti%20%28orthographic%20projection%29.svg"
 - "http://commons.wikimedia.org/wiki/Special:FilePath/LocationHaiti.svg"
-has_characteristic: "[[_Standards/WikiData/WD~partly free country,47185145]]"
+has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~America_Port-au-Prince,63286064]]'
 - '[[_Standards/WikiData/WD~UTC−05_00,5390]]'
-open_data_portal: "[[_Standards/WikiData/WD~Haiti Open Data,97073478]]"
-head_of_state: "[[_Standards/WikiData/WD~Transitional Presidential Council,124846311]]"
-head_of_government: "[[_Standards/WikiData/WD~Alix Didier Fils-Aimé,131140314]]"
+open_data_portal: "[[_Standards/WikiData/WD~Haiti_Open_Data,97073478]]"
+head_of_state: "[[_Standards/WikiData/WD~Transitional_Presidential_Council,124846311]]"
+head_of_government: "[[_Standards/WikiData/WD~Alix_Didier_Fils-Aimé,131140314]]"
 geoshape: "http://commons.wikimedia.org/data/main/Data:Haiti.map"
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Canaan%20%28Haiti%29%20banner.jpg"
 pronunciation_audio:
@@ -179,26 +179,26 @@ coordinates_of_northernmost_point: "Point(-72.8 20.08)"
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~Chile,298]]'
 - '[[_Standards/WikiData/WD~Venezuela,717]]'
-- "[[_Standards/WikiData/WD~Dominican Republic,786]]"
+- "[[_Standards/WikiData/WD~Dominican_Republic,786]]"
 - '[[_Standards/WikiData/WD~Israel,801]]'
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Bangladesh,902]]'
 - '[[_Standards/WikiData/WD~Canada,16]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Mexico,96]]'
 - '[[_Standards/WikiData/WD~France,142]]'
 - '[[_Standards/WikiData/WD~Brazil,155]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
 shares_border_with:
-- "[[_Standards/WikiData/WD~Dominican Republic,786]]"
-- "[[_Standards/WikiData/WD~Turks and Caicos Islands,18221]]"
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~Dominican_Republic,786]]"
+- "[[_Standards/WikiData/WD~Turks_and_Caicos_Islands,18221]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 country: '[[_Standards/WikiData/WD~Haiti,790]]'
-lowest_point: "[[_Standards/WikiData/WD~Caribbean Sea,1247]]"
-continent: "[[_Standards/WikiData/WD~North America,49]]"
+lowest_point: "[[_Standards/WikiData/WD~Caribbean_Sea,1247]]"
+continent: "[[_Standards/WikiData/WD~North_America,49]]"
 official_language:
 - '[[_Standards/WikiData/WD~French,150]]'
-- "[[_Standards/WikiData/WD~Haitian Creole,33491]]"
+- "[[_Standards/WikiData/WD~Haitian_Creole,33491]]"
 VAT_rate: 10
 compulsory_education_minimum_age_: 6
 unemployment_rate: 7

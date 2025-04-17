@@ -31,95 +31,95 @@ aliases:
 Languages:
 - en-GD
 located_in_on_physical_feature:
-- "[[_Standards/WikiData/WD~Lesser Antilles,93259]]"
-- "[[_Standards/WikiData/WD~Southern Caribbean,7569750]]"
+- "[[_Standards/WikiData/WD~Lesser_Antilles,93259]]"
+- "[[_Standards/WikiData/WD~Southern_Caribbean,7569750]]"
 part_of:
-- "[[_Standards/WikiData/WD~Lesser Antilles,93259]]"
+- "[[_Standards/WikiData/WD~Lesser_Antilles,93259]]"
 - '[[_Standards/WikiData/WD~Caribbean,664609]]'
-- "[[_Standards/WikiData/WD~European Union tax haven blacklist,66458647]]"
-- "[[_Standards/WikiData/WD~Windward Islands,107049386]]"
-flag: "[[_Standards/WikiData/WD~flag of Grenada,103414]]"
+- "[[_Standards/WikiData/WD~European_Union_tax_haven_blacklist,66458647]]"
+- "[[_Standards/WikiData/WD~Windward_Islands,107049386]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Grenada,103414]]"
 instance_of:
-- "[[_Standards/WikiData/WD~island country,112099]]"
-- "[[_Standards/WikiData/WD~Commonwealth realm,202686]]"
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
-- "[[_Standards/WikiData/WD~archipelagic state,13107770]]"
+- "[[_Standards/WikiData/WD~island_country,112099]]"
+- "[[_Standards/WikiData/WD~Commonwealth_realm,202686]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
+- "[[_Standards/WikiData/WD~archipelagic_state,13107770]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
 member_of:
-- "[[_Standards/WikiData/WD~Organization of American States,123759]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~Caribbean Community,205995]]"
-- "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~Alliance of Small Island States,496967]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Organization_of_American_States,123759]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~Caribbean_Community,205995]]"
+- "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~Alliance_of_Small_Island_States,496967]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
 - '[[_Standards/WikiData/WD~Petrocaribe,1735573]]'
-- "[[_Standards/WikiData/WD~Agency for the Prohibition of Nuclear Weapons in Latin America and the Caribbean,3369762]]"
-- "[[_Standards/WikiData/WD~Caribbean Development Bank,3772571]]"
-- "[[_Standards/WikiData/WD~Caribbean Disaster Emergency Management Agency,5039374]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~Commonwealth of Nations,7785]]"
+- "[[_Standards/WikiData/WD~Agency_for_the_Prohibition_of_Nuclear_Weapons_in_Latin_America_and_the_Caribbean,3369762]]"
+- "[[_Standards/WikiData/WD~Caribbean_Development_Bank,3772571]]"
+- "[[_Standards/WikiData/WD~Caribbean_Disaster_Emergency_Management_Agency,5039374]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Bolivarian Alliance for the Americas,8874]]"
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Grenada,504591]]"
+- "[[_Standards/WikiData/WD~Bolivarian_Alliance_for_the_Americas,8874]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Grenada,504591]]"
 different_from:
 - '[[_Standards/WikiData/WD~Grenada,521798]]'
 - '[[_Standards/WikiData/WD~Grenado,12348350]]'
-highest_point: "[[_Standards/WikiData/WD~Mount Saint Catherine,525281]]"
+highest_point: "[[_Standards/WikiData/WD~Mount_Saint_Catherine,525281]]"
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~911,533806]]'
 - '[[_Standards/WikiData/WD~434,25743506]]'
 - '[[_Standards/WikiData/WD~724,25743510]]'
 - '[[_Standards/WikiData/WD~774,25743511]]'
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Saint George Parish,576651]]"
-- "[[_Standards/WikiData/WD~Carriacou Island,795647]]"
-- "[[_Standards/WikiData/WD~Petite Martinique,967714]]"
-- "[[_Standards/WikiData/WD~Saint Andrew Parish,977183]]"
-- "[[_Standards/WikiData/WD~Saint Mark Parish,1291077]]"
-- "[[_Standards/WikiData/WD~Saint John Parish,1476289]]"
-- "[[_Standards/WikiData/WD~Saint Patrick Parish,1476309]]"
-- "[[_Standards/WikiData/WD~Saint David Parish,2087806]]"
-follows: "[[_Standards/WikiData/WD~West Indies Federation,652560]]"
-described_by_source: "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-central_bank: "[[_Standards/WikiData/WD~Eastern Caribbean Central Bank,1210260]]"
-legislative_body: "[[_Standards/WikiData/WD~Parliament of Grenada,1253647]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Grenada,1516422]]"
-electrical_plug_type: "[[_Standards/WikiData/WD~BS 1363,1528507]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Grenada,2477612]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Grenada,2984752]]"
+- "[[_Standards/WikiData/WD~Saint_George_Parish,576651]]"
+- "[[_Standards/WikiData/WD~Carriacou_Island,795647]]"
+- "[[_Standards/WikiData/WD~Petite_Martinique,967714]]"
+- "[[_Standards/WikiData/WD~Saint_Andrew_Parish,977183]]"
+- "[[_Standards/WikiData/WD~Saint_Mark_Parish,1291077]]"
+- "[[_Standards/WikiData/WD~Saint_John_Parish,1476289]]"
+- "[[_Standards/WikiData/WD~Saint_Patrick_Parish,1476309]]"
+- "[[_Standards/WikiData/WD~Saint_David_Parish,2087806]]"
+follows: "[[_Standards/WikiData/WD~West_Indies_Federation,652560]]"
+described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+central_bank: "[[_Standards/WikiData/WD~Eastern_Caribbean_Central_Bank,1210260]]"
+legislative_body: "[[_Standards/WikiData/WD~Parliament_of_Grenada,1253647]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Grenada,1516422]]"
+electrical_plug_type: "[[_Standards/WikiData/WD~BS_1363,1528507]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Grenada,2477612]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Grenada,2984752]]"
 language_used:
-- "[[_Standards/WikiData/WD~Saint Lucian Creole,3006285]]"
-- "[[_Standards/WikiData/WD~Grenadian Creole English,4252500]]"
+- "[[_Standards/WikiData/WD~Saint_Lucian_Creole,3006285]]"
+- "[[_Standards/WikiData/WD~Grenadian_Creole_English,4252500]]"
 - '[[_Standards/WikiData/WD~English,1860]]'
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Grenada,3044257]]"
-has_characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Grenada,3044257]]"
+has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
 official_language:
-- "[[_Standards/WikiData/WD~Grenadian Creole English,4252500]]"
+- "[[_Standards/WikiData/WD~Grenadian_Creole_English,4252500]]"
 - '[[_Standards/WikiData/WD~English,1860]]'
-culture: "[[_Standards/WikiData/WD~culture of Grenada,5193563]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Grenada,7112277]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Grenada,5193563]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Grenada,7112277]]"
 category_for_people_born_here: '[[_Standards/WikiData/WD~Q8082323,8082323]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Grenada,11168668]]'
 driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~monarch of Grenada,26869646]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~monarch_of_Grenada,26869646]]"
 permanent_duplicated_item:
 - '[[_Standards/WikiData/WD~Q27103680,27103680]]'
 - '[[_Standards/WikiData/WD~Q111268335,111268335]]'
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Grenada,30100613]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Grenada,30100613]]"
 detail_map: "http://commons.wikimedia.org/wiki/Special:FilePath/Grenada-CIA%20WFB%20Map.png"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~America_Grenada,109529664]]'
 - '[[_Standards/WikiData/WD~UTC−04_00,5762]]'
-head_of_government: "[[_Standards/WikiData/WD~Dickon Mitchell,112679881]]"
+head_of_government: "[[_Standards/WikiData/WD~Dickon_Mitchell,112679881]]"
 demonym:
 - ڭرينادي
 - ڭرينادية
@@ -176,34 +176,34 @@ coordinates_of_westernmost_point: "Point(-61.802 12.0027)"
 coordinates_of_easternmost_point: "Point(-61.3844 12.5164)"
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~Australia,408]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
-- "[[_Standards/WikiData/WD~Trinidad and Tobago,754]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
+- "[[_Standards/WikiData/WD~Trinidad_and_Tobago,754]]"
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
-- "[[_Standards/WikiData/WD~South Korea,884]]"
+- "[[_Standards/WikiData/WD~South_Korea,884]]"
 - '[[_Standards/WikiData/WD~Libya,1016]]'
 - '[[_Standards/WikiData/WD~Kosovo,1246]]'
-- "[[_Standards/WikiData/WD~Soviet Union,15180]]"
+- "[[_Standards/WikiData/WD~Soviet_Union,15180]]"
 - '[[_Standards/WikiData/WD~Canada,16]]'
 - '[[_Standards/WikiData/WD~Japan,17]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
-- "[[_Standards/WikiData/WD~United Kingdom,145]]"
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
+- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Georgia,230]]'
 - '[[_Standards/WikiData/WD~Cuba,241]]'
 - '[[_Standards/WikiData/WD~Barbados,244]]'
 shares_border_with: '[[_Standards/WikiData/WD~Venezuela,717]]'
 country: '[[_Standards/WikiData/WD~Grenada,769]]'
-lowest_point: "[[_Standards/WikiData/WD~Caribbean Sea,1247]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Caribbean Sea,1247]]"
+lowest_point: "[[_Standards/WikiData/WD~Caribbean_Sea,1247]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Caribbean_Sea,1247]]"
 named_after: '[[_Standards/WikiData/WD~Granada,8810]]'
-continent: "[[_Standards/WikiData/WD~North America,49]]"
+continent: "[[_Standards/WikiData/WD~North_America,49]]"
 VAT_rate: 15
 marriageable_age: 21
 mains_voltage: 230
 life_expectancy: 75
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.gd,41435]]'
-capital: "[[_Standards/WikiData/WD~St. George's,41547]]"
-head_of_state: "[[_Standards/WikiData/WD~Charles III,43274]]"
+capital: "[[_Standards/WikiData/WD~St._George's,41547]]"
+head_of_state: "[[_Standards/WikiData/WD~Charles_III,43274]]"
 Human_Development_Index: 0.795
 number_of_out_of_school_children: 1022
 total_fertility_rate: 2.149

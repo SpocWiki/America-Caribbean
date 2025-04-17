@@ -31,111 +31,111 @@ Languages:
 - en-BB
 has_id_wikidata: Q244
 part_of:
-- "[[_Standards/WikiData/WD~Lesser Antilles,93259]]"
-- "[[_Standards/WikiData/WD~Windward Islands,183416]]"
+- "[[_Standards/WikiData/WD~Lesser_Antilles,93259]]"
+- "[[_Standards/WikiData/WD~Windward_Islands,183416]]"
 - '[[_Standards/WikiData/WD~Caribbean,664609]]'
-- "[[_Standards/WikiData/WD~European Union tax haven blacklist,66458647]]"
-flag: "[[_Standards/WikiData/WD~flag of Barbados,104351]]"
+- "[[_Standards/WikiData/WD~European_Union_tax_haven_blacklist,66458647]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Barbados,104351]]"
 member_of:
-- "[[_Standards/WikiData/WD~Organization of American States,123759]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~Caribbean Community,205995]]"
-- "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~International Renewable Energy Agency,392739]]"
-- "[[_Standards/WikiData/WD~Alliance of Small Island States,496967]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Agency for the Prohibition of Nuclear Weapons in Latin America and the Caribbean,3369762]]"
-- "[[_Standards/WikiData/WD~Caribbean Development Bank,3772571]]"
-- "[[_Standards/WikiData/WD~Caribbean Disaster Emergency Management Agency,5039374]]"
-- "[[_Standards/WikiData/WD~Caribbean Free Trade Association,5039385]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~Commonwealth of Nations,7785]]"
+- "[[_Standards/WikiData/WD~Organization_of_American_States,123759]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~Caribbean_Community,205995]]"
+- "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~International_Renewable_Energy_Agency,392739]]"
+- "[[_Standards/WikiData/WD~Alliance_of_Small_Island_States,496967]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Agency_for_the_Prohibition_of_Nuclear_Weapons_in_Latin_America_and_the_Caribbean,3369762]]"
+- "[[_Standards/WikiData/WD~Caribbean_Development_Bank,3772571]]"
+- "[[_Standards/WikiData/WD~Caribbean_Disaster_Emergency_Management_Agency,5039374]]"
+- "[[_Standards/WikiData/WD~Caribbean_Free_Trade_Association,5039385]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Barbados,237852]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Barbados,237852]]"
 different_from:
 - '[[_Standards/WikiData/WD~Barbuda,238752]]'
 - '[[_Standards/WikiData/WD~Barbatos,2331361]]'
 - '[[_Standards/WikiData/WD~Barbados,30151210]]'
-- "[[_Standards/WikiData/WD~The Bahamas,778]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~North Atlantic Ocean,350134]]"
-anthem: "[[_Standards/WikiData/WD~National Anthem of Barbados,505717]]"
+- "[[_Standards/WikiData/WD~The_Bahamas,778]]"
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~North_Atlantic_Ocean,350134]]"
+anthem: "[[_Standards/WikiData/WD~National_Anthem_of_Barbados,505717]]"
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~911,533806]]'
 - '[[_Standards/WikiData/WD~511,25648820]]'
 - '[[_Standards/WikiData/WD~211,25743482]]'
 - '[[_Standards/WikiData/WD~311,25743486]]'
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Saint Joseph,550249]]"
-- "[[_Standards/WikiData/WD~Saint James,592141]]"
-- "[[_Standards/WikiData/WD~Saint Michael,819170]]"
-- "[[_Standards/WikiData/WD~Saint Peter,932723]]"
-- "[[_Standards/WikiData/WD~Christ Church,1626524]]"
-- "[[_Standards/WikiData/WD~Saint John,1626540]]"
-- "[[_Standards/WikiData/WD~Saint Thomas,1647432]]"
-- "[[_Standards/WikiData/WD~Saint Andrew,1647439]]"
-- "[[_Standards/WikiData/WD~Saint Philip,1647436]]"
-- "[[_Standards/WikiData/WD~Saint George,1647443]]"
-- "[[_Standards/WikiData/WD~Saint Lucy,1647447]]"
+- "[[_Standards/WikiData/WD~Saint_Joseph,550249]]"
+- "[[_Standards/WikiData/WD~Saint_James,592141]]"
+- "[[_Standards/WikiData/WD~Saint_Michael,819170]]"
+- "[[_Standards/WikiData/WD~Saint_Peter,932723]]"
+- "[[_Standards/WikiData/WD~Christ_Church,1626524]]"
+- "[[_Standards/WikiData/WD~Saint_John,1626540]]"
+- "[[_Standards/WikiData/WD~Saint_Thomas,1647432]]"
+- "[[_Standards/WikiData/WD~Saint_Andrew,1647439]]"
+- "[[_Standards/WikiData/WD~Saint_Philip,1647436]]"
+- "[[_Standards/WikiData/WD~Saint_George,1647443]]"
+- "[[_Standards/WikiData/WD~Saint_Lucy,1647447]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus and Efron Encyclopedic Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Pax Leksikon,3351707]]"
-- "[[_Standards/WikiData/WD~Sytin Military Encyclopedia,4114391]]"
-- "[[_Standards/WikiData/WD~Jewish Encyclopedia of Brockhaus and Efron,4173137]]"
-- "[[_Standards/WikiData/WD~Small Brockhaus and Efron Encyclopedic Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Great Soviet Encyclopedia (1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~TASS Encyclopedia,63985075]]"
-follows: "[[_Standards/WikiData/WD~West Indies Federation,652560]]"
+- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]"
+- "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+- "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+- "[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]"
+follows: "[[_Standards/WikiData/WD~West_Indies_Federation,652560]]"
 located_in_on_physical_feature:
 - '[[_Standards/WikiData/WD~Caribbean,664609]]'
 - '[[_Standards/WikiData/WD~Barbados,30151210]]'
-highest_point: "[[_Standards/WikiData/WD~Mount Hillaby,1854502]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Barbados,2206741]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Barbados,2395344]]"
+highest_point: "[[_Standards/WikiData/WD~Mount_Hillaby,1854502]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Barbados,2206741]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Barbados,2395344]]"
 official_language:
-- "[[_Standards/WikiData/WD~Bajan Creole,2524014]]"
+- "[[_Standards/WikiData/WD~Bajan_Creole,2524014]]"
 - '[[_Standards/WikiData/WD~English,1860]]'
 language_used:
-- "[[_Standards/WikiData/WD~Bajan Creole,2524014]]"
+- "[[_Standards/WikiData/WD~Bajan_Creole,2524014]]"
 - '[[_Standards/WikiData/WD~English,1860]]'
-legislative_body: "[[_Standards/WikiData/WD~Parliament of Barbados,2565909]]"
-central_bank: "[[_Standards/WikiData/WD~Central Bank of Barbados,2600777]]"
-culture: "[[_Standards/WikiData/WD~culture of Barbados,3007256]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Barbados,3044237]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Barbados,3098021]]"
-has_characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
-instance_of: "[[_Standards/WikiData/WD~sovereign state,3624078]]"
-executive_body: "[[_Standards/WikiData/WD~Government of Barbados,5589182]]"
-head_of_government: "[[_Standards/WikiData/WD~Mia Mottley,6827147]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Barbados,7112198]]"
-head_of_state: "[[_Standards/WikiData/WD~Sandra Mason,9333540]]"
+legislative_body: "[[_Standards/WikiData/WD~Parliament_of_Barbados,2565909]]"
+central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_Barbados,2600777]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Barbados,3007256]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Barbados,3044237]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Barbados,3098021]]"
+has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
+instance_of: "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
+executive_body: "[[_Standards/WikiData/WD~Government_of_Barbados,5589182]]"
+head_of_government: "[[_Standards/WikiData/WD~Mia_Mottley,6827147]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Barbados,7112198]]"
+head_of_state: "[[_Standards/WikiData/WD~Sandra_Mason,9333540]]"
 driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject African diaspora,15304953]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Barbados,15921525]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Barbados,15921525]]"
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Barbados,19678128]]'
 electrical_plug_type:
-- "[[_Standards/WikiData/WD~NEMA 1-15,24288454]]"
-- "[[_Standards/WikiData/WD~NEMA 5-15,24288456]]"
+- "[[_Standards/WikiData/WD~NEMA_1-15,24288454]]"
+- "[[_Standards/WikiData/WD~NEMA_5-15,24288456]]"
 permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27103721,27103721]]'
 category_for_people_buried_here: '[[_Standards/WikiData/WD~Q32381300,32381300]]'
 coordinates_of_easternmost_point: "Point(-59.42011088 13.14895906)"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~America_Barbados,63286056]]'
 - '[[_Standards/WikiData/WD~UTC−04_00,5762]]'
-replaces: "[[_Standards/WikiData/WD~Colony of Barbados,63973349]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Barbados,108857904]]"
+replaces: "[[_Standards/WikiData/WD~Colony_of_Barbados,63973349]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Barbados,108857904]]"
 coordinates_of_northernmost_point: "Point(-59.61299524 13.33516516)"
 coordinates_of_southernmost_point: "Point(-59.52732481 13.04488993)"
 nominal_GDP:
@@ -190,25 +190,25 @@ MeSH_tree_code:
 - Z01.639.880.140
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~Australia,408]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~Suriname,730]]'
 - '[[_Standards/WikiData/WD~Guyana,734]]'
-- "[[_Standards/WikiData/WD~Trinidad and Tobago,754]]"
+- "[[_Standards/WikiData/WD~Trinidad_and_Tobago,754]]"
 - '[[_Standards/WikiData/WD~Grenada,769]]'
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Nigeria,1033]]'
 - '[[_Standards/WikiData/WD~Kosovo,1246]]'
 - '[[_Standards/WikiData/WD~Canada,16]]'
 - '[[_Standards/WikiData/WD~Japan,17]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~Hungary,28]]'
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~United Kingdom,145]]"
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Brazil,155]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
-continent: "[[_Standards/WikiData/WD~North America,49]]"
-lowest_point: "[[_Standards/WikiData/WD~Atlantic Ocean,97]]"
+continent: "[[_Standards/WikiData/WD~North_America,49]]"
+lowest_point: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
 literacy_rate: 100
 country: '[[_Standards/WikiData/WD~Barbados,244]]'
 suicide_rate: 0.7

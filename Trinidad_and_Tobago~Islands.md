@@ -10,110 +10,110 @@ SpocWebEntityId: 27040
 isDeleted: false
 confidential: public
 part_of:
-- "[[_Standards/WikiData/WD~Lesser Antilles,93259]]"
+- "[[_Standards/WikiData/WD~Lesser_Antilles,93259]]"
 - '[[_Standards/WikiData/WD~Caribbean,664609]]'
-- "[[_Standards/WikiData/WD~European Union tax haven blacklist,66458647]]"
+- "[[_Standards/WikiData/WD~European_Union_tax_haven_blacklist,66458647]]"
 instance_of:
-- "[[_Standards/WikiData/WD~island country,112099]]"
-- "[[_Standards/WikiData/WD~unitary state,179164]]"
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
-- "[[_Standards/WikiData/WD~archipelagic state,13107770]]"
+- "[[_Standards/WikiData/WD~island_country,112099]]"
+- "[[_Standards/WikiData/WD~unitary_state,179164]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
+- "[[_Standards/WikiData/WD~archipelagic_state,13107770]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
 member_of:
-- "[[_Standards/WikiData/WD~Organization of American States,123759]]"
-- "[[_Standards/WikiData/WD~World Meteorological Organization,170424]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~Caribbean Community,205995]]"
-- "[[_Standards/WikiData/WD~International Hydrographic Organization,233611]]"
-- "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~Alliance of Small Island States,496967]]"
-- "[[_Standards/WikiData/WD~World Customs Organization,605326]]"
-- "[[_Standards/WikiData/WD~International Finance Corporation,656801]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Agency for the Prohibition of Nuclear Weapons in Latin America and the Caribbean,3369762]]"
-- "[[_Standards/WikiData/WD~Caribbean Development Bank,3772571]]"
-- "[[_Standards/WikiData/WD~Caribbean Disaster Emergency Management Agency,5039374]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~Commonwealth of Nations,7785]]"
+- "[[_Standards/WikiData/WD~Organization_of_American_States,123759]]"
+- "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~Caribbean_Community,205995]]"
+- "[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]"
+- "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~Alliance_of_Small_Island_States,496967]]"
+- "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+- "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Agency_for_the_Prohibition_of_Nuclear_Weapons_in_Latin_America_and_the_Caribbean,3369762]]"
+- "[[_Standards/WikiData/WD~Caribbean_Development_Bank,3772571]]"
+- "[[_Standards/WikiData/WD~Caribbean_Disaster_Emergency_Management_Agency,5039374]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
 named_after:
 - '[[_Standards/WikiData/WD~Trinidad,128323]]'
 - '[[_Standards/WikiData/WD~Tobago,185111]]'
-flag: "[[_Standards/WikiData/WD~flag of Trinidad and Tobago,184283]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Trinidad_and_Tobago,184283]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Sangre Grande Regional Corporation,290292]]"
+- "[[_Standards/WikiData/WD~Sangre_Grande_Regional_Corporation,290292]]"
 - '[[_Standards/WikiData/WD~Arima,661405]]'
-- "[[_Standards/WikiData/WD~Point Fortin,786957]]"
-- "[[_Standards/WikiData/WD~San Juan–Laventille,979608]]"
-- "[[_Standards/WikiData/WD~San Fernando,1023712]]"
+- "[[_Standards/WikiData/WD~Point_Fortin,786957]]"
+- "[[_Standards/WikiData/WD~San_Juan–Laventille,979608]]"
+- "[[_Standards/WikiData/WD~San_Fernando,1023712]]"
 - '[[_Standards/WikiData/WD~Chaguanas,1444575]]'
-- "[[_Standards/WikiData/WD~Tunapuna-Piarco Regional Corporation,1899163]]"
-- "[[_Standards/WikiData/WD~Penal-Debe Regional Corporation,2056273]]"
-- "[[_Standards/WikiData/WD~Princes Town,2228167]]"
-- "[[_Standards/WikiData/WD~Mayaro-Rio Claro,2487249]]"
-- "[[_Standards/WikiData/WD~Diego Martin Regional Corporation,2679107]]"
-- "[[_Standards/WikiData/WD~Siparia Regional Corporation,2679119]]"
+- "[[_Standards/WikiData/WD~Tunapuna-Piarco_Regional_Corporation,1899163]]"
+- "[[_Standards/WikiData/WD~Penal-Debe_Regional_Corporation,2056273]]"
+- "[[_Standards/WikiData/WD~Princes_Town,2228167]]"
+- "[[_Standards/WikiData/WD~Mayaro-Rio_Claro,2487249]]"
+- "[[_Standards/WikiData/WD~Diego_Martin_Regional_Corporation,2679107]]"
+- "[[_Standards/WikiData/WD~Siparia_Regional_Corporation,2679119]]"
 - '[[_Standards/WikiData/WD~Couva-Tabaquite-Talparo,2679127]]'
-- "[[_Standards/WikiData/WD~Port of Spain,39178]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Trinidad and Tobago,387546]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Trinidad and Tobago,461780]]"
+- "[[_Standards/WikiData/WD~Port_of_Spain,39178]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Trinidad_and_Tobago,387546]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Trinidad_and_Tobago,461780]]"
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~911,533806]]'
 - '[[_Standards/WikiData/WD~999,3086706]]'
 - '[[_Standards/WikiData/WD~990,25648918]]'
 - '[[_Standards/WikiData/WD~811,25648916]]'
 follows:
-- "[[_Standards/WikiData/WD~West Indies Federation,652560]]"
-- "[[_Standards/WikiData/WD~British Windward Islands,2660774]]"
+- "[[_Standards/WikiData/WD~West_Indies_Federation,652560]]"
+- "[[_Standards/WikiData/WD~British_Windward_Islands,2660774]]"
 located_in_on_physical_feature:
 - '[[_Standards/WikiData/WD~Caribbean,664609]]'
-- "[[_Standards/WikiData/WD~Southern Caribbean,7569750]]"
-has_subsidiary: "[[_Standards/WikiData/WD~BWIA West Indies Airways,797197]]"
-anthem: "[[_Standards/WikiData/WD~Forged from the Love of Liberty,849863]]"
-highest_point: "[[_Standards/WikiData/WD~El Cerro del Aripo,1056103]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Trinidad and Tobago,1080177]]"
+- "[[_Standards/WikiData/WD~Southern_Caribbean,7569750]]"
+has_subsidiary: "[[_Standards/WikiData/WD~BWIA_West_Indies_Airways,797197]]"
+anthem: "[[_Standards/WikiData/WD~Forged_from_the_Love_of_Liberty,849863]]"
+highest_point: "[[_Standards/WikiData/WD~El_Cerro_del_Aripo,1056103]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Trinidad_and_Tobago,1080177]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Gujin Tushu Jicheng,1768721]]"
-- "[[_Standards/WikiData/WD~History of Ming,28763]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Trinidad and Tobago,2494890]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~President of Trinidad and Tobago,2522739]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Trinidad and Tobago,2562971]]"
-has_characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
-basic_form_of_government: "[[_Standards/WikiData/WD~parliamentary republic,4198907]]"
-central_bank: "[[_Standards/WikiData/WD~Central Bank of Trinidad and Tobago,4504281]]"
-culture: "[[_Standards/WikiData/WD~culture of Trinidad and Tobago,5193653]]"
-head_of_government: "[[_Standards/WikiData/WD~Keith Rowley,6384971]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Trinidad and Tobago,7112491]]"
-legislative_body: "[[_Standards/WikiData/WD~Parliament of Trinidad and Tobago,7138943]]"
+- "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+- "[[_Standards/WikiData/WD~History_of_Ming,28763]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Trinidad_and_Tobago,2494890]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~President_of_Trinidad_and_Tobago,2522739]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Trinidad_and_Tobago,2562971]]"
+has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
+basic_form_of_government: "[[_Standards/WikiData/WD~parliamentary_republic,4198907]]"
+central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_Trinidad_and_Tobago,4504281]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Trinidad_and_Tobago,5193653]]"
+head_of_government: "[[_Standards/WikiData/WD~Keith_Rowley,6384971]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Trinidad_and_Tobago,7112491]]"
+legislative_body: "[[_Standards/WikiData/WD~Parliament_of_Trinidad_and_Tobago,7138943]]"
 language_used:
-- "[[_Standards/WikiData/WD~Tobagonian Creole,7811541]]"
-- "[[_Standards/WikiData/WD~Trinidadian Sign Language,7842495]]"
-- "[[_Standards/WikiData/WD~Trinidadian Creole,7842493]]"
+- "[[_Standards/WikiData/WD~Tobagonian_Creole,7811541]]"
+- "[[_Standards/WikiData/WD~Trinidadian_Sign_Language,7842495]]"
+- "[[_Standards/WikiData/WD~Trinidadian_Creole,7842493]]"
 - '[[_Standards/WikiData/WD~English,1860]]'
-replaces: "[[_Standards/WikiData/WD~Trinidad and Tobago,7842409]]"
+replaces: "[[_Standards/WikiData/WD~Trinidad_and_Tobago,7842409]]"
 driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Trinidad and Tobago,14616297]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Trinidad_and_Tobago,14616297]]"
 electrical_plug_type:
-- "[[_Standards/WikiData/WD~NEMA 1-15,24288454]]"
-- "[[_Standards/WikiData/WD~NEMA 5-15,24288456]]"
+- "[[_Standards/WikiData/WD~NEMA_1-15,24288454]]"
+- "[[_Standards/WikiData/WD~NEMA_5-15,24288456]]"
 permanent_duplicated_item:
 - '[[_Standards/WikiData/WD~Q25690660,25690660]]'
 - '[[_Standards/WikiData/WD~Q111268146,111268146]]'
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Trinidad and Tobago,30101326]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject Zika Corpus,54439832]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Trinidad_and_Tobago,30101326]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~America_Port_of_Spain,63286103]]'
 - '[[_Standards/WikiData/WD~UTC−04_00,5762]]'
 open_data_portal: '[[_Standards/WikiData/WD~data.gov.tt,97073756]]'
-head_of_state: "[[_Standards/WikiData/WD~Christine Kangaloo,97400315]]"
+head_of_state: "[[_Standards/WikiData/WD~Christine_Kangaloo,97400315]]"
 coordinates_of_southernmost_point: "Point(-61.6272 10.05632)"
 nominal_GDP:
 - 24460196270
@@ -151,26 +151,26 @@ motto_text:
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~Chile,298]]'
 - '[[_Standards/WikiData/WD~Australia,408]]'
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~India,668]]'
 - '[[_Standards/WikiData/WD~Jamaica,766]]'
 - '[[_Standards/WikiData/WD~Grenada,769]]'
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
 - '[[_Standards/WikiData/WD~Bangladesh,902]]'
 - '[[_Standards/WikiData/WD~Japan,17]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 - '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~United Kingdom,145]]"
-- "[[_Standards/WikiData/WD~People's Republic of China,148]]"
+- "[[_Standards/WikiData/WD~United_Kingdom,145]]"
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
 - '[[_Standards/WikiData/WD~Russia,159]]'
 - '[[_Standards/WikiData/WD~Germany,183]]'
 - '[[_Standards/WikiData/WD~Cuba,241]]'
 - '[[_Standards/WikiData/WD~Barbados,244]]'
 shares_border_with: '[[_Standards/WikiData/WD~Venezuela,717]]'
-country: "[[_Standards/WikiData/WD~Trinidad and Tobago,754]]"
-lowest_point: "[[_Standards/WikiData/WD~Caribbean Sea,1247]]"
+country: "[[_Standards/WikiData/WD~Trinidad_and_Tobago,754]]"
+lowest_point: "[[_Standards/WikiData/WD~Caribbean_Sea,1247]]"
 official_language: '[[_Standards/WikiData/WD~English,1860]]'
-continent: "[[_Standards/WikiData/WD~North America,49]]"
+continent: "[[_Standards/WikiData/WD~North_America,49]]"
 unemployment_rate: 4
 marriageable_age: 18
 age_of_majority: 18
@@ -183,7 +183,7 @@ Human_Development_Index: 0.81
 suicide_rate: 8.3
 mains_voltage: 115
 VAT_rate: 12.5
-capital: "[[_Standards/WikiData/WD~Port of Spain,39178]]"
+capital: "[[_Standards/WikiData/WD~Port_of_Spain,39178]]"
 Happy_Planet_Index_score: 31.6
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.tt,43118]]'
 Gini_coefficient: 40.3

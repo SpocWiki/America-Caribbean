@@ -27,80 +27,80 @@ publishDate:
 expiryDate: 
 has_id_wikidata: Q757
 part_of:
-- "[[_Standards/WikiData/WD~Lesser Antilles,93259]]"
+- "[[_Standards/WikiData/WD~Lesser_Antilles,93259]]"
 - '[[_Standards/WikiData/WD~Caribbean,664609]]'
 instance_of:
-- "[[_Standards/WikiData/WD~island country,112099]]"
-- "[[_Standards/WikiData/WD~Commonwealth realm,202686]]"
-- "[[_Standards/WikiData/WD~sovereign state,3624078]]"
-- "[[_Standards/WikiData/WD~archipelagic state,13107770]]"
+- "[[_Standards/WikiData/WD~island_country,112099]]"
+- "[[_Standards/WikiData/WD~Commonwealth_realm,202686]]"
+- "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
+- "[[_Standards/WikiData/WD~archipelagic_state,13107770]]"
 - '[[_Standards/WikiData/WD~country,6256]]'
 member_of:
-- "[[_Standards/WikiData/WD~Organization of American States,123759]]"
-- "[[_Standards/WikiData/WD~International Bank for Reconstruction and Development,191384]]"
-- "[[_Standards/WikiData/WD~Caribbean Community,205995]]"
-- "[[_Standards/WikiData/WD~Organisation of African, Caribbean and Pacific States,294278]]"
-- "[[_Standards/WikiData/WD~International Telecommunication Union,376150]]"
-- "[[_Standards/WikiData/WD~Alliance of Small Island States,496967]]"
-- "[[_Standards/WikiData/WD~International Development Association,827525]]"
-- "[[_Standards/WikiData/WD~Organisation for the Prohibition of Chemical Weapons,842490]]"
-- "[[_Standards/WikiData/WD~International Centre for Settlement of Investment Disputes,899770]]"
-- "[[_Standards/WikiData/WD~Multilateral Investment Guarantee Agency,1043527]]"
-- "[[_Standards/WikiData/WD~Agency for the Prohibition of Nuclear Weapons in Latin America and the Caribbean,3369762]]"
-- "[[_Standards/WikiData/WD~Caribbean Development Bank,3772571]]"
-- "[[_Standards/WikiData/WD~Caribbean Disaster Emergency Management Agency,5039374]]"
-- "[[_Standards/WikiData/WD~United Nations,1065]]"
-- "[[_Standards/WikiData/WD~Commonwealth of Nations,7785]]"
+- "[[_Standards/WikiData/WD~Organization_of_American_States,123759]]"
+- "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+- "[[_Standards/WikiData/WD~Caribbean_Community,205995]]"
+- "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
+- "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+- "[[_Standards/WikiData/WD~Alliance_of_Small_Island_States,496967]]"
+- "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+- "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+- "[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]"
+- "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+- "[[_Standards/WikiData/WD~Agency_for_the_Prohibition_of_Nuclear_Weapons_in_Latin_America_and_the_Caribbean,3369762]]"
+- "[[_Standards/WikiData/WD~Caribbean_Development_Bank,3772571]]"
+- "[[_Standards/WikiData/WD~Caribbean_Disaster_Emergency_Management_Agency,5039374]]"
+- "[[_Standards/WikiData/WD~United_Nations,1065]]"
+- "[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]"
 - '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- "[[_Standards/WikiData/WD~World Health Organization,7817]]"
-- "[[_Standards/WikiData/WD~World Trade Organization,7825]]"
+- "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+- "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
 - '[[_Standards/WikiData/WD~Interpol,8475]]'
-- "[[_Standards/WikiData/WD~Universal Postal Union UPU,17495]]"
-flag: "[[_Standards/WikiData/WD~flag of Saint Vincent and the Grenadines,184584]]"
+- "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Saint_Vincent_and_the_Grenadines,184584]]"
 named_after:
-- "[[_Standards/WikiData/WD~Vincent of Saragossa,318974]]"
+- "[[_Standards/WikiData/WD~Vincent_of_Saragossa,318974]]"
 - '[[_Standards/WikiData/WD~pomegranate,13222088]]'
-coat_of_arms: "[[_Standards/WikiData/WD~coat of arms of Saint Vincent and the Grenadines,330184]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Saint_Vincent_and_the_Grenadines,330184]]"
 emergency_phone_number:
 - '[[_Standards/WikiData/WD~911,533806]]'
 - '[[_Standards/WikiData/WD~999,3086706]]'
-economy_of_topic: "[[_Standards/WikiData/WD~economy of Saint Vincent and the Grenadines,597709]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Saint_Vincent_and_the_Grenadines,597709]]"
 follows:
-- "[[_Standards/WikiData/WD~West Indies Federation,652560]]"
-- "[[_Standards/WikiData/WD~Saint Vincent,15240384]]"
-anthem: "[[_Standards/WikiData/WD~Saint Vincent Land so Beautiful,1064024]]"
-legislative_body: "[[_Standards/WikiData/WD~House of Assembly of Saint Vincent and the Grenadines,1138357]]"
-central_bank: "[[_Standards/WikiData/WD~Eastern Caribbean Central Bank,1210260]]"
+- "[[_Standards/WikiData/WD~West_Indies_Federation,652560]]"
+- "[[_Standards/WikiData/WD~Saint_Vincent,15240384]]"
+anthem: "[[_Standards/WikiData/WD~Saint_Vincent_Land_so_Beautiful,1064024]]"
+legislative_body: "[[_Standards/WikiData/WD~House_of_Assembly_of_Saint_Vincent_and_the_Grenadines,1138357]]"
+central_bank: "[[_Standards/WikiData/WD~Eastern_Caribbean_Central_Bank,1210260]]"
 electrical_plug_type:
 - '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- "[[_Standards/WikiData/WD~Type K,1502017]]"
-- "[[_Standards/WikiData/WD~BS 1363,1528507]]"
-- "[[_Standards/WikiData/WD~AS_NZS 3112,2335539]]"
-- "[[_Standards/WikiData/WD~Type E,2335536]]"
-- "[[_Standards/WikiData/WD~NEMA 1-15,24288454]]"
-history_of_topic: "[[_Standards/WikiData/WD~history of Saint Vincent and the Grenadines,1517663]]"
+- "[[_Standards/WikiData/WD~Type_K,1502017]]"
+- "[[_Standards/WikiData/WD~BS_1363,1528507]]"
+- "[[_Standards/WikiData/WD~AS_NZS_3112,2335539]]"
+- "[[_Standards/WikiData/WD~Type_E,2335536]]"
+- "[[_Standards/WikiData/WD~NEMA_1-15,24288454]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Saint_Vincent_and_the_Grenadines,1517663]]"
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Saint Patrick Parish,1864637]]"
-- "[[_Standards/WikiData/WD~Charlotte Parish,2075188]]"
-- "[[_Standards/WikiData/WD~Saint George Parish,2300294]]"
-- "[[_Standards/WikiData/WD~Saint Andrew Parish,2305115]]"
-- "[[_Standards/WikiData/WD~Saint David Parish,2412394]]"
-- "[[_Standards/WikiData/WD~Grenadines Parish,2545297]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics of Saint Vincent and the Grenadines,3044129]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography of Saint Vincent and the Grenadines,3097965]]"
-has_characteristic: "[[_Standards/WikiData/WD~free country,3174312]]"
+- "[[_Standards/WikiData/WD~Saint_Patrick_Parish,1864637]]"
+- "[[_Standards/WikiData/WD~Charlotte_Parish,2075188]]"
+- "[[_Standards/WikiData/WD~Saint_George_Parish,2300294]]"
+- "[[_Standards/WikiData/WD~Saint_Andrew_Parish,2305115]]"
+- "[[_Standards/WikiData/WD~Saint_David_Parish,2412394]]"
+- "[[_Standards/WikiData/WD~Grenadines_Parish,2545297]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Saint_Vincent_and_the_Grenadines,3044129]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Saint_Vincent_and_the_Grenadines,3097965]]"
+has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
 language_used:
-- "[[_Standards/WikiData/WD~Vincentian Creole,3501785]]"
+- "[[_Standards/WikiData/WD~Vincentian_Creole,3501785]]"
 - '[[_Standards/WikiData/WD~English,1860]]'
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline of Saint Vincent and the Grenadines,7112439]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Southern Caribbean,7569750]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Saint_Vincent_and_the_Grenadines,7112439]]"
+located_in_on_physical_feature: "[[_Standards/WikiData/WD~Southern_Caribbean,7569750]]"
 driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
 permanent_duplicated_item:
 - '[[_Standards/WikiData/WD~Q25690656,25690656]]'
 - '[[_Standards/WikiData/WD~Q111268312,111268312]]'
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~monarch of Saint Vincent and the Grenadines,26869653]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Saint Vincent and the Grenadines,28334371]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime Minister of Saint Vincent and the Grenadines,30101507]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~monarch_of_Saint_Vincent_and_the_Grenadines,26869653]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Saint_Vincent_and_the_Grenadines,28334371]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Saint_Vincent_and_the_Grenadines,30101507]]"
 located_in_time_zone:
 - '[[_Standards/WikiData/WD~America_St_Vincent,109529581]]'
 - '[[_Standards/WikiData/WD~UTC−04_00,5762]]'
@@ -148,15 +148,15 @@ nominal_GDP:
 - 948558503
 - 872226064
 diplomatic_relation:
-- "[[_Standards/WikiData/WD~North Korea,423]]"
+- "[[_Standards/WikiData/WD~North_Korea,423]]"
 - '[[_Standards/WikiData/WD~Taiwan,865]]'
-- "[[_Standards/WikiData/WD~United States,30]]"
+- "[[_Standards/WikiData/WD~United_States,30]]"
 shares_border_with: '[[_Standards/WikiData/WD~Venezuela,717]]'
-country: "[[_Standards/WikiData/WD~Saint Vincent and the Grenadines,757]]"
-lowest_point: "[[_Standards/WikiData/WD~Caribbean Sea,1247]]"
+country: "[[_Standards/WikiData/WD~Saint_Vincent_and_the_Grenadines,757]]"
+lowest_point: "[[_Standards/WikiData/WD~Caribbean_Sea,1247]]"
 official_language: '[[_Standards/WikiData/WD~English,1860]]'
-highest_point: "[[_Standards/WikiData/WD~La Soufrière,26544]]"
-continent: "[[_Standards/WikiData/WD~North America,49]]"
+highest_point: "[[_Standards/WikiData/WD~La_Soufrière,26544]]"
+continent: "[[_Standards/WikiData/WD~North_America,49]]"
 marriageable_age:
 - 15
 - 16
@@ -168,12 +168,12 @@ death_rate:
 - 13.425
 - 14.004
 capital: '[[_Standards/WikiData/WD~Kingstown,41474]]'
-basic_form_of_government: "[[_Standards/WikiData/WD~constitutional monarchy,41614]]"
+basic_form_of_government: "[[_Standards/WikiData/WD~constitutional_monarchy,41614]]"
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.vc,42863]]'
-head_of_state: "[[_Standards/WikiData/WD~Charles III,43274]]"
+head_of_state: "[[_Standards/WikiData/WD~Charles_III,43274]]"
 area: 389
 Human_Development_Index: 0.751
-head_of_government: "[[_Standards/WikiData/WD~Ralph Gonsalves,57800]]"
+head_of_government: "[[_Standards/WikiData/WD~Ralph_Gonsalves,57800]]"
 number_of_out_of_school_children: 1194
 total_fertility_rate: 1.974
 maritime_identification_digits:
