@@ -41,15 +41,17 @@ markerFolder: ./Trinity_Palmetto_Point/
 
 ## Confidential Links & Embeds: 
 
-### [Trinity_Palmetto_Point.public](/_public/\Earth\Continent\America~Caribbean\Saint_Kitts_and_Nevis~Islands\parishes~Saint_Kitts_and_NevisTrinity_Palmetto_Point.public.md) 
+### [Trinity_Palmetto_Point](/_Standards/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Trinity_Palmetto_Point.md) 
 
-### [Trinity_Palmetto_Point.internal](/_internal/\Earth\Continent\America~Caribbean\Saint_Kitts_and_Nevis~Islands\parishes~Saint_Kitts_and_NevisTrinity_Palmetto_Point.internal.md) 
+### [Trinity_Palmetto_Point.public](/_public/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Trinity_Palmetto_Point.public.md) 
 
-### [Trinity_Palmetto_Point.protect](/_protect/\Earth\Continent\America~Caribbean\Saint_Kitts_and_Nevis~Islands\parishes~Saint_Kitts_and_NevisTrinity_Palmetto_Point.protect.md) 
+### [Trinity_Palmetto_Point.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Trinity_Palmetto_Point.internal.md) 
 
-### [Trinity_Palmetto_Point.private](/_private/\Earth\Continent\America~Caribbean\Saint_Kitts_and_Nevis~Islands\parishes~Saint_Kitts_and_NevisTrinity_Palmetto_Point.private.md) 
+### [Trinity_Palmetto_Point.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Trinity_Palmetto_Point.protect.md) 
 
-### [Trinity_Palmetto_Point.personal](/_personal/\Earth\Continent\America~Caribbean\Saint_Kitts_and_Nevis~Islands\parishes~Saint_Kitts_and_NevisTrinity_Palmetto_Point.personal.md) 
+### [Trinity_Palmetto_Point.private](/_private/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Trinity_Palmetto_Point.private.md) 
 
-### [Trinity_Palmetto_Point.secret](/_secret/\Earth\Continent\America~Caribbean\Saint_Kitts_and_Nevis~Islands\parishes~Saint_Kitts_and_NevisTrinity_Palmetto_Point.secret.md)
+### [Trinity_Palmetto_Point.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Trinity_Palmetto_Point.personal.md) 
+
+### [Trinity_Palmetto_Point.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Trinity_Palmetto_Point.secret.md)
 

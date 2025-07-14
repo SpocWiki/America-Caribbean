@@ -41,15 +41,17 @@ markerFolder: ./Ragged_Island/
 
 ## Confidential Links & Embeds: 
 
-### [Ragged_Island.public](/_public/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasRagged_Island.public.md) 
+### [Ragged_Island](/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Ragged_Island.md) 
 
-### [Ragged_Island.internal](/_internal/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasRagged_Island.internal.md) 
+### [Ragged_Island.public](/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Ragged_Island.public.md) 
 
-### [Ragged_Island.protect](/_protect/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasRagged_Island.protect.md) 
+### [Ragged_Island.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Ragged_Island.internal.md) 
 
-### [Ragged_Island.private](/_private/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasRagged_Island.private.md) 
+### [Ragged_Island.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Ragged_Island.protect.md) 
 
-### [Ragged_Island.personal](/_personal/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasRagged_Island.personal.md) 
+### [Ragged_Island.private](/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Ragged_Island.private.md) 
 
-### [Ragged_Island.secret](/_secret/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasRagged_Island.secret.md)
+### [Ragged_Island.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Ragged_Island.personal.md) 
+
+### [Ragged_Island.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Ragged_Island.secret.md)
 

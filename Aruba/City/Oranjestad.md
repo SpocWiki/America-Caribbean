@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Oranjestad.public](/_public/\Earth\Continent\America~Caribbean\Aruba\CityOranjestad.public.md) 
+### [Oranjestad](/_Standards/Earth/Continent/America~Caribbean/Aruba/City/Oranjestad.md) 
 
-### [Oranjestad.internal](/_internal/\Earth\Continent\America~Caribbean\Aruba\CityOranjestad.internal.md) 
+### [Oranjestad.public](/_public/Earth/Continent/America~Caribbean/Aruba/City/Oranjestad.public.md) 
 
-### [Oranjestad.protect](/_protect/\Earth\Continent\America~Caribbean\Aruba\CityOranjestad.protect.md) 
+### [Oranjestad.internal](/_internal/Earth/Continent/America~Caribbean/Aruba/City/Oranjestad.internal.md) 
 
-### [Oranjestad.private](/_private/\Earth\Continent\America~Caribbean\Aruba\CityOranjestad.private.md) 
+### [Oranjestad.protect](/_protect/Earth/Continent/America~Caribbean/Aruba/City/Oranjestad.protect.md) 
 
-### [Oranjestad.personal](/_personal/\Earth\Continent\America~Caribbean\Aruba\CityOranjestad.personal.md) 
+### [Oranjestad.private](/_private/Earth/Continent/America~Caribbean/Aruba/City/Oranjestad.private.md) 
 
-### [Oranjestad.secret](/_secret/\Earth\Continent\America~Caribbean\Aruba\CityOranjestad.secret.md)
+### [Oranjestad.personal](/_personal/Earth/Continent/America~Caribbean/Aruba/City/Oranjestad.personal.md) 
+
+### [Oranjestad.secret](/_secret/Earth/Continent/America~Caribbean/Aruba/City/Oranjestad.secret.md)
 

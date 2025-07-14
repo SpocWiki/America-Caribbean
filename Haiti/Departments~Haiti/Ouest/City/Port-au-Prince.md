@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Port-au-Prince.public](/_public/\Earth\Continent\America~Caribbean\Haiti\Departments~Haiti\Ouest\CityPort-au-Prince.public.md) 
+### [Port-au-Prince](/_Standards/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest/City/Port-au-Prince.md) 
 
-### [Port-au-Prince.internal](/_internal/\Earth\Continent\America~Caribbean\Haiti\Departments~Haiti\Ouest\CityPort-au-Prince.internal.md) 
+### [Port-au-Prince.public](/_public/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest/City/Port-au-Prince.public.md) 
 
-### [Port-au-Prince.protect](/_protect/\Earth\Continent\America~Caribbean\Haiti\Departments~Haiti\Ouest\CityPort-au-Prince.protect.md) 
+### [Port-au-Prince.internal](/_internal/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest/City/Port-au-Prince.internal.md) 
 
-### [Port-au-Prince.private](/_private/\Earth\Continent\America~Caribbean\Haiti\Departments~Haiti\Ouest\CityPort-au-Prince.private.md) 
+### [Port-au-Prince.protect](/_protect/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest/City/Port-au-Prince.protect.md) 
 
-### [Port-au-Prince.personal](/_personal/\Earth\Continent\America~Caribbean\Haiti\Departments~Haiti\Ouest\CityPort-au-Prince.personal.md) 
+### [Port-au-Prince.private](/_private/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest/City/Port-au-Prince.private.md) 
 
-### [Port-au-Prince.secret](/_secret/\Earth\Continent\America~Caribbean\Haiti\Departments~Haiti\Ouest\CityPort-au-Prince.secret.md)
+### [Port-au-Prince.personal](/_personal/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest/City/Port-au-Prince.personal.md) 
+
+### [Port-au-Prince.secret](/_secret/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest/City/Port-au-Prince.secret.md)
 

@@ -374,15 +374,17 @@ Capital :: [[Dominica/Counties/Saint_George/City/Roseau]]
 
 ## Confidential Links & Embeds: 
 
-### [Dominica.public](/_public/\Earth\Continent\America~CaribbeanDominica.public.md) 
+### [Dominica](/_Standards/Earth/Continent/America~Caribbean/Dominica.md) 
 
-### [Dominica.internal](/_internal/\Earth\Continent\America~CaribbeanDominica.internal.md) 
+### [Dominica.public](/_public/Earth/Continent/America~Caribbean/Dominica.public.md) 
 
-### [Dominica.protect](/_protect/\Earth\Continent\America~CaribbeanDominica.protect.md) 
+### [Dominica.internal](/_internal/Earth/Continent/America~Caribbean/Dominica.internal.md) 
 
-### [Dominica.private](/_private/\Earth\Continent\America~CaribbeanDominica.private.md) 
+### [Dominica.protect](/_protect/Earth/Continent/America~Caribbean/Dominica.protect.md) 
 
-### [Dominica.personal](/_personal/\Earth\Continent\America~CaribbeanDominica.personal.md) 
+### [Dominica.private](/_private/Earth/Continent/America~Caribbean/Dominica.private.md) 
 
-### [Dominica.secret](/_secret/\Earth\Continent\America~CaribbeanDominica.secret.md)
+### [Dominica.personal](/_personal/Earth/Continent/America~Caribbean/Dominica.personal.md) 
+
+### [Dominica.secret](/_secret/Earth/Continent/America~Caribbean/Dominica.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Saint_John’s.public](/_public/\Earth\Continent\America~Caribbean\Antigua_and_Barbuda\Counties\Saint_John\CitySaint_John’s.public.md) 
+### [Saint_John’s](/_Standards/Earth/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_John/City/Saint_John’s.md) 
 
-### [Saint_John’s.internal](/_internal/\Earth\Continent\America~Caribbean\Antigua_and_Barbuda\Counties\Saint_John\CitySaint_John’s.internal.md) 
+### [Saint_John’s.public](/_public/Earth/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_John/City/Saint_John’s.public.md) 
 
-### [Saint_John’s.protect](/_protect/\Earth\Continent\America~Caribbean\Antigua_and_Barbuda\Counties\Saint_John\CitySaint_John’s.protect.md) 
+### [Saint_John’s.internal](/_internal/Earth/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_John/City/Saint_John’s.internal.md) 
 
-### [Saint_John’s.private](/_private/\Earth\Continent\America~Caribbean\Antigua_and_Barbuda\Counties\Saint_John\CitySaint_John’s.private.md) 
+### [Saint_John’s.protect](/_protect/Earth/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_John/City/Saint_John’s.protect.md) 
 
-### [Saint_John’s.personal](/_personal/\Earth\Continent\America~Caribbean\Antigua_and_Barbuda\Counties\Saint_John\CitySaint_John’s.personal.md) 
+### [Saint_John’s.private](/_private/Earth/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_John/City/Saint_John’s.private.md) 
 
-### [Saint_John’s.secret](/_secret/\Earth\Continent\America~Caribbean\Antigua_and_Barbuda\Counties\Saint_John\CitySaint_John’s.secret.md)
+### [Saint_John’s.personal](/_personal/Earth/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_John/City/Saint_John’s.personal.md) 
+
+### [Saint_John’s.secret](/_secret/Earth/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_John/City/Saint_John’s.secret.md)
 

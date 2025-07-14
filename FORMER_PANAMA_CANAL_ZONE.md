@@ -37,15 +37,17 @@ Continent :: [[South-America]]
 
 ## Confidential Links & Embeds: 
 
-### [FORMER_PANAMA_CANAL_ZONE.public](/_public/\Earth\Continent\America~CaribbeanFORMER_PANAMA_CANAL_ZONE.public.md) 
+### [FORMER_PANAMA_CANAL_ZONE](/_Standards/Earth/Continent/America~Caribbean/FORMER_PANAMA_CANAL_ZONE.md) 
 
-### [FORMER_PANAMA_CANAL_ZONE.internal](/_internal/\Earth\Continent\America~CaribbeanFORMER_PANAMA_CANAL_ZONE.internal.md) 
+### [FORMER_PANAMA_CANAL_ZONE.public](/_public/Earth/Continent/America~Caribbean/FORMER_PANAMA_CANAL_ZONE.public.md) 
 
-### [FORMER_PANAMA_CANAL_ZONE.protect](/_protect/\Earth\Continent\America~CaribbeanFORMER_PANAMA_CANAL_ZONE.protect.md) 
+### [FORMER_PANAMA_CANAL_ZONE.internal](/_internal/Earth/Continent/America~Caribbean/FORMER_PANAMA_CANAL_ZONE.internal.md) 
 
-### [FORMER_PANAMA_CANAL_ZONE.private](/_private/\Earth\Continent\America~CaribbeanFORMER_PANAMA_CANAL_ZONE.private.md) 
+### [FORMER_PANAMA_CANAL_ZONE.protect](/_protect/Earth/Continent/America~Caribbean/FORMER_PANAMA_CANAL_ZONE.protect.md) 
 
-### [FORMER_PANAMA_CANAL_ZONE.personal](/_personal/\Earth\Continent\America~CaribbeanFORMER_PANAMA_CANAL_ZONE.personal.md) 
+### [FORMER_PANAMA_CANAL_ZONE.private](/_private/Earth/Continent/America~Caribbean/FORMER_PANAMA_CANAL_ZONE.private.md) 
 
-### [FORMER_PANAMA_CANAL_ZONE.secret](/_secret/\Earth\Continent\America~CaribbeanFORMER_PANAMA_CANAL_ZONE.secret.md)
+### [FORMER_PANAMA_CANAL_ZONE.personal](/_personal/Earth/Continent/America~Caribbean/FORMER_PANAMA_CANAL_ZONE.personal.md) 
+
+### [FORMER_PANAMA_CANAL_ZONE.secret](/_secret/Earth/Continent/America~Caribbean/FORMER_PANAMA_CANAL_ZONE.secret.md)
 

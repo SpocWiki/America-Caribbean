@@ -41,15 +41,17 @@ markerFolder: ./Saint_Patrick/
 
 ## Confidential Links & Embeds: 
 
-### [Saint_Patrick.public](/_public/\Earth\Continent\America~Caribbean\Grenada\parishes~GrenadaSaint_Patrick.public.md) 
+### [Saint_Patrick](/_Standards/Earth/Continent/America~Caribbean/Grenada/parishes~Grenada/Saint_Patrick.md) 
 
-### [Saint_Patrick.internal](/_internal/\Earth\Continent\America~Caribbean\Grenada\parishes~GrenadaSaint_Patrick.internal.md) 
+### [Saint_Patrick.public](/_public/Earth/Continent/America~Caribbean/Grenada/parishes~Grenada/Saint_Patrick.public.md) 
 
-### [Saint_Patrick.protect](/_protect/\Earth\Continent\America~Caribbean\Grenada\parishes~GrenadaSaint_Patrick.protect.md) 
+### [Saint_Patrick.internal](/_internal/Earth/Continent/America~Caribbean/Grenada/parishes~Grenada/Saint_Patrick.internal.md) 
 
-### [Saint_Patrick.private](/_private/\Earth\Continent\America~Caribbean\Grenada\parishes~GrenadaSaint_Patrick.private.md) 
+### [Saint_Patrick.protect](/_protect/Earth/Continent/America~Caribbean/Grenada/parishes~Grenada/Saint_Patrick.protect.md) 
 
-### [Saint_Patrick.personal](/_personal/\Earth\Continent\America~Caribbean\Grenada\parishes~GrenadaSaint_Patrick.personal.md) 
+### [Saint_Patrick.private](/_private/Earth/Continent/America~Caribbean/Grenada/parishes~Grenada/Saint_Patrick.private.md) 
 
-### [Saint_Patrick.secret](/_secret/\Earth\Continent\America~Caribbean\Grenada\parishes~GrenadaSaint_Patrick.secret.md)
+### [Saint_Patrick.personal](/_personal/Earth/Continent/America~Caribbean/Grenada/parishes~Grenada/Saint_Patrick.personal.md) 
+
+### [Saint_Patrick.secret](/_secret/Earth/Continent/America~Caribbean/Grenada/parishes~Grenada/Saint_Patrick.secret.md)
 

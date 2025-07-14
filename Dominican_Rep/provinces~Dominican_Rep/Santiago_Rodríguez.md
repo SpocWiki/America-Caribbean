@@ -41,15 +41,17 @@ markerFolder: ./Santiago_Rodríguez/
 
 ## Confidential Links & Embeds: 
 
-### [Santiago_Rodríguez.public](/_public/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepSantiago_Rodríguez.public.md) 
+### [Santiago_Rodríguez](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Santiago_Rodríguez.md) 
 
-### [Santiago_Rodríguez.internal](/_internal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepSantiago_Rodríguez.internal.md) 
+### [Santiago_Rodríguez.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Santiago_Rodríguez.public.md) 
 
-### [Santiago_Rodríguez.protect](/_protect/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepSantiago_Rodríguez.protect.md) 
+### [Santiago_Rodríguez.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Santiago_Rodríguez.internal.md) 
 
-### [Santiago_Rodríguez.private](/_private/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepSantiago_Rodríguez.private.md) 
+### [Santiago_Rodríguez.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Santiago_Rodríguez.protect.md) 
 
-### [Santiago_Rodríguez.personal](/_personal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepSantiago_Rodríguez.personal.md) 
+### [Santiago_Rodríguez.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Santiago_Rodríguez.private.md) 
 
-### [Santiago_Rodríguez.secret](/_secret/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepSantiago_Rodríguez.secret.md)
+### [Santiago_Rodríguez.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Santiago_Rodríguez.personal.md) 
+
+### [Santiago_Rodríguez.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Santiago_Rodríguez.secret.md)
 

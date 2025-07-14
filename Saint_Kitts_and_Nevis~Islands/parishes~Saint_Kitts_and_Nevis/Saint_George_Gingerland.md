@@ -41,15 +41,17 @@ markerFolder: ./Saint_George_Gingerland/
 
 ## Confidential Links & Embeds: 
 
-### [Saint_George_Gingerland.public](/_public/\Earth\Continent\America~Caribbean\Saint_Kitts_and_Nevis~Islands\parishes~Saint_Kitts_and_NevisSaint_George_Gingerland.public.md) 
+### [Saint_George_Gingerland](/_Standards/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_George_Gingerland.md) 
 
-### [Saint_George_Gingerland.internal](/_internal/\Earth\Continent\America~Caribbean\Saint_Kitts_and_Nevis~Islands\parishes~Saint_Kitts_and_NevisSaint_George_Gingerland.internal.md) 
+### [Saint_George_Gingerland.public](/_public/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_George_Gingerland.public.md) 
 
-### [Saint_George_Gingerland.protect](/_protect/\Earth\Continent\America~Caribbean\Saint_Kitts_and_Nevis~Islands\parishes~Saint_Kitts_and_NevisSaint_George_Gingerland.protect.md) 
+### [Saint_George_Gingerland.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_George_Gingerland.internal.md) 
 
-### [Saint_George_Gingerland.private](/_private/\Earth\Continent\America~Caribbean\Saint_Kitts_and_Nevis~Islands\parishes~Saint_Kitts_and_NevisSaint_George_Gingerland.private.md) 
+### [Saint_George_Gingerland.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_George_Gingerland.protect.md) 
 
-### [Saint_George_Gingerland.personal](/_personal/\Earth\Continent\America~Caribbean\Saint_Kitts_and_Nevis~Islands\parishes~Saint_Kitts_and_NevisSaint_George_Gingerland.personal.md) 
+### [Saint_George_Gingerland.private](/_private/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_George_Gingerland.private.md) 
 
-### [Saint_George_Gingerland.secret](/_secret/\Earth\Continent\America~Caribbean\Saint_Kitts_and_Nevis~Islands\parishes~Saint_Kitts_and_NevisSaint_George_Gingerland.secret.md)
+### [Saint_George_Gingerland.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_George_Gingerland.personal.md) 
+
+### [Saint_George_Gingerland.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_George_Gingerland.secret.md)
 

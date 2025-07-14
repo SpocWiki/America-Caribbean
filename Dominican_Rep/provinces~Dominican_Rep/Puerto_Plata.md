@@ -41,15 +41,17 @@ markerFolder: ./Puerto_Plata/
 
 ## Confidential Links & Embeds: 
 
-### [Puerto_Plata.public](/_public/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepPuerto_Plata.public.md) 
+### [Puerto_Plata](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Puerto_Plata.md) 
 
-### [Puerto_Plata.internal](/_internal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepPuerto_Plata.internal.md) 
+### [Puerto_Plata.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Puerto_Plata.public.md) 
 
-### [Puerto_Plata.protect](/_protect/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepPuerto_Plata.protect.md) 
+### [Puerto_Plata.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Puerto_Plata.internal.md) 
 
-### [Puerto_Plata.private](/_private/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepPuerto_Plata.private.md) 
+### [Puerto_Plata.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Puerto_Plata.protect.md) 
 
-### [Puerto_Plata.personal](/_personal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepPuerto_Plata.personal.md) 
+### [Puerto_Plata.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Puerto_Plata.private.md) 
 
-### [Puerto_Plata.secret](/_secret/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepPuerto_Plata.secret.md)
+### [Puerto_Plata.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Puerto_Plata.personal.md) 
+
+### [Puerto_Plata.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Puerto_Plata.secret.md)
 

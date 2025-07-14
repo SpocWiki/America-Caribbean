@@ -41,15 +41,17 @@ markerFolder: ./Nord/
 
 ## Confidential Links & Embeds: 
 
-### [Nord.public](/_public/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiNord.public.md) 
+### [Nord](/_Standards/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Nord.md) 
 
-### [Nord.internal](/_internal/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiNord.internal.md) 
+### [Nord.public](/_public/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Nord.public.md) 
 
-### [Nord.protect](/_protect/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiNord.protect.md) 
+### [Nord.internal](/_internal/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Nord.internal.md) 
 
-### [Nord.private](/_private/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiNord.private.md) 
+### [Nord.protect](/_protect/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Nord.protect.md) 
 
-### [Nord.personal](/_personal/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiNord.personal.md) 
+### [Nord.private](/_private/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Nord.private.md) 
 
-### [Nord.secret](/_secret/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiNord.secret.md)
+### [Nord.personal](/_personal/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Nord.personal.md) 
+
+### [Nord.secret](/_secret/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Nord.secret.md)
 

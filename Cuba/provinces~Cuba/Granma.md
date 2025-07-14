@@ -41,15 +41,17 @@ markerFolder: ./Granma/
 
 ## Confidential Links & Embeds: 
 
-### [Granma.public](/_public/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaGranma.public.md) 
+### [Granma](/_Standards/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Granma.md) 
 
-### [Granma.internal](/_internal/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaGranma.internal.md) 
+### [Granma.public](/_public/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Granma.public.md) 
 
-### [Granma.protect](/_protect/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaGranma.protect.md) 
+### [Granma.internal](/_internal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Granma.internal.md) 
 
-### [Granma.private](/_private/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaGranma.private.md) 
+### [Granma.protect](/_protect/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Granma.protect.md) 
 
-### [Granma.personal](/_personal/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaGranma.personal.md) 
+### [Granma.private](/_private/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Granma.private.md) 
 
-### [Granma.secret](/_secret/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaGranma.secret.md)
+### [Granma.personal](/_personal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Granma.personal.md) 
+
+### [Granma.secret](/_secret/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Granma.secret.md)
 

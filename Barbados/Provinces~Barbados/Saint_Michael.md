@@ -41,15 +41,17 @@ markerFolder: ./Saint_Michael/
 
 ## Confidential Links & Embeds: 
 
-### [Saint_Michael.public](/_public/\Earth\Continent\America~Caribbean\Barbados\Provinces~BarbadosSaint_Michael.public.md) 
+### [Saint_Michael](/_Standards/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Michael.md) 
 
-### [Saint_Michael.internal](/_internal/\Earth\Continent\America~Caribbean\Barbados\Provinces~BarbadosSaint_Michael.internal.md) 
+### [Saint_Michael.public](/_public/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Michael.public.md) 
 
-### [Saint_Michael.protect](/_protect/\Earth\Continent\America~Caribbean\Barbados\Provinces~BarbadosSaint_Michael.protect.md) 
+### [Saint_Michael.internal](/_internal/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Michael.internal.md) 
 
-### [Saint_Michael.private](/_private/\Earth\Continent\America~Caribbean\Barbados\Provinces~BarbadosSaint_Michael.private.md) 
+### [Saint_Michael.protect](/_protect/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Michael.protect.md) 
 
-### [Saint_Michael.personal](/_personal/\Earth\Continent\America~Caribbean\Barbados\Provinces~BarbadosSaint_Michael.personal.md) 
+### [Saint_Michael.private](/_private/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Michael.private.md) 
 
-### [Saint_Michael.secret](/_secret/\Earth\Continent\America~Caribbean\Barbados\Provinces~BarbadosSaint_Michael.secret.md)
+### [Saint_Michael.personal](/_personal/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Michael.personal.md) 
+
+### [Saint_Michael.secret](/_secret/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Michael.secret.md)
 

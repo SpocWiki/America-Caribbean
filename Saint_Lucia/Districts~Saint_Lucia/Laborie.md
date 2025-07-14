@@ -41,15 +41,17 @@ markerFolder: ./Laborie/
 
 ## Confidential Links & Embeds: 
 
-### [Laborie.public](/_public/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaLaborie.public.md) 
+### [Laborie](/_Standards/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Laborie.md) 
 
-### [Laborie.internal](/_internal/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaLaborie.internal.md) 
+### [Laborie.public](/_public/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Laborie.public.md) 
 
-### [Laborie.protect](/_protect/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaLaborie.protect.md) 
+### [Laborie.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Laborie.internal.md) 
 
-### [Laborie.private](/_private/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaLaborie.private.md) 
+### [Laborie.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Laborie.protect.md) 
 
-### [Laborie.personal](/_personal/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaLaborie.personal.md) 
+### [Laborie.private](/_private/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Laborie.private.md) 
 
-### [Laborie.secret](/_secret/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaLaborie.secret.md)
+### [Laborie.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Laborie.personal.md) 
+
+### [Laborie.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Laborie.secret.md)
 

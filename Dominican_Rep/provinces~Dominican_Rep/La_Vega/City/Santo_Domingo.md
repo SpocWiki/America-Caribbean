@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Santo_Domingo.public](/_public/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_Rep\La_Vega\CitySanto_Domingo.public.md) 
+### [Santo_Domingo](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/La_Vega/City/Santo_Domingo.md) 
 
-### [Santo_Domingo.internal](/_internal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_Rep\La_Vega\CitySanto_Domingo.internal.md) 
+### [Santo_Domingo.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/La_Vega/City/Santo_Domingo.public.md) 
 
-### [Santo_Domingo.protect](/_protect/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_Rep\La_Vega\CitySanto_Domingo.protect.md) 
+### [Santo_Domingo.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/La_Vega/City/Santo_Domingo.internal.md) 
 
-### [Santo_Domingo.private](/_private/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_Rep\La_Vega\CitySanto_Domingo.private.md) 
+### [Santo_Domingo.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/La_Vega/City/Santo_Domingo.protect.md) 
 
-### [Santo_Domingo.personal](/_personal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_Rep\La_Vega\CitySanto_Domingo.personal.md) 
+### [Santo_Domingo.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/La_Vega/City/Santo_Domingo.private.md) 
 
-### [Santo_Domingo.secret](/_secret/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_Rep\La_Vega\CitySanto_Domingo.secret.md)
+### [Santo_Domingo.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/La_Vega/City/Santo_Domingo.personal.md) 
+
+### [Santo_Domingo.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/La_Vega/City/Santo_Domingo.secret.md)
 

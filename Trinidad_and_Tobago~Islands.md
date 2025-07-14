@@ -322,15 +322,17 @@ Capital :: [[Trinidad_and_Tobago~Islands/Counties/Port_of_Spain/City/Port_of_Spa
 
 ## Confidential Links & Embeds: 
 
-### [Trinidad_and_Tobago~Islands.public](/_public/\Earth\Continent\America~CaribbeanTrinidad_and_Tobago~Islands.public.md) 
+### [Trinidad_and_Tobago~Islands](/_Standards/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands.md) 
 
-### [Trinidad_and_Tobago~Islands.internal](/_internal/\Earth\Continent\America~CaribbeanTrinidad_and_Tobago~Islands.internal.md) 
+### [Trinidad_and_Tobago~Islands.public](/_public/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands.public.md) 
 
-### [Trinidad_and_Tobago~Islands.protect](/_protect/\Earth\Continent\America~CaribbeanTrinidad_and_Tobago~Islands.protect.md) 
+### [Trinidad_and_Tobago~Islands.internal](/_internal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands.internal.md) 
 
-### [Trinidad_and_Tobago~Islands.private](/_private/\Earth\Continent\America~CaribbeanTrinidad_and_Tobago~Islands.private.md) 
+### [Trinidad_and_Tobago~Islands.protect](/_protect/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands.protect.md) 
 
-### [Trinidad_and_Tobago~Islands.personal](/_personal/\Earth\Continent\America~CaribbeanTrinidad_and_Tobago~Islands.personal.md) 
+### [Trinidad_and_Tobago~Islands.private](/_private/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands.private.md) 
 
-### [Trinidad_and_Tobago~Islands.secret](/_secret/\Earth\Continent\America~CaribbeanTrinidad_and_Tobago~Islands.secret.md)
+### [Trinidad_and_Tobago~Islands.personal](/_personal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands.personal.md) 
+
+### [Trinidad_and_Tobago~Islands.secret](/_secret/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands.secret.md)
 

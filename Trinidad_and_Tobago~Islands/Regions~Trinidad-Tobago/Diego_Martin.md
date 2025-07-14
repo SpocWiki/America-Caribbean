@@ -41,15 +41,17 @@ markerFolder: ./Diego_Martin/
 
 ## Confidential Links & Embeds: 
 
-### [Diego_Martin.public](/_public/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoDiego_Martin.public.md) 
+### [Diego_Martin](/_Standards/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Diego_Martin.md) 
 
-### [Diego_Martin.internal](/_internal/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoDiego_Martin.internal.md) 
+### [Diego_Martin.public](/_public/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Diego_Martin.public.md) 
 
-### [Diego_Martin.protect](/_protect/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoDiego_Martin.protect.md) 
+### [Diego_Martin.internal](/_internal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Diego_Martin.internal.md) 
 
-### [Diego_Martin.private](/_private/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoDiego_Martin.private.md) 
+### [Diego_Martin.protect](/_protect/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Diego_Martin.protect.md) 
 
-### [Diego_Martin.personal](/_personal/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoDiego_Martin.personal.md) 
+### [Diego_Martin.private](/_private/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Diego_Martin.private.md) 
 
-### [Diego_Martin.secret](/_secret/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoDiego_Martin.secret.md)
+### [Diego_Martin.personal](/_personal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Diego_Martin.personal.md) 
+
+### [Diego_Martin.secret](/_secret/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Diego_Martin.secret.md)
 

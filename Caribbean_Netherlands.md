@@ -132,15 +132,17 @@ Continent :: [[South-America]]
 
 ## Confidential Links & Embeds: 
 
-### [Caribbean_Netherlands.public](/_public/\Earth\Continent\America~CaribbeanCaribbean_Netherlands.public.md) 
+### [Caribbean_Netherlands](/_Standards/Earth/Continent/America~Caribbean/Caribbean_Netherlands.md) 
 
-### [Caribbean_Netherlands.internal](/_internal/\Earth\Continent\America~CaribbeanCaribbean_Netherlands.internal.md) 
+### [Caribbean_Netherlands.public](/_public/Earth/Continent/America~Caribbean/Caribbean_Netherlands.public.md) 
 
-### [Caribbean_Netherlands.protect](/_protect/\Earth\Continent\America~CaribbeanCaribbean_Netherlands.protect.md) 
+### [Caribbean_Netherlands.internal](/_internal/Earth/Continent/America~Caribbean/Caribbean_Netherlands.internal.md) 
 
-### [Caribbean_Netherlands.private](/_private/\Earth\Continent\America~CaribbeanCaribbean_Netherlands.private.md) 
+### [Caribbean_Netherlands.protect](/_protect/Earth/Continent/America~Caribbean/Caribbean_Netherlands.protect.md) 
 
-### [Caribbean_Netherlands.personal](/_personal/\Earth\Continent\America~CaribbeanCaribbean_Netherlands.personal.md) 
+### [Caribbean_Netherlands.private](/_private/Earth/Continent/America~Caribbean/Caribbean_Netherlands.private.md) 
 
-### [Caribbean_Netherlands.secret](/_secret/\Earth\Continent\America~CaribbeanCaribbean_Netherlands.secret.md)
+### [Caribbean_Netherlands.personal](/_personal/Earth/Continent/America~Caribbean/Caribbean_Netherlands.personal.md) 
+
+### [Caribbean_Netherlands.secret](/_secret/Earth/Continent/America~Caribbean/Caribbean_Netherlands.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Chaguanas/
 
 ## Confidential Links & Embeds: 
 
-### [Chaguanas.public](/_public/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoChaguanas.public.md) 
+### [Chaguanas](/_Standards/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Chaguanas.md) 
 
-### [Chaguanas.internal](/_internal/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoChaguanas.internal.md) 
+### [Chaguanas.public](/_public/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Chaguanas.public.md) 
 
-### [Chaguanas.protect](/_protect/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoChaguanas.protect.md) 
+### [Chaguanas.internal](/_internal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Chaguanas.internal.md) 
 
-### [Chaguanas.private](/_private/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoChaguanas.private.md) 
+### [Chaguanas.protect](/_protect/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Chaguanas.protect.md) 
 
-### [Chaguanas.personal](/_personal/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoChaguanas.personal.md) 
+### [Chaguanas.private](/_private/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Chaguanas.private.md) 
 
-### [Chaguanas.secret](/_secret/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoChaguanas.secret.md)
+### [Chaguanas.personal](/_personal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Chaguanas.personal.md) 
+
+### [Chaguanas.secret](/_secret/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Chaguanas.secret.md)
 

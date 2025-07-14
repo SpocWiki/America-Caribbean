@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Port_of_Spain.public](/_public/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-Tobago\Port_of_Spain\CityPort_of_Spain.public.md) 
+### [Port_of_Spain](/_Standards/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Port_of_Spain/City/Port_of_Spain.md) 
 
-### [Port_of_Spain.internal](/_internal/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-Tobago\Port_of_Spain\CityPort_of_Spain.internal.md) 
+### [Port_of_Spain.public](/_public/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Port_of_Spain/City/Port_of_Spain.public.md) 
 
-### [Port_of_Spain.protect](/_protect/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-Tobago\Port_of_Spain\CityPort_of_Spain.protect.md) 
+### [Port_of_Spain.internal](/_internal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Port_of_Spain/City/Port_of_Spain.internal.md) 
 
-### [Port_of_Spain.private](/_private/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-Tobago\Port_of_Spain\CityPort_of_Spain.private.md) 
+### [Port_of_Spain.protect](/_protect/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Port_of_Spain/City/Port_of_Spain.protect.md) 
 
-### [Port_of_Spain.personal](/_personal/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-Tobago\Port_of_Spain\CityPort_of_Spain.personal.md) 
+### [Port_of_Spain.private](/_private/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Port_of_Spain/City/Port_of_Spain.private.md) 
 
-### [Port_of_Spain.secret](/_secret/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-Tobago\Port_of_Spain\CityPort_of_Spain.secret.md)
+### [Port_of_Spain.personal](/_personal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Port_of_Spain/City/Port_of_Spain.personal.md) 
+
+### [Port_of_Spain.secret](/_secret/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Port_of_Spain/City/Port_of_Spain.secret.md)
 

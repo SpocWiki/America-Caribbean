@@ -41,15 +41,17 @@ markerFolder: ./La_Altagracia/
 
 ## Confidential Links & Embeds: 
 
-### [La_Altagracia.public](/_public/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepLa_Altagracia.public.md) 
+### [La_Altagracia](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/La_Altagracia.md) 
 
-### [La_Altagracia.internal](/_internal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepLa_Altagracia.internal.md) 
+### [La_Altagracia.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/La_Altagracia.public.md) 
 
-### [La_Altagracia.protect](/_protect/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepLa_Altagracia.protect.md) 
+### [La_Altagracia.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/La_Altagracia.internal.md) 
 
-### [La_Altagracia.private](/_private/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepLa_Altagracia.private.md) 
+### [La_Altagracia.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/La_Altagracia.protect.md) 
 
-### [La_Altagracia.personal](/_personal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepLa_Altagracia.personal.md) 
+### [La_Altagracia.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/La_Altagracia.private.md) 
 
-### [La_Altagracia.secret](/_secret/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepLa_Altagracia.secret.md)
+### [La_Altagracia.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/La_Altagracia.personal.md) 
+
+### [La_Altagracia.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/La_Altagracia.secret.md)
 

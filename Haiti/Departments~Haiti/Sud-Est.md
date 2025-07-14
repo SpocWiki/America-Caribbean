@@ -41,15 +41,17 @@ markerFolder: ./Sud-Est/
 
 ## Confidential Links & Embeds: 
 
-### [Sud-Est.public](/_public/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiSud-Est.public.md) 
+### [Sud-Est](/_Standards/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Sud-Est.md) 
 
-### [Sud-Est.internal](/_internal/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiSud-Est.internal.md) 
+### [Sud-Est.public](/_public/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Sud-Est.public.md) 
 
-### [Sud-Est.protect](/_protect/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiSud-Est.protect.md) 
+### [Sud-Est.internal](/_internal/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Sud-Est.internal.md) 
 
-### [Sud-Est.private](/_private/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiSud-Est.private.md) 
+### [Sud-Est.protect](/_protect/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Sud-Est.protect.md) 
 
-### [Sud-Est.personal](/_personal/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiSud-Est.personal.md) 
+### [Sud-Est.private](/_private/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Sud-Est.private.md) 
 
-### [Sud-Est.secret](/_secret/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiSud-Est.secret.md)
+### [Sud-Est.personal](/_personal/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Sud-Est.personal.md) 
+
+### [Sud-Est.secret](/_secret/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Sud-Est.secret.md)
 

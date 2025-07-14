@@ -357,19 +357,19 @@ U_S_National_Archives_Identifier: 10044630
 > [Wikipedia](https://en.wikipedia.org/wiki/Jamaica)
 
 
-
-
 ## Confidential Links & Embeds: 
 
-### [Jamaica.public](/_public/\Earth\Continent\America~CaribbeanJamaica.public.md) 
+### [Jamaica](/_Standards/Earth/Continent/America~Caribbean/Jamaica.md) 
 
-### [Jamaica.internal](/_internal/\Earth\Continent\America~CaribbeanJamaica.internal.md) 
+### [Jamaica.public](/_public/Earth/Continent/America~Caribbean/Jamaica.public.md) 
 
-### [Jamaica.protect](/_protect/\Earth\Continent\America~CaribbeanJamaica.protect.md) 
+### [Jamaica.internal](/_internal/Earth/Continent/America~Caribbean/Jamaica.internal.md) 
 
-### [Jamaica.private](/_private/\Earth\Continent\America~CaribbeanJamaica.private.md) 
+### [Jamaica.protect](/_protect/Earth/Continent/America~Caribbean/Jamaica.protect.md) 
 
-### [Jamaica.personal](/_personal/\Earth\Continent\America~CaribbeanJamaica.personal.md) 
+### [Jamaica.private](/_private/Earth/Continent/America~Caribbean/Jamaica.private.md) 
 
-### [Jamaica.secret](/_secret/\Earth\Continent\America~CaribbeanJamaica.secret.md)
+### [Jamaica.personal](/_personal/Earth/Continent/America~Caribbean/Jamaica.personal.md) 
+
+### [Jamaica.secret](/_secret/Earth/Continent/America~Caribbean/Jamaica.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Penal-Debe/
 
 ## Confidential Links & Embeds: 
 
-### [Penal-Debe.public](/_public/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoPenal-Debe.public.md) 
+### [Penal-Debe](/_Standards/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Penal-Debe.md) 
 
-### [Penal-Debe.internal](/_internal/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoPenal-Debe.internal.md) 
+### [Penal-Debe.public](/_public/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Penal-Debe.public.md) 
 
-### [Penal-Debe.protect](/_protect/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoPenal-Debe.protect.md) 
+### [Penal-Debe.internal](/_internal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Penal-Debe.internal.md) 
 
-### [Penal-Debe.private](/_private/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoPenal-Debe.private.md) 
+### [Penal-Debe.protect](/_protect/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Penal-Debe.protect.md) 
 
-### [Penal-Debe.personal](/_personal/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoPenal-Debe.personal.md) 
+### [Penal-Debe.private](/_private/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Penal-Debe.private.md) 
 
-### [Penal-Debe.secret](/_secret/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoPenal-Debe.secret.md)
+### [Penal-Debe.personal](/_personal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Penal-Debe.personal.md) 
+
+### [Penal-Debe.secret](/_secret/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Penal-Debe.secret.md)
 

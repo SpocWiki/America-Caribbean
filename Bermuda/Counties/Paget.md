@@ -41,15 +41,17 @@ markerFolder: ./Paget/
 
 ## Confidential Links & Embeds: 
 
-### [Paget.public](/_public/\Earth\Continent\America~Caribbean\Bermuda\CountiesPaget.public.md) 
+### [Paget](/_Standards/Earth/Continent/America~Caribbean/Bermuda/Counties/Paget.md) 
 
-### [Paget.internal](/_internal/\Earth\Continent\America~Caribbean\Bermuda\CountiesPaget.internal.md) 
+### [Paget.public](/_public/Earth/Continent/America~Caribbean/Bermuda/Counties/Paget.public.md) 
 
-### [Paget.protect](/_protect/\Earth\Continent\America~Caribbean\Bermuda\CountiesPaget.protect.md) 
+### [Paget.internal](/_internal/Earth/Continent/America~Caribbean/Bermuda/Counties/Paget.internal.md) 
 
-### [Paget.private](/_private/\Earth\Continent\America~Caribbean\Bermuda\CountiesPaget.private.md) 
+### [Paget.protect](/_protect/Earth/Continent/America~Caribbean/Bermuda/Counties/Paget.protect.md) 
 
-### [Paget.personal](/_personal/\Earth\Continent\America~Caribbean\Bermuda\CountiesPaget.personal.md) 
+### [Paget.private](/_private/Earth/Continent/America~Caribbean/Bermuda/Counties/Paget.private.md) 
 
-### [Paget.secret](/_secret/\Earth\Continent\America~Caribbean\Bermuda\CountiesPaget.secret.md)
+### [Paget.personal](/_personal/Earth/Continent/America~Caribbean/Bermuda/Counties/Paget.personal.md) 
+
+### [Paget.secret](/_secret/Earth/Continent/America~Caribbean/Bermuda/Counties/Paget.secret.md)
 

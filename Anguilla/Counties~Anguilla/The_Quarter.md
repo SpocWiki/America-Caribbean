@@ -41,15 +41,17 @@ markerFolder: ./The_Quarter/
 
 ## Confidential Links & Embeds: 
 
-### [The_Quarter.public](/_public/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaThe_Quarter.public.md) 
+### [The_Quarter](/_Standards/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/The_Quarter.md) 
 
-### [The_Quarter.internal](/_internal/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaThe_Quarter.internal.md) 
+### [The_Quarter.public](/_public/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/The_Quarter.public.md) 
 
-### [The_Quarter.protect](/_protect/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaThe_Quarter.protect.md) 
+### [The_Quarter.internal](/_internal/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/The_Quarter.internal.md) 
 
-### [The_Quarter.private](/_private/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaThe_Quarter.private.md) 
+### [The_Quarter.protect](/_protect/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/The_Quarter.protect.md) 
 
-### [The_Quarter.personal](/_personal/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaThe_Quarter.personal.md) 
+### [The_Quarter.private](/_private/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/The_Quarter.private.md) 
 
-### [The_Quarter.secret](/_secret/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaThe_Quarter.secret.md)
+### [The_Quarter.personal](/_personal/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/The_Quarter.personal.md) 
+
+### [The_Quarter.secret](/_secret/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/The_Quarter.secret.md)
 

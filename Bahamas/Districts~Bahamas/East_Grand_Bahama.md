@@ -41,15 +41,17 @@ markerFolder: ./East_Grand_Bahama/
 
 ## Confidential Links & Embeds: 
 
-### [East_Grand_Bahama.public](/_public/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasEast_Grand_Bahama.public.md) 
+### [East_Grand_Bahama](/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/East_Grand_Bahama.md) 
 
-### [East_Grand_Bahama.internal](/_internal/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasEast_Grand_Bahama.internal.md) 
+### [East_Grand_Bahama.public](/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/East_Grand_Bahama.public.md) 
 
-### [East_Grand_Bahama.protect](/_protect/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasEast_Grand_Bahama.protect.md) 
+### [East_Grand_Bahama.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/East_Grand_Bahama.internal.md) 
 
-### [East_Grand_Bahama.private](/_private/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasEast_Grand_Bahama.private.md) 
+### [East_Grand_Bahama.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/East_Grand_Bahama.protect.md) 
 
-### [East_Grand_Bahama.personal](/_personal/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasEast_Grand_Bahama.personal.md) 
+### [East_Grand_Bahama.private](/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/East_Grand_Bahama.private.md) 
 
-### [East_Grand_Bahama.secret](/_secret/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasEast_Grand_Bahama.secret.md)
+### [East_Grand_Bahama.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/East_Grand_Bahama.personal.md) 
+
+### [East_Grand_Bahama.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/East_Grand_Bahama.secret.md)
 

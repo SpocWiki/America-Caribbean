@@ -41,15 +41,17 @@ markerFolder: ./Choiseul/
 
 ## Confidential Links & Embeds: 
 
-### [Choiseul.public](/_public/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaChoiseul.public.md) 
+### [Choiseul](/_Standards/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Choiseul.md) 
 
-### [Choiseul.internal](/_internal/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaChoiseul.internal.md) 
+### [Choiseul.public](/_public/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Choiseul.public.md) 
 
-### [Choiseul.protect](/_protect/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaChoiseul.protect.md) 
+### [Choiseul.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Choiseul.internal.md) 
 
-### [Choiseul.private](/_private/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaChoiseul.private.md) 
+### [Choiseul.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Choiseul.protect.md) 
 
-### [Choiseul.personal](/_personal/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaChoiseul.personal.md) 
+### [Choiseul.private](/_private/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Choiseul.private.md) 
 
-### [Choiseul.secret](/_secret/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaChoiseul.secret.md)
+### [Choiseul.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Choiseul.personal.md) 
+
+### [Choiseul.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Choiseul.secret.md)
 

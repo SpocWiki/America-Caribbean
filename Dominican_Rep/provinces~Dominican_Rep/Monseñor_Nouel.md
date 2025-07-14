@@ -41,15 +41,17 @@ markerFolder: ./Monseñor_Nouel/
 
 ## Confidential Links & Embeds: 
 
-### [Monseñor_Nouel.public](/_public/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepMonseñor_Nouel.public.md) 
+### [Monseñor_Nouel](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Monseñor_Nouel.md) 
 
-### [Monseñor_Nouel.internal](/_internal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepMonseñor_Nouel.internal.md) 
+### [Monseñor_Nouel.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Monseñor_Nouel.public.md) 
 
-### [Monseñor_Nouel.protect](/_protect/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepMonseñor_Nouel.protect.md) 
+### [Monseñor_Nouel.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Monseñor_Nouel.internal.md) 
 
-### [Monseñor_Nouel.private](/_private/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepMonseñor_Nouel.private.md) 
+### [Monseñor_Nouel.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Monseñor_Nouel.protect.md) 
 
-### [Monseñor_Nouel.personal](/_personal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepMonseñor_Nouel.personal.md) 
+### [Monseñor_Nouel.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Monseñor_Nouel.private.md) 
 
-### [Monseñor_Nouel.secret](/_secret/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepMonseñor_Nouel.secret.md)
+### [Monseñor_Nouel.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Monseñor_Nouel.personal.md) 
+
+### [Monseñor_Nouel.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Monseñor_Nouel.secret.md)
 

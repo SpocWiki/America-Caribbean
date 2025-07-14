@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Nassau.public](/_public/\Earth\Continent\America~Caribbean\Bahamas\Districts~Bahamas\New_Providence\CityNassau.public.md) 
+### [Nassau](/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/New_Providence/City/Nassau.md) 
 
-### [Nassau.internal](/_internal/\Earth\Continent\America~Caribbean\Bahamas\Districts~Bahamas\New_Providence\CityNassau.internal.md) 
+### [Nassau.public](/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/New_Providence/City/Nassau.public.md) 
 
-### [Nassau.protect](/_protect/\Earth\Continent\America~Caribbean\Bahamas\Districts~Bahamas\New_Providence\CityNassau.protect.md) 
+### [Nassau.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/New_Providence/City/Nassau.internal.md) 
 
-### [Nassau.private](/_private/\Earth\Continent\America~Caribbean\Bahamas\Districts~Bahamas\New_Providence\CityNassau.private.md) 
+### [Nassau.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/New_Providence/City/Nassau.protect.md) 
 
-### [Nassau.personal](/_personal/\Earth\Continent\America~Caribbean\Bahamas\Districts~Bahamas\New_Providence\CityNassau.personal.md) 
+### [Nassau.private](/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/New_Providence/City/Nassau.private.md) 
 
-### [Nassau.secret](/_secret/\Earth\Continent\America~Caribbean\Bahamas\Districts~Bahamas\New_Providence\CityNassau.secret.md)
+### [Nassau.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/New_Providence/City/Nassau.personal.md) 
+
+### [Nassau.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/New_Providence/City/Nassau.secret.md)
 

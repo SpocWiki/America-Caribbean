@@ -41,15 +41,17 @@ markerFolder: ./Saint_George/
 
 ## Confidential Links & Embeds: 
 
-### [Saint_George.public](/_public/\Earth\Continent\America~Caribbean\Barbados\Provinces~BarbadosSaint_George.public.md) 
+### [Saint_George](/_Standards/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_George.md) 
 
-### [Saint_George.internal](/_internal/\Earth\Continent\America~Caribbean\Barbados\Provinces~BarbadosSaint_George.internal.md) 
+### [Saint_George.public](/_public/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_George.public.md) 
 
-### [Saint_George.protect](/_protect/\Earth\Continent\America~Caribbean\Barbados\Provinces~BarbadosSaint_George.protect.md) 
+### [Saint_George.internal](/_internal/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_George.internal.md) 
 
-### [Saint_George.private](/_private/\Earth\Continent\America~Caribbean\Barbados\Provinces~BarbadosSaint_George.private.md) 
+### [Saint_George.protect](/_protect/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_George.protect.md) 
 
-### [Saint_George.personal](/_personal/\Earth\Continent\America~Caribbean\Barbados\Provinces~BarbadosSaint_George.personal.md) 
+### [Saint_George.private](/_private/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_George.private.md) 
 
-### [Saint_George.secret](/_secret/\Earth\Continent\America~Caribbean\Barbados\Provinces~BarbadosSaint_George.secret.md)
+### [Saint_George.personal](/_personal/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_George.personal.md) 
+
+### [Saint_George.secret](/_secret/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_George.secret.md)
 

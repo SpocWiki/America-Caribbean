@@ -41,15 +41,17 @@ markerFolder: ./Independencia/
 
 ## Confidential Links & Embeds: 
 
-### [Independencia.public](/_public/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepIndependencia.public.md) 
+### [Independencia](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Independencia.md) 
 
-### [Independencia.internal](/_internal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepIndependencia.internal.md) 
+### [Independencia.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Independencia.public.md) 
 
-### [Independencia.protect](/_protect/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepIndependencia.protect.md) 
+### [Independencia.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Independencia.internal.md) 
 
-### [Independencia.private](/_private/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepIndependencia.private.md) 
+### [Independencia.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Independencia.protect.md) 
 
-### [Independencia.personal](/_personal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepIndependencia.personal.md) 
+### [Independencia.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Independencia.private.md) 
 
-### [Independencia.secret](/_secret/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepIndependencia.secret.md)
+### [Independencia.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Independencia.personal.md) 
+
+### [Independencia.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Independencia.secret.md)
 

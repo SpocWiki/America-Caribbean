@@ -41,15 +41,17 @@ markerFolder: ./Saint_Joseph/
 
 ## Confidential Links & Embeds: 
 
-### [Saint_Joseph.public](/_public/\Earth\Continent\America~Caribbean\Barbados\Provinces~BarbadosSaint_Joseph.public.md) 
+### [Saint_Joseph](/_Standards/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Joseph.md) 
 
-### [Saint_Joseph.internal](/_internal/\Earth\Continent\America~Caribbean\Barbados\Provinces~BarbadosSaint_Joseph.internal.md) 
+### [Saint_Joseph.public](/_public/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Joseph.public.md) 
 
-### [Saint_Joseph.protect](/_protect/\Earth\Continent\America~Caribbean\Barbados\Provinces~BarbadosSaint_Joseph.protect.md) 
+### [Saint_Joseph.internal](/_internal/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Joseph.internal.md) 
 
-### [Saint_Joseph.private](/_private/\Earth\Continent\America~Caribbean\Barbados\Provinces~BarbadosSaint_Joseph.private.md) 
+### [Saint_Joseph.protect](/_protect/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Joseph.protect.md) 
 
-### [Saint_Joseph.personal](/_personal/\Earth\Continent\America~Caribbean\Barbados\Provinces~BarbadosSaint_Joseph.personal.md) 
+### [Saint_Joseph.private](/_private/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Joseph.private.md) 
 
-### [Saint_Joseph.secret](/_secret/\Earth\Continent\America~Caribbean\Barbados\Provinces~BarbadosSaint_Joseph.secret.md)
+### [Saint_Joseph.personal](/_personal/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Joseph.personal.md) 
+
+### [Saint_Joseph.secret](/_secret/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Joseph.secret.md)
 

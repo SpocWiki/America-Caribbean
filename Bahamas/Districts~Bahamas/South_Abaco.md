@@ -41,15 +41,17 @@ markerFolder: ./South_Abaco/
 
 ## Confidential Links & Embeds: 
 
-### [South_Abaco.public](/_public/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasSouth_Abaco.public.md) 
+### [South_Abaco](/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/South_Abaco.md) 
 
-### [South_Abaco.internal](/_internal/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasSouth_Abaco.internal.md) 
+### [South_Abaco.public](/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/South_Abaco.public.md) 
 
-### [South_Abaco.protect](/_protect/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasSouth_Abaco.protect.md) 
+### [South_Abaco.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/South_Abaco.internal.md) 
 
-### [South_Abaco.private](/_private/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasSouth_Abaco.private.md) 
+### [South_Abaco.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/South_Abaco.protect.md) 
 
-### [South_Abaco.personal](/_personal/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasSouth_Abaco.personal.md) 
+### [South_Abaco.private](/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/South_Abaco.private.md) 
 
-### [South_Abaco.secret](/_secret/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasSouth_Abaco.secret.md)
+### [South_Abaco.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/South_Abaco.personal.md) 
+
+### [South_Abaco.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/South_Abaco.secret.md)
 

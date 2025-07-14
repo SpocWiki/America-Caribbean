@@ -41,15 +41,17 @@ markerFolder: ./Smith's/
 
 ## Confidential Links & Embeds: 
 
-### [Smiths.public](/_public/\Earth\Continent\America~Caribbean\Bermuda\CountiesSmiths.public.md) 
+### [Smiths](/_Standards/Earth/Continent/America~Caribbean/Bermuda/Counties/Smiths.md) 
 
-### [Smiths.internal](/_internal/\Earth\Continent\America~Caribbean\Bermuda\CountiesSmiths.internal.md) 
+### [Smiths.public](/_public/Earth/Continent/America~Caribbean/Bermuda/Counties/Smiths.public.md) 
 
-### [Smiths.protect](/_protect/\Earth\Continent\America~Caribbean\Bermuda\CountiesSmiths.protect.md) 
+### [Smiths.internal](/_internal/Earth/Continent/America~Caribbean/Bermuda/Counties/Smiths.internal.md) 
 
-### [Smiths.private](/_private/\Earth\Continent\America~Caribbean\Bermuda\CountiesSmiths.private.md) 
+### [Smiths.protect](/_protect/Earth/Continent/America~Caribbean/Bermuda/Counties/Smiths.protect.md) 
 
-### [Smiths.personal](/_personal/\Earth\Continent\America~Caribbean\Bermuda\CountiesSmiths.personal.md) 
+### [Smiths.private](/_private/Earth/Continent/America~Caribbean/Bermuda/Counties/Smiths.private.md) 
 
-### [Smiths.secret](/_secret/\Earth\Continent\America~Caribbean\Bermuda\CountiesSmiths.secret.md)
+### [Smiths.personal](/_personal/Earth/Continent/America~Caribbean/Bermuda/Counties/Smiths.personal.md) 
+
+### [Smiths.secret](/_secret/Earth/Continent/America~Caribbean/Bermuda/Counties/Smiths.secret.md)
 

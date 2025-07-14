@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [George_Town.public](/_public/\Earth\Continent\America~Caribbean\Cayman~Islands\CityGeorge_Town.public.md) 
+### [George_Town](/_Standards/Earth/Continent/America~Caribbean/Cayman~Islands/City/George_Town.md) 
 
-### [George_Town.internal](/_internal/\Earth\Continent\America~Caribbean\Cayman~Islands\CityGeorge_Town.internal.md) 
+### [George_Town.public](/_public/Earth/Continent/America~Caribbean/Cayman~Islands/City/George_Town.public.md) 
 
-### [George_Town.protect](/_protect/\Earth\Continent\America~Caribbean\Cayman~Islands\CityGeorge_Town.protect.md) 
+### [George_Town.internal](/_internal/Earth/Continent/America~Caribbean/Cayman~Islands/City/George_Town.internal.md) 
 
-### [George_Town.private](/_private/\Earth\Continent\America~Caribbean\Cayman~Islands\CityGeorge_Town.private.md) 
+### [George_Town.protect](/_protect/Earth/Continent/America~Caribbean/Cayman~Islands/City/George_Town.protect.md) 
 
-### [George_Town.personal](/_personal/\Earth\Continent\America~Caribbean\Cayman~Islands\CityGeorge_Town.personal.md) 
+### [George_Town.private](/_private/Earth/Continent/America~Caribbean/Cayman~Islands/City/George_Town.private.md) 
 
-### [George_Town.secret](/_secret/\Earth\Continent\America~Caribbean\Cayman~Islands\CityGeorge_Town.secret.md)
+### [George_Town.personal](/_personal/Earth/Continent/America~Caribbean/Cayman~Islands/City/George_Town.personal.md) 
+
+### [George_Town.secret](/_secret/Earth/Continent/America~Caribbean/Cayman~Islands/City/George_Town.secret.md)
 

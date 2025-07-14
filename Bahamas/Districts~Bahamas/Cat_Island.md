@@ -41,15 +41,17 @@ markerFolder: ./Cat_Island/
 
 ## Confidential Links & Embeds: 
 
-### [Cat_Island.public](/_public/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasCat_Island.public.md) 
+### [Cat_Island](/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Cat_Island.md) 
 
-### [Cat_Island.internal](/_internal/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasCat_Island.internal.md) 
+### [Cat_Island.public](/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Cat_Island.public.md) 
 
-### [Cat_Island.protect](/_protect/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasCat_Island.protect.md) 
+### [Cat_Island.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Cat_Island.internal.md) 
 
-### [Cat_Island.private](/_private/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasCat_Island.private.md) 
+### [Cat_Island.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Cat_Island.protect.md) 
 
-### [Cat_Island.personal](/_personal/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasCat_Island.personal.md) 
+### [Cat_Island.private](/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Cat_Island.private.md) 
 
-### [Cat_Island.secret](/_secret/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasCat_Island.secret.md)
+### [Cat_Island.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Cat_Island.personal.md) 
+
+### [Cat_Island.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Cat_Island.secret.md)
 

@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Fort-de-France.public](/_public/\Earth\Continent\America~Caribbean\Martinique\CityFort-de-France.public.md) 
+### [Fort-de-France](/_Standards/Earth/Continent/America~Caribbean/Martinique/City/Fort-de-France.md) 
 
-### [Fort-de-France.internal](/_internal/\Earth\Continent\America~Caribbean\Martinique\CityFort-de-France.internal.md) 
+### [Fort-de-France.public](/_public/Earth/Continent/America~Caribbean/Martinique/City/Fort-de-France.public.md) 
 
-### [Fort-de-France.protect](/_protect/\Earth\Continent\America~Caribbean\Martinique\CityFort-de-France.protect.md) 
+### [Fort-de-France.internal](/_internal/Earth/Continent/America~Caribbean/Martinique/City/Fort-de-France.internal.md) 
 
-### [Fort-de-France.private](/_private/\Earth\Continent\America~Caribbean\Martinique\CityFort-de-France.private.md) 
+### [Fort-de-France.protect](/_protect/Earth/Continent/America~Caribbean/Martinique/City/Fort-de-France.protect.md) 
 
-### [Fort-de-France.personal](/_personal/\Earth\Continent\America~Caribbean\Martinique\CityFort-de-France.personal.md) 
+### [Fort-de-France.private](/_private/Earth/Continent/America~Caribbean/Martinique/City/Fort-de-France.private.md) 
 
-### [Fort-de-France.secret](/_secret/\Earth\Continent\America~Caribbean\Martinique\CityFort-de-France.secret.md)
+### [Fort-de-France.personal](/_personal/Earth/Continent/America~Caribbean/Martinique/City/Fort-de-France.personal.md) 
+
+### [Fort-de-France.secret](/_secret/Earth/Continent/America~Caribbean/Martinique/City/Fort-de-France.secret.md)
 

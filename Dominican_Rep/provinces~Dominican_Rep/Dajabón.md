@@ -41,15 +41,17 @@ markerFolder: ./Dajabón/
 
 ## Confidential Links & Embeds: 
 
-### [Dajabón.public](/_public/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepDajabón.public.md) 
+### [Dajabón](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Dajabón.md) 
 
-### [Dajabón.internal](/_internal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepDajabón.internal.md) 
+### [Dajabón.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Dajabón.public.md) 
 
-### [Dajabón.protect](/_protect/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepDajabón.protect.md) 
+### [Dajabón.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Dajabón.internal.md) 
 
-### [Dajabón.private](/_private/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepDajabón.private.md) 
+### [Dajabón.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Dajabón.protect.md) 
 
-### [Dajabón.personal](/_personal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepDajabón.personal.md) 
+### [Dajabón.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Dajabón.private.md) 
 
-### [Dajabón.secret](/_secret/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepDajabón.secret.md)
+### [Dajabón.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Dajabón.personal.md) 
+
+### [Dajabón.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Dajabón.secret.md)
 

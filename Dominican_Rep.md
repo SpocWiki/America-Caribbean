@@ -60,15 +60,17 @@ Capital :: [[Dominican_Rep/Counties/La_Vega/City/Santo_Domingo]]
 
 ## Confidential Links & Embeds: 
 
-### [Dominican_Rep.public](/_public/\Earth\Continent\America~CaribbeanDominican_Rep.public.md) 
+### [Dominican_Rep](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep.md) 
 
-### [Dominican_Rep.internal](/_internal/\Earth\Continent\America~CaribbeanDominican_Rep.internal.md) 
+### [Dominican_Rep.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep.public.md) 
 
-### [Dominican_Rep.protect](/_protect/\Earth\Continent\America~CaribbeanDominican_Rep.protect.md) 
+### [Dominican_Rep.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep.internal.md) 
 
-### [Dominican_Rep.private](/_private/\Earth\Continent\America~CaribbeanDominican_Rep.private.md) 
+### [Dominican_Rep.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep.protect.md) 
 
-### [Dominican_Rep.personal](/_personal/\Earth\Continent\America~CaribbeanDominican_Rep.personal.md) 
+### [Dominican_Rep.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep.private.md) 
 
-### [Dominican_Rep.secret](/_secret/\Earth\Continent\America~CaribbeanDominican_Rep.secret.md)
+### [Dominican_Rep.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep.personal.md) 
+
+### [Dominican_Rep.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep.secret.md)
 

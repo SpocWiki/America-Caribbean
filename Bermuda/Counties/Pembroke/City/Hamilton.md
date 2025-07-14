@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Hamilton.public](/_public/\Earth\Continent\America~Caribbean\Bermuda\Counties\Pembroke\CityHamilton.public.md) 
+### [Hamilton](/_Standards/Earth/Continent/America~Caribbean/Bermuda/Counties/Pembroke/City/Hamilton.md) 
 
-### [Hamilton.internal](/_internal/\Earth\Continent\America~Caribbean\Bermuda\Counties\Pembroke\CityHamilton.internal.md) 
+### [Hamilton.public](/_public/Earth/Continent/America~Caribbean/Bermuda/Counties/Pembroke/City/Hamilton.public.md) 
 
-### [Hamilton.protect](/_protect/\Earth\Continent\America~Caribbean\Bermuda\Counties\Pembroke\CityHamilton.protect.md) 
+### [Hamilton.internal](/_internal/Earth/Continent/America~Caribbean/Bermuda/Counties/Pembroke/City/Hamilton.internal.md) 
 
-### [Hamilton.private](/_private/\Earth\Continent\America~Caribbean\Bermuda\Counties\Pembroke\CityHamilton.private.md) 
+### [Hamilton.protect](/_protect/Earth/Continent/America~Caribbean/Bermuda/Counties/Pembroke/City/Hamilton.protect.md) 
 
-### [Hamilton.personal](/_personal/\Earth\Continent\America~Caribbean\Bermuda\Counties\Pembroke\CityHamilton.personal.md) 
+### [Hamilton.private](/_private/Earth/Continent/America~Caribbean/Bermuda/Counties/Pembroke/City/Hamilton.private.md) 
 
-### [Hamilton.secret](/_secret/\Earth\Continent\America~Caribbean\Bermuda\Counties\Pembroke\CityHamilton.secret.md)
+### [Hamilton.personal](/_personal/Earth/Continent/America~Caribbean/Bermuda/Counties/Pembroke/City/Hamilton.personal.md) 
+
+### [Hamilton.secret](/_secret/Earth/Continent/America~Caribbean/Bermuda/Counties/Pembroke/City/Hamilton.secret.md)
 

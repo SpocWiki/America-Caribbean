@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [San_Juan.public](/_public/\Earth\Continent\America~Caribbean\Puerto_Rico\CitySan_Juan.public.md) 
+### [San_Juan](/_Standards/Earth/Continent/America~Caribbean/Puerto_Rico/City/San_Juan.md) 
 
-### [San_Juan.internal](/_internal/\Earth\Continent\America~Caribbean\Puerto_Rico\CitySan_Juan.internal.md) 
+### [San_Juan.public](/_public/Earth/Continent/America~Caribbean/Puerto_Rico/City/San_Juan.public.md) 
 
-### [San_Juan.protect](/_protect/\Earth\Continent\America~Caribbean\Puerto_Rico\CitySan_Juan.protect.md) 
+### [San_Juan.internal](/_internal/Earth/Continent/America~Caribbean/Puerto_Rico/City/San_Juan.internal.md) 
 
-### [San_Juan.private](/_private/\Earth\Continent\America~Caribbean\Puerto_Rico\CitySan_Juan.private.md) 
+### [San_Juan.protect](/_protect/Earth/Continent/America~Caribbean/Puerto_Rico/City/San_Juan.protect.md) 
 
-### [San_Juan.personal](/_personal/\Earth\Continent\America~Caribbean\Puerto_Rico\CitySan_Juan.personal.md) 
+### [San_Juan.private](/_private/Earth/Continent/America~Caribbean/Puerto_Rico/City/San_Juan.private.md) 
 
-### [San_Juan.secret](/_secret/\Earth\Continent\America~Caribbean\Puerto_Rico\CitySan_Juan.secret.md)
+### [San_Juan.personal](/_personal/Earth/Continent/America~Caribbean/Puerto_Rico/City/San_Juan.personal.md) 
+
+### [San_Juan.secret](/_secret/Earth/Continent/America~Caribbean/Puerto_Rico/City/San_Juan.secret.md)
 

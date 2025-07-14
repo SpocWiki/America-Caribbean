@@ -156,15 +156,17 @@ markerFolder: ./Aruba/
 
 ## Confidential Links & Embeds: 
 
-### [Aruba.public](/_public/\Earth\Continent\America~CaribbeanAruba.public.md) 
+### [Aruba](/_Standards/Earth/Continent/America~Caribbean/Aruba.md) 
 
-### [Aruba.internal](/_internal/\Earth\Continent\America~CaribbeanAruba.internal.md) 
+### [Aruba.public](/_public/Earth/Continent/America~Caribbean/Aruba.public.md) 
 
-### [Aruba.protect](/_protect/\Earth\Continent\America~CaribbeanAruba.protect.md) 
+### [Aruba.internal](/_internal/Earth/Continent/America~Caribbean/Aruba.internal.md) 
 
-### [Aruba.private](/_private/\Earth\Continent\America~CaribbeanAruba.private.md) 
+### [Aruba.protect](/_protect/Earth/Continent/America~Caribbean/Aruba.protect.md) 
 
-### [Aruba.personal](/_personal/\Earth\Continent\America~CaribbeanAruba.personal.md) 
+### [Aruba.private](/_private/Earth/Continent/America~Caribbean/Aruba.private.md) 
 
-### [Aruba.secret](/_secret/\Earth\Continent\America~CaribbeanAruba.secret.md)
+### [Aruba.personal](/_personal/Earth/Continent/America~Caribbean/Aruba.personal.md) 
+
+### [Aruba.secret](/_secret/Earth/Continent/America~Caribbean/Aruba.secret.md)
 

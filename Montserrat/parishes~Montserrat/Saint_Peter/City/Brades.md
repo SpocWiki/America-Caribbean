@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Brades.public](/_public/\Earth\Continent\America~Caribbean\Montserrat\parishes~Montserrat\Saint_Peter\CityBrades.public.md) 
+### [Brades](/_Standards/Earth/Continent/America~Caribbean/Montserrat/parishes~Montserrat/Saint_Peter/City/Brades.md) 
 
-### [Brades.internal](/_internal/\Earth\Continent\America~Caribbean\Montserrat\parishes~Montserrat\Saint_Peter\CityBrades.internal.md) 
+### [Brades.public](/_public/Earth/Continent/America~Caribbean/Montserrat/parishes~Montserrat/Saint_Peter/City/Brades.public.md) 
 
-### [Brades.protect](/_protect/\Earth\Continent\America~Caribbean\Montserrat\parishes~Montserrat\Saint_Peter\CityBrades.protect.md) 
+### [Brades.internal](/_internal/Earth/Continent/America~Caribbean/Montserrat/parishes~Montserrat/Saint_Peter/City/Brades.internal.md) 
 
-### [Brades.private](/_private/\Earth\Continent\America~Caribbean\Montserrat\parishes~Montserrat\Saint_Peter\CityBrades.private.md) 
+### [Brades.protect](/_protect/Earth/Continent/America~Caribbean/Montserrat/parishes~Montserrat/Saint_Peter/City/Brades.protect.md) 
 
-### [Brades.personal](/_personal/\Earth\Continent\America~Caribbean\Montserrat\parishes~Montserrat\Saint_Peter\CityBrades.personal.md) 
+### [Brades.private](/_private/Earth/Continent/America~Caribbean/Montserrat/parishes~Montserrat/Saint_Peter/City/Brades.private.md) 
 
-### [Brades.secret](/_secret/\Earth\Continent\America~Caribbean\Montserrat\parishes~Montserrat\Saint_Peter\CityBrades.secret.md)
+### [Brades.personal](/_personal/Earth/Continent/America~Caribbean/Montserrat/parishes~Montserrat/Saint_Peter/City/Brades.personal.md) 
+
+### [Brades.secret](/_secret/Earth/Continent/America~Caribbean/Montserrat/parishes~Montserrat/Saint_Peter/City/Brades.secret.md)
 

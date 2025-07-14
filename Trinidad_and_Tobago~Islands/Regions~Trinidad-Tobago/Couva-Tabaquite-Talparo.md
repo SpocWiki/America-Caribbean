@@ -41,15 +41,17 @@ markerFolder: ./Couva-Tabaquite-Talparo/
 
 ## Confidential Links & Embeds: 
 
-### [Couva-Tabaquite-Talparo.public](/_public/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoCouva-Tabaquite-Talparo.public.md) 
+### [Couva-Tabaquite-Talparo](/_Standards/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Couva-Tabaquite-Talparo.md) 
 
-### [Couva-Tabaquite-Talparo.internal](/_internal/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoCouva-Tabaquite-Talparo.internal.md) 
+### [Couva-Tabaquite-Talparo.public](/_public/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Couva-Tabaquite-Talparo.public.md) 
 
-### [Couva-Tabaquite-Talparo.protect](/_protect/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoCouva-Tabaquite-Talparo.protect.md) 
+### [Couva-Tabaquite-Talparo.internal](/_internal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Couva-Tabaquite-Talparo.internal.md) 
 
-### [Couva-Tabaquite-Talparo.private](/_private/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoCouva-Tabaquite-Talparo.private.md) 
+### [Couva-Tabaquite-Talparo.protect](/_protect/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Couva-Tabaquite-Talparo.protect.md) 
 
-### [Couva-Tabaquite-Talparo.personal](/_personal/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoCouva-Tabaquite-Talparo.personal.md) 
+### [Couva-Tabaquite-Talparo.private](/_private/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Couva-Tabaquite-Talparo.private.md) 
 
-### [Couva-Tabaquite-Talparo.secret](/_secret/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoCouva-Tabaquite-Talparo.secret.md)
+### [Couva-Tabaquite-Talparo.personal](/_personal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Couva-Tabaquite-Talparo.personal.md) 
+
+### [Couva-Tabaquite-Talparo.secret](/_secret/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Couva-Tabaquite-Talparo.secret.md)
 

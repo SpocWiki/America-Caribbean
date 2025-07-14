@@ -41,15 +41,17 @@ markerFolder: ./Distrito_Nacional/
 
 ## Confidential Links & Embeds: 
 
-### [Distrito_Nacional.public](/_public/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepDistrito_Nacional.public.md) 
+### [Distrito_Nacional](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Distrito_Nacional.md) 
 
-### [Distrito_Nacional.internal](/_internal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepDistrito_Nacional.internal.md) 
+### [Distrito_Nacional.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Distrito_Nacional.public.md) 
 
-### [Distrito_Nacional.protect](/_protect/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepDistrito_Nacional.protect.md) 
+### [Distrito_Nacional.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Distrito_Nacional.internal.md) 
 
-### [Distrito_Nacional.private](/_private/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepDistrito_Nacional.private.md) 
+### [Distrito_Nacional.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Distrito_Nacional.protect.md) 
 
-### [Distrito_Nacional.personal](/_personal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepDistrito_Nacional.personal.md) 
+### [Distrito_Nacional.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Distrito_Nacional.private.md) 
 
-### [Distrito_Nacional.secret](/_secret/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepDistrito_Nacional.secret.md)
+### [Distrito_Nacional.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Distrito_Nacional.personal.md) 
+
+### [Distrito_Nacional.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Distrito_Nacional.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Castries/
 
 ## Confidential Links & Embeds: 
 
-### [Castries.public](/_public/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaCastries.public.md) 
+### [Castries](/_Standards/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Castries.md) 
 
-### [Castries.internal](/_internal/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaCastries.internal.md) 
+### [Castries.public](/_public/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Castries.public.md) 
 
-### [Castries.protect](/_protect/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaCastries.protect.md) 
+### [Castries.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Castries.internal.md) 
 
-### [Castries.private](/_private/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaCastries.private.md) 
+### [Castries.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Castries.protect.md) 
 
-### [Castries.personal](/_personal/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaCastries.personal.md) 
+### [Castries.private](/_private/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Castries.private.md) 
 
-### [Castries.secret](/_secret/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaCastries.secret.md)
+### [Castries.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Castries.personal.md) 
+
+### [Castries.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Castries.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Saint_Paul/
 
 ## Confidential Links & Embeds: 
 
-### [Saint_Paul.public](/_public/\Earth\Continent\America~Caribbean\Dominica\parishes~DominicaSaint_Paul.public.md) 
+### [Saint_Paul](/_Standards/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Paul.md) 
 
-### [Saint_Paul.internal](/_internal/\Earth\Continent\America~Caribbean\Dominica\parishes~DominicaSaint_Paul.internal.md) 
+### [Saint_Paul.public](/_public/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Paul.public.md) 
 
-### [Saint_Paul.protect](/_protect/\Earth\Continent\America~Caribbean\Dominica\parishes~DominicaSaint_Paul.protect.md) 
+### [Saint_Paul.internal](/_internal/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Paul.internal.md) 
 
-### [Saint_Paul.private](/_private/\Earth\Continent\America~Caribbean\Dominica\parishes~DominicaSaint_Paul.private.md) 
+### [Saint_Paul.protect](/_protect/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Paul.protect.md) 
 
-### [Saint_Paul.personal](/_personal/\Earth\Continent\America~Caribbean\Dominica\parishes~DominicaSaint_Paul.personal.md) 
+### [Saint_Paul.private](/_private/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Paul.private.md) 
 
-### [Saint_Paul.secret](/_secret/\Earth\Continent\America~Caribbean\Dominica\parishes~DominicaSaint_Paul.secret.md)
+### [Saint_Paul.personal](/_personal/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Paul.personal.md) 
+
+### [Saint_Paul.secret](/_secret/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Paul.secret.md)
 

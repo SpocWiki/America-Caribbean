@@ -41,15 +41,17 @@ markerFolder: ./Saint_Mary_Cayon/
 
 ## Confidential Links & Embeds: 
 
-### [Saint_Mary_Cayon.public](/_public/\Earth\Continent\America~Caribbean\Saint_Kitts_and_Nevis~Islands\parishes~Saint_Kitts_and_NevisSaint_Mary_Cayon.public.md) 
+### [Saint_Mary_Cayon](/_Standards/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_Mary_Cayon.md) 
 
-### [Saint_Mary_Cayon.internal](/_internal/\Earth\Continent\America~Caribbean\Saint_Kitts_and_Nevis~Islands\parishes~Saint_Kitts_and_NevisSaint_Mary_Cayon.internal.md) 
+### [Saint_Mary_Cayon.public](/_public/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_Mary_Cayon.public.md) 
 
-### [Saint_Mary_Cayon.protect](/_protect/\Earth\Continent\America~Caribbean\Saint_Kitts_and_Nevis~Islands\parishes~Saint_Kitts_and_NevisSaint_Mary_Cayon.protect.md) 
+### [Saint_Mary_Cayon.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_Mary_Cayon.internal.md) 
 
-### [Saint_Mary_Cayon.private](/_private/\Earth\Continent\America~Caribbean\Saint_Kitts_and_Nevis~Islands\parishes~Saint_Kitts_and_NevisSaint_Mary_Cayon.private.md) 
+### [Saint_Mary_Cayon.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_Mary_Cayon.protect.md) 
 
-### [Saint_Mary_Cayon.personal](/_personal/\Earth\Continent\America~Caribbean\Saint_Kitts_and_Nevis~Islands\parishes~Saint_Kitts_and_NevisSaint_Mary_Cayon.personal.md) 
+### [Saint_Mary_Cayon.private](/_private/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_Mary_Cayon.private.md) 
 
-### [Saint_Mary_Cayon.secret](/_secret/\Earth\Continent\America~Caribbean\Saint_Kitts_and_Nevis~Islands\parishes~Saint_Kitts_and_NevisSaint_Mary_Cayon.secret.md)
+### [Saint_Mary_Cayon.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_Mary_Cayon.personal.md) 
+
+### [Saint_Mary_Cayon.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_Mary_Cayon.secret.md)
 

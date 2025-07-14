@@ -41,15 +41,17 @@ markerFolder: ./Cienfuegos/
 
 ## Confidential Links & Embeds: 
 
-### [Cienfuegos.public](/_public/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaCienfuegos.public.md) 
+### [Cienfuegos](/_Standards/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Cienfuegos.md) 
 
-### [Cienfuegos.internal](/_internal/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaCienfuegos.internal.md) 
+### [Cienfuegos.public](/_public/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Cienfuegos.public.md) 
 
-### [Cienfuegos.protect](/_protect/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaCienfuegos.protect.md) 
+### [Cienfuegos.internal](/_internal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Cienfuegos.internal.md) 
 
-### [Cienfuegos.private](/_private/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaCienfuegos.private.md) 
+### [Cienfuegos.protect](/_protect/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Cienfuegos.protect.md) 
 
-### [Cienfuegos.personal](/_personal/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaCienfuegos.personal.md) 
+### [Cienfuegos.private](/_private/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Cienfuegos.private.md) 
 
-### [Cienfuegos.secret](/_secret/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaCienfuegos.secret.md)
+### [Cienfuegos.personal](/_personal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Cienfuegos.personal.md) 
+
+### [Cienfuegos.secret](/_secret/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Cienfuegos.secret.md)
 

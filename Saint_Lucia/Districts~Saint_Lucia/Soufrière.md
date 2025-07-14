@@ -41,15 +41,17 @@ markerFolder: ./Soufrière/
 
 ## Confidential Links & Embeds: 
 
-### [Soufrière.public](/_public/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaSoufrière.public.md) 
+### [Soufrière](/_Standards/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Soufrière.md) 
 
-### [Soufrière.internal](/_internal/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaSoufrière.internal.md) 
+### [Soufrière.public](/_public/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Soufrière.public.md) 
 
-### [Soufrière.protect](/_protect/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaSoufrière.protect.md) 
+### [Soufrière.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Soufrière.internal.md) 
 
-### [Soufrière.private](/_private/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaSoufrière.private.md) 
+### [Soufrière.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Soufrière.protect.md) 
 
-### [Soufrière.personal](/_personal/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaSoufrière.personal.md) 
+### [Soufrière.private](/_private/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Soufrière.private.md) 
 
-### [Soufrière.secret](/_secret/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaSoufrière.secret.md)
+### [Soufrière.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Soufrière.personal.md) 
+
+### [Soufrière.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Soufrière.secret.md)
 

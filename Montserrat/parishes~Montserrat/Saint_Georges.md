@@ -41,15 +41,17 @@ markerFolder: ./Saint_Georges/
 
 ## Confidential Links & Embeds: 
 
-### [Saint_Georges.public](/_public/\Earth\Continent\America~Caribbean\Montserrat\parishes~MontserratSaint_Georges.public.md) 
+### [Saint_Georges](/_Standards/Earth/Continent/America~Caribbean/Montserrat/parishes~Montserrat/Saint_Georges.md) 
 
-### [Saint_Georges.internal](/_internal/\Earth\Continent\America~Caribbean\Montserrat\parishes~MontserratSaint_Georges.internal.md) 
+### [Saint_Georges.public](/_public/Earth/Continent/America~Caribbean/Montserrat/parishes~Montserrat/Saint_Georges.public.md) 
 
-### [Saint_Georges.protect](/_protect/\Earth\Continent\America~Caribbean\Montserrat\parishes~MontserratSaint_Georges.protect.md) 
+### [Saint_Georges.internal](/_internal/Earth/Continent/America~Caribbean/Montserrat/parishes~Montserrat/Saint_Georges.internal.md) 
 
-### [Saint_Georges.private](/_private/\Earth\Continent\America~Caribbean\Montserrat\parishes~MontserratSaint_Georges.private.md) 
+### [Saint_Georges.protect](/_protect/Earth/Continent/America~Caribbean/Montserrat/parishes~Montserrat/Saint_Georges.protect.md) 
 
-### [Saint_Georges.personal](/_personal/\Earth\Continent\America~Caribbean\Montserrat\parishes~MontserratSaint_Georges.personal.md) 
+### [Saint_Georges.private](/_private/Earth/Continent/America~Caribbean/Montserrat/parishes~Montserrat/Saint_Georges.private.md) 
 
-### [Saint_Georges.secret](/_secret/\Earth\Continent\America~Caribbean\Montserrat\parishes~MontserratSaint_Georges.secret.md)
+### [Saint_Georges.personal](/_personal/Earth/Continent/America~Caribbean/Montserrat/parishes~Montserrat/Saint_Georges.personal.md) 
+
+### [Saint_Georges.secret](/_secret/Earth/Continent/America~Caribbean/Montserrat/parishes~Montserrat/Saint_Georges.secret.md)
 

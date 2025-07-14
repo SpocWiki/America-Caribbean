@@ -41,15 +41,17 @@ markerFolder: ./Ciudad_de_la_Habana/
 
 ## Confidential Links & Embeds: 
 
-### [Ciudad_de_la_Habana.public](/_public/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaCiudad_de_la_Habana.public.md) 
+### [Ciudad_de_la_Habana](/_Standards/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Ciudad_de_la_Habana.md) 
 
-### [Ciudad_de_la_Habana.internal](/_internal/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaCiudad_de_la_Habana.internal.md) 
+### [Ciudad_de_la_Habana.public](/_public/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Ciudad_de_la_Habana.public.md) 
 
-### [Ciudad_de_la_Habana.protect](/_protect/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaCiudad_de_la_Habana.protect.md) 
+### [Ciudad_de_la_Habana.internal](/_internal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Ciudad_de_la_Habana.internal.md) 
 
-### [Ciudad_de_la_Habana.private](/_private/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaCiudad_de_la_Habana.private.md) 
+### [Ciudad_de_la_Habana.protect](/_protect/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Ciudad_de_la_Habana.protect.md) 
 
-### [Ciudad_de_la_Habana.personal](/_personal/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaCiudad_de_la_Habana.personal.md) 
+### [Ciudad_de_la_Habana.private](/_private/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Ciudad_de_la_Habana.private.md) 
 
-### [Ciudad_de_la_Habana.secret](/_secret/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaCiudad_de_la_Habana.secret.md)
+### [Ciudad_de_la_Habana.personal](/_personal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Ciudad_de_la_Habana.personal.md) 
+
+### [Ciudad_de_la_Habana.secret](/_secret/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Ciudad_de_la_Habana.secret.md)
 

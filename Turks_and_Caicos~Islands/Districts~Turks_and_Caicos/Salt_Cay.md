@@ -41,15 +41,17 @@ markerFolder: ./Salt_Cay/
 
 ## Confidential Links & Embeds: 
 
-### [Salt_Cay.public](/_public/\Earth\Continent\America~Caribbean\Turks_and_Caicos~Islands\Districts~Turks_and_CaicosSalt_Cay.public.md) 
+### [Salt_Cay](/_Standards/Earth/Continent/America~Caribbean/Turks_and_Caicos~Islands/Districts~Turks_and_Caicos/Salt_Cay.md) 
 
-### [Salt_Cay.internal](/_internal/\Earth\Continent\America~Caribbean\Turks_and_Caicos~Islands\Districts~Turks_and_CaicosSalt_Cay.internal.md) 
+### [Salt_Cay.public](/_public/Earth/Continent/America~Caribbean/Turks_and_Caicos~Islands/Districts~Turks_and_Caicos/Salt_Cay.public.md) 
 
-### [Salt_Cay.protect](/_protect/\Earth\Continent\America~Caribbean\Turks_and_Caicos~Islands\Districts~Turks_and_CaicosSalt_Cay.protect.md) 
+### [Salt_Cay.internal](/_internal/Earth/Continent/America~Caribbean/Turks_and_Caicos~Islands/Districts~Turks_and_Caicos/Salt_Cay.internal.md) 
 
-### [Salt_Cay.private](/_private/\Earth\Continent\America~Caribbean\Turks_and_Caicos~Islands\Districts~Turks_and_CaicosSalt_Cay.private.md) 
+### [Salt_Cay.protect](/_protect/Earth/Continent/America~Caribbean/Turks_and_Caicos~Islands/Districts~Turks_and_Caicos/Salt_Cay.protect.md) 
 
-### [Salt_Cay.personal](/_personal/\Earth\Continent\America~Caribbean\Turks_and_Caicos~Islands\Districts~Turks_and_CaicosSalt_Cay.personal.md) 
+### [Salt_Cay.private](/_private/Earth/Continent/America~Caribbean/Turks_and_Caicos~Islands/Districts~Turks_and_Caicos/Salt_Cay.private.md) 
 
-### [Salt_Cay.secret](/_secret/\Earth\Continent\America~Caribbean\Turks_and_Caicos~Islands\Districts~Turks_and_CaicosSalt_Cay.secret.md)
+### [Salt_Cay.personal](/_personal/Earth/Continent/America~Caribbean/Turks_and_Caicos~Islands/Districts~Turks_and_Caicos/Salt_Cay.personal.md) 
+
+### [Salt_Cay.secret](/_secret/Earth/Continent/America~Caribbean/Turks_and_Caicos~Islands/Districts~Turks_and_Caicos/Salt_Cay.secret.md)
 

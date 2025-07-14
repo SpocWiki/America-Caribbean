@@ -41,15 +41,17 @@ markerFolder: ./Duarte/
 
 ## Confidential Links & Embeds: 
 
-### [Duarte.public](/_public/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepDuarte.public.md) 
+### [Duarte](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Duarte.md) 
 
-### [Duarte.internal](/_internal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepDuarte.internal.md) 
+### [Duarte.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Duarte.public.md) 
 
-### [Duarte.protect](/_protect/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepDuarte.protect.md) 
+### [Duarte.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Duarte.internal.md) 
 
-### [Duarte.private](/_private/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepDuarte.private.md) 
+### [Duarte.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Duarte.protect.md) 
 
-### [Duarte.personal](/_personal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepDuarte.personal.md) 
+### [Duarte.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Duarte.private.md) 
 
-### [Duarte.secret](/_secret/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepDuarte.secret.md)
+### [Duarte.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Duarte.personal.md) 
+
+### [Duarte.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Duarte.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Dennery/
 
 ## Confidential Links & Embeds: 
 
-### [Dennery.public](/_public/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaDennery.public.md) 
+### [Dennery](/_Standards/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Dennery.md) 
 
-### [Dennery.internal](/_internal/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaDennery.internal.md) 
+### [Dennery.public](/_public/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Dennery.public.md) 
 
-### [Dennery.protect](/_protect/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaDennery.protect.md) 
+### [Dennery.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Dennery.internal.md) 
 
-### [Dennery.private](/_private/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaDennery.private.md) 
+### [Dennery.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Dennery.protect.md) 
 
-### [Dennery.personal](/_personal/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaDennery.personal.md) 
+### [Dennery.private](/_private/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Dennery.private.md) 
 
-### [Dennery.secret](/_secret/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaDennery.secret.md)
+### [Dennery.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Dennery.personal.md) 
+
+### [Dennery.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Dennery.secret.md)
 

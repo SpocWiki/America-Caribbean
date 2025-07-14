@@ -38,15 +38,17 @@ Continent :: [[South-America]]
 
 ## Confidential Links & Embeds: 
 
-### [Turks_and_Caicos~Islands.public](/_public/\Earth\Continent\America~CaribbeanTurks_and_Caicos~Islands.public.md) 
+### [Turks_and_Caicos~Islands](/_Standards/Earth/Continent/America~Caribbean/Turks_and_Caicos~Islands.md) 
 
-### [Turks_and_Caicos~Islands.internal](/_internal/\Earth\Continent\America~CaribbeanTurks_and_Caicos~Islands.internal.md) 
+### [Turks_and_Caicos~Islands.public](/_public/Earth/Continent/America~Caribbean/Turks_and_Caicos~Islands.public.md) 
 
-### [Turks_and_Caicos~Islands.protect](/_protect/\Earth\Continent\America~CaribbeanTurks_and_Caicos~Islands.protect.md) 
+### [Turks_and_Caicos~Islands.internal](/_internal/Earth/Continent/America~Caribbean/Turks_and_Caicos~Islands.internal.md) 
 
-### [Turks_and_Caicos~Islands.private](/_private/\Earth\Continent\America~CaribbeanTurks_and_Caicos~Islands.private.md) 
+### [Turks_and_Caicos~Islands.protect](/_protect/Earth/Continent/America~Caribbean/Turks_and_Caicos~Islands.protect.md) 
 
-### [Turks_and_Caicos~Islands.personal](/_personal/\Earth\Continent\America~CaribbeanTurks_and_Caicos~Islands.personal.md) 
+### [Turks_and_Caicos~Islands.private](/_private/Earth/Continent/America~Caribbean/Turks_and_Caicos~Islands.private.md) 
 
-### [Turks_and_Caicos~Islands.secret](/_secret/\Earth\Continent\America~CaribbeanTurks_and_Caicos~Islands.secret.md)
+### [Turks_and_Caicos~Islands.personal](/_personal/Earth/Continent/America~Caribbean/Turks_and_Caicos~Islands.personal.md) 
+
+### [Turks_and_Caicos~Islands.secret](/_secret/Earth/Continent/America~Caribbean/Turks_and_Caicos~Islands.secret.md)
 

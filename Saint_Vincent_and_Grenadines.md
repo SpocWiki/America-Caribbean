@@ -39,15 +39,17 @@ Capital :: [[Saint_Vincent_and_Grenadines/Counties/Saint_George/City/Kingstown]]
 
 ## Confidential Links & Embeds: 
 
-### [Saint_Vincent_and_Grenadines.public](/_public/\Earth\Continent\America~CaribbeanSaint_Vincent_and_Grenadines.public.md) 
+### [Saint_Vincent_and_Grenadines](/_Standards/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines.md) 
 
-### [Saint_Vincent_and_Grenadines.internal](/_internal/\Earth\Continent\America~CaribbeanSaint_Vincent_and_Grenadines.internal.md) 
+### [Saint_Vincent_and_Grenadines.public](/_public/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines.public.md) 
 
-### [Saint_Vincent_and_Grenadines.protect](/_protect/\Earth\Continent\America~CaribbeanSaint_Vincent_and_Grenadines.protect.md) 
+### [Saint_Vincent_and_Grenadines.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines.internal.md) 
 
-### [Saint_Vincent_and_Grenadines.private](/_private/\Earth\Continent\America~CaribbeanSaint_Vincent_and_Grenadines.private.md) 
+### [Saint_Vincent_and_Grenadines.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines.protect.md) 
 
-### [Saint_Vincent_and_Grenadines.personal](/_personal/\Earth\Continent\America~CaribbeanSaint_Vincent_and_Grenadines.personal.md) 
+### [Saint_Vincent_and_Grenadines.private](/_private/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines.private.md) 
 
-### [Saint_Vincent_and_Grenadines.secret](/_secret/\Earth\Continent\America~CaribbeanSaint_Vincent_and_Grenadines.secret.md)
+### [Saint_Vincent_and_Grenadines.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines.personal.md) 
+
+### [Saint_Vincent_and_Grenadines.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines.secret.md)
 

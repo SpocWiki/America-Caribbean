@@ -41,15 +41,17 @@ markerFolder: ./Mayaguana/
 
 ## Confidential Links & Embeds: 
 
-### [Mayaguana.public](/_public/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasMayaguana.public.md) 
+### [Mayaguana](/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Mayaguana.md) 
 
-### [Mayaguana.internal](/_internal/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasMayaguana.internal.md) 
+### [Mayaguana.public](/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Mayaguana.public.md) 
 
-### [Mayaguana.protect](/_protect/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasMayaguana.protect.md) 
+### [Mayaguana.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Mayaguana.internal.md) 
 
-### [Mayaguana.private](/_private/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasMayaguana.private.md) 
+### [Mayaguana.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Mayaguana.protect.md) 
 
-### [Mayaguana.personal](/_personal/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasMayaguana.personal.md) 
+### [Mayaguana.private](/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Mayaguana.private.md) 
 
-### [Mayaguana.secret](/_secret/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasMayaguana.secret.md)
+### [Mayaguana.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Mayaguana.personal.md) 
+
+### [Mayaguana.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Mayaguana.secret.md)
 

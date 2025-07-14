@@ -41,15 +41,17 @@ markerFolder: ./Providenciales_and_West_Caicos/
 
 ## Confidential Links & Embeds: 
 
-### [Providenciales_and_West_Caicos.public](/_public/\Earth\Continent\America~Caribbean\Turks_and_Caicos~Islands\Districts~Turks_and_CaicosProvidenciales_and_West_Caicos.public.md) 
+### [Providenciales_and_West_Caicos](/_Standards/Earth/Continent/America~Caribbean/Turks_and_Caicos~Islands/Districts~Turks_and_Caicos/Providenciales_and_West_Caicos.md) 
 
-### [Providenciales_and_West_Caicos.internal](/_internal/\Earth\Continent\America~Caribbean\Turks_and_Caicos~Islands\Districts~Turks_and_CaicosProvidenciales_and_West_Caicos.internal.md) 
+### [Providenciales_and_West_Caicos.public](/_public/Earth/Continent/America~Caribbean/Turks_and_Caicos~Islands/Districts~Turks_and_Caicos/Providenciales_and_West_Caicos.public.md) 
 
-### [Providenciales_and_West_Caicos.protect](/_protect/\Earth\Continent\America~Caribbean\Turks_and_Caicos~Islands\Districts~Turks_and_CaicosProvidenciales_and_West_Caicos.protect.md) 
+### [Providenciales_and_West_Caicos.internal](/_internal/Earth/Continent/America~Caribbean/Turks_and_Caicos~Islands/Districts~Turks_and_Caicos/Providenciales_and_West_Caicos.internal.md) 
 
-### [Providenciales_and_West_Caicos.private](/_private/\Earth\Continent\America~Caribbean\Turks_and_Caicos~Islands\Districts~Turks_and_CaicosProvidenciales_and_West_Caicos.private.md) 
+### [Providenciales_and_West_Caicos.protect](/_protect/Earth/Continent/America~Caribbean/Turks_and_Caicos~Islands/Districts~Turks_and_Caicos/Providenciales_and_West_Caicos.protect.md) 
 
-### [Providenciales_and_West_Caicos.personal](/_personal/\Earth\Continent\America~Caribbean\Turks_and_Caicos~Islands\Districts~Turks_and_CaicosProvidenciales_and_West_Caicos.personal.md) 
+### [Providenciales_and_West_Caicos.private](/_private/Earth/Continent/America~Caribbean/Turks_and_Caicos~Islands/Districts~Turks_and_Caicos/Providenciales_and_West_Caicos.private.md) 
 
-### [Providenciales_and_West_Caicos.secret](/_secret/\Earth\Continent\America~Caribbean\Turks_and_Caicos~Islands\Districts~Turks_and_CaicosProvidenciales_and_West_Caicos.secret.md)
+### [Providenciales_and_West_Caicos.personal](/_personal/Earth/Continent/America~Caribbean/Turks_and_Caicos~Islands/Districts~Turks_and_Caicos/Providenciales_and_West_Caicos.personal.md) 
+
+### [Providenciales_and_West_Caicos.secret](/_secret/Earth/Continent/America~Caribbean/Turks_and_Caicos~Islands/Districts~Turks_and_Caicos/Providenciales_and_West_Caicos.secret.md)
 

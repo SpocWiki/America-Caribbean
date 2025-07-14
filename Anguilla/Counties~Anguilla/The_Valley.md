@@ -57,15 +57,17 @@ markerFolder: ./The_Valley/
 
 ## Confidential Links & Embeds: 
 
-### [The_Valley.public](/_public/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaThe_Valley.public.md) 
+### [The_Valley](/_Standards/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/The_Valley.md) 
 
-### [The_Valley.internal](/_internal/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaThe_Valley.internal.md) 
+### [The_Valley.public](/_public/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/The_Valley.public.md) 
 
-### [The_Valley.protect](/_protect/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaThe_Valley.protect.md) 
+### [The_Valley.internal](/_internal/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/The_Valley.internal.md) 
 
-### [The_Valley.private](/_private/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaThe_Valley.private.md) 
+### [The_Valley.protect](/_protect/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/The_Valley.protect.md) 
 
-### [The_Valley.personal](/_personal/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaThe_Valley.personal.md) 
+### [The_Valley.private](/_private/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/The_Valley.private.md) 
 
-### [The_Valley.secret](/_secret/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaThe_Valley.secret.md)
+### [The_Valley.personal](/_personal/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/The_Valley.personal.md) 
+
+### [The_Valley.secret](/_secret/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/The_Valley.secret.md)
 

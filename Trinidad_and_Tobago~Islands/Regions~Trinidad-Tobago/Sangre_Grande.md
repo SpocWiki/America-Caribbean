@@ -41,15 +41,17 @@ markerFolder: ./Sangre_Grande/
 
 ## Confidential Links & Embeds: 
 
-### [Sangre_Grande.public](/_public/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoSangre_Grande.public.md) 
+### [Sangre_Grande](/_Standards/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Sangre_Grande.md) 
 
-### [Sangre_Grande.internal](/_internal/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoSangre_Grande.internal.md) 
+### [Sangre_Grande.public](/_public/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Sangre_Grande.public.md) 
 
-### [Sangre_Grande.protect](/_protect/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoSangre_Grande.protect.md) 
+### [Sangre_Grande.internal](/_internal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Sangre_Grande.internal.md) 
 
-### [Sangre_Grande.private](/_private/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoSangre_Grande.private.md) 
+### [Sangre_Grande.protect](/_protect/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Sangre_Grande.protect.md) 
 
-### [Sangre_Grande.personal](/_personal/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoSangre_Grande.personal.md) 
+### [Sangre_Grande.private](/_private/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Sangre_Grande.private.md) 
 
-### [Sangre_Grande.secret](/_secret/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoSangre_Grande.secret.md)
+### [Sangre_Grande.personal](/_personal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Sangre_Grande.personal.md) 
+
+### [Sangre_Grande.secret](/_secret/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Sangre_Grande.secret.md)
 

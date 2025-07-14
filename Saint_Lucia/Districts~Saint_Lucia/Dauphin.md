@@ -41,15 +41,17 @@ markerFolder: ./Dauphin/
 
 ## Confidential Links & Embeds: 
 
-### [Dauphin.public](/_public/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaDauphin.public.md) 
+### [Dauphin](/_Standards/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Dauphin.md) 
 
-### [Dauphin.internal](/_internal/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaDauphin.internal.md) 
+### [Dauphin.public](/_public/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Dauphin.public.md) 
 
-### [Dauphin.protect](/_protect/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaDauphin.protect.md) 
+### [Dauphin.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Dauphin.internal.md) 
 
-### [Dauphin.private](/_private/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaDauphin.private.md) 
+### [Dauphin.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Dauphin.protect.md) 
 
-### [Dauphin.personal](/_personal/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaDauphin.personal.md) 
+### [Dauphin.private](/_private/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Dauphin.private.md) 
 
-### [Dauphin.secret](/_secret/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaDauphin.secret.md)
+### [Dauphin.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Dauphin.personal.md) 
+
+### [Dauphin.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Dauphin.secret.md)
 

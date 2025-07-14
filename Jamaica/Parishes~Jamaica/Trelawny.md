@@ -41,15 +41,17 @@ markerFolder: ./Trelawny/
 
 ## Confidential Links & Embeds: 
 
-### [Trelawny.public](/_public/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaTrelawny.public.md) 
+### [Trelawny](/_Standards/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Trelawny.md) 
 
-### [Trelawny.internal](/_internal/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaTrelawny.internal.md) 
+### [Trelawny.public](/_public/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Trelawny.public.md) 
 
-### [Trelawny.protect](/_protect/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaTrelawny.protect.md) 
+### [Trelawny.internal](/_internal/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Trelawny.internal.md) 
 
-### [Trelawny.private](/_private/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaTrelawny.private.md) 
+### [Trelawny.protect](/_protect/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Trelawny.protect.md) 
 
-### [Trelawny.personal](/_personal/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaTrelawny.personal.md) 
+### [Trelawny.private](/_private/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Trelawny.private.md) 
 
-### [Trelawny.secret](/_secret/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaTrelawny.secret.md)
+### [Trelawny.personal](/_personal/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Trelawny.personal.md) 
+
+### [Trelawny.secret](/_secret/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Trelawny.secret.md)
 

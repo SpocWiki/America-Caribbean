@@ -118,15 +118,17 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 
 ## Confidential Links & Embeds: 
 
-### [Curacao.public](/_public/\Earth\Continent\America~CaribbeanCuracao.public.md) 
+### [Curacao](/_Standards/Earth/Continent/America~Caribbean/Curacao.md) 
 
-### [Curacao.internal](/_internal/\Earth\Continent\America~CaribbeanCuracao.internal.md) 
+### [Curacao.public](/_public/Earth/Continent/America~Caribbean/Curacao.public.md) 
 
-### [Curacao.protect](/_protect/\Earth\Continent\America~CaribbeanCuracao.protect.md) 
+### [Curacao.internal](/_internal/Earth/Continent/America~Caribbean/Curacao.internal.md) 
 
-### [Curacao.private](/_private/\Earth\Continent\America~CaribbeanCuracao.private.md) 
+### [Curacao.protect](/_protect/Earth/Continent/America~Caribbean/Curacao.protect.md) 
 
-### [Curacao.personal](/_personal/\Earth\Continent\America~CaribbeanCuracao.personal.md) 
+### [Curacao.private](/_private/Earth/Continent/America~Caribbean/Curacao.private.md) 
 
-### [Curacao.secret](/_secret/\Earth\Continent\America~CaribbeanCuracao.secret.md)
+### [Curacao.personal](/_personal/Earth/Continent/America~Caribbean/Curacao.personal.md) 
+
+### [Curacao.secret](/_secret/Earth/Continent/America~Caribbean/Curacao.secret.md)
 

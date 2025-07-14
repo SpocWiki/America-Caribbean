@@ -41,15 +41,17 @@ markerFolder: ./Santiago_de_Cuba/
 
 ## Confidential Links & Embeds: 
 
-### [Santiago_de_Cuba.public](/_public/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaSantiago_de_Cuba.public.md) 
+### [Santiago_de_Cuba](/_Standards/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Santiago_de_Cuba.md) 
 
-### [Santiago_de_Cuba.internal](/_internal/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaSantiago_de_Cuba.internal.md) 
+### [Santiago_de_Cuba.public](/_public/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Santiago_de_Cuba.public.md) 
 
-### [Santiago_de_Cuba.protect](/_protect/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaSantiago_de_Cuba.protect.md) 
+### [Santiago_de_Cuba.internal](/_internal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Santiago_de_Cuba.internal.md) 
 
-### [Santiago_de_Cuba.private](/_private/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaSantiago_de_Cuba.private.md) 
+### [Santiago_de_Cuba.protect](/_protect/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Santiago_de_Cuba.protect.md) 
 
-### [Santiago_de_Cuba.personal](/_personal/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaSantiago_de_Cuba.personal.md) 
+### [Santiago_de_Cuba.private](/_private/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Santiago_de_Cuba.private.md) 
 
-### [Santiago_de_Cuba.secret](/_secret/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaSantiago_de_Cuba.secret.md)
+### [Santiago_de_Cuba.personal](/_personal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Santiago_de_Cuba.personal.md) 
+
+### [Santiago_de_Cuba.secret](/_secret/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Santiago_de_Cuba.secret.md)
 

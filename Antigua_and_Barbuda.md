@@ -57,15 +57,17 @@ Capital :: [[Antigua_and_Barbuda/Counties/Saint_John/City/Saint_John’s]]
 
 ## Confidential Links & Embeds: 
 
-### [Antigua_and_Barbuda.public](/_public/\Earth\Continent\America~CaribbeanAntigua_and_Barbuda.public.md) 
+### [Antigua_and_Barbuda](/_Standards/Earth/Continent/America~Caribbean/Antigua_and_Barbuda.md) 
 
-### [Antigua_and_Barbuda.internal](/_internal/\Earth\Continent\America~CaribbeanAntigua_and_Barbuda.internal.md) 
+### [Antigua_and_Barbuda.public](/_public/Earth/Continent/America~Caribbean/Antigua_and_Barbuda.public.md) 
 
-### [Antigua_and_Barbuda.protect](/_protect/\Earth\Continent\America~CaribbeanAntigua_and_Barbuda.protect.md) 
+### [Antigua_and_Barbuda.internal](/_internal/Earth/Continent/America~Caribbean/Antigua_and_Barbuda.internal.md) 
 
-### [Antigua_and_Barbuda.private](/_private/\Earth\Continent\America~CaribbeanAntigua_and_Barbuda.private.md) 
+### [Antigua_and_Barbuda.protect](/_protect/Earth/Continent/America~Caribbean/Antigua_and_Barbuda.protect.md) 
 
-### [Antigua_and_Barbuda.personal](/_personal/\Earth\Continent\America~CaribbeanAntigua_and_Barbuda.personal.md) 
+### [Antigua_and_Barbuda.private](/_private/Earth/Continent/America~Caribbean/Antigua_and_Barbuda.private.md) 
 
-### [Antigua_and_Barbuda.secret](/_secret/\Earth\Continent\America~CaribbeanAntigua_and_Barbuda.secret.md)
+### [Antigua_and_Barbuda.personal](/_personal/Earth/Continent/America~Caribbean/Antigua_and_Barbuda.personal.md) 
+
+### [Antigua_and_Barbuda.secret](/_secret/Earth/Continent/America~Caribbean/Antigua_and_Barbuda.secret.md)
 

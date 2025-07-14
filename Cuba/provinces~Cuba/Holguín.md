@@ -41,15 +41,17 @@ markerFolder: ./Holguín/
 
 ## Confidential Links & Embeds: 
 
-### [Holguín.public](/_public/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaHolguín.public.md) 
+### [Holguín](/_Standards/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Holguín.md) 
 
-### [Holguín.internal](/_internal/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaHolguín.internal.md) 
+### [Holguín.public](/_public/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Holguín.public.md) 
 
-### [Holguín.protect](/_protect/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaHolguín.protect.md) 
+### [Holguín.internal](/_internal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Holguín.internal.md) 
 
-### [Holguín.private](/_private/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaHolguín.private.md) 
+### [Holguín.protect](/_protect/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Holguín.protect.md) 
 
-### [Holguín.personal](/_personal/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaHolguín.personal.md) 
+### [Holguín.private](/_private/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Holguín.private.md) 
 
-### [Holguín.secret](/_secret/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaHolguín.secret.md)
+### [Holguín.personal](/_personal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Holguín.personal.md) 
+
+### [Holguín.secret](/_secret/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Holguín.secret.md)
 

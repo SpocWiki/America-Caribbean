@@ -41,15 +41,17 @@ markerFolder: ./Villa_Clara/
 
 ## Confidential Links & Embeds: 
 
-### [Villa_Clara.public](/_public/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaVilla_Clara.public.md) 
+### [Villa_Clara](/_Standards/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Villa_Clara.md) 
 
-### [Villa_Clara.internal](/_internal/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaVilla_Clara.internal.md) 
+### [Villa_Clara.public](/_public/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Villa_Clara.public.md) 
 
-### [Villa_Clara.protect](/_protect/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaVilla_Clara.protect.md) 
+### [Villa_Clara.internal](/_internal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Villa_Clara.internal.md) 
 
-### [Villa_Clara.private](/_private/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaVilla_Clara.private.md) 
+### [Villa_Clara.protect](/_protect/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Villa_Clara.protect.md) 
 
-### [Villa_Clara.personal](/_personal/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaVilla_Clara.personal.md) 
+### [Villa_Clara.private](/_private/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Villa_Clara.private.md) 
 
-### [Villa_Clara.secret](/_secret/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaVilla_Clara.secret.md)
+### [Villa_Clara.personal](/_personal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Villa_Clara.personal.md) 
+
+### [Villa_Clara.secret](/_secret/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Villa_Clara.secret.md)
 

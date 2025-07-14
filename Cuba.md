@@ -482,15 +482,17 @@ Capital :: [[Cuba/City/Habana=Havana=Havanna]]
 
 ## Confidential Links & Embeds: 
 
-### [Cuba.public](/_public/\Earth\Continent\America~CaribbeanCuba.public.md) 
+### [Cuba](/_Standards/Earth/Continent/America~Caribbean/Cuba.md) 
 
-### [Cuba.internal](/_internal/\Earth\Continent\America~CaribbeanCuba.internal.md) 
+### [Cuba.public](/_public/Earth/Continent/America~Caribbean/Cuba.public.md) 
 
-### [Cuba.protect](/_protect/\Earth\Continent\America~CaribbeanCuba.protect.md) 
+### [Cuba.internal](/_internal/Earth/Continent/America~Caribbean/Cuba.internal.md) 
 
-### [Cuba.private](/_private/\Earth\Continent\America~CaribbeanCuba.private.md) 
+### [Cuba.protect](/_protect/Earth/Continent/America~Caribbean/Cuba.protect.md) 
 
-### [Cuba.personal](/_personal/\Earth\Continent\America~CaribbeanCuba.personal.md) 
+### [Cuba.private](/_private/Earth/Continent/America~Caribbean/Cuba.private.md) 
 
-### [Cuba.secret](/_secret/\Earth\Continent\America~CaribbeanCuba.secret.md)
+### [Cuba.personal](/_personal/Earth/Continent/America~Caribbean/Cuba.personal.md) 
+
+### [Cuba.secret](/_secret/Earth/Continent/America~Caribbean/Cuba.secret.md)
 

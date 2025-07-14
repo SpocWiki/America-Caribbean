@@ -434,15 +434,17 @@ Capital :: [[Haiti/Counties/Ouest/City/Port-au-Prince]]
 
 ## Confidential Links & Embeds: 
 
-### [Haiti.public](/_public/\Earth\Continent\America~CaribbeanHaiti.public.md) 
+### [Haiti](/_Standards/Earth/Continent/America~Caribbean/Haiti.md) 
 
-### [Haiti.internal](/_internal/\Earth\Continent\America~CaribbeanHaiti.internal.md) 
+### [Haiti.public](/_public/Earth/Continent/America~Caribbean/Haiti.public.md) 
 
-### [Haiti.protect](/_protect/\Earth\Continent\America~CaribbeanHaiti.protect.md) 
+### [Haiti.internal](/_internal/Earth/Continent/America~Caribbean/Haiti.internal.md) 
 
-### [Haiti.private](/_private/\Earth\Continent\America~CaribbeanHaiti.private.md) 
+### [Haiti.protect](/_protect/Earth/Continent/America~Caribbean/Haiti.protect.md) 
 
-### [Haiti.personal](/_personal/\Earth\Continent\America~CaribbeanHaiti.personal.md) 
+### [Haiti.private](/_private/Earth/Continent/America~Caribbean/Haiti.private.md) 
 
-### [Haiti.secret](/_secret/\Earth\Continent\America~CaribbeanHaiti.secret.md)
+### [Haiti.personal](/_personal/Earth/Continent/America~Caribbean/Haiti.personal.md) 
+
+### [Haiti.secret](/_secret/Earth/Continent/America~Caribbean/Haiti.secret.md)
 

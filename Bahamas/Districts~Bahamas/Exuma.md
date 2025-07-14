@@ -41,15 +41,17 @@ markerFolder: ./Exuma/
 
 ## Confidential Links & Embeds: 
 
-### [Exuma.public](/_public/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasExuma.public.md) 
+### [Exuma](/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Exuma.md) 
 
-### [Exuma.internal](/_internal/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasExuma.internal.md) 
+### [Exuma.public](/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Exuma.public.md) 
 
-### [Exuma.protect](/_protect/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasExuma.protect.md) 
+### [Exuma.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Exuma.internal.md) 
 
-### [Exuma.private](/_private/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasExuma.private.md) 
+### [Exuma.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Exuma.protect.md) 
 
-### [Exuma.personal](/_personal/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasExuma.personal.md) 
+### [Exuma.private](/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Exuma.private.md) 
 
-### [Exuma.secret](/_secret/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasExuma.secret.md)
+### [Exuma.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Exuma.personal.md) 
+
+### [Exuma.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Exuma.secret.md)
 

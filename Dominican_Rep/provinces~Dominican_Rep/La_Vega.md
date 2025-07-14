@@ -41,15 +41,17 @@ markerFolder: ./La_Vega/
 
 ## Confidential Links & Embeds: 
 
-### [La_Vega.public](/_public/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepLa_Vega.public.md) 
+### [La_Vega](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/La_Vega.md) 
 
-### [La_Vega.internal](/_internal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepLa_Vega.internal.md) 
+### [La_Vega.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/La_Vega.public.md) 
 
-### [La_Vega.protect](/_protect/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepLa_Vega.protect.md) 
+### [La_Vega.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/La_Vega.internal.md) 
 
-### [La_Vega.private](/_private/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepLa_Vega.private.md) 
+### [La_Vega.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/La_Vega.protect.md) 
 
-### [La_Vega.personal](/_personal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepLa_Vega.personal.md) 
+### [La_Vega.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/La_Vega.private.md) 
 
-### [La_Vega.secret](/_secret/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepLa_Vega.secret.md)
+### [La_Vega.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/La_Vega.personal.md) 
+
+### [La_Vega.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/La_Vega.secret.md)
 

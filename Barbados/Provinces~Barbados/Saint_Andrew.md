@@ -41,15 +41,17 @@ markerFolder: ./Saint_Andrew/
 
 ## Confidential Links & Embeds: 
 
-### [Saint_Andrew.public](/_public/\Earth\Continent\America~Caribbean\Barbados\Provinces~BarbadosSaint_Andrew.public.md) 
+### [Saint_Andrew](/_Standards/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Andrew.md) 
 
-### [Saint_Andrew.internal](/_internal/\Earth\Continent\America~Caribbean\Barbados\Provinces~BarbadosSaint_Andrew.internal.md) 
+### [Saint_Andrew.public](/_public/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Andrew.public.md) 
 
-### [Saint_Andrew.protect](/_protect/\Earth\Continent\America~Caribbean\Barbados\Provinces~BarbadosSaint_Andrew.protect.md) 
+### [Saint_Andrew.internal](/_internal/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Andrew.internal.md) 
 
-### [Saint_Andrew.private](/_private/\Earth\Continent\America~Caribbean\Barbados\Provinces~BarbadosSaint_Andrew.private.md) 
+### [Saint_Andrew.protect](/_protect/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Andrew.protect.md) 
 
-### [Saint_Andrew.personal](/_personal/\Earth\Continent\America~Caribbean\Barbados\Provinces~BarbadosSaint_Andrew.personal.md) 
+### [Saint_Andrew.private](/_private/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Andrew.private.md) 
 
-### [Saint_Andrew.secret](/_secret/\Earth\Continent\America~Caribbean\Barbados\Provinces~BarbadosSaint_Andrew.secret.md)
+### [Saint_Andrew.personal](/_personal/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Andrew.personal.md) 
+
+### [Saint_Andrew.secret](/_secret/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Andrew.secret.md)
 

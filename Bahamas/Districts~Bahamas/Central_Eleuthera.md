@@ -41,15 +41,17 @@ markerFolder: ./Central_Eleuthera/
 
 ## Confidential Links & Embeds: 
 
-### [Central_Eleuthera.public](/_public/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasCentral_Eleuthera.public.md) 
+### [Central_Eleuthera](/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Central_Eleuthera.md) 
 
-### [Central_Eleuthera.internal](/_internal/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasCentral_Eleuthera.internal.md) 
+### [Central_Eleuthera.public](/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Central_Eleuthera.public.md) 
 
-### [Central_Eleuthera.protect](/_protect/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasCentral_Eleuthera.protect.md) 
+### [Central_Eleuthera.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Central_Eleuthera.internal.md) 
 
-### [Central_Eleuthera.private](/_private/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasCentral_Eleuthera.private.md) 
+### [Central_Eleuthera.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Central_Eleuthera.protect.md) 
 
-### [Central_Eleuthera.personal](/_personal/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasCentral_Eleuthera.personal.md) 
+### [Central_Eleuthera.private](/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Central_Eleuthera.private.md) 
 
-### [Central_Eleuthera.secret](/_secret/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasCentral_Eleuthera.secret.md)
+### [Central_Eleuthera.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Central_Eleuthera.personal.md) 
+
+### [Central_Eleuthera.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Central_Eleuthera.secret.md)
 

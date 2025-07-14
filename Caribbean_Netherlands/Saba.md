@@ -41,15 +41,17 @@ markerFolder: ./Saba/
 
 ## Confidential Links & Embeds: 
 
-### [Saba.public](/_public/\Earth\Continent\America~Caribbean\Caribbean_NetherlandsSaba.public.md) 
+### [Saba](/_Standards/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saba.md) 
 
-### [Saba.internal](/_internal/\Earth\Continent\America~Caribbean\Caribbean_NetherlandsSaba.internal.md) 
+### [Saba.public](/_public/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saba.public.md) 
 
-### [Saba.protect](/_protect/\Earth\Continent\America~Caribbean\Caribbean_NetherlandsSaba.protect.md) 
+### [Saba.internal](/_internal/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saba.internal.md) 
 
-### [Saba.private](/_private/\Earth\Continent\America~Caribbean\Caribbean_NetherlandsSaba.private.md) 
+### [Saba.protect](/_protect/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saba.protect.md) 
 
-### [Saba.personal](/_personal/\Earth\Continent\America~Caribbean\Caribbean_NetherlandsSaba.personal.md) 
+### [Saba.private](/_private/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saba.private.md) 
 
-### [Saba.secret](/_secret/\Earth\Continent\America~Caribbean\Caribbean_NetherlandsSaba.secret.md)
+### [Saba.personal](/_personal/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saba.personal.md) 
+
+### [Saba.secret](/_secret/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saba.secret.md)
 

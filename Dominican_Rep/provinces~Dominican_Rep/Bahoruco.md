@@ -41,15 +41,17 @@ markerFolder: ./Bahoruco/
 
 ## Confidential Links & Embeds: 
 
-### [Bahoruco.public](/_public/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepBahoruco.public.md) 
+### [Bahoruco](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Bahoruco.md) 
 
-### [Bahoruco.internal](/_internal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepBahoruco.internal.md) 
+### [Bahoruco.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Bahoruco.public.md) 
 
-### [Bahoruco.protect](/_protect/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepBahoruco.protect.md) 
+### [Bahoruco.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Bahoruco.internal.md) 
 
-### [Bahoruco.private](/_private/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepBahoruco.private.md) 
+### [Bahoruco.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Bahoruco.protect.md) 
 
-### [Bahoruco.personal](/_personal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepBahoruco.personal.md) 
+### [Bahoruco.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Bahoruco.private.md) 
 
-### [Bahoruco.secret](/_secret/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepBahoruco.secret.md)
+### [Bahoruco.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Bahoruco.personal.md) 
+
+### [Bahoruco.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Bahoruco.secret.md)
 

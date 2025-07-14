@@ -41,15 +41,17 @@ markerFolder: ./Portland/
 
 ## Confidential Links & Embeds: 
 
-### [Portland.public](/_public/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaPortland.public.md) 
+### [Portland](/_Standards/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Portland.md) 
 
-### [Portland.internal](/_internal/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaPortland.internal.md) 
+### [Portland.public](/_public/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Portland.public.md) 
 
-### [Portland.protect](/_protect/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaPortland.protect.md) 
+### [Portland.internal](/_internal/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Portland.internal.md) 
 
-### [Portland.private](/_private/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaPortland.private.md) 
+### [Portland.protect](/_protect/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Portland.protect.md) 
 
-### [Portland.personal](/_personal/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaPortland.personal.md) 
+### [Portland.private](/_private/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Portland.private.md) 
 
-### [Portland.secret](/_secret/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaPortland.secret.md)
+### [Portland.personal](/_personal/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Portland.personal.md) 
+
+### [Portland.secret](/_secret/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Portland.secret.md)
 

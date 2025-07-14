@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Road_Town.public](/_public/\Earth\Continent\America~Caribbean\British_Virgin-Islands\CityRoad_Town.public.md) 
+### [Road_Town](/_Standards/Earth/Continent/America~Caribbean/British_Virgin-Islands/City/Road_Town.md) 
 
-### [Road_Town.internal](/_internal/\Earth\Continent\America~Caribbean\British_Virgin-Islands\CityRoad_Town.internal.md) 
+### [Road_Town.public](/_public/Earth/Continent/America~Caribbean/British_Virgin-Islands/City/Road_Town.public.md) 
 
-### [Road_Town.protect](/_protect/\Earth\Continent\America~Caribbean\British_Virgin-Islands\CityRoad_Town.protect.md) 
+### [Road_Town.internal](/_internal/Earth/Continent/America~Caribbean/British_Virgin-Islands/City/Road_Town.internal.md) 
 
-### [Road_Town.private](/_private/\Earth\Continent\America~Caribbean\British_Virgin-Islands\CityRoad_Town.private.md) 
+### [Road_Town.protect](/_protect/Earth/Continent/America~Caribbean/British_Virgin-Islands/City/Road_Town.protect.md) 
 
-### [Road_Town.personal](/_personal/\Earth\Continent\America~Caribbean\British_Virgin-Islands\CityRoad_Town.personal.md) 
+### [Road_Town.private](/_private/Earth/Continent/America~Caribbean/British_Virgin-Islands/City/Road_Town.private.md) 
 
-### [Road_Town.secret](/_secret/\Earth\Continent\America~Caribbean\British_Virgin-Islands\CityRoad_Town.secret.md)
+### [Road_Town.personal](/_personal/Earth/Continent/America~Caribbean/British_Virgin-Islands/City/Road_Town.personal.md) 
+
+### [Road_Town.secret](/_secret/Earth/Continent/America~Caribbean/British_Virgin-Islands/City/Road_Town.secret.md)
 

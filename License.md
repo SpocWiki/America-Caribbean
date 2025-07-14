@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\America~CaribbeanLicense.public.md) 
+### [License](/_Standards/Earth/Continent/America~Caribbean/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\America~CaribbeanLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/America~Caribbean/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\America~CaribbeanLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/America~Caribbean/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\America~CaribbeanLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/America~Caribbean/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\America~CaribbeanLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/America~Caribbean/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\America~CaribbeanLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/America~Caribbean/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/America~Caribbean/License.secret.md)
 

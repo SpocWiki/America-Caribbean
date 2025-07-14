@@ -41,15 +41,17 @@ markerFolder: ./Charlotte/
 
 ## Confidential Links & Embeds: 
 
-### [Charlotte.public](/_public/\Earth\Continent\America~Caribbean\Saint_Vincent_and_Grenadines\CountiesCharlotte.public.md) 
+### [Charlotte](/_Standards/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Charlotte.md) 
 
-### [Charlotte.internal](/_internal/\Earth\Continent\America~Caribbean\Saint_Vincent_and_Grenadines\CountiesCharlotte.internal.md) 
+### [Charlotte.public](/_public/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Charlotte.public.md) 
 
-### [Charlotte.protect](/_protect/\Earth\Continent\America~Caribbean\Saint_Vincent_and_Grenadines\CountiesCharlotte.protect.md) 
+### [Charlotte.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Charlotte.internal.md) 
 
-### [Charlotte.private](/_private/\Earth\Continent\America~Caribbean\Saint_Vincent_and_Grenadines\CountiesCharlotte.private.md) 
+### [Charlotte.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Charlotte.protect.md) 
 
-### [Charlotte.personal](/_personal/\Earth\Continent\America~Caribbean\Saint_Vincent_and_Grenadines\CountiesCharlotte.personal.md) 
+### [Charlotte.private](/_private/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Charlotte.private.md) 
 
-### [Charlotte.secret](/_secret/\Earth\Continent\America~Caribbean\Saint_Vincent_and_Grenadines\CountiesCharlotte.secret.md)
+### [Charlotte.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Charlotte.personal.md) 
+
+### [Charlotte.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Charlotte.secret.md)
 

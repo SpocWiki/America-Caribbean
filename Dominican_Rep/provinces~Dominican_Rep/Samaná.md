@@ -41,15 +41,17 @@ markerFolder: ./Samaná/
 
 ## Confidential Links & Embeds: 
 
-### [Samaná.public](/_public/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepSamaná.public.md) 
+### [Samaná](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Samaná.md) 
 
-### [Samaná.internal](/_internal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepSamaná.internal.md) 
+### [Samaná.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Samaná.public.md) 
 
-### [Samaná.protect](/_protect/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepSamaná.protect.md) 
+### [Samaná.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Samaná.internal.md) 
 
-### [Samaná.private](/_private/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepSamaná.private.md) 
+### [Samaná.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Samaná.protect.md) 
 
-### [Samaná.personal](/_personal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepSamaná.personal.md) 
+### [Samaná.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Samaná.private.md) 
 
-### [Samaná.secret](/_secret/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepSamaná.secret.md)
+### [Samaná.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Samaná.personal.md) 
+
+### [Samaná.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Samaná.secret.md)
 

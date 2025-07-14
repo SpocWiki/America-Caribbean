@@ -41,15 +41,17 @@ markerFolder: ./Saint_Mary/
 
 ## Confidential Links & Embeds: 
 
-### [Saint_Mary.public](/_public/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaSaint_Mary.public.md) 
+### [Saint_Mary](/_Standards/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Saint_Mary.md) 
 
-### [Saint_Mary.internal](/_internal/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaSaint_Mary.internal.md) 
+### [Saint_Mary.public](/_public/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Saint_Mary.public.md) 
 
-### [Saint_Mary.protect](/_protect/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaSaint_Mary.protect.md) 
+### [Saint_Mary.internal](/_internal/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Saint_Mary.internal.md) 
 
-### [Saint_Mary.private](/_private/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaSaint_Mary.private.md) 
+### [Saint_Mary.protect](/_protect/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Saint_Mary.protect.md) 
 
-### [Saint_Mary.personal](/_personal/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaSaint_Mary.personal.md) 
+### [Saint_Mary.private](/_private/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Saint_Mary.private.md) 
 
-### [Saint_Mary.secret](/_secret/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaSaint_Mary.secret.md)
+### [Saint_Mary.personal](/_personal/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Saint_Mary.personal.md) 
+
+### [Saint_Mary.secret](/_secret/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Saint_Mary.secret.md)
 

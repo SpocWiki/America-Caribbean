@@ -41,15 +41,17 @@ markerFolder: ./Carriacou_and_Petite_Martinique/
 
 ## Confidential Links & Embeds: 
 
-### [Carriacou.public](/_public/\Earth\Continent\America~Caribbean\Grenada\parishes~GrenadaCarriacou.public.md) 
+### [Carriacou](/_Standards/Earth/Continent/America~Caribbean/Grenada/parishes~Grenada/Carriacou.md) 
 
-### [Carriacou.internal](/_internal/\Earth\Continent\America~Caribbean\Grenada\parishes~GrenadaCarriacou.internal.md) 
+### [Carriacou.public](/_public/Earth/Continent/America~Caribbean/Grenada/parishes~Grenada/Carriacou.public.md) 
 
-### [Carriacou.protect](/_protect/\Earth\Continent\America~Caribbean\Grenada\parishes~GrenadaCarriacou.protect.md) 
+### [Carriacou.internal](/_internal/Earth/Continent/America~Caribbean/Grenada/parishes~Grenada/Carriacou.internal.md) 
 
-### [Carriacou.private](/_private/\Earth\Continent\America~Caribbean\Grenada\parishes~GrenadaCarriacou.private.md) 
+### [Carriacou.protect](/_protect/Earth/Continent/America~Caribbean/Grenada/parishes~Grenada/Carriacou.protect.md) 
 
-### [Carriacou.personal](/_personal/\Earth\Continent\America~Caribbean\Grenada\parishes~GrenadaCarriacou.personal.md) 
+### [Carriacou.private](/_private/Earth/Continent/America~Caribbean/Grenada/parishes~Grenada/Carriacou.private.md) 
 
-### [Carriacou.secret](/_secret/\Earth\Continent\America~Caribbean\Grenada\parishes~GrenadaCarriacou.secret.md)
+### [Carriacou.personal](/_personal/Earth/Continent/America~Caribbean/Grenada/parishes~Grenada/Carriacou.personal.md) 
+
+### [Carriacou.secret](/_secret/Earth/Continent/America~Caribbean/Grenada/parishes~Grenada/Carriacou.secret.md)
 

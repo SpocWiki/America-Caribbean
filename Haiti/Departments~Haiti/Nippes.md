@@ -41,15 +41,17 @@ markerFolder: ./Nippes/
 
 ## Confidential Links & Embeds: 
 
-### [Nippes.public](/_public/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiNippes.public.md) 
+### [Nippes](/_Standards/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Nippes.md) 
 
-### [Nippes.internal](/_internal/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiNippes.internal.md) 
+### [Nippes.public](/_public/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Nippes.public.md) 
 
-### [Nippes.protect](/_protect/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiNippes.protect.md) 
+### [Nippes.internal](/_internal/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Nippes.internal.md) 
 
-### [Nippes.private](/_private/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiNippes.private.md) 
+### [Nippes.protect](/_protect/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Nippes.protect.md) 
 
-### [Nippes.personal](/_personal/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiNippes.personal.md) 
+### [Nippes.private](/_private/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Nippes.private.md) 
 
-### [Nippes.secret](/_secret/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiNippes.secret.md)
+### [Nippes.personal](/_personal/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Nippes.personal.md) 
+
+### [Nippes.secret](/_secret/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Nippes.secret.md)
 

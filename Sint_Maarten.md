@@ -122,15 +122,17 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 
 ## Confidential Links & Embeds: 
 
-### [Sint_Maarten.public](/_public/\Earth\Continent\America~CaribbeanSint_Maarten.public.md) 
+### [Sint_Maarten](/_Standards/Earth/Continent/America~Caribbean/Sint_Maarten.md) 
 
-### [Sint_Maarten.internal](/_internal/\Earth\Continent\America~CaribbeanSint_Maarten.internal.md) 
+### [Sint_Maarten.public](/_public/Earth/Continent/America~Caribbean/Sint_Maarten.public.md) 
 
-### [Sint_Maarten.protect](/_protect/\Earth\Continent\America~CaribbeanSint_Maarten.protect.md) 
+### [Sint_Maarten.internal](/_internal/Earth/Continent/America~Caribbean/Sint_Maarten.internal.md) 
 
-### [Sint_Maarten.private](/_private/\Earth\Continent\America~CaribbeanSint_Maarten.private.md) 
+### [Sint_Maarten.protect](/_protect/Earth/Continent/America~Caribbean/Sint_Maarten.protect.md) 
 
-### [Sint_Maarten.personal](/_personal/\Earth\Continent\America~CaribbeanSint_Maarten.personal.md) 
+### [Sint_Maarten.private](/_private/Earth/Continent/America~Caribbean/Sint_Maarten.private.md) 
 
-### [Sint_Maarten.secret](/_secret/\Earth\Continent\America~CaribbeanSint_Maarten.secret.md)
+### [Sint_Maarten.personal](/_personal/Earth/Continent/America~Caribbean/Sint_Maarten.personal.md) 
+
+### [Sint_Maarten.secret](/_secret/Earth/Continent/America~Caribbean/Sint_Maarten.secret.md)
 

@@ -127,15 +127,17 @@ Capital :: [[Cayman~Islands/City/George_Town]]
 
 ## Confidential Links & Embeds: 
 
-### [Cayman~Islands.public](/_public/\Earth\Continent\America~CaribbeanCayman~Islands.public.md) 
+### [Cayman~Islands](/_Standards/Earth/Continent/America~Caribbean/Cayman~Islands.md) 
 
-### [Cayman~Islands.internal](/_internal/\Earth\Continent\America~CaribbeanCayman~Islands.internal.md) 
+### [Cayman~Islands.public](/_public/Earth/Continent/America~Caribbean/Cayman~Islands.public.md) 
 
-### [Cayman~Islands.protect](/_protect/\Earth\Continent\America~CaribbeanCayman~Islands.protect.md) 
+### [Cayman~Islands.internal](/_internal/Earth/Continent/America~Caribbean/Cayman~Islands.internal.md) 
 
-### [Cayman~Islands.private](/_private/\Earth\Continent\America~CaribbeanCayman~Islands.private.md) 
+### [Cayman~Islands.protect](/_protect/Earth/Continent/America~Caribbean/Cayman~Islands.protect.md) 
 
-### [Cayman~Islands.personal](/_personal/\Earth\Continent\America~CaribbeanCayman~Islands.personal.md) 
+### [Cayman~Islands.private](/_private/Earth/Continent/America~Caribbean/Cayman~Islands.private.md) 
 
-### [Cayman~Islands.secret](/_secret/\Earth\Continent\America~CaribbeanCayman~Islands.secret.md)
+### [Cayman~Islands.personal](/_personal/Earth/Continent/America~Caribbean/Cayman~Islands.personal.md) 
+
+### [Cayman~Islands.secret](/_secret/Earth/Continent/America~Caribbean/Cayman~Islands.secret.md)
 

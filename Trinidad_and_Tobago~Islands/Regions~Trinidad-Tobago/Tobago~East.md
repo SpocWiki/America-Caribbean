@@ -44,15 +44,17 @@ markerFolder: ./Tobago~East/
 
 ## Confidential Links & Embeds: 
 
-### [Tobago~East.public](/_public/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoTobago~East.public.md) 
+### [Tobago~East](/_Standards/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Tobago~East.md) 
 
-### [Tobago~East.internal](/_internal/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoTobago~East.internal.md) 
+### [Tobago~East.public](/_public/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Tobago~East.public.md) 
 
-### [Tobago~East.protect](/_protect/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoTobago~East.protect.md) 
+### [Tobago~East.internal](/_internal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Tobago~East.internal.md) 
 
-### [Tobago~East.private](/_private/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoTobago~East.private.md) 
+### [Tobago~East.protect](/_protect/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Tobago~East.protect.md) 
 
-### [Tobago~East.personal](/_personal/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoTobago~East.personal.md) 
+### [Tobago~East.private](/_private/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Tobago~East.private.md) 
 
-### [Tobago~East.secret](/_secret/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoTobago~East.secret.md)
+### [Tobago~East.personal](/_personal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Tobago~East.personal.md) 
+
+### [Tobago~East.secret](/_secret/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Tobago~East.secret.md)
 

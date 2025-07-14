@@ -41,15 +41,17 @@ markerFolder: ./San_Cristóbal/
 
 ## Confidential Links & Embeds: 
 
-### [San_Cristóbal.public](/_public/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepSan_Cristóbal.public.md) 
+### [San_Cristóbal](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/San_Cristóbal.md) 
 
-### [San_Cristóbal.internal](/_internal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepSan_Cristóbal.internal.md) 
+### [San_Cristóbal.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/San_Cristóbal.public.md) 
 
-### [San_Cristóbal.protect](/_protect/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepSan_Cristóbal.protect.md) 
+### [San_Cristóbal.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/San_Cristóbal.internal.md) 
 
-### [San_Cristóbal.private](/_private/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepSan_Cristóbal.private.md) 
+### [San_Cristóbal.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/San_Cristóbal.protect.md) 
 
-### [San_Cristóbal.personal](/_personal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepSan_Cristóbal.personal.md) 
+### [San_Cristóbal.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/San_Cristóbal.private.md) 
 
-### [San_Cristóbal.secret](/_secret/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepSan_Cristóbal.secret.md)
+### [San_Cristóbal.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/San_Cristóbal.personal.md) 
+
+### [San_Cristóbal.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/San_Cristóbal.secret.md)
 

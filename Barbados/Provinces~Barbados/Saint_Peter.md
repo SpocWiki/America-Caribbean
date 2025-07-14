@@ -41,15 +41,17 @@ markerFolder: ./Saint_Peter/
 
 ## Confidential Links & Embeds: 
 
-### [Saint_Peter.public](/_public/\Earth\Continent\America~Caribbean\Barbados\Provinces~BarbadosSaint_Peter.public.md) 
+### [Saint_Peter](/_Standards/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Peter.md) 
 
-### [Saint_Peter.internal](/_internal/\Earth\Continent\America~Caribbean\Barbados\Provinces~BarbadosSaint_Peter.internal.md) 
+### [Saint_Peter.public](/_public/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Peter.public.md) 
 
-### [Saint_Peter.protect](/_protect/\Earth\Continent\America~Caribbean\Barbados\Provinces~BarbadosSaint_Peter.protect.md) 
+### [Saint_Peter.internal](/_internal/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Peter.internal.md) 
 
-### [Saint_Peter.private](/_private/\Earth\Continent\America~Caribbean\Barbados\Provinces~BarbadosSaint_Peter.private.md) 
+### [Saint_Peter.protect](/_protect/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Peter.protect.md) 
 
-### [Saint_Peter.personal](/_personal/\Earth\Continent\America~Caribbean\Barbados\Provinces~BarbadosSaint_Peter.personal.md) 
+### [Saint_Peter.private](/_private/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Peter.private.md) 
 
-### [Saint_Peter.secret](/_secret/\Earth\Continent\America~Caribbean\Barbados\Provinces~BarbadosSaint_Peter.secret.md)
+### [Saint_Peter.personal](/_personal/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Peter.personal.md) 
+
+### [Saint_Peter.secret](/_secret/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Peter.secret.md)
 

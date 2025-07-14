@@ -41,15 +41,17 @@ markerFolder: ./Saint_Philip/
 
 ## Confidential Links & Embeds: 
 
-### [Saint_Philip.public](/_public/\Earth\Continent\America~Caribbean\Antigua_and_Barbuda\CountiesSaint_Philip.public.md) 
+### [Saint_Philip](/_Standards/Earth/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Philip.md) 
 
-### [Saint_Philip.internal](/_internal/\Earth\Continent\America~Caribbean\Antigua_and_Barbuda\CountiesSaint_Philip.internal.md) 
+### [Saint_Philip.public](/_public/Earth/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Philip.public.md) 
 
-### [Saint_Philip.protect](/_protect/\Earth\Continent\America~Caribbean\Antigua_and_Barbuda\CountiesSaint_Philip.protect.md) 
+### [Saint_Philip.internal](/_internal/Earth/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Philip.internal.md) 
 
-### [Saint_Philip.private](/_private/\Earth\Continent\America~Caribbean\Antigua_and_Barbuda\CountiesSaint_Philip.private.md) 
+### [Saint_Philip.protect](/_protect/Earth/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Philip.protect.md) 
 
-### [Saint_Philip.personal](/_personal/\Earth\Continent\America~Caribbean\Antigua_and_Barbuda\CountiesSaint_Philip.personal.md) 
+### [Saint_Philip.private](/_private/Earth/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Philip.private.md) 
 
-### [Saint_Philip.secret](/_secret/\Earth\Continent\America~Caribbean\Antigua_and_Barbuda\CountiesSaint_Philip.secret.md)
+### [Saint_Philip.personal](/_personal/Earth/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Philip.personal.md) 
+
+### [Saint_Philip.secret](/_secret/Earth/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Philip.secret.md)
 

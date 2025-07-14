@@ -41,15 +41,17 @@ markerFolder: ./Monte_Plata/
 
 ## Confidential Links & Embeds: 
 
-### [Monte_Plata.public](/_public/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepMonte_Plata.public.md) 
+### [Monte_Plata](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Monte_Plata.md) 
 
-### [Monte_Plata.internal](/_internal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepMonte_Plata.internal.md) 
+### [Monte_Plata.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Monte_Plata.public.md) 
 
-### [Monte_Plata.protect](/_protect/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepMonte_Plata.protect.md) 
+### [Monte_Plata.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Monte_Plata.internal.md) 
 
-### [Monte_Plata.private](/_private/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepMonte_Plata.private.md) 
+### [Monte_Plata.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Monte_Plata.protect.md) 
 
-### [Monte_Plata.personal](/_personal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepMonte_Plata.personal.md) 
+### [Monte_Plata.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Monte_Plata.private.md) 
 
-### [Monte_Plata.secret](/_secret/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepMonte_Plata.secret.md)
+### [Monte_Plata.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Monte_Plata.personal.md) 
+
+### [Monte_Plata.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Monte_Plata.secret.md)
 

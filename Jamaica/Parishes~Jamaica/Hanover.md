@@ -41,15 +41,17 @@ markerFolder: ./Hanover/
 
 ## Confidential Links & Embeds: 
 
-### [Hanover.public](/_public/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaHanover.public.md) 
+### [Hanover](/_Standards/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Hanover.md) 
 
-### [Hanover.internal](/_internal/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaHanover.internal.md) 
+### [Hanover.public](/_public/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Hanover.public.md) 
 
-### [Hanover.protect](/_protect/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaHanover.protect.md) 
+### [Hanover.internal](/_internal/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Hanover.internal.md) 
 
-### [Hanover.private](/_private/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaHanover.private.md) 
+### [Hanover.protect](/_protect/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Hanover.protect.md) 
 
-### [Hanover.personal](/_personal/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaHanover.personal.md) 
+### [Hanover.private](/_private/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Hanover.private.md) 
 
-### [Hanover.secret](/_secret/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaHanover.secret.md)
+### [Hanover.personal](/_personal/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Hanover.personal.md) 
+
+### [Hanover.secret](/_secret/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Hanover.secret.md)
 

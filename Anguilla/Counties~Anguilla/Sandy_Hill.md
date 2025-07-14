@@ -41,15 +41,17 @@ markerFolder: ./Sandy_Hill/
 
 ## Confidential Links & Embeds: 
 
-### [Sandy_Hill.public](/_public/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaSandy_Hill.public.md) 
+### [Sandy_Hill](/_Standards/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/Sandy_Hill.md) 
 
-### [Sandy_Hill.internal](/_internal/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaSandy_Hill.internal.md) 
+### [Sandy_Hill.public](/_public/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/Sandy_Hill.public.md) 
 
-### [Sandy_Hill.protect](/_protect/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaSandy_Hill.protect.md) 
+### [Sandy_Hill.internal](/_internal/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/Sandy_Hill.internal.md) 
 
-### [Sandy_Hill.private](/_private/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaSandy_Hill.private.md) 
+### [Sandy_Hill.protect](/_protect/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/Sandy_Hill.protect.md) 
 
-### [Sandy_Hill.personal](/_personal/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaSandy_Hill.personal.md) 
+### [Sandy_Hill.private](/_private/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/Sandy_Hill.private.md) 
 
-### [Sandy_Hill.secret](/_secret/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaSandy_Hill.secret.md)
+### [Sandy_Hill.personal](/_personal/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/Sandy_Hill.personal.md) 
+
+### [Sandy_Hill.secret](/_secret/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/Sandy_Hill.secret.md)
 

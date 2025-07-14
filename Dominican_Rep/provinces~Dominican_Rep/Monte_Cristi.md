@@ -41,15 +41,17 @@ markerFolder: ./Monte_Cristi/
 
 ## Confidential Links & Embeds: 
 
-### [Monte_Cristi.public](/_public/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepMonte_Cristi.public.md) 
+### [Monte_Cristi](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Monte_Cristi.md) 
 
-### [Monte_Cristi.internal](/_internal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepMonte_Cristi.internal.md) 
+### [Monte_Cristi.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Monte_Cristi.public.md) 
 
-### [Monte_Cristi.protect](/_protect/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepMonte_Cristi.protect.md) 
+### [Monte_Cristi.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Monte_Cristi.internal.md) 
 
-### [Monte_Cristi.private](/_private/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepMonte_Cristi.private.md) 
+### [Monte_Cristi.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Monte_Cristi.protect.md) 
 
-### [Monte_Cristi.personal](/_personal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepMonte_Cristi.personal.md) 
+### [Monte_Cristi.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Monte_Cristi.private.md) 
 
-### [Monte_Cristi.secret](/_secret/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepMonte_Cristi.secret.md)
+### [Monte_Cristi.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Monte_Cristi.personal.md) 
+
+### [Monte_Cristi.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Monte_Cristi.secret.md)
 

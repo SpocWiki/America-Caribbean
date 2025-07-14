@@ -45,15 +45,17 @@ markerFolder: ./Tobago~West/
 
 ## Confidential Links & Embeds: 
 
-### [Tobago~West.public](/_public/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoTobago~West.public.md) 
+### [Tobago~West](/_Standards/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Tobago~West.md) 
 
-### [Tobago~West.internal](/_internal/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoTobago~West.internal.md) 
+### [Tobago~West.public](/_public/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Tobago~West.public.md) 
 
-### [Tobago~West.protect](/_protect/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoTobago~West.protect.md) 
+### [Tobago~West.internal](/_internal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Tobago~West.internal.md) 
 
-### [Tobago~West.private](/_private/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoTobago~West.private.md) 
+### [Tobago~West.protect](/_protect/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Tobago~West.protect.md) 
 
-### [Tobago~West.personal](/_personal/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoTobago~West.personal.md) 
+### [Tobago~West.private](/_private/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Tobago~West.private.md) 
 
-### [Tobago~West.secret](/_secret/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoTobago~West.secret.md)
+### [Tobago~West.personal](/_personal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Tobago~West.personal.md) 
+
+### [Tobago~West.secret](/_secret/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Tobago~West.secret.md)
 

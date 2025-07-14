@@ -41,15 +41,17 @@ markerFolder: ./Saint_George_Basseterre/
 
 ## Confidential Links & Embeds: 
 
-### [Saint_George_Basseterre.public](/_public/\Earth\Continent\America~Caribbean\Saint_Kitts_and_Nevis~Islands\parishes~Saint_Kitts_and_NevisSaint_George_Basseterre.public.md) 
+### [Saint_George_Basseterre](/_Standards/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_George_Basseterre.md) 
 
-### [Saint_George_Basseterre.internal](/_internal/\Earth\Continent\America~Caribbean\Saint_Kitts_and_Nevis~Islands\parishes~Saint_Kitts_and_NevisSaint_George_Basseterre.internal.md) 
+### [Saint_George_Basseterre.public](/_public/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_George_Basseterre.public.md) 
 
-### [Saint_George_Basseterre.protect](/_protect/\Earth\Continent\America~Caribbean\Saint_Kitts_and_Nevis~Islands\parishes~Saint_Kitts_and_NevisSaint_George_Basseterre.protect.md) 
+### [Saint_George_Basseterre.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_George_Basseterre.internal.md) 
 
-### [Saint_George_Basseterre.private](/_private/\Earth\Continent\America~Caribbean\Saint_Kitts_and_Nevis~Islands\parishes~Saint_Kitts_and_NevisSaint_George_Basseterre.private.md) 
+### [Saint_George_Basseterre.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_George_Basseterre.protect.md) 
 
-### [Saint_George_Basseterre.personal](/_personal/\Earth\Continent\America~Caribbean\Saint_Kitts_and_Nevis~Islands\parishes~Saint_Kitts_and_NevisSaint_George_Basseterre.personal.md) 
+### [Saint_George_Basseterre.private](/_private/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_George_Basseterre.private.md) 
 
-### [Saint_George_Basseterre.secret](/_secret/\Earth\Continent\America~Caribbean\Saint_Kitts_and_Nevis~Islands\parishes~Saint_Kitts_and_NevisSaint_George_Basseterre.secret.md)
+### [Saint_George_Basseterre.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_George_Basseterre.personal.md) 
+
+### [Saint_George_Basseterre.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_George_Basseterre.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Bajo_Nuevo_Bank/
 
 ## Confidential Links & Embeds: 
 
-### [Bajo_Nuevo_Bank.public](/_public/\Earth\Continent\America~CaribbeanBajo_Nuevo_Bank.public.md) 
+### [Bajo_Nuevo_Bank](/_Standards/Earth/Continent/America~Caribbean/Bajo_Nuevo_Bank.md) 
 
-### [Bajo_Nuevo_Bank.internal](/_internal/\Earth\Continent\America~CaribbeanBajo_Nuevo_Bank.internal.md) 
+### [Bajo_Nuevo_Bank.public](/_public/Earth/Continent/America~Caribbean/Bajo_Nuevo_Bank.public.md) 
 
-### [Bajo_Nuevo_Bank.protect](/_protect/\Earth\Continent\America~CaribbeanBajo_Nuevo_Bank.protect.md) 
+### [Bajo_Nuevo_Bank.internal](/_internal/Earth/Continent/America~Caribbean/Bajo_Nuevo_Bank.internal.md) 
 
-### [Bajo_Nuevo_Bank.private](/_private/\Earth\Continent\America~CaribbeanBajo_Nuevo_Bank.private.md) 
+### [Bajo_Nuevo_Bank.protect](/_protect/Earth/Continent/America~Caribbean/Bajo_Nuevo_Bank.protect.md) 
 
-### [Bajo_Nuevo_Bank.personal](/_personal/\Earth\Continent\America~CaribbeanBajo_Nuevo_Bank.personal.md) 
+### [Bajo_Nuevo_Bank.private](/_private/Earth/Continent/America~Caribbean/Bajo_Nuevo_Bank.private.md) 
 
-### [Bajo_Nuevo_Bank.secret](/_secret/\Earth\Continent\America~CaribbeanBajo_Nuevo_Bank.secret.md)
+### [Bajo_Nuevo_Bank.personal](/_personal/Earth/Continent/America~Caribbean/Bajo_Nuevo_Bank.personal.md) 
+
+### [Bajo_Nuevo_Bank.secret](/_secret/Earth/Continent/America~Caribbean/Bajo_Nuevo_Bank.secret.md)
 

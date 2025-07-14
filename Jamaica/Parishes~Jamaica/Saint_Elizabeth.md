@@ -41,15 +41,17 @@ markerFolder: ./Saint_Elizabeth/
 
 ## Confidential Links & Embeds: 
 
-### [Saint_Elizabeth.public](/_public/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaSaint_Elizabeth.public.md) 
+### [Saint_Elizabeth](/_Standards/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Saint_Elizabeth.md) 
 
-### [Saint_Elizabeth.internal](/_internal/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaSaint_Elizabeth.internal.md) 
+### [Saint_Elizabeth.public](/_public/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Saint_Elizabeth.public.md) 
 
-### [Saint_Elizabeth.protect](/_protect/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaSaint_Elizabeth.protect.md) 
+### [Saint_Elizabeth.internal](/_internal/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Saint_Elizabeth.internal.md) 
 
-### [Saint_Elizabeth.private](/_private/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaSaint_Elizabeth.private.md) 
+### [Saint_Elizabeth.protect](/_protect/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Saint_Elizabeth.protect.md) 
 
-### [Saint_Elizabeth.personal](/_personal/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaSaint_Elizabeth.personal.md) 
+### [Saint_Elizabeth.private](/_private/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Saint_Elizabeth.private.md) 
 
-### [Saint_Elizabeth.secret](/_secret/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaSaint_Elizabeth.secret.md)
+### [Saint_Elizabeth.personal](/_personal/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Saint_Elizabeth.personal.md) 
+
+### [Saint_Elizabeth.secret](/_secret/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Saint_Elizabeth.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Ouest/
 
 ## Confidential Links & Embeds: 
 
-### [Ouest.public](/_public/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiOuest.public.md) 
+### [Ouest](/_Standards/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest.md) 
 
-### [Ouest.internal](/_internal/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiOuest.internal.md) 
+### [Ouest.public](/_public/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest.public.md) 
 
-### [Ouest.protect](/_protect/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiOuest.protect.md) 
+### [Ouest.internal](/_internal/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest.internal.md) 
 
-### [Ouest.private](/_private/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiOuest.private.md) 
+### [Ouest.protect](/_protect/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest.protect.md) 
 
-### [Ouest.personal](/_personal/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiOuest.personal.md) 
+### [Ouest.private](/_private/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest.private.md) 
 
-### [Ouest.secret](/_secret/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiOuest.secret.md)
+### [Ouest.personal](/_personal/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest.personal.md) 
+
+### [Ouest.secret](/_secret/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Guantánamo/
 
 ## Confidential Links & Embeds: 
 
-### [Guantánamo.public](/_public/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaGuantánamo.public.md) 
+### [Guantánamo](/_Standards/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Guantánamo.md) 
 
-### [Guantánamo.internal](/_internal/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaGuantánamo.internal.md) 
+### [Guantánamo.public](/_public/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Guantánamo.public.md) 
 
-### [Guantánamo.protect](/_protect/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaGuantánamo.protect.md) 
+### [Guantánamo.internal](/_internal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Guantánamo.internal.md) 
 
-### [Guantánamo.private](/_private/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaGuantánamo.private.md) 
+### [Guantánamo.protect](/_protect/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Guantánamo.protect.md) 
 
-### [Guantánamo.personal](/_personal/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaGuantánamo.personal.md) 
+### [Guantánamo.private](/_private/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Guantánamo.private.md) 
 
-### [Guantánamo.secret](/_secret/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaGuantánamo.secret.md)
+### [Guantánamo.personal](/_personal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Guantánamo.personal.md) 
+
+### [Guantánamo.secret](/_secret/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Guantánamo.secret.md)
 

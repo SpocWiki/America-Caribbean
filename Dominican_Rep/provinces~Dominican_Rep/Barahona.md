@@ -41,15 +41,17 @@ markerFolder: ./Barahona/
 
 ## Confidential Links & Embeds: 
 
-### [Barahona.public](/_public/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepBarahona.public.md) 
+### [Barahona](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Barahona.md) 
 
-### [Barahona.internal](/_internal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepBarahona.internal.md) 
+### [Barahona.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Barahona.public.md) 
 
-### [Barahona.protect](/_protect/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepBarahona.protect.md) 
+### [Barahona.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Barahona.internal.md) 
 
-### [Barahona.private](/_private/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepBarahona.private.md) 
+### [Barahona.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Barahona.protect.md) 
 
-### [Barahona.personal](/_personal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepBarahona.personal.md) 
+### [Barahona.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Barahona.private.md) 
 
-### [Barahona.secret](/_secret/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepBarahona.secret.md)
+### [Barahona.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Barahona.personal.md) 
+
+### [Barahona.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Barahona.secret.md)
 

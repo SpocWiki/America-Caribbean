@@ -41,15 +41,17 @@ markerFolder: ./Saint_James/
 
 ## Confidential Links & Embeds: 
 
-### [Saint_James.public](/_public/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaSaint_James.public.md) 
+### [Saint_James](/_Standards/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Saint_James.md) 
 
-### [Saint_James.internal](/_internal/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaSaint_James.internal.md) 
+### [Saint_James.public](/_public/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Saint_James.public.md) 
 
-### [Saint_James.protect](/_protect/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaSaint_James.protect.md) 
+### [Saint_James.internal](/_internal/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Saint_James.internal.md) 
 
-### [Saint_James.private](/_private/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaSaint_James.private.md) 
+### [Saint_James.protect](/_protect/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Saint_James.protect.md) 
 
-### [Saint_James.personal](/_personal/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaSaint_James.personal.md) 
+### [Saint_James.private](/_private/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Saint_James.private.md) 
 
-### [Saint_James.secret](/_secret/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaSaint_James.secret.md)
+### [Saint_James.personal](/_personal/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Saint_James.personal.md) 
+
+### [Saint_James.secret](/_secret/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Saint_James.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Vieux_Fort/
 
 ## Confidential Links & Embeds: 
 
-### [Vieux_Fort.public](/_public/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaVieux_Fort.public.md) 
+### [Vieux_Fort](/_Standards/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Vieux_Fort.md) 
 
-### [Vieux_Fort.internal](/_internal/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaVieux_Fort.internal.md) 
+### [Vieux_Fort.public](/_public/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Vieux_Fort.public.md) 
 
-### [Vieux_Fort.protect](/_protect/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaVieux_Fort.protect.md) 
+### [Vieux_Fort.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Vieux_Fort.internal.md) 
 
-### [Vieux_Fort.private](/_private/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaVieux_Fort.private.md) 
+### [Vieux_Fort.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Vieux_Fort.protect.md) 
 
-### [Vieux_Fort.personal](/_personal/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaVieux_Fort.personal.md) 
+### [Vieux_Fort.private](/_private/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Vieux_Fort.private.md) 
 
-### [Vieux_Fort.secret](/_secret/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaVieux_Fort.secret.md)
+### [Vieux_Fort.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Vieux_Fort.personal.md) 
+
+### [Vieux_Fort.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Vieux_Fort.secret.md)
 

@@ -41,15 +41,17 @@ markerFolder: ./Westmoreland/
 
 ## Confidential Links & Embeds: 
 
-### [Westmoreland.public](/_public/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaWestmoreland.public.md) 
+### [Westmoreland](/_Standards/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Westmoreland.md) 
 
-### [Westmoreland.internal](/_internal/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaWestmoreland.internal.md) 
+### [Westmoreland.public](/_public/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Westmoreland.public.md) 
 
-### [Westmoreland.protect](/_protect/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaWestmoreland.protect.md) 
+### [Westmoreland.internal](/_internal/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Westmoreland.internal.md) 
 
-### [Westmoreland.private](/_private/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaWestmoreland.private.md) 
+### [Westmoreland.protect](/_protect/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Westmoreland.protect.md) 
 
-### [Westmoreland.personal](/_personal/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaWestmoreland.personal.md) 
+### [Westmoreland.private](/_private/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Westmoreland.private.md) 
 
-### [Westmoreland.secret](/_secret/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaWestmoreland.secret.md)
+### [Westmoreland.personal](/_personal/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Westmoreland.personal.md) 
+
+### [Westmoreland.secret](/_secret/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Westmoreland.secret.md)
 

@@ -131,15 +131,17 @@ Capital :: [[Montserrat/Counties/Saint_Peter/City/Brades]]
 
 ## Confidential Links & Embeds: 
 
-### [Montserrat.public](/_public/\Earth\Continent\America~CaribbeanMontserrat.public.md) 
+### [Montserrat](/_Standards/Earth/Continent/America~Caribbean/Montserrat.md) 
 
-### [Montserrat.internal](/_internal/\Earth\Continent\America~CaribbeanMontserrat.internal.md) 
+### [Montserrat.public](/_public/Earth/Continent/America~Caribbean/Montserrat.public.md) 
 
-### [Montserrat.protect](/_protect/\Earth\Continent\America~CaribbeanMontserrat.protect.md) 
+### [Montserrat.internal](/_internal/Earth/Continent/America~Caribbean/Montserrat.internal.md) 
 
-### [Montserrat.private](/_private/\Earth\Continent\America~CaribbeanMontserrat.private.md) 
+### [Montserrat.protect](/_protect/Earth/Continent/America~Caribbean/Montserrat.protect.md) 
 
-### [Montserrat.personal](/_personal/\Earth\Continent\America~CaribbeanMontserrat.personal.md) 
+### [Montserrat.private](/_private/Earth/Continent/America~Caribbean/Montserrat.private.md) 
 
-### [Montserrat.secret](/_secret/\Earth\Continent\America~CaribbeanMontserrat.secret.md)
+### [Montserrat.personal](/_personal/Earth/Continent/America~Caribbean/Montserrat.personal.md) 
+
+### [Montserrat.secret](/_secret/Earth/Continent/America~Caribbean/Montserrat.secret.md)
 
