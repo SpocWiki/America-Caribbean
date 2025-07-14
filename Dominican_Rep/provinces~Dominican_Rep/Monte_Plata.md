@@ -40,11 +40,16 @@ markerFolder: ./Monte_Plata/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Monte_Plata|Monte_Plata]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Monte_Plata.public|Monte_Plata.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Monte_Plata.internal|Monte_Plata.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Monte_Plata.protect|Monte_Plata.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Monte_Plata.private|Monte_Plata.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Monte_Plata.personal|Monte_Plata.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Monte_Plata.secret|Monte_Plata.secret]] 
+
+### [Monte_Plata.public](/_public/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepMonte_Plata.public.md) 
+
+### [Monte_Plata.internal](/_internal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepMonte_Plata.internal.md) 
+
+### [Monte_Plata.protect](/_protect/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepMonte_Plata.protect.md) 
+
+### [Monte_Plata.private](/_private/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepMonte_Plata.private.md) 
+
+### [Monte_Plata.personal](/_personal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepMonte_Plata.personal.md) 
+
+### [Monte_Plata.secret](/_secret/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepMonte_Plata.secret.md)
 

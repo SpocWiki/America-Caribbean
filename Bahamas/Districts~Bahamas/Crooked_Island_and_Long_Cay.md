@@ -40,11 +40,16 @@ markerFolder: ./Crooked_Island_and_Long_Cay/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Bahamas/Counties/Crooked_Island_and_Long_Cay|Crooked_Island_and_Long_Cay]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Bahamas/Counties/Crooked_Island_and_Long_Cay.public|Crooked_Island_and_Long_Cay.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/Crooked_Island_and_Long_Cay.internal|Crooked_Island_and_Long_Cay.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/Crooked_Island_and_Long_Cay.protect|Crooked_Island_and_Long_Cay.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/Crooked_Island_and_Long_Cay.private|Crooked_Island_and_Long_Cay.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/Crooked_Island_and_Long_Cay.personal|Crooked_Island_and_Long_Cay.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/Crooked_Island_and_Long_Cay.secret|Crooked_Island_and_Long_Cay.secret]] 
+
+### [Crooked_Island_and_Long_Cay.public](/_public/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasCrooked_Island_and_Long_Cay.public.md) 
+
+### [Crooked_Island_and_Long_Cay.internal](/_internal/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasCrooked_Island_and_Long_Cay.internal.md) 
+
+### [Crooked_Island_and_Long_Cay.protect](/_protect/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasCrooked_Island_and_Long_Cay.protect.md) 
+
+### [Crooked_Island_and_Long_Cay.private](/_private/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasCrooked_Island_and_Long_Cay.private.md) 
+
+### [Crooked_Island_and_Long_Cay.personal](/_personal/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasCrooked_Island_and_Long_Cay.personal.md) 
+
+### [Crooked_Island_and_Long_Cay.secret](/_secret/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasCrooked_Island_and_Long_Cay.secret.md)
 

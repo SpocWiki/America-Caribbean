@@ -40,11 +40,16 @@ markerFolder: ./Hope_Town/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Bahamas/Counties/Hope_Town|Hope_Town]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Bahamas/Counties/Hope_Town.public|Hope_Town.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/Hope_Town.internal|Hope_Town.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/Hope_Town.protect|Hope_Town.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/Hope_Town.private|Hope_Town.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/Hope_Town.personal|Hope_Town.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/Hope_Town.secret|Hope_Town.secret]] 
+
+### [Hope_Town.public](/_public/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasHope_Town.public.md) 
+
+### [Hope_Town.internal](/_internal/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasHope_Town.internal.md) 
+
+### [Hope_Town.protect](/_protect/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasHope_Town.protect.md) 
+
+### [Hope_Town.private](/_private/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasHope_Town.private.md) 
+
+### [Hope_Town.personal](/_personal/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasHope_Town.personal.md) 
+
+### [Hope_Town.secret](/_secret/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasHope_Town.secret.md)
 

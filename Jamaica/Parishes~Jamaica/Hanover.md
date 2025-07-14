@@ -40,11 +40,16 @@ markerFolder: ./Hanover/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Jamaica/Counties/Hanover|Hanover]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Jamaica/Counties/Hanover.public|Hanover.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Jamaica/Counties/Hanover.internal|Hanover.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Jamaica/Counties/Hanover.protect|Hanover.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Jamaica/Counties/Hanover.private|Hanover.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Jamaica/Counties/Hanover.personal|Hanover.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Jamaica/Counties/Hanover.secret|Hanover.secret]] 
+
+### [Hanover.public](/_public/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaHanover.public.md) 
+
+### [Hanover.internal](/_internal/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaHanover.internal.md) 
+
+### [Hanover.protect](/_protect/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaHanover.protect.md) 
+
+### [Hanover.private](/_private/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaHanover.private.md) 
+
+### [Hanover.personal](/_personal/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaHanover.personal.md) 
+
+### [Hanover.secret](/_secret/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaHanover.secret.md)
 

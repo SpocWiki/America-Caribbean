@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/South-America/Saint_Vincent_and_Grenadines/City/Kingstown|Kingstown]] 
-- [[../../../../../../_public/geo/Continent/South-America/Saint_Vincent_and_Grenadines/City/Kingstown.public|Kingstown.public]] 
-- [[../../../../../../_internal/geo/Continent/South-America/Saint_Vincent_and_Grenadines/City/Kingstown.internal|Kingstown.internal]] 
-- [[../../../../../../_protect/geo/Continent/South-America/Saint_Vincent_and_Grenadines/City/Kingstown.protect|Kingstown.protect]] 
-- [[../../../../../../_private/geo/Continent/South-America/Saint_Vincent_and_Grenadines/City/Kingstown.private|Kingstown.private]] 
-- [[../../../../../../_personal/geo/Continent/South-America/Saint_Vincent_and_Grenadines/City/Kingstown.personal|Kingstown.personal]] 
-- [[../../../../../../_secret/geo/Continent/South-America/Saint_Vincent_and_Grenadines/City/Kingstown.secret|Kingstown.secret]] 
+
+### [Kingstown.public](/_public/\Earth\Continent\America~Caribbean\Saint_Vincent_and_Grenadines\Counties\Saint_George\CityKingstown.public.md) 
+
+### [Kingstown.internal](/_internal/\Earth\Continent\America~Caribbean\Saint_Vincent_and_Grenadines\Counties\Saint_George\CityKingstown.internal.md) 
+
+### [Kingstown.protect](/_protect/\Earth\Continent\America~Caribbean\Saint_Vincent_and_Grenadines\Counties\Saint_George\CityKingstown.protect.md) 
+
+### [Kingstown.private](/_private/\Earth\Continent\America~Caribbean\Saint_Vincent_and_Grenadines\Counties\Saint_George\CityKingstown.private.md) 
+
+### [Kingstown.personal](/_personal/\Earth\Continent\America~Caribbean\Saint_Vincent_and_Grenadines\Counties\Saint_George\CityKingstown.personal.md) 
+
+### [Kingstown.secret](/_secret/\Earth\Continent\America~Caribbean\Saint_Vincent_and_Grenadines\Counties\Saint_George\CityKingstown.secret.md)
+

@@ -40,11 +40,16 @@ markerFolder: ./La_Romana/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Romana|La_Romana]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Romana.public|La_Romana.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Romana.internal|La_Romana.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Romana.protect|La_Romana.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Romana.private|La_Romana.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Romana.personal|La_Romana.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Romana.secret|La_Romana.secret]] 
+
+### [La_Romana.public](/_public/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepLa_Romana.public.md) 
+
+### [La_Romana.internal](/_internal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepLa_Romana.internal.md) 
+
+### [La_Romana.protect](/_protect/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepLa_Romana.protect.md) 
+
+### [La_Romana.private](/_private/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepLa_Romana.private.md) 
+
+### [La_Romana.personal](/_personal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepLa_Romana.personal.md) 
+
+### [La_Romana.secret](/_secret/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepLa_Romana.secret.md)
 

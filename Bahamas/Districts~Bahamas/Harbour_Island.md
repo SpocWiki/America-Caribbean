@@ -40,11 +40,16 @@ markerFolder: ./Harbour_Island/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Bahamas/Counties/Harbour_Island|Harbour_Island]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Bahamas/Counties/Harbour_Island.public|Harbour_Island.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/Harbour_Island.internal|Harbour_Island.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/Harbour_Island.protect|Harbour_Island.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/Harbour_Island.private|Harbour_Island.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/Harbour_Island.personal|Harbour_Island.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/Harbour_Island.secret|Harbour_Island.secret]] 
+
+### [Harbour_Island.public](/_public/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasHarbour_Island.public.md) 
+
+### [Harbour_Island.internal](/_internal/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasHarbour_Island.internal.md) 
+
+### [Harbour_Island.protect](/_protect/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasHarbour_Island.protect.md) 
+
+### [Harbour_Island.private](/_private/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasHarbour_Island.private.md) 
+
+### [Harbour_Island.personal](/_personal/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasHarbour_Island.personal.md) 
+
+### [Harbour_Island.secret](/_secret/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasHarbour_Island.secret.md)
 

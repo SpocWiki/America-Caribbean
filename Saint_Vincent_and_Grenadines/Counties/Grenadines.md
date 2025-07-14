@@ -278,12 +278,18 @@ markerFolder: ./Grenadines/
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Saint%20Vincent%20and%20the%20Grenadines)
 
+
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines|Grenadines]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines.public|Grenadines.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines.internal|Grenadines.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines.protect|Grenadines.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines.private|Grenadines.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines.personal|Grenadines.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines.secret|Grenadines.secret]] 
+
+### [Grenadines.public](/_public/\Earth\Continent\America~Caribbean\Saint_Vincent_and_Grenadines\CountiesGrenadines.public.md) 
+
+### [Grenadines.internal](/_internal/\Earth\Continent\America~Caribbean\Saint_Vincent_and_Grenadines\CountiesGrenadines.internal.md) 
+
+### [Grenadines.protect](/_protect/\Earth\Continent\America~Caribbean\Saint_Vincent_and_Grenadines\CountiesGrenadines.protect.md) 
+
+### [Grenadines.private](/_private/\Earth\Continent\America~Caribbean\Saint_Vincent_and_Grenadines\CountiesGrenadines.private.md) 
+
+### [Grenadines.personal](/_personal/\Earth\Continent\America~Caribbean\Saint_Vincent_and_Grenadines\CountiesGrenadines.personal.md) 
+
+### [Grenadines.secret](/_secret/\Earth\Continent\America~Caribbean\Saint_Vincent_and_Grenadines\CountiesGrenadines.secret.md)
 

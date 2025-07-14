@@ -40,11 +40,16 @@ markerFolder: ./Penal-Debe/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Penal-Debe|Penal-Debe]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Penal-Debe.public|Penal-Debe.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Penal-Debe.internal|Penal-Debe.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Penal-Debe.protect|Penal-Debe.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Penal-Debe.private|Penal-Debe.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Penal-Debe.personal|Penal-Debe.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Penal-Debe.secret|Penal-Debe.secret]] 
+
+### [Penal-Debe.public](/_public/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoPenal-Debe.public.md) 
+
+### [Penal-Debe.internal](/_internal/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoPenal-Debe.internal.md) 
+
+### [Penal-Debe.protect](/_protect/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoPenal-Debe.protect.md) 
+
+### [Penal-Debe.private](/_private/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoPenal-Debe.private.md) 
+
+### [Penal-Debe.personal](/_personal/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoPenal-Debe.personal.md) 
+
+### [Penal-Debe.secret](/_secret/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoPenal-Debe.secret.md)
 

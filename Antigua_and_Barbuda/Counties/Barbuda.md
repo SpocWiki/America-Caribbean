@@ -40,11 +40,16 @@ markerFolder: ./Barbuda/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Barbuda|Barbuda]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Barbuda.public|Barbuda.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Barbuda.internal|Barbuda.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Barbuda.protect|Barbuda.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Barbuda.private|Barbuda.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Barbuda.personal|Barbuda.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Barbuda.secret|Barbuda.secret]] 
+
+### [Barbuda.public](/_public/\Earth\Continent\America~Caribbean\Antigua_and_Barbuda\CountiesBarbuda.public.md) 
+
+### [Barbuda.internal](/_internal/\Earth\Continent\America~Caribbean\Antigua_and_Barbuda\CountiesBarbuda.internal.md) 
+
+### [Barbuda.protect](/_protect/\Earth\Continent\America~Caribbean\Antigua_and_Barbuda\CountiesBarbuda.protect.md) 
+
+### [Barbuda.private](/_private/\Earth\Continent\America~Caribbean\Antigua_and_Barbuda\CountiesBarbuda.private.md) 
+
+### [Barbuda.personal](/_personal/\Earth\Continent\America~Caribbean\Antigua_and_Barbuda\CountiesBarbuda.personal.md) 
+
+### [Barbuda.secret](/_secret/\Earth\Continent\America~Caribbean\Antigua_and_Barbuda\CountiesBarbuda.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Saint_Peter_Basseterre/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Peter_Basseterre|Saint_Peter_Basseterre]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Peter_Basseterre.public|Saint_Peter_Basseterre.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Peter_Basseterre.internal|Saint_Peter_Basseterre.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Peter_Basseterre.protect|Saint_Peter_Basseterre.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Peter_Basseterre.private|Saint_Peter_Basseterre.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Peter_Basseterre.personal|Saint_Peter_Basseterre.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Peter_Basseterre.secret|Saint_Peter_Basseterre.secret]] 
+
+### [Saint_Peter_Basseterre.public](/_public/\Earth\Continent\America~Caribbean\Saint_Kitts_and_Nevis~Islands\parishes~Saint_Kitts_and_NevisSaint_Peter_Basseterre.public.md) 
+
+### [Saint_Peter_Basseterre.internal](/_internal/\Earth\Continent\America~Caribbean\Saint_Kitts_and_Nevis~Islands\parishes~Saint_Kitts_and_NevisSaint_Peter_Basseterre.internal.md) 
+
+### [Saint_Peter_Basseterre.protect](/_protect/\Earth\Continent\America~Caribbean\Saint_Kitts_and_Nevis~Islands\parishes~Saint_Kitts_and_NevisSaint_Peter_Basseterre.protect.md) 
+
+### [Saint_Peter_Basseterre.private](/_private/\Earth\Continent\America~Caribbean\Saint_Kitts_and_Nevis~Islands\parishes~Saint_Kitts_and_NevisSaint_Peter_Basseterre.private.md) 
+
+### [Saint_Peter_Basseterre.personal](/_personal/\Earth\Continent\America~Caribbean\Saint_Kitts_and_Nevis~Islands\parishes~Saint_Kitts_and_NevisSaint_Peter_Basseterre.personal.md) 
+
+### [Saint_Peter_Basseterre.secret](/_secret/\Earth\Continent\America~Caribbean\Saint_Kitts_and_Nevis~Islands\parishes~Saint_Kitts_and_NevisSaint_Peter_Basseterre.secret.md)
 

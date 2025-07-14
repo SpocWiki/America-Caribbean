@@ -40,11 +40,16 @@ markerFolder: ./Arima/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Arima|Arima]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Arima.public|Arima.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Arima.internal|Arima.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Arima.protect|Arima.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Arima.private|Arima.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Arima.personal|Arima.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Arima.secret|Arima.secret]] 
+
+### [Arima.public](/_public/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoArima.public.md) 
+
+### [Arima.internal](/_internal/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoArima.internal.md) 
+
+### [Arima.protect](/_protect/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoArima.protect.md) 
+
+### [Arima.private](/_private/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoArima.private.md) 
+
+### [Arima.personal](/_personal/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoArima.personal.md) 
+
+### [Arima.secret](/_secret/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoArima.secret.md)
 

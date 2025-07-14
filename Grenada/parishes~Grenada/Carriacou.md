@@ -40,11 +40,16 @@ markerFolder: ./Carriacou_and_Petite_Martinique/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Grenada/Counties/Carriacou_and_Petite_Martinique|Carriacou_and_Petite_Martinique]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Grenada/Counties/Carriacou_and_Petite_Martinique.public|Carriacou_and_Petite_Martinique.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Grenada/Counties/Carriacou_and_Petite_Martinique.internal|Carriacou_and_Petite_Martinique.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Grenada/Counties/Carriacou_and_Petite_Martinique.protect|Carriacou_and_Petite_Martinique.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Grenada/Counties/Carriacou_and_Petite_Martinique.private|Carriacou_and_Petite_Martinique.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Grenada/Counties/Carriacou_and_Petite_Martinique.personal|Carriacou_and_Petite_Martinique.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Grenada/Counties/Carriacou_and_Petite_Martinique.secret|Carriacou_and_Petite_Martinique.secret]] 
+
+### [Carriacou.public](/_public/\Earth\Continent\America~Caribbean\Grenada\parishes~GrenadaCarriacou.public.md) 
+
+### [Carriacou.internal](/_internal/\Earth\Continent\America~Caribbean\Grenada\parishes~GrenadaCarriacou.internal.md) 
+
+### [Carriacou.protect](/_protect/\Earth\Continent\America~Caribbean\Grenada\parishes~GrenadaCarriacou.protect.md) 
+
+### [Carriacou.private](/_private/\Earth\Continent\America~Caribbean\Grenada\parishes~GrenadaCarriacou.private.md) 
+
+### [Carriacou.personal](/_personal/\Earth\Continent\America~Caribbean\Grenada\parishes~GrenadaCarriacou.personal.md) 
+
+### [Carriacou.secret](/_secret/\Earth\Continent\America~Caribbean\Grenada\parishes~GrenadaCarriacou.secret.md)
 

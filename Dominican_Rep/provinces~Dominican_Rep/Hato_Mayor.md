@@ -40,11 +40,16 @@ markerFolder: ./Hato_Mayor/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Hato_Mayor|Hato_Mayor]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Hato_Mayor.public|Hato_Mayor.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Hato_Mayor.internal|Hato_Mayor.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Hato_Mayor.protect|Hato_Mayor.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Hato_Mayor.private|Hato_Mayor.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Hato_Mayor.personal|Hato_Mayor.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Hato_Mayor.secret|Hato_Mayor.secret]] 
+
+### [Hato_Mayor.public](/_public/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepHato_Mayor.public.md) 
+
+### [Hato_Mayor.internal](/_internal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepHato_Mayor.internal.md) 
+
+### [Hato_Mayor.protect](/_protect/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepHato_Mayor.protect.md) 
+
+### [Hato_Mayor.private](/_private/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepHato_Mayor.private.md) 
+
+### [Hato_Mayor.personal](/_personal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepHato_Mayor.personal.md) 
+
+### [Hato_Mayor.secret](/_secret/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepHato_Mayor.secret.md)
 

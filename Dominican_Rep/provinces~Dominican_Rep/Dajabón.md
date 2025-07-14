@@ -40,11 +40,16 @@ markerFolder: ./Dajabón/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Dajabón|Dajabón]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Dajabón.public|Dajabón.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Dajabón.internal|Dajabón.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Dajabón.protect|Dajabón.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Dajabón.private|Dajabón.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Dajabón.personal|Dajabón.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Dajabón.secret|Dajabón.secret]] 
+
+### [Dajabón.public](/_public/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepDajabón.public.md) 
+
+### [Dajabón.internal](/_internal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepDajabón.internal.md) 
+
+### [Dajabón.protect](/_protect/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepDajabón.protect.md) 
+
+### [Dajabón.private](/_private/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepDajabón.private.md) 
+
+### [Dajabón.personal](/_personal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepDajabón.personal.md) 
+
+### [Dajabón.secret](/_secret/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepDajabón.secret.md)
 

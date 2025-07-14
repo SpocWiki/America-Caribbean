@@ -40,11 +40,16 @@ markerFolder: ./Saint_Anthony/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Montserrat/Counties/Saint_Anthony|Saint_Anthony]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Montserrat/Counties/Saint_Anthony.public|Saint_Anthony.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Montserrat/Counties/Saint_Anthony.internal|Saint_Anthony.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Montserrat/Counties/Saint_Anthony.protect|Saint_Anthony.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Montserrat/Counties/Saint_Anthony.private|Saint_Anthony.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Montserrat/Counties/Saint_Anthony.personal|Saint_Anthony.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Montserrat/Counties/Saint_Anthony.secret|Saint_Anthony.secret]] 
+
+### [Saint_Anthony.public](/_public/\Earth\Continent\America~Caribbean\Montserrat\parishes~MontserratSaint_Anthony.public.md) 
+
+### [Saint_Anthony.internal](/_internal/\Earth\Continent\America~Caribbean\Montserrat\parishes~MontserratSaint_Anthony.internal.md) 
+
+### [Saint_Anthony.protect](/_protect/\Earth\Continent\America~Caribbean\Montserrat\parishes~MontserratSaint_Anthony.protect.md) 
+
+### [Saint_Anthony.private](/_private/\Earth\Continent\America~Caribbean\Montserrat\parishes~MontserratSaint_Anthony.private.md) 
+
+### [Saint_Anthony.personal](/_personal/\Earth\Continent\America~Caribbean\Montserrat\parishes~MontserratSaint_Anthony.personal.md) 
+
+### [Saint_Anthony.secret](/_secret/\Earth\Continent\America~Caribbean\Montserrat\parishes~MontserratSaint_Anthony.secret.md)
 

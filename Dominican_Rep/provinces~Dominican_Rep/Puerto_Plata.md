@@ -40,11 +40,16 @@ markerFolder: ./Puerto_Plata/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Puerto_Plata|Puerto_Plata]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Puerto_Plata.public|Puerto_Plata.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Puerto_Plata.internal|Puerto_Plata.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Puerto_Plata.protect|Puerto_Plata.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Puerto_Plata.private|Puerto_Plata.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Puerto_Plata.personal|Puerto_Plata.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Puerto_Plata.secret|Puerto_Plata.secret]] 
+
+### [Puerto_Plata.public](/_public/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepPuerto_Plata.public.md) 
+
+### [Puerto_Plata.internal](/_internal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepPuerto_Plata.internal.md) 
+
+### [Puerto_Plata.protect](/_protect/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepPuerto_Plata.protect.md) 
+
+### [Puerto_Plata.private](/_private/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepPuerto_Plata.private.md) 
+
+### [Puerto_Plata.personal](/_personal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepPuerto_Plata.personal.md) 
+
+### [Puerto_Plata.secret](/_secret/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepPuerto_Plata.secret.md)
 

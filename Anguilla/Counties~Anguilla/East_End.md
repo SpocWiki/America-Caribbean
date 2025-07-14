@@ -40,11 +40,16 @@ markerFolder: ./East_End/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Anguilla/Counties/East_End|East_End]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Anguilla/Counties/East_End.public|East_End.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Anguilla/Counties/East_End.internal|East_End.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Anguilla/Counties/East_End.protect|East_End.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Anguilla/Counties/East_End.private|East_End.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Anguilla/Counties/East_End.personal|East_End.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Anguilla/Counties/East_End.secret|East_End.secret]] 
+
+### [East_End.public](/_public/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaEast_End.public.md) 
+
+### [East_End.internal](/_internal/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaEast_End.internal.md) 
+
+### [East_End.protect](/_protect/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaEast_End.protect.md) 
+
+### [East_End.private](/_private/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaEast_End.private.md) 
+
+### [East_End.personal](/_personal/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaEast_End.personal.md) 
+
+### [East_End.secret](/_secret/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaEast_End.secret.md)
 

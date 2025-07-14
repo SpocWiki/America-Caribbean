@@ -1,4 +1,4 @@
-﻿---
+---
 location: [14.6,-61.06667] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,9 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Fort-de-France|Fort-de-France]]  
-- [[../../../../../../_internal/geo/Continent/South-America/Martinique/City/Fort-de-France.internal|Fort-de-France.internal]] 
-- [[../../../../../../_protect/geo/Continent/South-America/Martinique/City/Fort-de-France.protect|Fort-de-France.protect]] 
-- [[../../../../../../_private/geo/Continent/South-America/Martinique/City/Fort-de-France.private|Fort-de-France.private]] 
-- [[../../../../../../_personal/geo/Continent/South-America/Martinique/City/Fort-de-France.personal|Fort-de-France.personal]] 
-- [[../../../../../../_secret/geo/Continent/South-America/Martinique/City/Fort-de-France.secret|Fort-de-France.secret]] 
+
+### [Fort-de-France.public](/_public/\Earth\Continent\America~Caribbean\Martinique\CityFort-de-France.public.md) 
+
+### [Fort-de-France.internal](/_internal/\Earth\Continent\America~Caribbean\Martinique\CityFort-de-France.internal.md) 
+
+### [Fort-de-France.protect](/_protect/\Earth\Continent\America~Caribbean\Martinique\CityFort-de-France.protect.md) 
+
+### [Fort-de-France.private](/_private/\Earth\Continent\America~Caribbean\Martinique\CityFort-de-France.private.md) 
+
+### [Fort-de-France.personal](/_personal/\Earth\Continent\America~Caribbean\Martinique\CityFort-de-France.personal.md) 
+
+### [Fort-de-France.secret](/_secret/\Earth\Continent\America~Caribbean\Martinique\CityFort-de-France.secret.md)
+

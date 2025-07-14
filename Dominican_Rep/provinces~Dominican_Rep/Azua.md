@@ -40,11 +40,16 @@ markerFolder: ./Azua/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Azua|Azua]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Azua.public|Azua.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Azua.internal|Azua.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Azua.protect|Azua.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Azua.private|Azua.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Azua.personal|Azua.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Azua.secret|Azua.secret]] 
+
+### [Azua.public](/_public/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepAzua.public.md) 
+
+### [Azua.internal](/_internal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepAzua.internal.md) 
+
+### [Azua.protect](/_protect/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepAzua.protect.md) 
+
+### [Azua.private](/_private/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepAzua.private.md) 
+
+### [Azua.personal](/_personal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepAzua.personal.md) 
+
+### [Azua.secret](/_secret/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepAzua.secret.md)
 

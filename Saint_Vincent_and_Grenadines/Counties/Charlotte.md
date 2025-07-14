@@ -40,11 +40,16 @@ markerFolder: ./Charlotte/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Charlotte|Charlotte]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Charlotte.public|Charlotte.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Charlotte.internal|Charlotte.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Charlotte.protect|Charlotte.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Charlotte.private|Charlotte.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Charlotte.personal|Charlotte.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Charlotte.secret|Charlotte.secret]] 
+
+### [Charlotte.public](/_public/\Earth\Continent\America~Caribbean\Saint_Vincent_and_Grenadines\CountiesCharlotte.public.md) 
+
+### [Charlotte.internal](/_internal/\Earth\Continent\America~Caribbean\Saint_Vincent_and_Grenadines\CountiesCharlotte.internal.md) 
+
+### [Charlotte.protect](/_protect/\Earth\Continent\America~Caribbean\Saint_Vincent_and_Grenadines\CountiesCharlotte.protect.md) 
+
+### [Charlotte.private](/_private/\Earth\Continent\America~Caribbean\Saint_Vincent_and_Grenadines\CountiesCharlotte.private.md) 
+
+### [Charlotte.personal](/_personal/\Earth\Continent\America~Caribbean\Saint_Vincent_and_Grenadines\CountiesCharlotte.personal.md) 
+
+### [Charlotte.secret](/_secret/\Earth\Continent\America~Caribbean\Saint_Vincent_and_Grenadines\CountiesCharlotte.secret.md)
 

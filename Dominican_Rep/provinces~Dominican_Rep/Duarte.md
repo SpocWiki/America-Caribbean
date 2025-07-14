@@ -40,11 +40,16 @@ markerFolder: ./Duarte/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Duarte|Duarte]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Duarte.public|Duarte.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Duarte.internal|Duarte.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Duarte.protect|Duarte.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Duarte.private|Duarte.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Duarte.personal|Duarte.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Duarte.secret|Duarte.secret]] 
+
+### [Duarte.public](/_public/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepDuarte.public.md) 
+
+### [Duarte.internal](/_internal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepDuarte.internal.md) 
+
+### [Duarte.protect](/_protect/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepDuarte.protect.md) 
+
+### [Duarte.private](/_private/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepDuarte.private.md) 
+
+### [Duarte.personal](/_personal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepDuarte.personal.md) 
+
+### [Duarte.secret](/_secret/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepDuarte.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Saint_Peter/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Peter|Saint_Peter]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Peter.public|Saint_Peter.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Peter.internal|Saint_Peter.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Peter.protect|Saint_Peter.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Peter.private|Saint_Peter.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Peter.personal|Saint_Peter.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Peter.secret|Saint_Peter.secret]] 
+
+### [Saint_Peter.public](/_public/\Earth\Continent\America~Caribbean\Antigua_and_Barbuda\CountiesSaint_Peter.public.md) 
+
+### [Saint_Peter.internal](/_internal/\Earth\Continent\America~Caribbean\Antigua_and_Barbuda\CountiesSaint_Peter.internal.md) 
+
+### [Saint_Peter.protect](/_protect/\Earth\Continent\America~Caribbean\Antigua_and_Barbuda\CountiesSaint_Peter.protect.md) 
+
+### [Saint_Peter.private](/_private/\Earth\Continent\America~Caribbean\Antigua_and_Barbuda\CountiesSaint_Peter.private.md) 
+
+### [Saint_Peter.personal](/_personal/\Earth\Continent\America~Caribbean\Antigua_and_Barbuda\CountiesSaint_Peter.personal.md) 
+
+### [Saint_Peter.secret](/_secret/\Earth\Continent\America~Caribbean\Antigua_and_Barbuda\CountiesSaint_Peter.secret.md)
 

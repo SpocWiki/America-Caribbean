@@ -40,11 +40,16 @@ markerFolder: ./La_Estrelleta/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Estrelleta|La_Estrelleta]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Estrelleta.public|La_Estrelleta.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Estrelleta.internal|La_Estrelleta.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Estrelleta.protect|La_Estrelleta.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Estrelleta.private|La_Estrelleta.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Estrelleta.personal|La_Estrelleta.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Estrelleta.secret|La_Estrelleta.secret]] 
+
+### [La_Estrelleta.public](/_public/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepLa_Estrelleta.public.md) 
+
+### [La_Estrelleta.internal](/_internal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepLa_Estrelleta.internal.md) 
+
+### [La_Estrelleta.protect](/_protect/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepLa_Estrelleta.protect.md) 
+
+### [La_Estrelleta.private](/_private/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepLa_Estrelleta.private.md) 
+
+### [La_Estrelleta.personal](/_personal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepLa_Estrelleta.personal.md) 
+
+### [La_Estrelleta.secret](/_secret/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepLa_Estrelleta.secret.md)
 

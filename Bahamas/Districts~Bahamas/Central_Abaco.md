@@ -40,11 +40,16 @@ markerFolder: ./Central_Abaco/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Bahamas/Counties/Central_Abaco|Central_Abaco]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Bahamas/Counties/Central_Abaco.public|Central_Abaco.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/Central_Abaco.internal|Central_Abaco.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/Central_Abaco.protect|Central_Abaco.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/Central_Abaco.private|Central_Abaco.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/Central_Abaco.personal|Central_Abaco.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/Central_Abaco.secret|Central_Abaco.secret]] 
+
+### [Central_Abaco.public](/_public/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasCentral_Abaco.public.md) 
+
+### [Central_Abaco.internal](/_internal/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasCentral_Abaco.internal.md) 
+
+### [Central_Abaco.protect](/_protect/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasCentral_Abaco.protect.md) 
+
+### [Central_Abaco.private](/_private/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasCentral_Abaco.private.md) 
+
+### [Central_Abaco.personal](/_personal/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasCentral_Abaco.personal.md) 
+
+### [Central_Abaco.secret](/_secret/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasCentral_Abaco.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./_Rivers/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Vega/_Rivers|_Rivers]] 
-- [[../../../../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Vega/_Rivers.public|_Rivers.public]] 
-- [[../../../../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Vega/_Rivers.internal|_Rivers.internal]] 
-- [[../../../../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Vega/_Rivers.protect|_Rivers.protect]] 
-- [[../../../../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Vega/_Rivers.private|_Rivers.private]] 
-- [[../../../../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Vega/_Rivers.personal|_Rivers.personal]] 
-- [[../../../../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Vega/_Rivers.secret|_Rivers.secret]] 
+
+### [_Rivers.public](/_public/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_Rep\La_Vega_Rivers.public.md) 
+
+### [_Rivers.internal](/_internal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_Rep\La_Vega_Rivers.internal.md) 
+
+### [_Rivers.protect](/_protect/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_Rep\La_Vega_Rivers.protect.md) 
+
+### [_Rivers.private](/_private/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_Rep\La_Vega_Rivers.private.md) 
+
+### [_Rivers.personal](/_personal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_Rep\La_Vega_Rivers.personal.md) 
+
+### [_Rivers.secret](/_secret/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_Rep\La_Vega_Rivers.secret.md)
 

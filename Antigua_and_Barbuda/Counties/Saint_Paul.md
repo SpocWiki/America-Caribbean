@@ -40,11 +40,16 @@ markerFolder: ./Saint_Paul/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Paul|Saint_Paul]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Paul.public|Saint_Paul.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Paul.internal|Saint_Paul.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Paul.protect|Saint_Paul.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Paul.private|Saint_Paul.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Paul.personal|Saint_Paul.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Paul.secret|Saint_Paul.secret]] 
+
+### [Saint_Paul.public](/_public/\Earth\Continent\America~Caribbean\Antigua_and_Barbuda\CountiesSaint_Paul.public.md) 
+
+### [Saint_Paul.internal](/_internal/\Earth\Continent\America~Caribbean\Antigua_and_Barbuda\CountiesSaint_Paul.internal.md) 
+
+### [Saint_Paul.protect](/_protect/\Earth\Continent\America~Caribbean\Antigua_and_Barbuda\CountiesSaint_Paul.protect.md) 
+
+### [Saint_Paul.private](/_private/\Earth\Continent\America~Caribbean\Antigua_and_Barbuda\CountiesSaint_Paul.private.md) 
+
+### [Saint_Paul.personal](/_personal/\Earth\Continent\America~Caribbean\Antigua_and_Barbuda\CountiesSaint_Paul.personal.md) 
+
+### [Saint_Paul.secret](/_secret/\Earth\Continent\America~Caribbean\Antigua_and_Barbuda\CountiesSaint_Paul.secret.md)
 

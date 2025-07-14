@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/South-America/Saint_Kitts_and_Nevis~Islands/City/Basseterre|Basseterre]] 
-- [[../../../../../../_public/geo/Continent/South-America/Saint_Kitts_and_Nevis~Islands/City/Basseterre.public|Basseterre.public]] 
-- [[../../../../../../_internal/geo/Continent/South-America/Saint_Kitts_and_Nevis~Islands/City/Basseterre.internal|Basseterre.internal]] 
-- [[../../../../../../_protect/geo/Continent/South-America/Saint_Kitts_and_Nevis~Islands/City/Basseterre.protect|Basseterre.protect]] 
-- [[../../../../../../_private/geo/Continent/South-America/Saint_Kitts_and_Nevis~Islands/City/Basseterre.private|Basseterre.private]] 
-- [[../../../../../../_personal/geo/Continent/South-America/Saint_Kitts_and_Nevis~Islands/City/Basseterre.personal|Basseterre.personal]] 
-- [[../../../../../../_secret/geo/Continent/South-America/Saint_Kitts_and_Nevis~Islands/City/Basseterre.secret|Basseterre.secret]] 
+
+### [Basseterre.public](/_public/\Earth\Continent\America~Caribbean\Saint_Kitts_and_Nevis~Islands\parishes~Saint_Kitts_and_Nevis\Trinity_Palmetto_Point\CityBasseterre.public.md) 
+
+### [Basseterre.internal](/_internal/\Earth\Continent\America~Caribbean\Saint_Kitts_and_Nevis~Islands\parishes~Saint_Kitts_and_Nevis\Trinity_Palmetto_Point\CityBasseterre.internal.md) 
+
+### [Basseterre.protect](/_protect/\Earth\Continent\America~Caribbean\Saint_Kitts_and_Nevis~Islands\parishes~Saint_Kitts_and_Nevis\Trinity_Palmetto_Point\CityBasseterre.protect.md) 
+
+### [Basseterre.private](/_private/\Earth\Continent\America~Caribbean\Saint_Kitts_and_Nevis~Islands\parishes~Saint_Kitts_and_Nevis\Trinity_Palmetto_Point\CityBasseterre.private.md) 
+
+### [Basseterre.personal](/_personal/\Earth\Continent\America~Caribbean\Saint_Kitts_and_Nevis~Islands\parishes~Saint_Kitts_and_Nevis\Trinity_Palmetto_Point\CityBasseterre.personal.md) 
+
+### [Basseterre.secret](/_secret/\Earth\Continent\America~Caribbean\Saint_Kitts_and_Nevis~Islands\parishes~Saint_Kitts_and_Nevis\Trinity_Palmetto_Point\CityBasseterre.secret.md)
+

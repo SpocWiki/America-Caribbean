@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 16
 - -61.7333
@@ -130,11 +130,17 @@ Continent :: [[South-America]]
 [has_place_latitude::16] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[Guadeloupe|Guadeloupe]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Guadeloupe.internal|Guadeloupe.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Guadeloupe.protect|Guadeloupe.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Guadeloupe.private|Guadeloupe.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Guadeloupe.personal|Guadeloupe.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Guadeloupe.secret|Guadeloupe.secret]] 
+
+### [Guadeloupe.public](/_public/\Earth\Continent\America~CaribbeanGuadeloupe.public.md) 
+
+### [Guadeloupe.internal](/_internal/\Earth\Continent\America~CaribbeanGuadeloupe.internal.md) 
+
+### [Guadeloupe.protect](/_protect/\Earth\Continent\America~CaribbeanGuadeloupe.protect.md) 
+
+### [Guadeloupe.private](/_private/\Earth\Continent\America~CaribbeanGuadeloupe.private.md) 
+
+### [Guadeloupe.personal](/_personal/\Earth\Continent\America~CaribbeanGuadeloupe.personal.md) 
+
+### [Guadeloupe.secret](/_secret/\Earth\Continent\America~CaribbeanGuadeloupe.secret.md)
+

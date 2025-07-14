@@ -37,11 +37,17 @@ Capital :: [[Saint_Vincent_and_Grenadines/Counties/Saint_George/City/Kingstown]]
 [has_place_latitude::13.1667] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[Saint_Vincent_and_Grenadines|Saint_Vincent_and_Grenadines]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines.internal|Saint_Vincent_and_Grenadines.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines.protect|Saint_Vincent_and_Grenadines.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines.private|Saint_Vincent_and_Grenadines.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines.personal|Saint_Vincent_and_Grenadines.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines.secret|Saint_Vincent_and_Grenadines.secret]] 
+
+### [Saint_Vincent_and_Grenadines.public](/_public/\Earth\Continent\America~CaribbeanSaint_Vincent_and_Grenadines.public.md) 
+
+### [Saint_Vincent_and_Grenadines.internal](/_internal/\Earth\Continent\America~CaribbeanSaint_Vincent_and_Grenadines.internal.md) 
+
+### [Saint_Vincent_and_Grenadines.protect](/_protect/\Earth\Continent\America~CaribbeanSaint_Vincent_and_Grenadines.protect.md) 
+
+### [Saint_Vincent_and_Grenadines.private](/_private/\Earth\Continent\America~CaribbeanSaint_Vincent_and_Grenadines.private.md) 
+
+### [Saint_Vincent_and_Grenadines.personal](/_personal/\Earth\Continent\America~CaribbeanSaint_Vincent_and_Grenadines.personal.md) 
+
+### [Saint_Vincent_and_Grenadines.secret](/_secret/\Earth\Continent\America~CaribbeanSaint_Vincent_and_Grenadines.secret.md)
+

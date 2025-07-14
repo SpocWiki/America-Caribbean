@@ -40,11 +40,16 @@ markerFolder: ./Soufrière/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Soufrière|Soufrière]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Soufrière.public|Soufrière.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Soufrière.internal|Soufrière.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Soufrière.protect|Soufrière.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Soufrière.private|Soufrière.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Soufrière.personal|Soufrière.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Soufrière.secret|Soufrière.secret]] 
+
+### [Soufrière.public](/_public/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaSoufrière.public.md) 
+
+### [Soufrière.internal](/_internal/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaSoufrière.internal.md) 
+
+### [Soufrière.protect](/_protect/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaSoufrière.protect.md) 
+
+### [Soufrière.private](/_private/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaSoufrière.private.md) 
+
+### [Soufrière.personal](/_personal/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaSoufrière.personal.md) 
+
+### [Soufrière.secret](/_secret/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaSoufrière.secret.md)
 

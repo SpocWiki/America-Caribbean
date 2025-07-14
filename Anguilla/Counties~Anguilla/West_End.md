@@ -40,11 +40,16 @@ markerFolder: ./West_End/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Anguilla/Counties/West_End|West_End]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Anguilla/Counties/West_End.public|West_End.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Anguilla/Counties/West_End.internal|West_End.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Anguilla/Counties/West_End.protect|West_End.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Anguilla/Counties/West_End.private|West_End.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Anguilla/Counties/West_End.personal|West_End.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Anguilla/Counties/West_End.secret|West_End.secret]] 
+
+### [West_End.public](/_public/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaWest_End.public.md) 
+
+### [West_End.internal](/_internal/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaWest_End.internal.md) 
+
+### [West_End.protect](/_protect/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaWest_End.protect.md) 
+
+### [West_End.private](/_private/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaWest_End.private.md) 
+
+### [West_End.personal](/_personal/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaWest_End.personal.md) 
+
+### [West_End.secret](/_secret/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaWest_End.secret.md)
 

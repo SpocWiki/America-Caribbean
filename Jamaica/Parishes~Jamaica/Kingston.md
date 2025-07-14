@@ -57,11 +57,16 @@ markerFolder: ./Kingston/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Jamaica/Counties/Kingston|Kingston]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Jamaica/Counties/Kingston.public|Kingston.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Jamaica/Counties/Kingston.internal|Kingston.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Jamaica/Counties/Kingston.protect|Kingston.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Jamaica/Counties/Kingston.private|Kingston.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Jamaica/Counties/Kingston.personal|Kingston.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Jamaica/Counties/Kingston.secret|Kingston.secret]] 
+
+### [Kingston.public](/_public/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaKingston.public.md) 
+
+### [Kingston.internal](/_internal/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaKingston.internal.md) 
+
+### [Kingston.protect](/_protect/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaKingston.protect.md) 
+
+### [Kingston.private](/_private/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaKingston.private.md) 
+
+### [Kingston.personal](/_personal/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaKingston.personal.md) 
+
+### [Kingston.secret](/_secret/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaKingston.secret.md)
 

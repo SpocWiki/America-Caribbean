@@ -40,11 +40,16 @@ markerFolder: ./San_Salvador/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Bahamas/Counties/San_Salvador|San_Salvador]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Bahamas/Counties/San_Salvador.public|San_Salvador.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/San_Salvador.internal|San_Salvador.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/San_Salvador.protect|San_Salvador.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/San_Salvador.private|San_Salvador.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/San_Salvador.personal|San_Salvador.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/San_Salvador.secret|San_Salvador.secret]] 
+
+### [San_Salvador.public](/_public/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasSan_Salvador.public.md) 
+
+### [San_Salvador.internal](/_internal/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasSan_Salvador.internal.md) 
+
+### [San_Salvador.protect](/_protect/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasSan_Salvador.protect.md) 
+
+### [San_Salvador.private](/_private/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasSan_Salvador.private.md) 
+
+### [San_Salvador.personal](/_personal/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasSan_Salvador.personal.md) 
+
+### [San_Salvador.secret](/_secret/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasSan_Salvador.secret.md)
 

@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 15.79 , -79.846 ] 
 type: geo-Region
 title: Bajo_Nuevo_Bank
@@ -40,11 +40,16 @@ markerFolder: ./Bajo_Nuevo_Bank/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../_Standards/geo/Continent/America~Caribbean/Bajo_Nuevo_Bank|Bajo_Nuevo_Bank]] 
-- [[../../../../_public/geo/Continent/America~Caribbean/Bajo_Nuevo_Bank.public|Bajo_Nuevo_Bank.public]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Bajo_Nuevo_Bank.internal|Bajo_Nuevo_Bank.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Bajo_Nuevo_Bank.protect|Bajo_Nuevo_Bank.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Bajo_Nuevo_Bank.private|Bajo_Nuevo_Bank.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Bajo_Nuevo_Bank.personal|Bajo_Nuevo_Bank.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Bajo_Nuevo_Bank.secret|Bajo_Nuevo_Bank.secret]] 
+
+### [Bajo_Nuevo_Bank.public](/_public/\Earth\Continent\America~CaribbeanBajo_Nuevo_Bank.public.md) 
+
+### [Bajo_Nuevo_Bank.internal](/_internal/\Earth\Continent\America~CaribbeanBajo_Nuevo_Bank.internal.md) 
+
+### [Bajo_Nuevo_Bank.protect](/_protect/\Earth\Continent\America~CaribbeanBajo_Nuevo_Bank.protect.md) 
+
+### [Bajo_Nuevo_Bank.private](/_private/\Earth\Continent\America~CaribbeanBajo_Nuevo_Bank.private.md) 
+
+### [Bajo_Nuevo_Bank.personal](/_personal/\Earth\Continent\America~CaribbeanBajo_Nuevo_Bank.personal.md) 
+
+### [Bajo_Nuevo_Bank.secret](/_secret/\Earth\Continent\America~CaribbeanBajo_Nuevo_Bank.secret.md)
 

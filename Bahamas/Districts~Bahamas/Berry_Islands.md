@@ -40,11 +40,16 @@ markerFolder: ./Berry_Islands/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Bahamas/Counties/Berry_Islands|Berry_Islands]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Bahamas/Counties/Berry_Islands.public|Berry_Islands.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/Berry_Islands.internal|Berry_Islands.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/Berry_Islands.protect|Berry_Islands.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/Berry_Islands.private|Berry_Islands.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/Berry_Islands.personal|Berry_Islands.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/Berry_Islands.secret|Berry_Islands.secret]] 
+
+### [Berry_Islands.public](/_public/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasBerry_Islands.public.md) 
+
+### [Berry_Islands.internal](/_internal/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasBerry_Islands.internal.md) 
+
+### [Berry_Islands.protect](/_protect/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasBerry_Islands.protect.md) 
+
+### [Berry_Islands.private](/_private/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasBerry_Islands.private.md) 
+
+### [Berry_Islands.personal](/_personal/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasBerry_Islands.personal.md) 
+
+### [Berry_Islands.secret](/_secret/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasBerry_Islands.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Tunapuna_Piarco/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Tunapuna_Piarco|Tunapuna_Piarco]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Tunapuna_Piarco.public|Tunapuna_Piarco.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Tunapuna_Piarco.internal|Tunapuna_Piarco.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Tunapuna_Piarco.protect|Tunapuna_Piarco.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Tunapuna_Piarco.private|Tunapuna_Piarco.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Tunapuna_Piarco.personal|Tunapuna_Piarco.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Tunapuna_Piarco.secret|Tunapuna_Piarco.secret]] 
+
+### [Tunapuna_Piarco.public](/_public/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoTunapuna_Piarco.public.md) 
+
+### [Tunapuna_Piarco.internal](/_internal/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoTunapuna_Piarco.internal.md) 
+
+### [Tunapuna_Piarco.protect](/_protect/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoTunapuna_Piarco.protect.md) 
+
+### [Tunapuna_Piarco.private](/_private/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoTunapuna_Piarco.private.md) 
+
+### [Tunapuna_Piarco.personal](/_personal/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoTunapuna_Piarco.personal.md) 
+
+### [Tunapuna_Piarco.secret](/_secret/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoTunapuna_Piarco.secret.md)
 

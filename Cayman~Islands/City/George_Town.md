@@ -1,4 +1,4 @@
-﻿---
+---
 location: [19.28333,-81.36667] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,9 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[George_Town|George_Town]]  
-- [[../../../../../../_internal/geo/Continent/South-America/Cayman~Islands/City/George_Town.internal|George_Town.internal]] 
-- [[../../../../../../_protect/geo/Continent/South-America/Cayman~Islands/City/George_Town.protect|George_Town.protect]] 
-- [[../../../../../../_private/geo/Continent/South-America/Cayman~Islands/City/George_Town.private|George_Town.private]] 
-- [[../../../../../../_personal/geo/Continent/South-America/Cayman~Islands/City/George_Town.personal|George_Town.personal]] 
-- [[../../../../../../_secret/geo/Continent/South-America/Cayman~Islands/City/George_Town.secret|George_Town.secret]] 
+
+### [George_Town.public](/_public/\Earth\Continent\America~Caribbean\Cayman~Islands\CityGeorge_Town.public.md) 
+
+### [George_Town.internal](/_internal/\Earth\Continent\America~Caribbean\Cayman~Islands\CityGeorge_Town.internal.md) 
+
+### [George_Town.protect](/_protect/\Earth\Continent\America~Caribbean\Cayman~Islands\CityGeorge_Town.protect.md) 
+
+### [George_Town.private](/_private/\Earth\Continent\America~Caribbean\Cayman~Islands\CityGeorge_Town.private.md) 
+
+### [George_Town.personal](/_personal/\Earth\Continent\America~Caribbean\Cayman~Islands\CityGeorge_Town.personal.md) 
+
+### [George_Town.secret](/_secret/\Earth\Continent\America~Caribbean\Cayman~Islands\CityGeorge_Town.secret.md)
+

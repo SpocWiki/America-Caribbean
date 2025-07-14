@@ -40,11 +40,16 @@ markerFolder: ./Ouest/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Haiti/Counties/Ouest|Ouest]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Haiti/Counties/Ouest.public|Ouest.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Haiti/Counties/Ouest.internal|Ouest.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Haiti/Counties/Ouest.protect|Ouest.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Haiti/Counties/Ouest.private|Ouest.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Haiti/Counties/Ouest.personal|Ouest.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Haiti/Counties/Ouest.secret|Ouest.secret]] 
+
+### [Ouest.public](/_public/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiOuest.public.md) 
+
+### [Ouest.internal](/_internal/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiOuest.internal.md) 
+
+### [Ouest.protect](/_protect/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiOuest.protect.md) 
+
+### [Ouest.private](/_private/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiOuest.private.md) 
+
+### [Ouest.personal](/_personal/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiOuest.personal.md) 
+
+### [Ouest.secret](/_secret/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiOuest.secret.md)
 

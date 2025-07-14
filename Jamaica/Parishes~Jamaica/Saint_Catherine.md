@@ -40,11 +40,16 @@ markerFolder: ./Saint_Catherine/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Catherine|Saint_Catherine]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Catherine.public|Saint_Catherine.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Catherine.internal|Saint_Catherine.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Catherine.protect|Saint_Catherine.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Catherine.private|Saint_Catherine.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Catherine.personal|Saint_Catherine.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Catherine.secret|Saint_Catherine.secret]] 
+
+### [Saint_Catherine.public](/_public/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaSaint_Catherine.public.md) 
+
+### [Saint_Catherine.internal](/_internal/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaSaint_Catherine.internal.md) 
+
+### [Saint_Catherine.protect](/_protect/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaSaint_Catherine.protect.md) 
+
+### [Saint_Catherine.private](/_private/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaSaint_Catherine.private.md) 
+
+### [Saint_Catherine.personal](/_personal/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaSaint_Catherine.personal.md) 
+
+### [Saint_Catherine.secret](/_secret/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaSaint_Catherine.secret.md)
 

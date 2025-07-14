@@ -40,11 +40,16 @@ markerFolder: ./Valverde/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Valverde|Valverde]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Valverde.public|Valverde.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Valverde.internal|Valverde.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Valverde.protect|Valverde.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Valverde.private|Valverde.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Valverde.personal|Valverde.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Valverde.secret|Valverde.secret]] 
+
+### [Valverde.public](/_public/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepValverde.public.md) 
+
+### [Valverde.internal](/_internal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepValverde.internal.md) 
+
+### [Valverde.protect](/_protect/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepValverde.protect.md) 
+
+### [Valverde.private](/_private/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepValverde.private.md) 
+
+### [Valverde.personal](/_personal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepValverde.personal.md) 
+
+### [Valverde.secret](/_secret/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepValverde.secret.md)
 

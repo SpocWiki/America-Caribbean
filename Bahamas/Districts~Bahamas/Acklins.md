@@ -40,11 +40,16 @@ markerFolder: ./Acklins/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Bahamas/Counties/Acklins|Acklins]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Bahamas/Counties/Acklins.public|Acklins.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/Acklins.internal|Acklins.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/Acklins.protect|Acklins.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/Acklins.private|Acklins.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/Acklins.personal|Acklins.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/Acklins.secret|Acklins.secret]] 
+
+### [Acklins.public](/_public/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasAcklins.public.md) 
+
+### [Acklins.internal](/_internal/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasAcklins.internal.md) 
+
+### [Acklins.protect](/_protect/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasAcklins.protect.md) 
+
+### [Acklins.private](/_private/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasAcklins.private.md) 
+
+### [Acklins.personal](/_personal/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasAcklins.personal.md) 
+
+### [Acklins.secret](/_secret/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasAcklins.secret.md)
 

@@ -143,10 +143,18 @@ Capital :: [[Bahamas/Counties/New_Providence/City/Nassau]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/The%20Bahamas)
 
+
 ## Confidential Links & Embeds: 
-- [[Bahamas|Bahamas]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Bahamas.internal|Bahamas.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Bahamas.protect|Bahamas.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Bahamas.private|Bahamas.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Bahamas.personal|Bahamas.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Bahamas.secret|Bahamas.secret]] 
+
+### [Bahamas.public](/_public/\Earth\Continent\America~CaribbeanBahamas.public.md) 
+
+### [Bahamas.internal](/_internal/\Earth\Continent\America~CaribbeanBahamas.internal.md) 
+
+### [Bahamas.protect](/_protect/\Earth\Continent\America~CaribbeanBahamas.protect.md) 
+
+### [Bahamas.private](/_private/\Earth\Continent\America~CaribbeanBahamas.private.md) 
+
+### [Bahamas.personal](/_personal/\Earth\Continent\America~CaribbeanBahamas.personal.md) 
+
+### [Bahamas.secret](/_secret/\Earth\Continent\America~CaribbeanBahamas.secret.md)
+

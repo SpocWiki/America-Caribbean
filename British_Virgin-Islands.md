@@ -131,11 +131,17 @@ Continent :: [[South-America]]
 [has_place_latitude::18.4314] 
 
 
-
 ## Confidential Links & Embeds: 
--[[British_Virgin-Islands|British_Virgin-Islands]]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/British_Virgin-Islands.internal|British_Virgin-Islands.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/British_Virgin-Islands.protect|British_Virgin-Islands.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/British_Virgin-Islands.private|British_Virgin-Islands.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/British_Virgin-Islands.personal|British_Virgin-Islands.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/British_Virgin-Islands.secret|British_Virgin-Islands.secret]] 
+
+### [British_Virgin-Islands.public](/_public/\Earth\Continent\America~CaribbeanBritish_Virgin-Islands.public.md) 
+
+### [British_Virgin-Islands.internal](/_internal/\Earth\Continent\America~CaribbeanBritish_Virgin-Islands.internal.md) 
+
+### [British_Virgin-Islands.protect](/_protect/\Earth\Continent\America~CaribbeanBritish_Virgin-Islands.protect.md) 
+
+### [British_Virgin-Islands.private](/_private/\Earth\Continent\America~CaribbeanBritish_Virgin-Islands.private.md) 
+
+### [British_Virgin-Islands.personal](/_personal/\Earth\Continent\America~CaribbeanBritish_Virgin-Islands.personal.md) 
+
+### [British_Virgin-Islands.secret](/_secret/\Earth\Continent\America~CaribbeanBritish_Virgin-Islands.secret.md)
+

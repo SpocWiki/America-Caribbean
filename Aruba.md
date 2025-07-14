@@ -153,10 +153,18 @@ markerFolder: ./Aruba/
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Aruba)
 
+
 ## Confidential Links & Embeds: 
-- [[Aruba|Aruba]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Aruba.internal|Aruba.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Aruba.protect|Aruba.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Aruba.private|Aruba.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Aruba.personal|Aruba.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Aruba.secret|Aruba.secret]] 
+
+### [Aruba.public](/_public/\Earth\Continent\America~CaribbeanAruba.public.md) 
+
+### [Aruba.internal](/_internal/\Earth\Continent\America~CaribbeanAruba.internal.md) 
+
+### [Aruba.protect](/_protect/\Earth\Continent\America~CaribbeanAruba.protect.md) 
+
+### [Aruba.private](/_private/\Earth\Continent\America~CaribbeanAruba.private.md) 
+
+### [Aruba.personal](/_personal/\Earth\Continent\America~CaribbeanAruba.personal.md) 
+
+### [Aruba.secret](/_secret/\Earth\Continent\America~CaribbeanAruba.secret.md)
+

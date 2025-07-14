@@ -1,4 +1,4 @@
-﻿---
+---
 location: [25.05,-77.33] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/South-America/Bahamas/City/Nassau|Nassau]] 
-- [[../../../../../../_public/geo/Continent/South-America/Bahamas/City/Nassau.public|Nassau.public]] 
-- [[../../../../../../_internal/geo/Continent/South-America/Bahamas/City/Nassau.internal|Nassau.internal]] 
-- [[../../../../../../_protect/geo/Continent/South-America/Bahamas/City/Nassau.protect|Nassau.protect]] 
-- [[../../../../../../_private/geo/Continent/South-America/Bahamas/City/Nassau.private|Nassau.private]] 
-- [[../../../../../../_personal/geo/Continent/South-America/Bahamas/City/Nassau.personal|Nassau.personal]] 
-- [[../../../../../../_secret/geo/Continent/South-America/Bahamas/City/Nassau.secret|Nassau.secret]] 
+
+### [Nassau.public](/_public/\Earth\Continent\America~Caribbean\Bahamas\Districts~Bahamas\New_Providence\CityNassau.public.md) 
+
+### [Nassau.internal](/_internal/\Earth\Continent\America~Caribbean\Bahamas\Districts~Bahamas\New_Providence\CityNassau.internal.md) 
+
+### [Nassau.protect](/_protect/\Earth\Continent\America~Caribbean\Bahamas\Districts~Bahamas\New_Providence\CityNassau.protect.md) 
+
+### [Nassau.private](/_private/\Earth\Continent\America~Caribbean\Bahamas\Districts~Bahamas\New_Providence\CityNassau.private.md) 
+
+### [Nassau.personal](/_personal/\Earth\Continent\America~Caribbean\Bahamas\Districts~Bahamas\New_Providence\CityNassau.personal.md) 
+
+### [Nassau.secret](/_secret/\Earth\Continent\America~Caribbean\Bahamas\Districts~Bahamas\New_Providence\CityNassau.secret.md)
+

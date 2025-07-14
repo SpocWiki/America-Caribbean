@@ -40,11 +40,16 @@ markerFolder: ./Redonda/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Redonda|Redonda]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Redonda.public|Redonda.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Redonda.internal|Redonda.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Redonda.protect|Redonda.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Redonda.private|Redonda.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Redonda.personal|Redonda.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Redonda.secret|Redonda.secret]] 
+
+### [Redonda.public](/_public/\Earth\Continent\America~Caribbean\Antigua_and_Barbuda\CountiesRedonda.public.md) 
+
+### [Redonda.internal](/_internal/\Earth\Continent\America~Caribbean\Antigua_and_Barbuda\CountiesRedonda.internal.md) 
+
+### [Redonda.protect](/_protect/\Earth\Continent\America~Caribbean\Antigua_and_Barbuda\CountiesRedonda.protect.md) 
+
+### [Redonda.private](/_private/\Earth\Continent\America~Caribbean\Antigua_and_Barbuda\CountiesRedonda.private.md) 
+
+### [Redonda.personal](/_personal/\Earth\Continent\America~Caribbean\Antigua_and_Barbuda\CountiesRedonda.personal.md) 
+
+### [Redonda.secret](/_secret/\Earth\Continent\America~Caribbean\Antigua_and_Barbuda\CountiesRedonda.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Hermanas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Hermanas|Hermanas]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Hermanas.public|Hermanas.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Hermanas.internal|Hermanas.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Hermanas.protect|Hermanas.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Hermanas.private|Hermanas.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Hermanas.personal|Hermanas.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Hermanas.secret|Hermanas.secret]] 
+
+### [Hermanas.public](/_public/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepHermanas.public.md) 
+
+### [Hermanas.internal](/_internal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepHermanas.internal.md) 
+
+### [Hermanas.protect](/_protect/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepHermanas.protect.md) 
+
+### [Hermanas.private](/_private/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepHermanas.private.md) 
+
+### [Hermanas.personal](/_personal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepHermanas.personal.md) 
+
+### [Hermanas.secret](/_secret/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepHermanas.secret.md)
 

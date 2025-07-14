@@ -40,11 +40,16 @@ markerFolder: ./El_Seybo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Dominican_Rep/Counties/El_Seybo|El_Seybo]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/El_Seybo.public|El_Seybo.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/El_Seybo.internal|El_Seybo.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/El_Seybo.protect|El_Seybo.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/El_Seybo.private|El_Seybo.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/El_Seybo.personal|El_Seybo.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/El_Seybo.secret|El_Seybo.secret]] 
+
+### [El_Seybo.public](/_public/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepEl_Seybo.public.md) 
+
+### [El_Seybo.internal](/_internal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepEl_Seybo.internal.md) 
+
+### [El_Seybo.protect](/_protect/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepEl_Seybo.protect.md) 
+
+### [El_Seybo.private](/_private/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepEl_Seybo.private.md) 
+
+### [El_Seybo.personal](/_personal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepEl_Seybo.personal.md) 
+
+### [El_Seybo.secret](/_secret/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepEl_Seybo.secret.md)
 

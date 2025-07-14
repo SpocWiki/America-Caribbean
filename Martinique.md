@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 14.6
 - -61.0667
@@ -130,11 +130,17 @@ Capital :: [[Martinique/City/Fort-de-France]]
 [has_place_latitude::14.6] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[Martinique|Martinique]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Martinique.internal|Martinique.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Martinique.protect|Martinique.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Martinique.private|Martinique.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Martinique.personal|Martinique.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Martinique.secret|Martinique.secret]] 
+
+### [Martinique.public](/_public/\Earth\Continent\America~CaribbeanMartinique.public.md) 
+
+### [Martinique.internal](/_internal/\Earth\Continent\America~CaribbeanMartinique.internal.md) 
+
+### [Martinique.protect](/_protect/\Earth\Continent\America~CaribbeanMartinique.protect.md) 
+
+### [Martinique.private](/_private/\Earth\Continent\America~CaribbeanMartinique.private.md) 
+
+### [Martinique.personal](/_personal/\Earth\Continent\America~CaribbeanMartinique.personal.md) 
+
+### [Martinique.secret](/_secret/\Earth\Continent\America~CaribbeanMartinique.secret.md)
+

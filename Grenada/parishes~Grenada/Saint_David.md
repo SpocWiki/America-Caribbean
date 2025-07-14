@@ -40,11 +40,16 @@ markerFolder: ./Saint_David/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Grenada/Counties/Saint_David|Saint_David]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Grenada/Counties/Saint_David.public|Saint_David.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Grenada/Counties/Saint_David.internal|Saint_David.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Grenada/Counties/Saint_David.protect|Saint_David.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Grenada/Counties/Saint_David.private|Saint_David.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Grenada/Counties/Saint_David.personal|Saint_David.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Grenada/Counties/Saint_David.secret|Saint_David.secret]] 
+
+### [Saint_David.public](/_public/\Earth\Continent\America~Caribbean\Grenada\parishes~GrenadaSaint_David.public.md) 
+
+### [Saint_David.internal](/_internal/\Earth\Continent\America~Caribbean\Grenada\parishes~GrenadaSaint_David.internal.md) 
+
+### [Saint_David.protect](/_protect/\Earth\Continent\America~Caribbean\Grenada\parishes~GrenadaSaint_David.protect.md) 
+
+### [Saint_David.private](/_private/\Earth\Continent\America~Caribbean\Grenada\parishes~GrenadaSaint_David.private.md) 
+
+### [Saint_David.personal](/_personal/\Earth\Continent\America~Caribbean\Grenada\parishes~GrenadaSaint_David.personal.md) 
+
+### [Saint_David.secret](/_secret/\Earth\Continent\America~Caribbean\Grenada\parishes~GrenadaSaint_David.secret.md)
 

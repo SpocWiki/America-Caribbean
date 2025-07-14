@@ -40,11 +40,16 @@ markerFolder: ./Monseñor_Nouel/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Monseñor_Nouel|Monseñor_Nouel]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Monseñor_Nouel.public|Monseñor_Nouel.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Monseñor_Nouel.internal|Monseñor_Nouel.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Monseñor_Nouel.protect|Monseñor_Nouel.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Monseñor_Nouel.private|Monseñor_Nouel.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Monseñor_Nouel.personal|Monseñor_Nouel.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Monseñor_Nouel.secret|Monseñor_Nouel.secret]] 
+
+### [Monseñor_Nouel.public](/_public/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepMonseñor_Nouel.public.md) 
+
+### [Monseñor_Nouel.internal](/_internal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepMonseñor_Nouel.internal.md) 
+
+### [Monseñor_Nouel.protect](/_protect/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepMonseñor_Nouel.protect.md) 
+
+### [Monseñor_Nouel.private](/_private/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepMonseñor_Nouel.private.md) 
+
+### [Monseñor_Nouel.personal](/_personal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepMonseñor_Nouel.personal.md) 
+
+### [Monseñor_Nouel.secret](/_secret/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepMonseñor_Nouel.secret.md)
 

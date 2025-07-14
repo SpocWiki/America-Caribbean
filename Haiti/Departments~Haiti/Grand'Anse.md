@@ -40,11 +40,16 @@ markerFolder: ./Grand'Anse/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Haiti/Counties/Grand'Anse|Grand'Anse]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Haiti/Counties/Grand'Anse.public|Grand'Anse.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Haiti/Counties/Grand'Anse.internal|Grand'Anse.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Haiti/Counties/Grand'Anse.protect|Grand'Anse.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Haiti/Counties/Grand'Anse.private|Grand'Anse.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Haiti/Counties/Grand'Anse.personal|Grand'Anse.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Haiti/Counties/Grand'Anse.secret|Grand'Anse.secret]] 
+
+### [Grand'Anse.public](/_public/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiGrand'Anse.public.md) 
+
+### [Grand'Anse.internal](/_internal/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiGrand'Anse.internal.md) 
+
+### [Grand'Anse.protect](/_protect/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiGrand'Anse.protect.md) 
+
+### [Grand'Anse.private](/_private/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiGrand'Anse.private.md) 
+
+### [Grand'Anse.personal](/_personal/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiGrand'Anse.personal.md) 
+
+### [Grand'Anse.secret](/_secret/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiGrand'Anse.secret.md)
 

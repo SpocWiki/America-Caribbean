@@ -40,11 +40,16 @@ markerFolder: ./Nord-Est/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Haiti/Counties/Nord-Est|Nord-Est]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Haiti/Counties/Nord-Est.public|Nord-Est.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Haiti/Counties/Nord-Est.internal|Nord-Est.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Haiti/Counties/Nord-Est.protect|Nord-Est.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Haiti/Counties/Nord-Est.private|Nord-Est.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Haiti/Counties/Nord-Est.personal|Nord-Est.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Haiti/Counties/Nord-Est.secret|Nord-Est.secret]] 
+
+### [Nord-Est.public](/_public/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiNord-Est.public.md) 
+
+### [Nord-Est.internal](/_internal/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiNord-Est.internal.md) 
+
+### [Nord-Est.protect](/_protect/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiNord-Est.protect.md) 
+
+### [Nord-Est.private](/_private/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiNord-Est.private.md) 
+
+### [Nord-Est.personal](/_personal/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiNord-Est.personal.md) 
+
+### [Nord-Est.secret](/_secret/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiNord-Est.secret.md)
 

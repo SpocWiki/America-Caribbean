@@ -40,11 +40,16 @@ markerFolder: ./Isla_de_la_Juventud/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Cuba/Counties/Isla_de_la_Juventud|Isla_de_la_Juventud]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Cuba/Counties/Isla_de_la_Juventud.public|Isla_de_la_Juventud.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Cuba/Counties/Isla_de_la_Juventud.internal|Isla_de_la_Juventud.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Cuba/Counties/Isla_de_la_Juventud.protect|Isla_de_la_Juventud.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Cuba/Counties/Isla_de_la_Juventud.private|Isla_de_la_Juventud.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Cuba/Counties/Isla_de_la_Juventud.personal|Isla_de_la_Juventud.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Cuba/Counties/Isla_de_la_Juventud.secret|Isla_de_la_Juventud.secret]] 
+
+### [Isla_de_la_Juventud.public](/_public/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaIsla_de_la_Juventud.public.md) 
+
+### [Isla_de_la_Juventud.internal](/_internal/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaIsla_de_la_Juventud.internal.md) 
+
+### [Isla_de_la_Juventud.protect](/_protect/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaIsla_de_la_Juventud.protect.md) 
+
+### [Isla_de_la_Juventud.private](/_private/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaIsla_de_la_Juventud.private.md) 
+
+### [Isla_de_la_Juventud.personal](/_personal/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaIsla_de_la_Juventud.personal.md) 
+
+### [Isla_de_la_Juventud.secret](/_secret/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaIsla_de_la_Juventud.secret.md)
 

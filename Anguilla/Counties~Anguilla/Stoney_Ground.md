@@ -40,11 +40,16 @@ markerFolder: ./Stoney_Ground/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Anguilla/Counties/Stoney_Ground|Stoney_Ground]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Anguilla/Counties/Stoney_Ground.public|Stoney_Ground.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Anguilla/Counties/Stoney_Ground.internal|Stoney_Ground.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Anguilla/Counties/Stoney_Ground.protect|Stoney_Ground.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Anguilla/Counties/Stoney_Ground.private|Stoney_Ground.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Anguilla/Counties/Stoney_Ground.personal|Stoney_Ground.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Anguilla/Counties/Stoney_Ground.secret|Stoney_Ground.secret]] 
+
+### [Stoney_Ground.public](/_public/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaStoney_Ground.public.md) 
+
+### [Stoney_Ground.internal](/_internal/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaStoney_Ground.internal.md) 
+
+### [Stoney_Ground.protect](/_protect/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaStoney_Ground.protect.md) 
+
+### [Stoney_Ground.private](/_private/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaStoney_Ground.private.md) 
+
+### [Stoney_Ground.personal](/_personal/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaStoney_Ground.personal.md) 
+
+### [Stoney_Ground.secret](/_secret/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaStoney_Ground.secret.md)
 

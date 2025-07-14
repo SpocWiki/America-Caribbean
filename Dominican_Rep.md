@@ -58,11 +58,17 @@ Capital :: [[Dominican_Rep/Counties/La_Vega/City/Santo_Domingo]]
 > [Wikipedia](https://en.wikipedia.org/wiki/Dominican%20Republic) 
 
 
-
 ## Confidential Links & Embeds: 
-- [[Dominican_Rep|Dominican_Rep]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep.internal|Dominican_Rep.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep.protect|Dominican_Rep.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep.private|Dominican_Rep.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep.personal|Dominican_Rep.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep.secret|Dominican_Rep.secret]] 
+
+### [Dominican_Rep.public](/_public/\Earth\Continent\America~CaribbeanDominican_Rep.public.md) 
+
+### [Dominican_Rep.internal](/_internal/\Earth\Continent\America~CaribbeanDominican_Rep.internal.md) 
+
+### [Dominican_Rep.protect](/_protect/\Earth\Continent\America~CaribbeanDominican_Rep.protect.md) 
+
+### [Dominican_Rep.private](/_private/\Earth\Continent\America~CaribbeanDominican_Rep.private.md) 
+
+### [Dominican_Rep.personal](/_personal/\Earth\Continent\America~CaribbeanDominican_Rep.personal.md) 
+
+### [Dominican_Rep.secret](/_secret/\Earth\Continent\America~CaribbeanDominican_Rep.secret.md)
+

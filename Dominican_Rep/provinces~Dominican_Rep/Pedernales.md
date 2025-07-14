@@ -40,11 +40,16 @@ markerFolder: ./Pedernales/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Pedernales|Pedernales]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Pedernales.public|Pedernales.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Pedernales.internal|Pedernales.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Pedernales.protect|Pedernales.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Pedernales.private|Pedernales.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Pedernales.personal|Pedernales.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Pedernales.secret|Pedernales.secret]] 
+
+### [Pedernales.public](/_public/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepPedernales.public.md) 
+
+### [Pedernales.internal](/_internal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepPedernales.internal.md) 
+
+### [Pedernales.protect](/_protect/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepPedernales.protect.md) 
+
+### [Pedernales.private](/_private/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepPedernales.private.md) 
+
+### [Pedernales.personal](/_personal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepPedernales.personal.md) 
+
+### [Pedernales.secret](/_secret/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepPedernales.secret.md)
 

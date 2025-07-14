@@ -40,11 +40,16 @@ markerFolder: ./Saba/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/_Central/Caribbean~Netherlands/Saba|Saba]] 
-- [[../../../../../../_public/geo/Continent/America~South/_Central/Caribbean~Netherlands/Saba.public|Saba.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/_Central/Caribbean~Netherlands/Saba.internal|Saba.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/_Central/Caribbean~Netherlands/Saba.protect|Saba.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/_Central/Caribbean~Netherlands/Saba.private|Saba.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/_Central/Caribbean~Netherlands/Saba.personal|Saba.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/_Central/Caribbean~Netherlands/Saba.secret|Saba.secret]] 
+
+### [Saba.public](/_public/\Earth\Continent\America~Caribbean\Caribbean_NetherlandsSaba.public.md) 
+
+### [Saba.internal](/_internal/\Earth\Continent\America~Caribbean\Caribbean_NetherlandsSaba.internal.md) 
+
+### [Saba.protect](/_protect/\Earth\Continent\America~Caribbean\Caribbean_NetherlandsSaba.protect.md) 
+
+### [Saba.private](/_private/\Earth\Continent\America~Caribbean\Caribbean_NetherlandsSaba.private.md) 
+
+### [Saba.personal](/_personal/\Earth\Continent\America~Caribbean\Caribbean_NetherlandsSaba.personal.md) 
+
+### [Saba.secret](/_secret/\Earth\Continent\America~Caribbean\Caribbean_NetherlandsSaba.secret.md)
 

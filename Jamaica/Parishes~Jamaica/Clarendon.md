@@ -40,11 +40,16 @@ markerFolder: ./Clarendon/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Jamaica/Counties/Clarendon|Clarendon]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Jamaica/Counties/Clarendon.public|Clarendon.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Jamaica/Counties/Clarendon.internal|Clarendon.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Jamaica/Counties/Clarendon.protect|Clarendon.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Jamaica/Counties/Clarendon.private|Clarendon.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Jamaica/Counties/Clarendon.personal|Clarendon.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Jamaica/Counties/Clarendon.secret|Clarendon.secret]] 
+
+### [Clarendon.public](/_public/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaClarendon.public.md) 
+
+### [Clarendon.internal](/_internal/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaClarendon.internal.md) 
+
+### [Clarendon.protect](/_protect/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaClarendon.protect.md) 
+
+### [Clarendon.private](/_private/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaClarendon.private.md) 
+
+### [Clarendon.personal](/_personal/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaClarendon.personal.md) 
+
+### [Clarendon.secret](/_secret/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaClarendon.secret.md)
 

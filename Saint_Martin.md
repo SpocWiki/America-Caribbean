@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 18.08 , -63.06 ] 
 
 type: Country
@@ -39,11 +39,17 @@ Continent :: [[South-America]]
 [has_place_latitude::] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[Saint_Martin|Saint_Martin]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Saint_Martin.internal|Saint_Martin.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Saint_Martin.protect|Saint_Martin.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Saint_Martin.private|Saint_Martin.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Saint_Martin.personal|Saint_Martin.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Saint_Martin.secret|Saint_Martin.secret]] 
+
+### [Saint_Martin.public](/_public/\Earth\Continent\America~CaribbeanSaint_Martin.public.md) 
+
+### [Saint_Martin.internal](/_internal/\Earth\Continent\America~CaribbeanSaint_Martin.internal.md) 
+
+### [Saint_Martin.protect](/_protect/\Earth\Continent\America~CaribbeanSaint_Martin.protect.md) 
+
+### [Saint_Martin.private](/_private/\Earth\Continent\America~CaribbeanSaint_Martin.private.md) 
+
+### [Saint_Martin.personal](/_personal/\Earth\Continent\America~CaribbeanSaint_Martin.personal.md) 
+
+### [Saint_Martin.secret](/_secret/\Earth\Continent\America~CaribbeanSaint_Martin.secret.md)
+

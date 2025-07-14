@@ -356,3 +356,20 @@ U_S_National_Archives_Identifier: 10044630
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Jamaica)
 
+
+
+
+## Confidential Links & Embeds: 
+
+### [Jamaica.public](/_public/\Earth\Continent\America~CaribbeanJamaica.public.md) 
+
+### [Jamaica.internal](/_internal/\Earth\Continent\America~CaribbeanJamaica.internal.md) 
+
+### [Jamaica.protect](/_protect/\Earth\Continent\America~CaribbeanJamaica.protect.md) 
+
+### [Jamaica.private](/_private/\Earth\Continent\America~CaribbeanJamaica.private.md) 
+
+### [Jamaica.personal](/_personal/\Earth\Continent\America~CaribbeanJamaica.personal.md) 
+
+### [Jamaica.secret](/_secret/\Earth\Continent\America~CaribbeanJamaica.secret.md)
+

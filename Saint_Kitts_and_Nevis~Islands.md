@@ -55,10 +55,18 @@ Continent :: [[South-America]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Saint%20Kitts%20and%20Nevis)
 
+
 ## Confidential Links & Embeds: 
-- [[Saint_Kitts_and_Nevis~Islands|Saint_Kitts_and_Nevis~Islands]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands.internal|Saint_Kitts_and_Nevis~Islands.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands.protect|Saint_Kitts_and_Nevis~Islands.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands.private|Saint_Kitts_and_Nevis~Islands.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands.personal|Saint_Kitts_and_Nevis~Islands.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands.secret|Saint_Kitts_and_Nevis~Islands.secret]] 
+
+### [Saint_Kitts_and_Nevis~Islands.public](/_public/\Earth\Continent\America~CaribbeanSaint_Kitts_and_Nevis~Islands.public.md) 
+
+### [Saint_Kitts_and_Nevis~Islands.internal](/_internal/\Earth\Continent\America~CaribbeanSaint_Kitts_and_Nevis~Islands.internal.md) 
+
+### [Saint_Kitts_and_Nevis~Islands.protect](/_protect/\Earth\Continent\America~CaribbeanSaint_Kitts_and_Nevis~Islands.protect.md) 
+
+### [Saint_Kitts_and_Nevis~Islands.private](/_private/\Earth\Continent\America~CaribbeanSaint_Kitts_and_Nevis~Islands.private.md) 
+
+### [Saint_Kitts_and_Nevis~Islands.personal](/_personal/\Earth\Continent\America~CaribbeanSaint_Kitts_and_Nevis~Islands.personal.md) 
+
+### [Saint_Kitts_and_Nevis~Islands.secret](/_secret/\Earth\Continent\America~CaribbeanSaint_Kitts_and_Nevis~Islands.secret.md)
+

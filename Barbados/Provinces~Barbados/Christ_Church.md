@@ -40,11 +40,16 @@ markerFolder: ./Christ_Church/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Barbados/Counties/Christ_Church|Christ_Church]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Barbados/Counties/Christ_Church.public|Christ_Church.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Barbados/Counties/Christ_Church.internal|Christ_Church.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Barbados/Counties/Christ_Church.protect|Christ_Church.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Barbados/Counties/Christ_Church.private|Christ_Church.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Barbados/Counties/Christ_Church.personal|Christ_Church.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Barbados/Counties/Christ_Church.secret|Christ_Church.secret]] 
+
+### [Christ_Church.public](/_public/\Earth\Continent\America~Caribbean\Barbados\Provinces~BarbadosChrist_Church.public.md) 
+
+### [Christ_Church.internal](/_internal/\Earth\Continent\America~Caribbean\Barbados\Provinces~BarbadosChrist_Church.internal.md) 
+
+### [Christ_Church.protect](/_protect/\Earth\Continent\America~Caribbean\Barbados\Provinces~BarbadosChrist_Church.protect.md) 
+
+### [Christ_Church.private](/_private/\Earth\Continent\America~Caribbean\Barbados\Provinces~BarbadosChrist_Church.private.md) 
+
+### [Christ_Church.personal](/_personal/\Earth\Continent\America~Caribbean\Barbados\Provinces~BarbadosChrist_Church.personal.md) 
+
+### [Christ_Church.secret](/_secret/\Earth\Continent\America~Caribbean\Barbados\Provinces~BarbadosChrist_Church.secret.md)
 

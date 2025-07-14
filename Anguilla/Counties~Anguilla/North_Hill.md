@@ -40,11 +40,16 @@ markerFolder: ./North_Hill/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Anguilla/Counties/North_Hill|North_Hill]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Anguilla/Counties/North_Hill.public|North_Hill.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Anguilla/Counties/North_Hill.internal|North_Hill.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Anguilla/Counties/North_Hill.protect|North_Hill.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Anguilla/Counties/North_Hill.private|North_Hill.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Anguilla/Counties/North_Hill.personal|North_Hill.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Anguilla/Counties/North_Hill.secret|North_Hill.secret]] 
+
+### [North_Hill.public](/_public/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaNorth_Hill.public.md) 
+
+### [North_Hill.internal](/_internal/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaNorth_Hill.internal.md) 
+
+### [North_Hill.protect](/_protect/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaNorth_Hill.protect.md) 
+
+### [North_Hill.private](/_private/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaNorth_Hill.private.md) 
+
+### [North_Hill.personal](/_personal/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaNorth_Hill.personal.md) 
+
+### [North_Hill.secret](/_secret/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaNorth_Hill.secret.md)
 

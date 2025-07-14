@@ -272,10 +272,18 @@ Capital :: [[Bermuda/Counties/Pembroke/City/Hamilton]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bermuda)
 
+
 ## Confidential Links & Embeds: 
-- [[Bermuda|Bermuda]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Bermuda.internal|Bermuda.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Bermuda.protect|Bermuda.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Bermuda.private|Bermuda.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Bermuda.personal|Bermuda.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Bermuda.secret|Bermuda.secret]] 
+
+### [Bermuda.public](/_public/\Earth\Continent\America~CaribbeanBermuda.public.md) 
+
+### [Bermuda.internal](/_internal/\Earth\Continent\America~CaribbeanBermuda.internal.md) 
+
+### [Bermuda.protect](/_protect/\Earth\Continent\America~CaribbeanBermuda.protect.md) 
+
+### [Bermuda.private](/_private/\Earth\Continent\America~CaribbeanBermuda.private.md) 
+
+### [Bermuda.personal](/_personal/\Earth\Continent\America~CaribbeanBermuda.personal.md) 
+
+### [Bermuda.secret](/_secret/\Earth\Continent\America~CaribbeanBermuda.secret.md)
+

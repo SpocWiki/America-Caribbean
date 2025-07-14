@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 12.2 , -69 ] 
 license: CC BY-SA 4.0
 confidential: public
@@ -117,9 +117,16 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 
 
 ## Confidential Links & Embeds: 
-- [[Curacao|Curacao]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Curacao.internal|Curacao.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Curacao.protect|Curacao.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Curacao.private|Curacao.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Curacao.personal|Curacao.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Curacao.secret|Curacao.secret]] 
+
+### [Curacao.public](/_public/\Earth\Continent\America~CaribbeanCuracao.public.md) 
+
+### [Curacao.internal](/_internal/\Earth\Continent\America~CaribbeanCuracao.internal.md) 
+
+### [Curacao.protect](/_protect/\Earth\Continent\America~CaribbeanCuracao.protect.md) 
+
+### [Curacao.private](/_private/\Earth\Continent\America~CaribbeanCuracao.private.md) 
+
+### [Curacao.personal](/_personal/\Earth\Continent\America~CaribbeanCuracao.personal.md) 
+
+### [Curacao.secret](/_secret/\Earth\Continent\America~CaribbeanCuracao.secret.md)
+

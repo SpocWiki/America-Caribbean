@@ -40,11 +40,16 @@ markerFolder: ./South_Hill/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Anguilla/Counties/South_Hill|South_Hill]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Anguilla/Counties/South_Hill.public|South_Hill.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Anguilla/Counties/South_Hill.internal|South_Hill.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Anguilla/Counties/South_Hill.protect|South_Hill.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Anguilla/Counties/South_Hill.private|South_Hill.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Anguilla/Counties/South_Hill.personal|South_Hill.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Anguilla/Counties/South_Hill.secret|South_Hill.secret]] 
+
+### [South_Hill.public](/_public/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaSouth_Hill.public.md) 
+
+### [South_Hill.internal](/_internal/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaSouth_Hill.internal.md) 
+
+### [South_Hill.protect](/_protect/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaSouth_Hill.protect.md) 
+
+### [South_Hill.private](/_private/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaSouth_Hill.private.md) 
+
+### [South_Hill.personal](/_personal/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaSouth_Hill.personal.md) 
+
+### [South_Hill.secret](/_secret/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaSouth_Hill.secret.md)
 

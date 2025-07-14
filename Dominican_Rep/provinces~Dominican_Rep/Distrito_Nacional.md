@@ -40,11 +40,16 @@ markerFolder: ./Distrito_Nacional/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Distrito_Nacional|Distrito_Nacional]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Distrito_Nacional.public|Distrito_Nacional.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Distrito_Nacional.internal|Distrito_Nacional.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Distrito_Nacional.protect|Distrito_Nacional.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Distrito_Nacional.private|Distrito_Nacional.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Distrito_Nacional.personal|Distrito_Nacional.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Distrito_Nacional.secret|Distrito_Nacional.secret]] 
+
+### [Distrito_Nacional.public](/_public/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepDistrito_Nacional.public.md) 
+
+### [Distrito_Nacional.internal](/_internal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepDistrito_Nacional.internal.md) 
+
+### [Distrito_Nacional.protect](/_protect/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepDistrito_Nacional.protect.md) 
+
+### [Distrito_Nacional.private](/_private/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepDistrito_Nacional.private.md) 
+
+### [Distrito_Nacional.personal](/_personal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepDistrito_Nacional.personal.md) 
+
+### [Distrito_Nacional.secret](/_secret/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepDistrito_Nacional.secret.md)
 

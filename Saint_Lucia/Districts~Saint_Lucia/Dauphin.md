@@ -40,11 +40,16 @@ markerFolder: ./Dauphin/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Dauphin|Dauphin]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Dauphin.public|Dauphin.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Dauphin.internal|Dauphin.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Dauphin.protect|Dauphin.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Dauphin.private|Dauphin.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Dauphin.personal|Dauphin.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Dauphin.secret|Dauphin.secret]] 
+
+### [Dauphin.public](/_public/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaDauphin.public.md) 
+
+### [Dauphin.internal](/_internal/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaDauphin.internal.md) 
+
+### [Dauphin.protect](/_protect/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaDauphin.protect.md) 
+
+### [Dauphin.private](/_private/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaDauphin.private.md) 
+
+### [Dauphin.personal](/_personal/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaDauphin.personal.md) 
+
+### [Dauphin.secret](/_secret/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaDauphin.secret.md)
 

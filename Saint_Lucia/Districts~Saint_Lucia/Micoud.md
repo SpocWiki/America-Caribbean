@@ -40,11 +40,16 @@ markerFolder: ./Micoud/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Micoud|Micoud]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Micoud.public|Micoud.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Micoud.internal|Micoud.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Micoud.protect|Micoud.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Micoud.private|Micoud.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Micoud.personal|Micoud.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Micoud.secret|Micoud.secret]] 
+
+### [Micoud.public](/_public/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaMicoud.public.md) 
+
+### [Micoud.internal](/_internal/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaMicoud.internal.md) 
+
+### [Micoud.protect](/_protect/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaMicoud.protect.md) 
+
+### [Micoud.private](/_private/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaMicoud.private.md) 
+
+### [Micoud.personal](/_personal/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaMicoud.personal.md) 
+
+### [Micoud.secret](/_secret/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaMicoud.secret.md)
 

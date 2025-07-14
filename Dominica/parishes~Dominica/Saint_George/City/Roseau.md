@@ -1,4 +1,4 @@
-﻿---
+---
 location: [15.3,-61.38334] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/South-America/Dominica/City/Roseau|Roseau]] 
-- [[../../../../../../_public/geo/Continent/South-America/Dominica/City/Roseau.public|Roseau.public]] 
-- [[../../../../../../_internal/geo/Continent/South-America/Dominica/City/Roseau.internal|Roseau.internal]] 
-- [[../../../../../../_protect/geo/Continent/South-America/Dominica/City/Roseau.protect|Roseau.protect]] 
-- [[../../../../../../_private/geo/Continent/South-America/Dominica/City/Roseau.private|Roseau.private]] 
-- [[../../../../../../_personal/geo/Continent/South-America/Dominica/City/Roseau.personal|Roseau.personal]] 
-- [[../../../../../../_secret/geo/Continent/South-America/Dominica/City/Roseau.secret|Roseau.secret]] 
+
+### [Roseau.public](/_public/\Earth\Continent\America~Caribbean\Dominica\parishes~Dominica\Saint_George\CityRoseau.public.md) 
+
+### [Roseau.internal](/_internal/\Earth\Continent\America~Caribbean\Dominica\parishes~Dominica\Saint_George\CityRoseau.internal.md) 
+
+### [Roseau.protect](/_protect/\Earth\Continent\America~Caribbean\Dominica\parishes~Dominica\Saint_George\CityRoseau.protect.md) 
+
+### [Roseau.private](/_private/\Earth\Continent\America~Caribbean\Dominica\parishes~Dominica\Saint_George\CityRoseau.private.md) 
+
+### [Roseau.personal](/_personal/\Earth\Continent\America~Caribbean\Dominica\parishes~Dominica\Saint_George\CityRoseau.personal.md) 
+
+### [Roseau.secret](/_secret/\Earth\Continent\America~Caribbean\Dominica\parishes~Dominica\Saint_George\CityRoseau.secret.md)
+

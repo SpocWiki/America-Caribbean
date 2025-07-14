@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 19.2833
 - -81.3667
@@ -125,11 +125,17 @@ Capital :: [[Cayman~Islands/City/George_Town]]
 [has_place_latitude::19.2833] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[Cayman~Islands|Cayman~Islands]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Cayman~Islands.internal|Cayman~Islands.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Cayman~Islands.protect|Cayman~Islands.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Cayman~Islands.private|Cayman~Islands.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Cayman~Islands.personal|Cayman~Islands.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Cayman~Islands.secret|Cayman~Islands.secret]] 
+
+### [Cayman~Islands.public](/_public/\Earth\Continent\America~CaribbeanCayman~Islands.public.md) 
+
+### [Cayman~Islands.internal](/_internal/\Earth\Continent\America~CaribbeanCayman~Islands.internal.md) 
+
+### [Cayman~Islands.protect](/_protect/\Earth\Continent\America~CaribbeanCayman~Islands.protect.md) 
+
+### [Cayman~Islands.private](/_private/\Earth\Continent\America~CaribbeanCayman~Islands.private.md) 
+
+### [Cayman~Islands.personal](/_personal/\Earth\Continent\America~CaribbeanCayman~Islands.personal.md) 
+
+### [Cayman~Islands.secret](/_secret/\Earth\Continent\America~CaribbeanCayman~Islands.secret.md)
+

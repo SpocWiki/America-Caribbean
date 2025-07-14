@@ -40,11 +40,16 @@ markerFolder: ./Praslin/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Praslin|Praslin]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Praslin.public|Praslin.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Praslin.internal|Praslin.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Praslin.protect|Praslin.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Praslin.private|Praslin.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Praslin.personal|Praslin.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Saint_Lucia/Counties/Praslin.secret|Praslin.secret]] 
+
+### [Praslin.public](/_public/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaPraslin.public.md) 
+
+### [Praslin.internal](/_internal/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaPraslin.internal.md) 
+
+### [Praslin.protect](/_protect/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaPraslin.protect.md) 
+
+### [Praslin.private](/_private/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaPraslin.private.md) 
+
+### [Praslin.personal](/_personal/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaPraslin.personal.md) 
+
+### [Praslin.secret](/_secret/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_LuciaPraslin.secret.md)
 

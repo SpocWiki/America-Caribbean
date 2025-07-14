@@ -40,11 +40,16 @@ markerFolder: ./Bonaire/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/_Central/Caribbean~Netherlands/Bonaire|Bonaire]] 
-- [[../../../../../../_public/geo/Continent/America~South/_Central/Caribbean~Netherlands/Bonaire.public|Bonaire.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/_Central/Caribbean~Netherlands/Bonaire.internal|Bonaire.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/_Central/Caribbean~Netherlands/Bonaire.protect|Bonaire.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/_Central/Caribbean~Netherlands/Bonaire.private|Bonaire.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/_Central/Caribbean~Netherlands/Bonaire.personal|Bonaire.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/_Central/Caribbean~Netherlands/Bonaire.secret|Bonaire.secret]] 
+
+### [Bonaire.public](/_public/\Earth\Continent\America~Caribbean\Caribbean_NetherlandsBonaire.public.md) 
+
+### [Bonaire.internal](/_internal/\Earth\Continent\America~Caribbean\Caribbean_NetherlandsBonaire.internal.md) 
+
+### [Bonaire.protect](/_protect/\Earth\Continent\America~Caribbean\Caribbean_NetherlandsBonaire.protect.md) 
+
+### [Bonaire.private](/_private/\Earth\Continent\America~Caribbean\Caribbean_NetherlandsBonaire.private.md) 
+
+### [Bonaire.personal](/_personal/\Earth\Continent\America~Caribbean\Caribbean_NetherlandsBonaire.personal.md) 
+
+### [Bonaire.secret](/_secret/\Earth\Continent\America~Caribbean\Caribbean_NetherlandsBonaire.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Santiago_Rodríguez/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Santiago_Rodríguez|Santiago_Rodríguez]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Santiago_Rodríguez.public|Santiago_Rodríguez.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Santiago_Rodríguez.internal|Santiago_Rodríguez.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Santiago_Rodríguez.protect|Santiago_Rodríguez.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Santiago_Rodríguez.private|Santiago_Rodríguez.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Santiago_Rodríguez.personal|Santiago_Rodríguez.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Santiago_Rodríguez.secret|Santiago_Rodríguez.secret]] 
+
+### [Santiago_Rodríguez.public](/_public/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepSantiago_Rodríguez.public.md) 
+
+### [Santiago_Rodríguez.internal](/_internal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepSantiago_Rodríguez.internal.md) 
+
+### [Santiago_Rodríguez.protect](/_protect/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepSantiago_Rodríguez.protect.md) 
+
+### [Santiago_Rodríguez.private](/_private/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepSantiago_Rodríguez.private.md) 
+
+### [Santiago_Rodríguez.personal](/_personal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepSantiago_Rodríguez.personal.md) 
+
+### [Santiago_Rodríguez.secret](/_secret/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepSantiago_Rodríguez.secret.md)
 

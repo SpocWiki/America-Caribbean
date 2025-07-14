@@ -1,4 +1,4 @@
-﻿---
+---
 location: [13,-59.53333] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,9 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[Bridgetown|Bridgetown]]  
-- [[../../../../../../_internal/geo/Continent/South-America/Barbados/City/Bridgetown.internal|Bridgetown.internal]] 
-- [[../../../../../../_protect/geo/Continent/South-America/Barbados/City/Bridgetown.protect|Bridgetown.protect]] 
-- [[../../../../../../_private/geo/Continent/South-America/Barbados/City/Bridgetown.private|Bridgetown.private]] 
-- [[../../../../../../_personal/geo/Continent/South-America/Barbados/City/Bridgetown.personal|Bridgetown.personal]] 
-- [[../../../../../../_secret/geo/Continent/South-America/Barbados/City/Bridgetown.secret|Bridgetown.secret]] 
+
+### [Bridgetown.public](/_public/\Earth\Continent\America~Caribbean\Barbados\CityBridgetown.public.md) 
+
+### [Bridgetown.internal](/_internal/\Earth\Continent\America~Caribbean\Barbados\CityBridgetown.internal.md) 
+
+### [Bridgetown.protect](/_protect/\Earth\Continent\America~Caribbean\Barbados\CityBridgetown.protect.md) 
+
+### [Bridgetown.private](/_private/\Earth\Continent\America~Caribbean\Barbados\CityBridgetown.private.md) 
+
+### [Bridgetown.personal](/_personal/\Earth\Continent\America~Caribbean\Barbados\CityBridgetown.personal.md) 
+
+### [Bridgetown.secret](/_secret/\Earth\Continent\America~Caribbean\Barbados\CityBridgetown.secret.md)
+

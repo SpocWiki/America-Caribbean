@@ -40,11 +40,16 @@ markerFolder: ./Nippes/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Haiti/Counties/Nippes|Nippes]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Haiti/Counties/Nippes.public|Nippes.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Haiti/Counties/Nippes.internal|Nippes.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Haiti/Counties/Nippes.protect|Nippes.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Haiti/Counties/Nippes.private|Nippes.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Haiti/Counties/Nippes.personal|Nippes.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Haiti/Counties/Nippes.secret|Nippes.secret]] 
+
+### [Nippes.public](/_public/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiNippes.public.md) 
+
+### [Nippes.internal](/_internal/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiNippes.internal.md) 
+
+### [Nippes.protect](/_protect/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiNippes.protect.md) 
+
+### [Nippes.private](/_private/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiNippes.private.md) 
+
+### [Nippes.personal](/_personal/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiNippes.personal.md) 
+
+### [Nippes.secret](/_secret/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiNippes.secret.md)
 

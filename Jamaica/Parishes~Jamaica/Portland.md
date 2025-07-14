@@ -40,11 +40,16 @@ markerFolder: ./Portland/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Jamaica/Counties/Portland|Portland]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Jamaica/Counties/Portland.public|Portland.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Jamaica/Counties/Portland.internal|Portland.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Jamaica/Counties/Portland.protect|Portland.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Jamaica/Counties/Portland.private|Portland.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Jamaica/Counties/Portland.personal|Portland.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Jamaica/Counties/Portland.secret|Portland.secret]] 
+
+### [Portland.public](/_public/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaPortland.public.md) 
+
+### [Portland.internal](/_internal/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaPortland.internal.md) 
+
+### [Portland.protect](/_protect/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaPortland.protect.md) 
+
+### [Portland.private](/_private/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaPortland.private.md) 
+
+### [Portland.personal](/_personal/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaPortland.personal.md) 
+
+### [Portland.secret](/_secret/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaPortland.secret.md)
 

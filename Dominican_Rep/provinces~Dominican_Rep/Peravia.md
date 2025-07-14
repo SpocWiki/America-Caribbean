@@ -40,11 +40,16 @@ markerFolder: ./Peravia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Peravia|Peravia]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Peravia.public|Peravia.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Peravia.internal|Peravia.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Peravia.protect|Peravia.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Peravia.private|Peravia.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Peravia.personal|Peravia.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Peravia.secret|Peravia.secret]] 
+
+### [Peravia.public](/_public/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepPeravia.public.md) 
+
+### [Peravia.internal](/_internal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepPeravia.internal.md) 
+
+### [Peravia.protect](/_protect/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepPeravia.protect.md) 
+
+### [Peravia.private](/_private/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepPeravia.private.md) 
+
+### [Peravia.personal](/_personal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepPeravia.personal.md) 
+
+### [Peravia.secret](/_secret/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepPeravia.secret.md)
 

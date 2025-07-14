@@ -40,11 +40,16 @@ markerFolder: ./Centre/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Haiti/Counties/Centre|Centre]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Haiti/Counties/Centre.public|Centre.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Haiti/Counties/Centre.internal|Centre.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Haiti/Counties/Centre.protect|Centre.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Haiti/Counties/Centre.private|Centre.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Haiti/Counties/Centre.personal|Centre.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Haiti/Counties/Centre.secret|Centre.secret]] 
+
+### [Centre.public](/_public/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiCentre.public.md) 
+
+### [Centre.internal](/_internal/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiCentre.internal.md) 
+
+### [Centre.protect](/_protect/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiCentre.protect.md) 
+
+### [Centre.private](/_private/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiCentre.private.md) 
+
+### [Centre.personal](/_personal/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiCentre.personal.md) 
+
+### [Centre.secret](/_secret/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiCentre.secret.md)
 

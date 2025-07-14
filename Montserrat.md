@@ -129,11 +129,17 @@ Capital :: [[Montserrat/Counties/Saint_Peter/City/Brades]]
 [has_place_latitude::16.75] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[Montserrat|Montserrat]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Montserrat.internal|Montserrat.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Montserrat.protect|Montserrat.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Montserrat.private|Montserrat.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Montserrat.personal|Montserrat.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Montserrat.secret|Montserrat.secret]] 
+
+### [Montserrat.public](/_public/\Earth\Continent\America~CaribbeanMontserrat.public.md) 
+
+### [Montserrat.internal](/_internal/\Earth\Continent\America~CaribbeanMontserrat.internal.md) 
+
+### [Montserrat.protect](/_protect/\Earth\Continent\America~CaribbeanMontserrat.protect.md) 
+
+### [Montserrat.private](/_private/\Earth\Continent\America~CaribbeanMontserrat.private.md) 
+
+### [Montserrat.personal](/_personal/\Earth\Continent\America~CaribbeanMontserrat.personal.md) 
+
+### [Montserrat.secret](/_secret/\Earth\Continent\America~CaribbeanMontserrat.secret.md)
+

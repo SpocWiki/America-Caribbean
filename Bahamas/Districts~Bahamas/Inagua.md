@@ -40,11 +40,16 @@ markerFolder: ./Inagua/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Bahamas/Counties/Inagua|Inagua]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Bahamas/Counties/Inagua.public|Inagua.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/Inagua.internal|Inagua.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/Inagua.protect|Inagua.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/Inagua.private|Inagua.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/Inagua.personal|Inagua.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/Inagua.secret|Inagua.secret]] 
+
+### [Inagua.public](/_public/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasInagua.public.md) 
+
+### [Inagua.internal](/_internal/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasInagua.internal.md) 
+
+### [Inagua.protect](/_protect/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasInagua.protect.md) 
+
+### [Inagua.private](/_private/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasInagua.private.md) 
+
+### [Inagua.personal](/_personal/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasInagua.personal.md) 
+
+### [Inagua.secret](/_secret/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasInagua.secret.md)
 

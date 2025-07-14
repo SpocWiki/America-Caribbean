@@ -40,11 +40,16 @@ markerFolder: ./Saint_Andrew/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Saint_Andrew|Saint_Andrew]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Saint_Andrew.public|Saint_Andrew.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Saint_Andrew.internal|Saint_Andrew.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Saint_Andrew.protect|Saint_Andrew.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Saint_Andrew.private|Saint_Andrew.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Saint_Andrew.personal|Saint_Andrew.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Saint_Andrew.secret|Saint_Andrew.secret]] 
+
+### [Saint_Andrew.public](/_public/\Earth\Continent\America~Caribbean\Saint_Vincent_and_Grenadines\CountiesSaint_Andrew.public.md) 
+
+### [Saint_Andrew.internal](/_internal/\Earth\Continent\America~Caribbean\Saint_Vincent_and_Grenadines\CountiesSaint_Andrew.internal.md) 
+
+### [Saint_Andrew.protect](/_protect/\Earth\Continent\America~Caribbean\Saint_Vincent_and_Grenadines\CountiesSaint_Andrew.protect.md) 
+
+### [Saint_Andrew.private](/_private/\Earth\Continent\America~Caribbean\Saint_Vincent_and_Grenadines\CountiesSaint_Andrew.private.md) 
+
+### [Saint_Andrew.personal](/_personal/\Earth\Continent\America~Caribbean\Saint_Vincent_and_Grenadines\CountiesSaint_Andrew.personal.md) 
+
+### [Saint_Andrew.secret](/_secret/\Earth\Continent\America~Caribbean\Saint_Vincent_and_Grenadines\CountiesSaint_Andrew.secret.md)
 

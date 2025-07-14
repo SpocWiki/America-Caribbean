@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/South-America/Trinidad_and_Tobago~Islands/City/Port_of_Spain|Port_of_Spain]] 
-- [[../../../../../../_public/geo/Continent/South-America/Trinidad_and_Tobago~Islands/City/Port_of_Spain.public|Port_of_Spain.public]] 
-- [[../../../../../../_internal/geo/Continent/South-America/Trinidad_and_Tobago~Islands/City/Port_of_Spain.internal|Port_of_Spain.internal]] 
-- [[../../../../../../_protect/geo/Continent/South-America/Trinidad_and_Tobago~Islands/City/Port_of_Spain.protect|Port_of_Spain.protect]] 
-- [[../../../../../../_private/geo/Continent/South-America/Trinidad_and_Tobago~Islands/City/Port_of_Spain.private|Port_of_Spain.private]] 
-- [[../../../../../../_personal/geo/Continent/South-America/Trinidad_and_Tobago~Islands/City/Port_of_Spain.personal|Port_of_Spain.personal]] 
-- [[../../../../../../_secret/geo/Continent/South-America/Trinidad_and_Tobago~Islands/City/Port_of_Spain.secret|Port_of_Spain.secret]] 
+
+### [Port_of_Spain.public](/_public/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-Tobago\Port_of_Spain\CityPort_of_Spain.public.md) 
+
+### [Port_of_Spain.internal](/_internal/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-Tobago\Port_of_Spain\CityPort_of_Spain.internal.md) 
+
+### [Port_of_Spain.protect](/_protect/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-Tobago\Port_of_Spain\CityPort_of_Spain.protect.md) 
+
+### [Port_of_Spain.private](/_private/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-Tobago\Port_of_Spain\CityPort_of_Spain.private.md) 
+
+### [Port_of_Spain.personal](/_personal/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-Tobago\Port_of_Spain\CityPort_of_Spain.personal.md) 
+
+### [Port_of_Spain.secret](/_secret/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-Tobago\Port_of_Spain\CityPort_of_Spain.secret.md)
+

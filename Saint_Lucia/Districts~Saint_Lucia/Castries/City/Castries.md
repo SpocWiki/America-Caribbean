@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/South-America/Saint_Lucia/City/Castries|Castries]] 
-- [[../../../../../../_public/geo/Continent/South-America/Saint_Lucia/City/Castries.public|Castries.public]] 
-- [[../../../../../../_internal/geo/Continent/South-America/Saint_Lucia/City/Castries.internal|Castries.internal]] 
-- [[../../../../../../_protect/geo/Continent/South-America/Saint_Lucia/City/Castries.protect|Castries.protect]] 
-- [[../../../../../../_private/geo/Continent/South-America/Saint_Lucia/City/Castries.private|Castries.private]] 
-- [[../../../../../../_personal/geo/Continent/South-America/Saint_Lucia/City/Castries.personal|Castries.personal]] 
-- [[../../../../../../_secret/geo/Continent/South-America/Saint_Lucia/City/Castries.secret|Castries.secret]] 
+
+### [Castries.public](/_public/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_Lucia\Castries\CityCastries.public.md) 
+
+### [Castries.internal](/_internal/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_Lucia\Castries\CityCastries.internal.md) 
+
+### [Castries.protect](/_protect/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_Lucia\Castries\CityCastries.protect.md) 
+
+### [Castries.private](/_private/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_Lucia\Castries\CityCastries.private.md) 
+
+### [Castries.personal](/_personal/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_Lucia\Castries\CityCastries.personal.md) 
+
+### [Castries.secret](/_secret/\Earth\Continent\America~Caribbean\Saint_Lucia\Districts~Saint_Lucia\Castries\CityCastries.secret.md)
+

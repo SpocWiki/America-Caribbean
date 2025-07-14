@@ -40,11 +40,16 @@ markerFolder: ./Rio_Claro-Mayaro/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Rio_Claro-Mayaro|Rio_Claro-Mayaro]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Rio_Claro-Mayaro.public|Rio_Claro-Mayaro.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Rio_Claro-Mayaro.internal|Rio_Claro-Mayaro.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Rio_Claro-Mayaro.protect|Rio_Claro-Mayaro.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Rio_Claro-Mayaro.private|Rio_Claro-Mayaro.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Rio_Claro-Mayaro.personal|Rio_Claro-Mayaro.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Counties/Rio_Claro-Mayaro.secret|Rio_Claro-Mayaro.secret]] 
+
+### [Rio_Claro-Mayaro.public](/_public/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoRio_Claro-Mayaro.public.md) 
+
+### [Rio_Claro-Mayaro.internal](/_internal/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoRio_Claro-Mayaro.internal.md) 
+
+### [Rio_Claro-Mayaro.protect](/_protect/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoRio_Claro-Mayaro.protect.md) 
+
+### [Rio_Claro-Mayaro.private](/_private/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoRio_Claro-Mayaro.private.md) 
+
+### [Rio_Claro-Mayaro.personal](/_personal/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoRio_Claro-Mayaro.personal.md) 
+
+### [Rio_Claro-Mayaro.secret](/_secret/\Earth\Continent\America~Caribbean\Trinidad_and_Tobago~Islands\Regions~Trinidad-TobagoRio_Claro-Mayaro.secret.md)
 

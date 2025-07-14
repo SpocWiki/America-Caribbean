@@ -40,11 +40,16 @@ markerFolder: ./St._Eustatius/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~South/_Central/Caribbean~Netherlands/St._Eustatius|St._Eustatius]] 
-- [[../../../../../../_public/geo/Continent/America~South/_Central/Caribbean~Netherlands/St._Eustatius.public|St._Eustatius.public]] 
-- [[../../../../../../_internal/geo/Continent/America~South/_Central/Caribbean~Netherlands/St._Eustatius.internal|St._Eustatius.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~South/_Central/Caribbean~Netherlands/St._Eustatius.protect|St._Eustatius.protect]] 
-- [[../../../../../../_private/geo/Continent/America~South/_Central/Caribbean~Netherlands/St._Eustatius.private|St._Eustatius.private]] 
-- [[../../../../../../_personal/geo/Continent/America~South/_Central/Caribbean~Netherlands/St._Eustatius.personal|St._Eustatius.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~South/_Central/Caribbean~Netherlands/St._Eustatius.secret|St._Eustatius.secret]] 
+
+### [Saint_Eustatius.public](/_public/\Earth\Continent\America~Caribbean\Caribbean_NetherlandsSaint_Eustatius.public.md) 
+
+### [Saint_Eustatius.internal](/_internal/\Earth\Continent\America~Caribbean\Caribbean_NetherlandsSaint_Eustatius.internal.md) 
+
+### [Saint_Eustatius.protect](/_protect/\Earth\Continent\America~Caribbean\Caribbean_NetherlandsSaint_Eustatius.protect.md) 
+
+### [Saint_Eustatius.private](/_private/\Earth\Continent\America~Caribbean\Caribbean_NetherlandsSaint_Eustatius.private.md) 
+
+### [Saint_Eustatius.personal](/_personal/\Earth\Continent\America~Caribbean\Caribbean_NetherlandsSaint_Eustatius.personal.md) 
+
+### [Saint_Eustatius.secret](/_secret/\Earth\Continent\America~Caribbean\Caribbean_NetherlandsSaint_Eustatius.secret.md)
 

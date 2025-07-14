@@ -40,11 +40,16 @@ markerFolder: ./City_of_Freeport/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Bahamas/Counties/City_of_Freeport|City_of_Freeport]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Bahamas/Counties/City_of_Freeport.public|City_of_Freeport.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/City_of_Freeport.internal|City_of_Freeport.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/City_of_Freeport.protect|City_of_Freeport.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/City_of_Freeport.private|City_of_Freeport.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/City_of_Freeport.personal|City_of_Freeport.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/City_of_Freeport.secret|City_of_Freeport.secret]] 
+
+### [City_of_Freeport.public](/_public/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasCity_of_Freeport.public.md) 
+
+### [City_of_Freeport.internal](/_internal/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasCity_of_Freeport.internal.md) 
+
+### [City_of_Freeport.protect](/_protect/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasCity_of_Freeport.protect.md) 
+
+### [City_of_Freeport.private](/_private/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasCity_of_Freeport.private.md) 
+
+### [City_of_Freeport.personal](/_personal/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasCity_of_Freeport.personal.md) 
+
+### [City_of_Freeport.secret](/_secret/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasCity_of_Freeport.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Espaillat/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Espaillat|Espaillat]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Espaillat.public|Espaillat.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Espaillat.internal|Espaillat.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Espaillat.protect|Espaillat.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Espaillat.private|Espaillat.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Espaillat.personal|Espaillat.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Espaillat.secret|Espaillat.secret]] 
+
+### [Espaillat.public](/_public/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepEspaillat.public.md) 
+
+### [Espaillat.internal](/_internal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepEspaillat.internal.md) 
+
+### [Espaillat.protect](/_protect/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepEspaillat.protect.md) 
+
+### [Espaillat.private](/_private/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepEspaillat.private.md) 
+
+### [Espaillat.personal](/_personal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepEspaillat.personal.md) 
+
+### [Espaillat.secret](/_secret/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepEspaillat.secret.md)
 

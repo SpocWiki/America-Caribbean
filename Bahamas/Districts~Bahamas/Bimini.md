@@ -40,11 +40,16 @@ markerFolder: ./Bimini/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Bahamas/Counties/Bimini|Bimini]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Bahamas/Counties/Bimini.public|Bimini.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/Bimini.internal|Bimini.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/Bimini.protect|Bimini.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/Bimini.private|Bimini.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/Bimini.personal|Bimini.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/Bimini.secret|Bimini.secret]] 
+
+### [Bimini.public](/_public/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasBimini.public.md) 
+
+### [Bimini.internal](/_internal/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasBimini.internal.md) 
+
+### [Bimini.protect](/_protect/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasBimini.protect.md) 
+
+### [Bimini.private](/_private/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasBimini.private.md) 
+
+### [Bimini.personal](/_personal/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasBimini.personal.md) 
+
+### [Bimini.secret](/_secret/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasBimini.secret.md)
 

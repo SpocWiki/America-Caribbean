@@ -40,11 +40,16 @@ markerFolder: ./Moore's_Island/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Bahamas/Counties/Moore's_Island|Moore's_Island]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Bahamas/Counties/Moore's_Island.public|Moore's_Island.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/Moore's_Island.internal|Moore's_Island.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/Moore's_Island.protect|Moore's_Island.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/Moore's_Island.private|Moore's_Island.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/Moore's_Island.personal|Moore's_Island.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/Moore's_Island.secret|Moore's_Island.secret]] 
+
+### [Moore's_Island.public](/_public/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasMoore's_Island.public.md) 
+
+### [Moore's_Island.internal](/_internal/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasMoore's_Island.internal.md) 
+
+### [Moore's_Island.protect](/_protect/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasMoore's_Island.protect.md) 
+
+### [Moore's_Island.private](/_private/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasMoore's_Island.private.md) 
+
+### [Moore's_Island.personal](/_personal/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasMoore's_Island.personal.md) 
+
+### [Moore's_Island.secret](/_secret/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasMoore's_Island.secret.md)
 

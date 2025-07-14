@@ -384,10 +384,18 @@ Capital :: [[Grenada/City/St._George’s]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Grenada)
 
+
 ## Confidential Links & Embeds: 
-- [[Grenada|Grenada]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Grenada.internal|Grenada.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Grenada.protect|Grenada.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Grenada.private|Grenada.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Grenada.personal|Grenada.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Grenada.secret|Grenada.secret]] 
+
+### [Grenada.public](/_public/\Earth\Continent\America~CaribbeanGrenada.public.md) 
+
+### [Grenada.internal](/_internal/\Earth\Continent\America~CaribbeanGrenada.internal.md) 
+
+### [Grenada.protect](/_protect/\Earth\Continent\America~CaribbeanGrenada.protect.md) 
+
+### [Grenada.private](/_private/\Earth\Continent\America~CaribbeanGrenada.private.md) 
+
+### [Grenada.personal](/_personal/\Earth\Continent\America~CaribbeanGrenada.personal.md) 
+
+### [Grenada.secret](/_secret/\Earth\Continent\America~CaribbeanGrenada.secret.md)
+

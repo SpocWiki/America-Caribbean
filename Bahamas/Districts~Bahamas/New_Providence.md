@@ -40,11 +40,16 @@ markerFolder: ./New_Providence/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Bahamas/Counties/New_Providence|New_Providence]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Bahamas/Counties/New_Providence.public|New_Providence.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/New_Providence.internal|New_Providence.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/New_Providence.protect|New_Providence.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/New_Providence.private|New_Providence.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/New_Providence.personal|New_Providence.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/New_Providence.secret|New_Providence.secret]] 
+
+### [New_Providence.public](/_public/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasNew_Providence.public.md) 
+
+### [New_Providence.internal](/_internal/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasNew_Providence.internal.md) 
+
+### [New_Providence.protect](/_protect/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasNew_Providence.protect.md) 
+
+### [New_Providence.private](/_private/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasNew_Providence.private.md) 
+
+### [New_Providence.personal](/_personal/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasNew_Providence.personal.md) 
+
+### [New_Providence.secret](/_secret/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasNew_Providence.secret.md)
 

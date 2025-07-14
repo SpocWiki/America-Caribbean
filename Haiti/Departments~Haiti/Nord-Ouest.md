@@ -40,11 +40,16 @@ markerFolder: ./Nord-Ouest/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Haiti/Counties/Nord-Ouest|Nord-Ouest]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Haiti/Counties/Nord-Ouest.public|Nord-Ouest.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Haiti/Counties/Nord-Ouest.internal|Nord-Ouest.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Haiti/Counties/Nord-Ouest.protect|Nord-Ouest.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Haiti/Counties/Nord-Ouest.private|Nord-Ouest.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Haiti/Counties/Nord-Ouest.personal|Nord-Ouest.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Haiti/Counties/Nord-Ouest.secret|Nord-Ouest.secret]] 
+
+### [Nord-Ouest.public](/_public/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiNord-Ouest.public.md) 
+
+### [Nord-Ouest.internal](/_internal/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiNord-Ouest.internal.md) 
+
+### [Nord-Ouest.protect](/_protect/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiNord-Ouest.protect.md) 
+
+### [Nord-Ouest.private](/_private/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiNord-Ouest.private.md) 
+
+### [Nord-Ouest.personal](/_personal/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiNord-Ouest.personal.md) 
+
+### [Nord-Ouest.secret](/_secret/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiNord-Ouest.secret.md)
 

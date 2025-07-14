@@ -40,11 +40,16 @@ markerFolder: ./Saint_John_Figtree/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_John_Figtree|Saint_John_Figtree]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_John_Figtree.public|Saint_John_Figtree.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_John_Figtree.internal|Saint_John_Figtree.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_John_Figtree.protect|Saint_John_Figtree.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_John_Figtree.private|Saint_John_Figtree.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_John_Figtree.personal|Saint_John_Figtree.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_John_Figtree.secret|Saint_John_Figtree.secret]] 
+
+### [Saint_John_Figtree.public](/_public/\Earth\Continent\America~Caribbean\Saint_Kitts_and_Nevis~Islands\parishes~Saint_Kitts_and_NevisSaint_John_Figtree.public.md) 
+
+### [Saint_John_Figtree.internal](/_internal/\Earth\Continent\America~Caribbean\Saint_Kitts_and_Nevis~Islands\parishes~Saint_Kitts_and_NevisSaint_John_Figtree.internal.md) 
+
+### [Saint_John_Figtree.protect](/_protect/\Earth\Continent\America~Caribbean\Saint_Kitts_and_Nevis~Islands\parishes~Saint_Kitts_and_NevisSaint_John_Figtree.protect.md) 
+
+### [Saint_John_Figtree.private](/_private/\Earth\Continent\America~Caribbean\Saint_Kitts_and_Nevis~Islands\parishes~Saint_Kitts_and_NevisSaint_John_Figtree.private.md) 
+
+### [Saint_John_Figtree.personal](/_personal/\Earth\Continent\America~Caribbean\Saint_Kitts_and_Nevis~Islands\parishes~Saint_Kitts_and_NevisSaint_John_Figtree.personal.md) 
+
+### [Saint_John_Figtree.secret](/_secret/\Earth\Continent\America~Caribbean\Saint_Kitts_and_Nevis~Islands\parishes~Saint_Kitts_and_NevisSaint_John_Figtree.secret.md)
 

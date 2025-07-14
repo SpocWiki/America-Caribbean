@@ -40,11 +40,16 @@ markerFolder: ./Barahona/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Barahona|Barahona]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Barahona.public|Barahona.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Barahona.internal|Barahona.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Barahona.protect|Barahona.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Barahona.private|Barahona.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Barahona.personal|Barahona.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Barahona.secret|Barahona.secret]] 
+
+### [Barahona.public](/_public/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepBarahona.public.md) 
+
+### [Barahona.internal](/_internal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepBarahona.internal.md) 
+
+### [Barahona.protect](/_protect/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepBarahona.protect.md) 
+
+### [Barahona.private](/_private/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepBarahona.private.md) 
+
+### [Barahona.personal](/_personal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepBarahona.personal.md) 
+
+### [Barahona.secret](/_secret/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepBarahona.secret.md)
 

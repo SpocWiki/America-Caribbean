@@ -416,9 +416,16 @@ Capital :: [[Barbados/City/Bridgetown]]
 
 
 ## Confidential Links & Embeds: 
-- [[Barbados|Barbados]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Barbados.internal|Barbados.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Barbados.protect|Barbados.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Barbados.private|Barbados.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Barbados.personal|Barbados.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Barbados.secret|Barbados.secret]] 
+
+### [Barbados.public](/_public/\Earth\Continent\America~CaribbeanBarbados.public.md) 
+
+### [Barbados.internal](/_internal/\Earth\Continent\America~CaribbeanBarbados.internal.md) 
+
+### [Barbados.protect](/_protect/\Earth\Continent\America~CaribbeanBarbados.protect.md) 
+
+### [Barbados.private](/_private/\Earth\Continent\America~CaribbeanBarbados.private.md) 
+
+### [Barbados.personal](/_personal/\Earth\Continent\America~CaribbeanBarbados.personal.md) 
+
+### [Barbados.secret](/_secret/\Earth\Continent\America~CaribbeanBarbados.secret.md)
+

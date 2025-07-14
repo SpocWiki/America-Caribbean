@@ -40,11 +40,16 @@ markerFolder: ./Saint_Thomas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Thomas|Saint_Thomas]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Thomas.public|Saint_Thomas.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Thomas.internal|Saint_Thomas.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Thomas.protect|Saint_Thomas.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Thomas.private|Saint_Thomas.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Thomas.personal|Saint_Thomas.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Barbados/Counties/Saint_Thomas.secret|Saint_Thomas.secret]] 
+
+### [Saint_Thomas.public](/_public/\Earth\Continent\America~Caribbean\Barbados\Provinces~BarbadosSaint_Thomas.public.md) 
+
+### [Saint_Thomas.internal](/_internal/\Earth\Continent\America~Caribbean\Barbados\Provinces~BarbadosSaint_Thomas.internal.md) 
+
+### [Saint_Thomas.protect](/_protect/\Earth\Continent\America~Caribbean\Barbados\Provinces~BarbadosSaint_Thomas.protect.md) 
+
+### [Saint_Thomas.private](/_private/\Earth\Continent\America~Caribbean\Barbados\Provinces~BarbadosSaint_Thomas.private.md) 
+
+### [Saint_Thomas.personal](/_personal/\Earth\Continent\America~Caribbean\Barbados\Provinces~BarbadosSaint_Thomas.personal.md) 
+
+### [Saint_Thomas.secret](/_secret/\Earth\Continent\America~Caribbean\Barbados\Provinces~BarbadosSaint_Thomas.secret.md)
 

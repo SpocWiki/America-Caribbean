@@ -40,11 +40,16 @@ markerFolder: ./North_Andros/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Bahamas/Counties/North_Andros|North_Andros]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Bahamas/Counties/North_Andros.public|North_Andros.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/North_Andros.internal|North_Andros.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/North_Andros.protect|North_Andros.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/North_Andros.private|North_Andros.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/North_Andros.personal|North_Andros.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/North_Andros.secret|North_Andros.secret]] 
+
+### [North_Andros.public](/_public/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasNorth_Andros.public.md) 
+
+### [North_Andros.internal](/_internal/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasNorth_Andros.internal.md) 
+
+### [North_Andros.protect](/_protect/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasNorth_Andros.protect.md) 
+
+### [North_Andros.private](/_private/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasNorth_Andros.private.md) 
+
+### [North_Andros.personal](/_personal/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasNorth_Andros.personal.md) 
+
+### [North_Andros.secret](/_secret/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasNorth_Andros.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Cienfuegos/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Cuba/Counties/Cienfuegos|Cienfuegos]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Cuba/Counties/Cienfuegos.public|Cienfuegos.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Cuba/Counties/Cienfuegos.internal|Cienfuegos.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Cuba/Counties/Cienfuegos.protect|Cienfuegos.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Cuba/Counties/Cienfuegos.private|Cienfuegos.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Cuba/Counties/Cienfuegos.personal|Cienfuegos.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Cuba/Counties/Cienfuegos.secret|Cienfuegos.secret]] 
+
+### [Cienfuegos.public](/_public/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaCienfuegos.public.md) 
+
+### [Cienfuegos.internal](/_internal/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaCienfuegos.internal.md) 
+
+### [Cienfuegos.protect](/_protect/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaCienfuegos.protect.md) 
+
+### [Cienfuegos.private](/_private/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaCienfuegos.private.md) 
+
+### [Cienfuegos.personal](/_personal/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaCienfuegos.personal.md) 
+
+### [Cienfuegos.secret](/_secret/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaCienfuegos.secret.md)
 

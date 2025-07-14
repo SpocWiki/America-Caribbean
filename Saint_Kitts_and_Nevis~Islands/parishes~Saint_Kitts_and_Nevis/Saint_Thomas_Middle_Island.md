@@ -40,11 +40,16 @@ markerFolder: ./Saint_Thomas_Middle_Island/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Thomas_Middle_Island|Saint_Thomas_Middle_Island]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Thomas_Middle_Island.public|Saint_Thomas_Middle_Island.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Thomas_Middle_Island.internal|Saint_Thomas_Middle_Island.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Thomas_Middle_Island.protect|Saint_Thomas_Middle_Island.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Thomas_Middle_Island.private|Saint_Thomas_Middle_Island.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Thomas_Middle_Island.personal|Saint_Thomas_Middle_Island.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/Counties/Saint_Thomas_Middle_Island.secret|Saint_Thomas_Middle_Island.secret]] 
+
+### [Saint_Thomas_Middle_Island.public](/_public/\Earth\Continent\America~Caribbean\Saint_Kitts_and_Nevis~Islands\parishes~Saint_Kitts_and_NevisSaint_Thomas_Middle_Island.public.md) 
+
+### [Saint_Thomas_Middle_Island.internal](/_internal/\Earth\Continent\America~Caribbean\Saint_Kitts_and_Nevis~Islands\parishes~Saint_Kitts_and_NevisSaint_Thomas_Middle_Island.internal.md) 
+
+### [Saint_Thomas_Middle_Island.protect](/_protect/\Earth\Continent\America~Caribbean\Saint_Kitts_and_Nevis~Islands\parishes~Saint_Kitts_and_NevisSaint_Thomas_Middle_Island.protect.md) 
+
+### [Saint_Thomas_Middle_Island.private](/_private/\Earth\Continent\America~Caribbean\Saint_Kitts_and_Nevis~Islands\parishes~Saint_Kitts_and_NevisSaint_Thomas_Middle_Island.private.md) 
+
+### [Saint_Thomas_Middle_Island.personal](/_personal/\Earth\Continent\America~Caribbean\Saint_Kitts_and_Nevis~Islands\parishes~Saint_Kitts_and_NevisSaint_Thomas_Middle_Island.personal.md) 
+
+### [Saint_Thomas_Middle_Island.secret](/_secret/\Earth\Continent\America~Caribbean\Saint_Kitts_and_Nevis~Islands\parishes~Saint_Kitts_and_NevisSaint_Thomas_Middle_Island.secret.md)
 

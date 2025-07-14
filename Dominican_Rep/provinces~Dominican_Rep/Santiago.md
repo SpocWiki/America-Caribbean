@@ -40,11 +40,16 @@ markerFolder: ./Santiago/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Santiago|Santiago]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Santiago.public|Santiago.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Santiago.internal|Santiago.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Santiago.protect|Santiago.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Santiago.private|Santiago.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Santiago.personal|Santiago.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Santiago.secret|Santiago.secret]] 
+
+### [Santiago.public](/_public/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepSantiago.public.md) 
+
+### [Santiago.internal](/_internal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepSantiago.internal.md) 
+
+### [Santiago.protect](/_protect/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepSantiago.protect.md) 
+
+### [Santiago.private](/_private/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepSantiago.private.md) 
+
+### [Santiago.personal](/_personal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepSantiago.personal.md) 
+
+### [Santiago.secret](/_secret/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepSantiago.secret.md)
 

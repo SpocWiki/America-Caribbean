@@ -40,11 +40,16 @@ markerFolder: ./Manchester/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Jamaica/Counties/Manchester|Manchester]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Jamaica/Counties/Manchester.public|Manchester.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Jamaica/Counties/Manchester.internal|Manchester.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Jamaica/Counties/Manchester.protect|Manchester.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Jamaica/Counties/Manchester.private|Manchester.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Jamaica/Counties/Manchester.personal|Manchester.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Jamaica/Counties/Manchester.secret|Manchester.secret]] 
+
+### [Manchester.public](/_public/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaManchester.public.md) 
+
+### [Manchester.internal](/_internal/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaManchester.internal.md) 
+
+### [Manchester.protect](/_protect/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaManchester.protect.md) 
+
+### [Manchester.private](/_private/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaManchester.private.md) 
+
+### [Manchester.personal](/_personal/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaManchester.personal.md) 
+
+### [Manchester.secret](/_secret/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaManchester.secret.md)
 

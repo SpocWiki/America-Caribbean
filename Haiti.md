@@ -431,10 +431,18 @@ Capital :: [[Haiti/Counties/Ouest/City/Port-au-Prince]]
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Haiti) 
 
+
 ## Confidential Links & Embeds: 
-- [[Haiti|Haiti]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Haiti.internal|Haiti.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Haiti.protect|Haiti.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Haiti.private|Haiti.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Haiti.personal|Haiti.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Haiti.secret|Haiti.secret]] 
+
+### [Haiti.public](/_public/\Earth\Continent\America~CaribbeanHaiti.public.md) 
+
+### [Haiti.internal](/_internal/\Earth\Continent\America~CaribbeanHaiti.internal.md) 
+
+### [Haiti.protect](/_protect/\Earth\Continent\America~CaribbeanHaiti.protect.md) 
+
+### [Haiti.private](/_private/\Earth\Continent\America~CaribbeanHaiti.private.md) 
+
+### [Haiti.personal](/_personal/\Earth\Continent\America~CaribbeanHaiti.personal.md) 
+
+### [Haiti.secret](/_secret/\Earth\Continent\America~CaribbeanHaiti.secret.md)
+

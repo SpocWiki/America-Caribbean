@@ -1,4 +1,4 @@
-﻿---
+---
 location: [32.3,-64.78333] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Bermuda/Counties/Pembroke/City/Hamilton|Hamilton]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Bermuda/Counties/Pembroke/City/Hamilton.public|Hamilton.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Bermuda/Counties/Pembroke/City/Hamilton.internal|Hamilton.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Bermuda/Counties/Pembroke/City/Hamilton.protect|Hamilton.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Bermuda/Counties/Pembroke/City/Hamilton.private|Hamilton.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Bermuda/Counties/Pembroke/City/Hamilton.personal|Hamilton.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Bermuda/Counties/Pembroke/City/Hamilton.secret|Hamilton.secret]] 
+
+### [Hamilton.public](/_public/\Earth\Continent\America~Caribbean\Bermuda\Counties\Pembroke\CityHamilton.public.md) 
+
+### [Hamilton.internal](/_internal/\Earth\Continent\America~Caribbean\Bermuda\Counties\Pembroke\CityHamilton.internal.md) 
+
+### [Hamilton.protect](/_protect/\Earth\Continent\America~Caribbean\Bermuda\Counties\Pembroke\CityHamilton.protect.md) 
+
+### [Hamilton.private](/_private/\Earth\Continent\America~Caribbean\Bermuda\Counties\Pembroke\CityHamilton.private.md) 
+
+### [Hamilton.personal](/_personal/\Earth\Continent\America~Caribbean\Bermuda\Counties\Pembroke\CityHamilton.personal.md) 
+
+### [Hamilton.secret](/_secret/\Earth\Continent\America~Caribbean\Bermuda\Counties\Pembroke\CityHamilton.secret.md)
+

@@ -40,11 +40,16 @@ markerFolder: ./Saint_James/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Barbados/Counties/Saint_James|Saint_James]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Barbados/Counties/Saint_James.public|Saint_James.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Barbados/Counties/Saint_James.internal|Saint_James.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Barbados/Counties/Saint_James.protect|Saint_James.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Barbados/Counties/Saint_James.private|Saint_James.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Barbados/Counties/Saint_James.personal|Saint_James.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Barbados/Counties/Saint_James.secret|Saint_James.secret]] 
+
+### [Saint_James.public](/_public/\Earth\Continent\America~Caribbean\Barbados\Provinces~BarbadosSaint_James.public.md) 
+
+### [Saint_James.internal](/_internal/\Earth\Continent\America~Caribbean\Barbados\Provinces~BarbadosSaint_James.internal.md) 
+
+### [Saint_James.protect](/_protect/\Earth\Continent\America~Caribbean\Barbados\Provinces~BarbadosSaint_James.protect.md) 
+
+### [Saint_James.private](/_private/\Earth\Continent\America~Caribbean\Barbados\Provinces~BarbadosSaint_James.private.md) 
+
+### [Saint_James.personal](/_personal/\Earth\Continent\America~Caribbean\Barbados\Provinces~BarbadosSaint_James.personal.md) 
+
+### [Saint_James.secret](/_secret/\Earth\Continent\America~Caribbean\Barbados\Provinces~BarbadosSaint_James.secret.md)
 

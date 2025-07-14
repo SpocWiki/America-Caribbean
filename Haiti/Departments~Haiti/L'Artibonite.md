@@ -40,11 +40,16 @@ markerFolder: ./L'Artibonite/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Haiti/Counties/L'Artibonite|L'Artibonite]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Haiti/Counties/L'Artibonite.public|L'Artibonite.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Haiti/Counties/L'Artibonite.internal|L'Artibonite.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Haiti/Counties/L'Artibonite.protect|L'Artibonite.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Haiti/Counties/L'Artibonite.private|L'Artibonite.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Haiti/Counties/L'Artibonite.personal|L'Artibonite.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Haiti/Counties/L'Artibonite.secret|L'Artibonite.secret]] 
+
+### [L'Artibonite.public](/_public/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiL'Artibonite.public.md) 
+
+### [L'Artibonite.internal](/_internal/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiL'Artibonite.internal.md) 
+
+### [L'Artibonite.protect](/_protect/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiL'Artibonite.protect.md) 
+
+### [L'Artibonite.private](/_private/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiL'Artibonite.private.md) 
+
+### [L'Artibonite.personal](/_personal/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiL'Artibonite.personal.md) 
+
+### [L'Artibonite.secret](/_secret/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiL'Artibonite.secret.md)
 

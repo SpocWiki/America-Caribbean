@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 18.04 , -63.07 ] 
 license: CC BY-SA 4.0
 confidential: public
@@ -121,9 +121,16 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 
 
 ## Confidential Links & Embeds: 
-- [[Sint_Maarten|Sint_Maarten]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Sint_Maarten.internal|Sint_Maarten.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Sint_Maarten.protect|Sint_Maarten.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Sint_Maarten.private|Sint_Maarten.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Sint_Maarten.personal|Sint_Maarten.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Sint_Maarten.secret|Sint_Maarten.secret]] 
+
+### [Sint_Maarten.public](/_public/\Earth\Continent\America~CaribbeanSint_Maarten.public.md) 
+
+### [Sint_Maarten.internal](/_internal/\Earth\Continent\America~CaribbeanSint_Maarten.internal.md) 
+
+### [Sint_Maarten.protect](/_protect/\Earth\Continent\America~CaribbeanSint_Maarten.protect.md) 
+
+### [Sint_Maarten.private](/_private/\Earth\Continent\America~CaribbeanSint_Maarten.private.md) 
+
+### [Sint_Maarten.personal](/_personal/\Earth\Continent\America~CaribbeanSint_Maarten.personal.md) 
+
+### [Sint_Maarten.secret](/_secret/\Earth\Continent\America~CaribbeanSint_Maarten.secret.md)
+

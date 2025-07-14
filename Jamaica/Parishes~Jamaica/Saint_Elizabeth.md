@@ -40,11 +40,16 @@ markerFolder: ./Saint_Elizabeth/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Elizabeth|Saint_Elizabeth]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Elizabeth.public|Saint_Elizabeth.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Elizabeth.internal|Saint_Elizabeth.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Elizabeth.protect|Saint_Elizabeth.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Elizabeth.private|Saint_Elizabeth.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Elizabeth.personal|Saint_Elizabeth.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Jamaica/Counties/Saint_Elizabeth.secret|Saint_Elizabeth.secret]] 
+
+### [Saint_Elizabeth.public](/_public/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaSaint_Elizabeth.public.md) 
+
+### [Saint_Elizabeth.internal](/_internal/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaSaint_Elizabeth.internal.md) 
+
+### [Saint_Elizabeth.protect](/_protect/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaSaint_Elizabeth.protect.md) 
+
+### [Saint_Elizabeth.private](/_private/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaSaint_Elizabeth.private.md) 
+
+### [Saint_Elizabeth.personal](/_personal/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaSaint_Elizabeth.personal.md) 
+
+### [Saint_Elizabeth.secret](/_secret/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaSaint_Elizabeth.secret.md)
 

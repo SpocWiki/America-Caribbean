@@ -40,11 +40,16 @@ markerFolder: ./Monte_Cristi/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Monte_Cristi|Monte_Cristi]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Monte_Cristi.public|Monte_Cristi.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Monte_Cristi.internal|Monte_Cristi.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Monte_Cristi.protect|Monte_Cristi.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Monte_Cristi.private|Monte_Cristi.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Monte_Cristi.personal|Monte_Cristi.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Monte_Cristi.secret|Monte_Cristi.secret]] 
+
+### [Monte_Cristi.public](/_public/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepMonte_Cristi.public.md) 
+
+### [Monte_Cristi.internal](/_internal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepMonte_Cristi.internal.md) 
+
+### [Monte_Cristi.protect](/_protect/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepMonte_Cristi.protect.md) 
+
+### [Monte_Cristi.private](/_private/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepMonte_Cristi.private.md) 
+
+### [Monte_Cristi.personal](/_personal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepMonte_Cristi.personal.md) 
+
+### [Monte_Cristi.secret](/_secret/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepMonte_Cristi.secret.md)
 

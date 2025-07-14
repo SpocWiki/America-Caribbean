@@ -40,11 +40,16 @@ markerFolder: ./Bahoruco/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Bahoruco|Bahoruco]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Bahoruco.public|Bahoruco.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Bahoruco.internal|Bahoruco.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Bahoruco.protect|Bahoruco.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Bahoruco.private|Bahoruco.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Bahoruco.personal|Bahoruco.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Bahoruco.secret|Bahoruco.secret]] 
+
+### [Bahoruco.public](/_public/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepBahoruco.public.md) 
+
+### [Bahoruco.internal](/_internal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepBahoruco.internal.md) 
+
+### [Bahoruco.protect](/_protect/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepBahoruco.protect.md) 
+
+### [Bahoruco.private](/_private/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepBahoruco.private.md) 
+
+### [Bahoruco.personal](/_personal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepBahoruco.personal.md) 
+
+### [Bahoruco.secret](/_secret/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepBahoruco.secret.md)
 

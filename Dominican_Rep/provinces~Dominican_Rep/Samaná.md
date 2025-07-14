@@ -40,11 +40,16 @@ markerFolder: ./Samaná/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Samaná|Samaná]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Samaná.public|Samaná.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Samaná.internal|Samaná.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Samaná.protect|Samaná.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Samaná.private|Samaná.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Samaná.personal|Samaná.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Samaná.secret|Samaná.secret]] 
+
+### [Samaná.public](/_public/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepSamaná.public.md) 
+
+### [Samaná.internal](/_internal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepSamaná.internal.md) 
+
+### [Samaná.protect](/_protect/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepSamaná.protect.md) 
+
+### [Samaná.private](/_private/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepSamaná.private.md) 
+
+### [Samaná.personal](/_personal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepSamaná.personal.md) 
+
+### [Samaná.secret](/_secret/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepSamaná.secret.md)
 

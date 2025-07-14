@@ -40,11 +40,16 @@ markerFolder: ./Blowing_Point/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Anguilla/Counties/Blowing_Point|Blowing_Point]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Anguilla/Counties/Blowing_Point.public|Blowing_Point.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Anguilla/Counties/Blowing_Point.internal|Blowing_Point.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Anguilla/Counties/Blowing_Point.protect|Blowing_Point.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Anguilla/Counties/Blowing_Point.private|Blowing_Point.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Anguilla/Counties/Blowing_Point.personal|Blowing_Point.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Anguilla/Counties/Blowing_Point.secret|Blowing_Point.secret]] 
+
+### [Blowing_Point.public](/_public/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaBlowing_Point.public.md) 
+
+### [Blowing_Point.internal](/_internal/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaBlowing_Point.internal.md) 
+
+### [Blowing_Point.protect](/_protect/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaBlowing_Point.protect.md) 
+
+### [Blowing_Point.private](/_private/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaBlowing_Point.private.md) 
+
+### [Blowing_Point.personal](/_personal/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaBlowing_Point.personal.md) 
+
+### [Blowing_Point.secret](/_secret/\Earth\Continent\America~Caribbean\Anguilla\Counties~AnguillaBlowing_Point.secret.md)
 

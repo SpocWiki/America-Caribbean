@@ -40,11 +40,16 @@ markerFolder: ./Rum_Cay/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Bahamas/Counties/Rum_Cay|Rum_Cay]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Bahamas/Counties/Rum_Cay.public|Rum_Cay.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Bahamas/Counties/Rum_Cay.internal|Rum_Cay.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Bahamas/Counties/Rum_Cay.protect|Rum_Cay.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Bahamas/Counties/Rum_Cay.private|Rum_Cay.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Bahamas/Counties/Rum_Cay.personal|Rum_Cay.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Bahamas/Counties/Rum_Cay.secret|Rum_Cay.secret]] 
+
+### [Rum_Cay.public](/_public/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasRum_Cay.public.md) 
+
+### [Rum_Cay.internal](/_internal/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasRum_Cay.internal.md) 
+
+### [Rum_Cay.protect](/_protect/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasRum_Cay.protect.md) 
+
+### [Rum_Cay.private](/_private/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasRum_Cay.private.md) 
+
+### [Rum_Cay.personal](/_personal/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasRum_Cay.personal.md) 
+
+### [Rum_Cay.secret](/_secret/\Earth\Continent\America~Caribbean\Bahamas\Districts~BahamasRum_Cay.secret.md)
 

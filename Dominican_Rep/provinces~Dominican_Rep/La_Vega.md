@@ -40,11 +40,16 @@ markerFolder: ./La_Vega/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Vega|La_Vega]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Vega.public|La_Vega.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Vega.internal|La_Vega.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Vega.protect|La_Vega.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Vega.private|La_Vega.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Vega.personal|La_Vega.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/La_Vega.secret|La_Vega.secret]] 
+
+### [La_Vega.public](/_public/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepLa_Vega.public.md) 
+
+### [La_Vega.internal](/_internal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepLa_Vega.internal.md) 
+
+### [La_Vega.protect](/_protect/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepLa_Vega.protect.md) 
+
+### [La_Vega.private](/_private/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepLa_Vega.private.md) 
+
+### [La_Vega.personal](/_personal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepLa_Vega.personal.md) 
+
+### [La_Vega.secret](/_secret/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepLa_Vega.secret.md)
 

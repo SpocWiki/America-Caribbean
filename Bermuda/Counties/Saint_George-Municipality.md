@@ -40,11 +40,16 @@ markerFolder: ./Saint_George's/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Bermuda/Counties/Saint_George's|Saint_George's]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Bermuda/Counties/Saint_George's.public|Saint_George's.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Bermuda/Counties/Saint_George's.internal|Saint_George's.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Bermuda/Counties/Saint_George's.protect|Saint_George's.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Bermuda/Counties/Saint_George's.private|Saint_George's.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Bermuda/Counties/Saint_George's.personal|Saint_George's.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Bermuda/Counties/Saint_George's.secret|Saint_George's.secret]] 
+
+### [Saint_George-Municipality.public](/_public/\Earth\Continent\America~Caribbean\Bermuda\CountiesSaint_George-Municipality.public.md) 
+
+### [Saint_George-Municipality.internal](/_internal/\Earth\Continent\America~Caribbean\Bermuda\CountiesSaint_George-Municipality.internal.md) 
+
+### [Saint_George-Municipality.protect](/_protect/\Earth\Continent\America~Caribbean\Bermuda\CountiesSaint_George-Municipality.protect.md) 
+
+### [Saint_George-Municipality.private](/_private/\Earth\Continent\America~Caribbean\Bermuda\CountiesSaint_George-Municipality.private.md) 
+
+### [Saint_George-Municipality.personal](/_personal/\Earth\Continent\America~Caribbean\Bermuda\CountiesSaint_George-Municipality.personal.md) 
+
+### [Saint_George-Municipality.secret](/_secret/\Earth\Continent\America~Caribbean\Bermuda\CountiesSaint_George-Municipality.secret.md)
 

@@ -40,11 +40,16 @@ markerFolder: ./Sánchez_Ramírez/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Sánchez_Ramírez|Sánchez_Ramírez]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Sánchez_Ramírez.public|Sánchez_Ramírez.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Sánchez_Ramírez.internal|Sánchez_Ramírez.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Sánchez_Ramírez.protect|Sánchez_Ramírez.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Sánchez_Ramírez.private|Sánchez_Ramírez.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Sánchez_Ramírez.personal|Sánchez_Ramírez.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/Sánchez_Ramírez.secret|Sánchez_Ramírez.secret]] 
+
+### [Sánchez_Ramírez.public](/_public/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepSánchez_Ramírez.public.md) 
+
+### [Sánchez_Ramírez.internal](/_internal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepSánchez_Ramírez.internal.md) 
+
+### [Sánchez_Ramírez.protect](/_protect/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepSánchez_Ramírez.protect.md) 
+
+### [Sánchez_Ramírez.private](/_private/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepSánchez_Ramírez.private.md) 
+
+### [Sánchez_Ramírez.personal](/_personal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepSánchez_Ramírez.personal.md) 
+
+### [Sánchez_Ramírez.secret](/_secret/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepSánchez_Ramírez.secret.md)
 

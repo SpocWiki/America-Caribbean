@@ -40,11 +40,16 @@ markerFolder: ./Sud-Est/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Haiti/Counties/Sud-Est|Sud-Est]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Haiti/Counties/Sud-Est.public|Sud-Est.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Haiti/Counties/Sud-Est.internal|Sud-Est.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Haiti/Counties/Sud-Est.protect|Sud-Est.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Haiti/Counties/Sud-Est.private|Sud-Est.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Haiti/Counties/Sud-Est.personal|Sud-Est.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Haiti/Counties/Sud-Est.secret|Sud-Est.secret]] 
+
+### [Sud-Est.public](/_public/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiSud-Est.public.md) 
+
+### [Sud-Est.internal](/_internal/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiSud-Est.internal.md) 
+
+### [Sud-Est.protect](/_protect/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiSud-Est.protect.md) 
+
+### [Sud-Est.private](/_private/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiSud-Est.private.md) 
+
+### [Sud-Est.personal](/_personal/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiSud-Est.personal.md) 
+
+### [Sud-Est.secret](/_secret/\Earth\Continent\America~Caribbean\Haiti\Departments~HaitiSud-Est.secret.md)
 

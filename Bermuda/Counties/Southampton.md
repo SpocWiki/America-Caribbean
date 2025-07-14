@@ -40,11 +40,16 @@ markerFolder: ./Southampton/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Bermuda/Counties/Southampton|Southampton]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Bermuda/Counties/Southampton.public|Southampton.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Bermuda/Counties/Southampton.internal|Southampton.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Bermuda/Counties/Southampton.protect|Southampton.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Bermuda/Counties/Southampton.private|Southampton.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Bermuda/Counties/Southampton.personal|Southampton.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Bermuda/Counties/Southampton.secret|Southampton.secret]] 
+
+### [Southampton.public](/_public/\Earth\Continent\America~Caribbean\Bermuda\CountiesSouthampton.public.md) 
+
+### [Southampton.internal](/_internal/\Earth\Continent\America~Caribbean\Bermuda\CountiesSouthampton.internal.md) 
+
+### [Southampton.protect](/_protect/\Earth\Continent\America~Caribbean\Bermuda\CountiesSouthampton.protect.md) 
+
+### [Southampton.private](/_private/\Earth\Continent\America~Caribbean\Bermuda\CountiesSouthampton.private.md) 
+
+### [Southampton.personal](/_personal/\Earth\Continent\America~Caribbean\Bermuda\CountiesSouthampton.personal.md) 
+
+### [Southampton.secret](/_secret/\Earth\Continent\America~Caribbean\Bermuda\CountiesSouthampton.secret.md)
 

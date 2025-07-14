@@ -112,11 +112,16 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 
 ## Confidential Links & Embeds: 
-- [[../_Standards/License|License]] 
-- [[../_public/License.public|License.public]] 
-- [[../_internal/License.internal|License.internal]] 
-- [[../_protect/License.protect|License.protect]] 
-- [[../_private/License.private|License.private]] 
-- [[../_personal/License.personal|License.personal]] 
-- [[../_secret/License.secret|License.secret]] 
+
+### [License.public](/_public/\Earth\Continent\America~CaribbeanLicense.public.md) 
+
+### [License.internal](/_internal/\Earth\Continent\America~CaribbeanLicense.internal.md) 
+
+### [License.protect](/_protect/\Earth\Continent\America~CaribbeanLicense.protect.md) 
+
+### [License.private](/_private/\Earth\Continent\America~CaribbeanLicense.private.md) 
+
+### [License.personal](/_personal/\Earth\Continent\America~CaribbeanLicense.personal.md) 
+
+### [License.secret](/_secret/\Earth\Continent\America~CaribbeanLicense.secret.md)
 

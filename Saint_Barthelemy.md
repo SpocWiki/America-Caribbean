@@ -1,4 +1,4 @@
-﻿---
+---
 location: [ 17.91 , -62.83 ] 
 
 type: Country
@@ -41,11 +41,17 @@ Continent :: [[South-America]]
 [has_place_latitude::] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[Saint_Barthelemy|Saint_Barthelemy]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Saint_Barthelemy.internal|Saint_Barthelemy.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Saint_Barthelemy.protect|Saint_Barthelemy.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Saint_Barthelemy.private|Saint_Barthelemy.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Saint_Barthelemy.personal|Saint_Barthelemy.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Saint_Barthelemy.secret|Saint_Barthelemy.secret]] 
+
+### [Saint_Barthelemy.public](/_public/\Earth\Continent\America~CaribbeanSaint_Barthelemy.public.md) 
+
+### [Saint_Barthelemy.internal](/_internal/\Earth\Continent\America~CaribbeanSaint_Barthelemy.internal.md) 
+
+### [Saint_Barthelemy.protect](/_protect/\Earth\Continent\America~CaribbeanSaint_Barthelemy.protect.md) 
+
+### [Saint_Barthelemy.private](/_private/\Earth\Continent\America~CaribbeanSaint_Barthelemy.private.md) 
+
+### [Saint_Barthelemy.personal](/_personal/\Earth\Continent\America~CaribbeanSaint_Barthelemy.personal.md) 
+
+### [Saint_Barthelemy.secret](/_secret/\Earth\Continent\America~CaribbeanSaint_Barthelemy.secret.md)
+

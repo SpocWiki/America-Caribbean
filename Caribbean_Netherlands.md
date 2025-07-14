@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 12.1833
 - -69
@@ -130,11 +130,17 @@ Continent :: [[South-America]]
 [has_place_latitude::12.1833] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[Caribbean_Netherlands|Caribbean_Netherlands]]  
-- [[../../../../_internal/geo/Continent/America~Caribbean/Caribbean_Netherlands.internal|Caribbean_Netherlands.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Caribbean_Netherlands.protect|Caribbean_Netherlands.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Caribbean_Netherlands.private|Caribbean_Netherlands.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Caribbean_Netherlands.personal|Caribbean_Netherlands.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Caribbean_Netherlands.secret|Caribbean_Netherlands.secret]] 
+
+### [Caribbean_Netherlands.public](/_public/\Earth\Continent\America~CaribbeanCaribbean_Netherlands.public.md) 
+
+### [Caribbean_Netherlands.internal](/_internal/\Earth\Continent\America~CaribbeanCaribbean_Netherlands.internal.md) 
+
+### [Caribbean_Netherlands.protect](/_protect/\Earth\Continent\America~CaribbeanCaribbean_Netherlands.protect.md) 
+
+### [Caribbean_Netherlands.private](/_private/\Earth\Continent\America~CaribbeanCaribbean_Netherlands.private.md) 
+
+### [Caribbean_Netherlands.personal](/_personal/\Earth\Continent\America~CaribbeanCaribbean_Netherlands.personal.md) 
+
+### [Caribbean_Netherlands.secret](/_secret/\Earth\Continent\America~CaribbeanCaribbean_Netherlands.secret.md)
+

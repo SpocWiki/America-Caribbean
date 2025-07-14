@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 18.2272
 - -63.049
@@ -130,11 +130,17 @@ Capital :: [[Anguilla/Counties/The_Valley/City/The_Valley]]
 [has_place_latitude::18.2272] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[Anguilla|Anguilla]] 
-- [[../../../../_internal/geo/Continent/America~Caribbean/Anguilla.internal|Anguilla.internal]] 
-- [[../../../../_protect/geo/Continent/America~Caribbean/Anguilla.protect|Anguilla.protect]] 
-- [[../../../../_private/geo/Continent/America~Caribbean/Anguilla.private|Anguilla.private]] 
-- [[../../../../_personal/geo/Continent/America~Caribbean/Anguilla.personal|Anguilla.personal]] 
-- [[../../../../_secret/geo/Continent/America~Caribbean/Anguilla.secret|Anguilla.secret]] 
+
+### [Anguilla.public](/_public/\Earth\Continent\America~CaribbeanAnguilla.public.md) 
+
+### [Anguilla.internal](/_internal/\Earth\Continent\America~CaribbeanAnguilla.internal.md) 
+
+### [Anguilla.protect](/_protect/\Earth\Continent\America~CaribbeanAnguilla.protect.md) 
+
+### [Anguilla.private](/_private/\Earth\Continent\America~CaribbeanAnguilla.private.md) 
+
+### [Anguilla.personal](/_personal/\Earth\Continent\America~CaribbeanAnguilla.personal.md) 
+
+### [Anguilla.secret](/_secret/\Earth\Continent\America~CaribbeanAnguilla.secret.md)
+

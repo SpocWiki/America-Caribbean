@@ -40,11 +40,16 @@ markerFolder: ./María_Trinidad_Sánchez/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Dominican_Rep/Counties/María_Trinidad_Sánchez|María_Trinidad_Sánchez]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Dominican_Rep/Counties/María_Trinidad_Sánchez.public|María_Trinidad_Sánchez.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/María_Trinidad_Sánchez.internal|María_Trinidad_Sánchez.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Dominican_Rep/Counties/María_Trinidad_Sánchez.protect|María_Trinidad_Sánchez.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Dominican_Rep/Counties/María_Trinidad_Sánchez.private|María_Trinidad_Sánchez.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Dominican_Rep/Counties/María_Trinidad_Sánchez.personal|María_Trinidad_Sánchez.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Dominican_Rep/Counties/María_Trinidad_Sánchez.secret|María_Trinidad_Sánchez.secret]] 
+
+### [María_Trinidad_Sánchez.public](/_public/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepMaría_Trinidad_Sánchez.public.md) 
+
+### [María_Trinidad_Sánchez.internal](/_internal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepMaría_Trinidad_Sánchez.internal.md) 
+
+### [María_Trinidad_Sánchez.protect](/_protect/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepMaría_Trinidad_Sánchez.protect.md) 
+
+### [María_Trinidad_Sánchez.private](/_private/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepMaría_Trinidad_Sánchez.private.md) 
+
+### [María_Trinidad_Sánchez.personal](/_personal/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepMaría_Trinidad_Sánchez.personal.md) 
+
+### [María_Trinidad_Sánchez.secret](/_secret/\Earth\Continent\America~Caribbean\Dominican_Rep\provinces~Dominican_RepMaría_Trinidad_Sánchez.secret.md)
 

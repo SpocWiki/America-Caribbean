@@ -40,11 +40,16 @@ markerFolder: ./Pinar_del_Río/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Cuba/Counties/Pinar_del_Río|Pinar_del_Río]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Cuba/Counties/Pinar_del_Río.public|Pinar_del_Río.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Cuba/Counties/Pinar_del_Río.internal|Pinar_del_Río.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Cuba/Counties/Pinar_del_Río.protect|Pinar_del_Río.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Cuba/Counties/Pinar_del_Río.private|Pinar_del_Río.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Cuba/Counties/Pinar_del_Río.personal|Pinar_del_Río.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Cuba/Counties/Pinar_del_Río.secret|Pinar_del_Río.secret]] 
+
+### [Pinar_del_Río.public](/_public/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaPinar_del_Río.public.md) 
+
+### [Pinar_del_Río.internal](/_internal/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaPinar_del_Río.internal.md) 
+
+### [Pinar_del_Río.protect](/_protect/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaPinar_del_Río.protect.md) 
+
+### [Pinar_del_Río.private](/_private/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaPinar_del_Río.private.md) 
+
+### [Pinar_del_Río.personal](/_personal/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaPinar_del_Río.personal.md) 
+
+### [Pinar_del_Río.secret](/_secret/\Earth\Continent\America~Caribbean\Cuba\provinces~CubaPinar_del_Río.secret.md)
 

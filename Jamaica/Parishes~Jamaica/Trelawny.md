@@ -40,11 +40,16 @@ markerFolder: ./Trelawny/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/America~Caribbean/Jamaica/Counties/Trelawny|Trelawny]] 
-- [[../../../../../../_public/geo/Continent/America~Caribbean/Jamaica/Counties/Trelawny.public|Trelawny.public]] 
-- [[../../../../../../_internal/geo/Continent/America~Caribbean/Jamaica/Counties/Trelawny.internal|Trelawny.internal]] 
-- [[../../../../../../_protect/geo/Continent/America~Caribbean/Jamaica/Counties/Trelawny.protect|Trelawny.protect]] 
-- [[../../../../../../_private/geo/Continent/America~Caribbean/Jamaica/Counties/Trelawny.private|Trelawny.private]] 
-- [[../../../../../../_personal/geo/Continent/America~Caribbean/Jamaica/Counties/Trelawny.personal|Trelawny.personal]] 
-- [[../../../../../../_secret/geo/Continent/America~Caribbean/Jamaica/Counties/Trelawny.secret|Trelawny.secret]] 
+
+### [Trelawny.public](/_public/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaTrelawny.public.md) 
+
+### [Trelawny.internal](/_internal/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaTrelawny.internal.md) 
+
+### [Trelawny.protect](/_protect/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaTrelawny.protect.md) 
+
+### [Trelawny.private](/_private/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaTrelawny.private.md) 
+
+### [Trelawny.personal](/_personal/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaTrelawny.personal.md) 
+
+### [Trelawny.secret](/_secret/\Earth\Continent\America~Caribbean\Jamaica\Parishes~JamaicaTrelawny.secret.md)
 
