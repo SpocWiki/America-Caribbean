@@ -132,17 +132,17 @@ Capital :: [[Martinique/City/Fort-de-France]]
 
 ## Confidential Links & Embeds: 
 
-### [Martinique](/_Standards/Earth/Continent/America~Caribbean/Martinique.md) 
+### #is_/same_as :: [Martinique](/_Standards/Earth/Continent/America~Caribbean/Martinique.md) 
 
-### [Martinique.public](/_public/Earth/Continent/America~Caribbean/Martinique.public.md) 
+### #is_/same_as :: [Martinique.public](/_public/Earth/Continent/America~Caribbean/Martinique.public.md) 
 
-### [Martinique.internal](/_internal/Earth/Continent/America~Caribbean/Martinique.internal.md) 
+### #is_/same_as :: [Martinique.internal](/_internal/Earth/Continent/America~Caribbean/Martinique.internal.md) 
 
-### [Martinique.protect](/_protect/Earth/Continent/America~Caribbean/Martinique.protect.md) 
+### #is_/same_as :: [Martinique.protect](/_protect/Earth/Continent/America~Caribbean/Martinique.protect.md) 
 
-### [Martinique.private](/_private/Earth/Continent/America~Caribbean/Martinique.private.md) 
+### #is_/same_as :: [Martinique.private](/_private/Earth/Continent/America~Caribbean/Martinique.private.md) 
 
-### [Martinique.personal](/_personal/Earth/Continent/America~Caribbean/Martinique.personal.md) 
+### #is_/same_as :: [Martinique.personal](/_personal/Earth/Continent/America~Caribbean/Martinique.personal.md) 
 
-### [Martinique.secret](/_secret/Earth/Continent/America~Caribbean/Martinique.secret.md)
+### #is_/same_as :: [Martinique.secret](/_secret/Earth/Continent/America~Caribbean/Martinique.secret.md)
 

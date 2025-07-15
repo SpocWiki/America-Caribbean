@@ -387,17 +387,17 @@ Capital :: [[Grenada/City/St._George’s]]
 
 ## Confidential Links & Embeds: 
 
-### [Grenada](/_Standards/Earth/Continent/America~Caribbean/Grenada.md) 
+### #is_/same_as :: [Grenada](/_Standards/Earth/Continent/America~Caribbean/Grenada.md) 
 
-### [Grenada.public](/_public/Earth/Continent/America~Caribbean/Grenada.public.md) 
+### #is_/same_as :: [Grenada.public](/_public/Earth/Continent/America~Caribbean/Grenada.public.md) 
 
-### [Grenada.internal](/_internal/Earth/Continent/America~Caribbean/Grenada.internal.md) 
+### #is_/same_as :: [Grenada.internal](/_internal/Earth/Continent/America~Caribbean/Grenada.internal.md) 
 
-### [Grenada.protect](/_protect/Earth/Continent/America~Caribbean/Grenada.protect.md) 
+### #is_/same_as :: [Grenada.protect](/_protect/Earth/Continent/America~Caribbean/Grenada.protect.md) 
 
-### [Grenada.private](/_private/Earth/Continent/America~Caribbean/Grenada.private.md) 
+### #is_/same_as :: [Grenada.private](/_private/Earth/Continent/America~Caribbean/Grenada.private.md) 
 
-### [Grenada.personal](/_personal/Earth/Continent/America~Caribbean/Grenada.personal.md) 
+### #is_/same_as :: [Grenada.personal](/_personal/Earth/Continent/America~Caribbean/Grenada.personal.md) 
 
-### [Grenada.secret](/_secret/Earth/Continent/America~Caribbean/Grenada.secret.md)
+### #is_/same_as :: [Grenada.secret](/_secret/Earth/Continent/America~Caribbean/Grenada.secret.md)
 

@@ -41,17 +41,17 @@ markerFolder: ./Hermanas/
 
 ## Confidential Links & Embeds: 
 
-### [Hermanas](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Hermanas.md) 
+### #is_/same_as :: [Hermanas](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Hermanas.md) 
 
-### [Hermanas.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Hermanas.public.md) 
+### #is_/same_as :: [Hermanas.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Hermanas.public.md) 
 
-### [Hermanas.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Hermanas.internal.md) 
+### #is_/same_as :: [Hermanas.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Hermanas.internal.md) 
 
-### [Hermanas.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Hermanas.protect.md) 
+### #is_/same_as :: [Hermanas.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Hermanas.protect.md) 
 
-### [Hermanas.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Hermanas.private.md) 
+### #is_/same_as :: [Hermanas.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Hermanas.private.md) 
 
-### [Hermanas.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Hermanas.personal.md) 
+### #is_/same_as :: [Hermanas.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Hermanas.personal.md) 
 
-### [Hermanas.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Hermanas.secret.md)
+### #is_/same_as :: [Hermanas.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Hermanas.secret.md)
 

@@ -41,17 +41,17 @@ markerFolder: ./Middle_Caicos/
 
 ## Confidential Links & Embeds: 
 
-### [Middle_Caicos](/_Standards/Earth/Continent/America~Caribbean/Turks_and_Caicos~Islands/Districts~Turks_and_Caicos/Middle_Caicos.md) 
+### #is_/same_as :: [Middle_Caicos](/_Standards/Earth/Continent/America~Caribbean/Turks_and_Caicos~Islands/Districts~Turks_and_Caicos/Middle_Caicos.md) 
 
-### [Middle_Caicos.public](/_public/Earth/Continent/America~Caribbean/Turks_and_Caicos~Islands/Districts~Turks_and_Caicos/Middle_Caicos.public.md) 
+### #is_/same_as :: [Middle_Caicos.public](/_public/Earth/Continent/America~Caribbean/Turks_and_Caicos~Islands/Districts~Turks_and_Caicos/Middle_Caicos.public.md) 
 
-### [Middle_Caicos.internal](/_internal/Earth/Continent/America~Caribbean/Turks_and_Caicos~Islands/Districts~Turks_and_Caicos/Middle_Caicos.internal.md) 
+### #is_/same_as :: [Middle_Caicos.internal](/_internal/Earth/Continent/America~Caribbean/Turks_and_Caicos~Islands/Districts~Turks_and_Caicos/Middle_Caicos.internal.md) 
 
-### [Middle_Caicos.protect](/_protect/Earth/Continent/America~Caribbean/Turks_and_Caicos~Islands/Districts~Turks_and_Caicos/Middle_Caicos.protect.md) 
+### #is_/same_as :: [Middle_Caicos.protect](/_protect/Earth/Continent/America~Caribbean/Turks_and_Caicos~Islands/Districts~Turks_and_Caicos/Middle_Caicos.protect.md) 
 
-### [Middle_Caicos.private](/_private/Earth/Continent/America~Caribbean/Turks_and_Caicos~Islands/Districts~Turks_and_Caicos/Middle_Caicos.private.md) 
+### #is_/same_as :: [Middle_Caicos.private](/_private/Earth/Continent/America~Caribbean/Turks_and_Caicos~Islands/Districts~Turks_and_Caicos/Middle_Caicos.private.md) 
 
-### [Middle_Caicos.personal](/_personal/Earth/Continent/America~Caribbean/Turks_and_Caicos~Islands/Districts~Turks_and_Caicos/Middle_Caicos.personal.md) 
+### #is_/same_as :: [Middle_Caicos.personal](/_personal/Earth/Continent/America~Caribbean/Turks_and_Caicos~Islands/Districts~Turks_and_Caicos/Middle_Caicos.personal.md) 
 
-### [Middle_Caicos.secret](/_secret/Earth/Continent/America~Caribbean/Turks_and_Caicos~Islands/Districts~Turks_and_Caicos/Middle_Caicos.secret.md)
+### #is_/same_as :: [Middle_Caicos.secret](/_secret/Earth/Continent/America~Caribbean/Turks_and_Caicos~Islands/Districts~Turks_and_Caicos/Middle_Caicos.secret.md)
 

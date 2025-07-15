@@ -41,17 +41,17 @@ markerFolder: ./Blowing_Point/
 
 ## Confidential Links & Embeds: 
 
-### [Blowing_Point](/_Standards/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/Blowing_Point.md) 
+### #is_/same_as :: [Blowing_Point](/_Standards/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/Blowing_Point.md) 
 
-### [Blowing_Point.public](/_public/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/Blowing_Point.public.md) 
+### #is_/same_as :: [Blowing_Point.public](/_public/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/Blowing_Point.public.md) 
 
-### [Blowing_Point.internal](/_internal/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/Blowing_Point.internal.md) 
+### #is_/same_as :: [Blowing_Point.internal](/_internal/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/Blowing_Point.internal.md) 
 
-### [Blowing_Point.protect](/_protect/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/Blowing_Point.protect.md) 
+### #is_/same_as :: [Blowing_Point.protect](/_protect/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/Blowing_Point.protect.md) 
 
-### [Blowing_Point.private](/_private/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/Blowing_Point.private.md) 
+### #is_/same_as :: [Blowing_Point.private](/_private/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/Blowing_Point.private.md) 
 
-### [Blowing_Point.personal](/_personal/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/Blowing_Point.personal.md) 
+### #is_/same_as :: [Blowing_Point.personal](/_personal/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/Blowing_Point.personal.md) 
 
-### [Blowing_Point.secret](/_secret/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/Blowing_Point.secret.md)
+### #is_/same_as :: [Blowing_Point.secret](/_secret/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/Blowing_Point.secret.md)
 

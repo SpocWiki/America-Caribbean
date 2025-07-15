@@ -434,17 +434,17 @@ Capital :: [[Haiti/Counties/Ouest/City/Port-au-Prince]]
 
 ## Confidential Links & Embeds: 
 
-### [Haiti](/_Standards/Earth/Continent/America~Caribbean/Haiti.md) 
+### #is_/same_as :: [Haiti](/_Standards/Earth/Continent/America~Caribbean/Haiti.md) 
 
-### [Haiti.public](/_public/Earth/Continent/America~Caribbean/Haiti.public.md) 
+### #is_/same_as :: [Haiti.public](/_public/Earth/Continent/America~Caribbean/Haiti.public.md) 
 
-### [Haiti.internal](/_internal/Earth/Continent/America~Caribbean/Haiti.internal.md) 
+### #is_/same_as :: [Haiti.internal](/_internal/Earth/Continent/America~Caribbean/Haiti.internal.md) 
 
-### [Haiti.protect](/_protect/Earth/Continent/America~Caribbean/Haiti.protect.md) 
+### #is_/same_as :: [Haiti.protect](/_protect/Earth/Continent/America~Caribbean/Haiti.protect.md) 
 
-### [Haiti.private](/_private/Earth/Continent/America~Caribbean/Haiti.private.md) 
+### #is_/same_as :: [Haiti.private](/_private/Earth/Continent/America~Caribbean/Haiti.private.md) 
 
-### [Haiti.personal](/_personal/Earth/Continent/America~Caribbean/Haiti.personal.md) 
+### #is_/same_as :: [Haiti.personal](/_personal/Earth/Continent/America~Caribbean/Haiti.personal.md) 
 
-### [Haiti.secret](/_secret/Earth/Continent/America~Caribbean/Haiti.secret.md)
+### #is_/same_as :: [Haiti.secret](/_secret/Earth/Continent/America~Caribbean/Haiti.secret.md)
 

@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Basse-Terre](/_Standards/Earth/Continent/America~Caribbean/Guadeloupe/City/Basse-Terre.md) 
+### #is_/same_as :: [Basse-Terre](/_Standards/Earth/Continent/America~Caribbean/Guadeloupe/City/Basse-Terre.md) 
 
-### [Basse-Terre.public](/_public/Earth/Continent/America~Caribbean/Guadeloupe/City/Basse-Terre.public.md) 
+### #is_/same_as :: [Basse-Terre.public](/_public/Earth/Continent/America~Caribbean/Guadeloupe/City/Basse-Terre.public.md) 
 
-### [Basse-Terre.internal](/_internal/Earth/Continent/America~Caribbean/Guadeloupe/City/Basse-Terre.internal.md) 
+### #is_/same_as :: [Basse-Terre.internal](/_internal/Earth/Continent/America~Caribbean/Guadeloupe/City/Basse-Terre.internal.md) 
 
-### [Basse-Terre.protect](/_protect/Earth/Continent/America~Caribbean/Guadeloupe/City/Basse-Terre.protect.md) 
+### #is_/same_as :: [Basse-Terre.protect](/_protect/Earth/Continent/America~Caribbean/Guadeloupe/City/Basse-Terre.protect.md) 
 
-### [Basse-Terre.private](/_private/Earth/Continent/America~Caribbean/Guadeloupe/City/Basse-Terre.private.md) 
+### #is_/same_as :: [Basse-Terre.private](/_private/Earth/Continent/America~Caribbean/Guadeloupe/City/Basse-Terre.private.md) 
 
-### [Basse-Terre.personal](/_personal/Earth/Continent/America~Caribbean/Guadeloupe/City/Basse-Terre.personal.md) 
+### #is_/same_as :: [Basse-Terre.personal](/_personal/Earth/Continent/America~Caribbean/Guadeloupe/City/Basse-Terre.personal.md) 
 
-### [Basse-Terre.secret](/_secret/Earth/Continent/America~Caribbean/Guadeloupe/City/Basse-Terre.secret.md)
+### #is_/same_as :: [Basse-Terre.secret](/_secret/Earth/Continent/America~Caribbean/Guadeloupe/City/Basse-Terre.secret.md)
 

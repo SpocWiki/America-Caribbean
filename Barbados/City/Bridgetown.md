@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Bridgetown](/_Standards/Earth/Continent/America~Caribbean/Barbados/City/Bridgetown.md) 
+### #is_/same_as :: [Bridgetown](/_Standards/Earth/Continent/America~Caribbean/Barbados/City/Bridgetown.md) 
 
-### [Bridgetown.public](/_public/Earth/Continent/America~Caribbean/Barbados/City/Bridgetown.public.md) 
+### #is_/same_as :: [Bridgetown.public](/_public/Earth/Continent/America~Caribbean/Barbados/City/Bridgetown.public.md) 
 
-### [Bridgetown.internal](/_internal/Earth/Continent/America~Caribbean/Barbados/City/Bridgetown.internal.md) 
+### #is_/same_as :: [Bridgetown.internal](/_internal/Earth/Continent/America~Caribbean/Barbados/City/Bridgetown.internal.md) 
 
-### [Bridgetown.protect](/_protect/Earth/Continent/America~Caribbean/Barbados/City/Bridgetown.protect.md) 
+### #is_/same_as :: [Bridgetown.protect](/_protect/Earth/Continent/America~Caribbean/Barbados/City/Bridgetown.protect.md) 
 
-### [Bridgetown.private](/_private/Earth/Continent/America~Caribbean/Barbados/City/Bridgetown.private.md) 
+### #is_/same_as :: [Bridgetown.private](/_private/Earth/Continent/America~Caribbean/Barbados/City/Bridgetown.private.md) 
 
-### [Bridgetown.personal](/_personal/Earth/Continent/America~Caribbean/Barbados/City/Bridgetown.personal.md) 
+### #is_/same_as :: [Bridgetown.personal](/_personal/Earth/Continent/America~Caribbean/Barbados/City/Bridgetown.personal.md) 
 
-### [Bridgetown.secret](/_secret/Earth/Continent/America~Caribbean/Barbados/City/Bridgetown.secret.md)
+### #is_/same_as :: [Bridgetown.secret](/_secret/Earth/Continent/America~Caribbean/Barbados/City/Bridgetown.secret.md)
 

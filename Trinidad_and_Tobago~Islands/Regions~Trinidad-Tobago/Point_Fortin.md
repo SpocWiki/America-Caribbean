@@ -41,17 +41,17 @@ markerFolder: ./Point_Fortin/
 
 ## Confidential Links & Embeds: 
 
-### [Point_Fortin](/_Standards/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Point_Fortin.md) 
+### #is_/same_as :: [Point_Fortin](/_Standards/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Point_Fortin.md) 
 
-### [Point_Fortin.public](/_public/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Point_Fortin.public.md) 
+### #is_/same_as :: [Point_Fortin.public](/_public/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Point_Fortin.public.md) 
 
-### [Point_Fortin.internal](/_internal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Point_Fortin.internal.md) 
+### #is_/same_as :: [Point_Fortin.internal](/_internal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Point_Fortin.internal.md) 
 
-### [Point_Fortin.protect](/_protect/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Point_Fortin.protect.md) 
+### #is_/same_as :: [Point_Fortin.protect](/_protect/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Point_Fortin.protect.md) 
 
-### [Point_Fortin.private](/_private/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Point_Fortin.private.md) 
+### #is_/same_as :: [Point_Fortin.private](/_private/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Point_Fortin.private.md) 
 
-### [Point_Fortin.personal](/_personal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Point_Fortin.personal.md) 
+### #is_/same_as :: [Point_Fortin.personal](/_personal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Point_Fortin.personal.md) 
 
-### [Point_Fortin.secret](/_secret/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Point_Fortin.secret.md)
+### #is_/same_as :: [Point_Fortin.secret](/_secret/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Point_Fortin.secret.md)
 

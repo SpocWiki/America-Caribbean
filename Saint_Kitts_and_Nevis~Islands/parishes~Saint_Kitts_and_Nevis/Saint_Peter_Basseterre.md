@@ -41,17 +41,17 @@ markerFolder: ./Saint_Peter_Basseterre/
 
 ## Confidential Links & Embeds: 
 
-### [Saint_Peter_Basseterre](/_Standards/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_Peter_Basseterre.md) 
+### #is_/same_as :: [Saint_Peter_Basseterre](/_Standards/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_Peter_Basseterre.md) 
 
-### [Saint_Peter_Basseterre.public](/_public/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_Peter_Basseterre.public.md) 
+### #is_/same_as :: [Saint_Peter_Basseterre.public](/_public/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_Peter_Basseterre.public.md) 
 
-### [Saint_Peter_Basseterre.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_Peter_Basseterre.internal.md) 
+### #is_/same_as :: [Saint_Peter_Basseterre.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_Peter_Basseterre.internal.md) 
 
-### [Saint_Peter_Basseterre.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_Peter_Basseterre.protect.md) 
+### #is_/same_as :: [Saint_Peter_Basseterre.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_Peter_Basseterre.protect.md) 
 
-### [Saint_Peter_Basseterre.private](/_private/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_Peter_Basseterre.private.md) 
+### #is_/same_as :: [Saint_Peter_Basseterre.private](/_private/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_Peter_Basseterre.private.md) 
 
-### [Saint_Peter_Basseterre.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_Peter_Basseterre.personal.md) 
+### #is_/same_as :: [Saint_Peter_Basseterre.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_Peter_Basseterre.personal.md) 
 
-### [Saint_Peter_Basseterre.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_Peter_Basseterre.secret.md)
+### #is_/same_as :: [Saint_Peter_Basseterre.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_Peter_Basseterre.secret.md)
 

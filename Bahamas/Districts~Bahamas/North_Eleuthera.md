@@ -41,17 +41,17 @@ markerFolder: ./North_Eleuthera/
 
 ## Confidential Links & Embeds: 
 
-### [North_Eleuthera](/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/North_Eleuthera.md) 
+### #is_/same_as :: [North_Eleuthera](/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/North_Eleuthera.md) 
 
-### [North_Eleuthera.public](/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/North_Eleuthera.public.md) 
+### #is_/same_as :: [North_Eleuthera.public](/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/North_Eleuthera.public.md) 
 
-### [North_Eleuthera.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/North_Eleuthera.internal.md) 
+### #is_/same_as :: [North_Eleuthera.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/North_Eleuthera.internal.md) 
 
-### [North_Eleuthera.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/North_Eleuthera.protect.md) 
+### #is_/same_as :: [North_Eleuthera.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/North_Eleuthera.protect.md) 
 
-### [North_Eleuthera.private](/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/North_Eleuthera.private.md) 
+### #is_/same_as :: [North_Eleuthera.private](/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/North_Eleuthera.private.md) 
 
-### [North_Eleuthera.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/North_Eleuthera.personal.md) 
+### #is_/same_as :: [North_Eleuthera.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/North_Eleuthera.personal.md) 
 
-### [North_Eleuthera.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/North_Eleuthera.secret.md)
+### #is_/same_as :: [North_Eleuthera.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/North_Eleuthera.secret.md)
 

@@ -275,17 +275,17 @@ Capital :: [[Bermuda/Counties/Pembroke/City/Hamilton]]
 
 ## Confidential Links & Embeds: 
 
-### [Bermuda](/_Standards/Earth/Continent/America~Caribbean/Bermuda.md) 
+### #is_/same_as :: [Bermuda](/_Standards/Earth/Continent/America~Caribbean/Bermuda.md) 
 
-### [Bermuda.public](/_public/Earth/Continent/America~Caribbean/Bermuda.public.md) 
+### #is_/same_as :: [Bermuda.public](/_public/Earth/Continent/America~Caribbean/Bermuda.public.md) 
 
-### [Bermuda.internal](/_internal/Earth/Continent/America~Caribbean/Bermuda.internal.md) 
+### #is_/same_as :: [Bermuda.internal](/_internal/Earth/Continent/America~Caribbean/Bermuda.internal.md) 
 
-### [Bermuda.protect](/_protect/Earth/Continent/America~Caribbean/Bermuda.protect.md) 
+### #is_/same_as :: [Bermuda.protect](/_protect/Earth/Continent/America~Caribbean/Bermuda.protect.md) 
 
-### [Bermuda.private](/_private/Earth/Continent/America~Caribbean/Bermuda.private.md) 
+### #is_/same_as :: [Bermuda.private](/_private/Earth/Continent/America~Caribbean/Bermuda.private.md) 
 
-### [Bermuda.personal](/_personal/Earth/Continent/America~Caribbean/Bermuda.personal.md) 
+### #is_/same_as :: [Bermuda.personal](/_personal/Earth/Continent/America~Caribbean/Bermuda.personal.md) 
 
-### [Bermuda.secret](/_secret/Earth/Continent/America~Caribbean/Bermuda.secret.md)
+### #is_/same_as :: [Bermuda.secret](/_secret/Earth/Continent/America~Caribbean/Bermuda.secret.md)
 

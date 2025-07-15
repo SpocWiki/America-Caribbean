@@ -61,17 +61,17 @@ Capital :: [[Saint_Lucia/Counties/Castries/City/Castries]]
 
 ## Confidential Links & Embeds: 
 
-### [Saint_Lucia](/_Standards/Earth/Continent/America~Caribbean/Saint_Lucia.md) 
+### #is_/same_as :: [Saint_Lucia](/_Standards/Earth/Continent/America~Caribbean/Saint_Lucia.md) 
 
-### [Saint_Lucia.public](/_public/Earth/Continent/America~Caribbean/Saint_Lucia.public.md) 
+### #is_/same_as :: [Saint_Lucia.public](/_public/Earth/Continent/America~Caribbean/Saint_Lucia.public.md) 
 
-### [Saint_Lucia.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Lucia.internal.md) 
+### #is_/same_as :: [Saint_Lucia.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Lucia.internal.md) 
 
-### [Saint_Lucia.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Lucia.protect.md) 
+### #is_/same_as :: [Saint_Lucia.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Lucia.protect.md) 
 
-### [Saint_Lucia.private](/_private/Earth/Continent/America~Caribbean/Saint_Lucia.private.md) 
+### #is_/same_as :: [Saint_Lucia.private](/_private/Earth/Continent/America~Caribbean/Saint_Lucia.private.md) 
 
-### [Saint_Lucia.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Lucia.personal.md) 
+### #is_/same_as :: [Saint_Lucia.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Lucia.personal.md) 
 
-### [Saint_Lucia.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Lucia.secret.md)
+### #is_/same_as :: [Saint_Lucia.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Lucia.secret.md)
 

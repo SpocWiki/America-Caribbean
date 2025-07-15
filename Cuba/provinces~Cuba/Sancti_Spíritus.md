@@ -41,17 +41,17 @@ markerFolder: ./Sancti_Spíritus/
 
 ## Confidential Links & Embeds: 
 
-### [Sancti_Spíritus](/_Standards/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Sancti_Spíritus.md) 
+### #is_/same_as :: [Sancti_Spíritus](/_Standards/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Sancti_Spíritus.md) 
 
-### [Sancti_Spíritus.public](/_public/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Sancti_Spíritus.public.md) 
+### #is_/same_as :: [Sancti_Spíritus.public](/_public/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Sancti_Spíritus.public.md) 
 
-### [Sancti_Spíritus.internal](/_internal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Sancti_Spíritus.internal.md) 
+### #is_/same_as :: [Sancti_Spíritus.internal](/_internal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Sancti_Spíritus.internal.md) 
 
-### [Sancti_Spíritus.protect](/_protect/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Sancti_Spíritus.protect.md) 
+### #is_/same_as :: [Sancti_Spíritus.protect](/_protect/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Sancti_Spíritus.protect.md) 
 
-### [Sancti_Spíritus.private](/_private/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Sancti_Spíritus.private.md) 
+### #is_/same_as :: [Sancti_Spíritus.private](/_private/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Sancti_Spíritus.private.md) 
 
-### [Sancti_Spíritus.personal](/_personal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Sancti_Spíritus.personal.md) 
+### #is_/same_as :: [Sancti_Spíritus.personal](/_personal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Sancti_Spíritus.personal.md) 
 
-### [Sancti_Spíritus.secret](/_secret/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Sancti_Spíritus.secret.md)
+### #is_/same_as :: [Sancti_Spíritus.secret](/_secret/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Sancti_Spíritus.secret.md)
 

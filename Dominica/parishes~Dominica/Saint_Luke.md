@@ -41,17 +41,17 @@ markerFolder: ./Saint_Luke/
 
 ## Confidential Links & Embeds: 
 
-### [Saint_Luke](/_Standards/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Luke.md) 
+### #is_/same_as :: [Saint_Luke](/_Standards/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Luke.md) 
 
-### [Saint_Luke.public](/_public/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Luke.public.md) 
+### #is_/same_as :: [Saint_Luke.public](/_public/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Luke.public.md) 
 
-### [Saint_Luke.internal](/_internal/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Luke.internal.md) 
+### #is_/same_as :: [Saint_Luke.internal](/_internal/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Luke.internal.md) 
 
-### [Saint_Luke.protect](/_protect/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Luke.protect.md) 
+### #is_/same_as :: [Saint_Luke.protect](/_protect/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Luke.protect.md) 
 
-### [Saint_Luke.private](/_private/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Luke.private.md) 
+### #is_/same_as :: [Saint_Luke.private](/_private/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Luke.private.md) 
 
-### [Saint_Luke.personal](/_personal/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Luke.personal.md) 
+### #is_/same_as :: [Saint_Luke.personal](/_personal/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Luke.personal.md) 
 
-### [Saint_Luke.secret](/_secret/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Luke.secret.md)
+### #is_/same_as :: [Saint_Luke.secret](/_secret/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Luke.secret.md)
 

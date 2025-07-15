@@ -41,17 +41,17 @@ markerFolder: ./Sandys/
 
 ## Confidential Links & Embeds: 
 
-### [Sandys](/_Standards/Earth/Continent/America~Caribbean/Bermuda/Counties/Sandys.md) 
+### #is_/same_as :: [Sandys](/_Standards/Earth/Continent/America~Caribbean/Bermuda/Counties/Sandys.md) 
 
-### [Sandys.public](/_public/Earth/Continent/America~Caribbean/Bermuda/Counties/Sandys.public.md) 
+### #is_/same_as :: [Sandys.public](/_public/Earth/Continent/America~Caribbean/Bermuda/Counties/Sandys.public.md) 
 
-### [Sandys.internal](/_internal/Earth/Continent/America~Caribbean/Bermuda/Counties/Sandys.internal.md) 
+### #is_/same_as :: [Sandys.internal](/_internal/Earth/Continent/America~Caribbean/Bermuda/Counties/Sandys.internal.md) 
 
-### [Sandys.protect](/_protect/Earth/Continent/America~Caribbean/Bermuda/Counties/Sandys.protect.md) 
+### #is_/same_as :: [Sandys.protect](/_protect/Earth/Continent/America~Caribbean/Bermuda/Counties/Sandys.protect.md) 
 
-### [Sandys.private](/_private/Earth/Continent/America~Caribbean/Bermuda/Counties/Sandys.private.md) 
+### #is_/same_as :: [Sandys.private](/_private/Earth/Continent/America~Caribbean/Bermuda/Counties/Sandys.private.md) 
 
-### [Sandys.personal](/_personal/Earth/Continent/America~Caribbean/Bermuda/Counties/Sandys.personal.md) 
+### #is_/same_as :: [Sandys.personal](/_personal/Earth/Continent/America~Caribbean/Bermuda/Counties/Sandys.personal.md) 
 
-### [Sandys.secret](/_secret/Earth/Continent/America~Caribbean/Bermuda/Counties/Sandys.secret.md)
+### #is_/same_as :: [Sandys.secret](/_secret/Earth/Continent/America~Caribbean/Bermuda/Counties/Sandys.secret.md)
 

@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Habana=Havana=Havanna](/_Standards/Earth/Continent/America~Caribbean/Cuba/City/Habana=Havana=Havanna.md) 
+### #is_/same_as :: [Habana=Havana=Havanna](/_Standards/Earth/Continent/America~Caribbean/Cuba/City/Habana=Havana=Havanna.md) 
 
-### [Habana=Havana=Havanna.public](/_public/Earth/Continent/America~Caribbean/Cuba/City/Habana=Havana=Havanna.public.md) 
+### #is_/same_as :: [Habana=Havana=Havanna.public](/_public/Earth/Continent/America~Caribbean/Cuba/City/Habana=Havana=Havanna.public.md) 
 
-### [Habana=Havana=Havanna.internal](/_internal/Earth/Continent/America~Caribbean/Cuba/City/Habana=Havana=Havanna.internal.md) 
+### #is_/same_as :: [Habana=Havana=Havanna.internal](/_internal/Earth/Continent/America~Caribbean/Cuba/City/Habana=Havana=Havanna.internal.md) 
 
-### [Habana=Havana=Havanna.protect](/_protect/Earth/Continent/America~Caribbean/Cuba/City/Habana=Havana=Havanna.protect.md) 
+### #is_/same_as :: [Habana=Havana=Havanna.protect](/_protect/Earth/Continent/America~Caribbean/Cuba/City/Habana=Havana=Havanna.protect.md) 
 
-### [Habana=Havana=Havanna.private](/_private/Earth/Continent/America~Caribbean/Cuba/City/Habana=Havana=Havanna.private.md) 
+### #is_/same_as :: [Habana=Havana=Havanna.private](/_private/Earth/Continent/America~Caribbean/Cuba/City/Habana=Havana=Havanna.private.md) 
 
-### [Habana=Havana=Havanna.personal](/_personal/Earth/Continent/America~Caribbean/Cuba/City/Habana=Havana=Havanna.personal.md) 
+### #is_/same_as :: [Habana=Havana=Havanna.personal](/_personal/Earth/Continent/America~Caribbean/Cuba/City/Habana=Havana=Havanna.personal.md) 
 
-### [Habana=Havana=Havanna.secret](/_secret/Earth/Continent/America~Caribbean/Cuba/City/Habana=Havana=Havanna.secret.md)
+### #is_/same_as :: [Habana=Havana=Havanna.secret](/_secret/Earth/Continent/America~Caribbean/Cuba/City/Habana=Havana=Havanna.secret.md)
 

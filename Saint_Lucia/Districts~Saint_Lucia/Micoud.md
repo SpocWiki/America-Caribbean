@@ -41,17 +41,17 @@ markerFolder: ./Micoud/
 
 ## Confidential Links & Embeds: 
 
-### [Micoud](/_Standards/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Micoud.md) 
+### #is_/same_as :: [Micoud](/_Standards/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Micoud.md) 
 
-### [Micoud.public](/_public/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Micoud.public.md) 
+### #is_/same_as :: [Micoud.public](/_public/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Micoud.public.md) 
 
-### [Micoud.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Micoud.internal.md) 
+### #is_/same_as :: [Micoud.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Micoud.internal.md) 
 
-### [Micoud.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Micoud.protect.md) 
+### #is_/same_as :: [Micoud.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Micoud.protect.md) 
 
-### [Micoud.private](/_private/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Micoud.private.md) 
+### #is_/same_as :: [Micoud.private](/_private/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Micoud.private.md) 
 
-### [Micoud.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Micoud.personal.md) 
+### #is_/same_as :: [Micoud.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Micoud.personal.md) 
 
-### [Micoud.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Micoud.secret.md)
+### #is_/same_as :: [Micoud.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Micoud.secret.md)
 

@@ -41,17 +41,17 @@ markerFolder: ./Rio_Claro-Mayaro/
 
 ## Confidential Links & Embeds: 
 
-### [Rio_Claro-Mayaro](/_Standards/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Rio_Claro-Mayaro.md) 
+### #is_/same_as :: [Rio_Claro-Mayaro](/_Standards/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Rio_Claro-Mayaro.md) 
 
-### [Rio_Claro-Mayaro.public](/_public/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Rio_Claro-Mayaro.public.md) 
+### #is_/same_as :: [Rio_Claro-Mayaro.public](/_public/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Rio_Claro-Mayaro.public.md) 
 
-### [Rio_Claro-Mayaro.internal](/_internal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Rio_Claro-Mayaro.internal.md) 
+### #is_/same_as :: [Rio_Claro-Mayaro.internal](/_internal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Rio_Claro-Mayaro.internal.md) 
 
-### [Rio_Claro-Mayaro.protect](/_protect/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Rio_Claro-Mayaro.protect.md) 
+### #is_/same_as :: [Rio_Claro-Mayaro.protect](/_protect/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Rio_Claro-Mayaro.protect.md) 
 
-### [Rio_Claro-Mayaro.private](/_private/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Rio_Claro-Mayaro.private.md) 
+### #is_/same_as :: [Rio_Claro-Mayaro.private](/_private/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Rio_Claro-Mayaro.private.md) 
 
-### [Rio_Claro-Mayaro.personal](/_personal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Rio_Claro-Mayaro.personal.md) 
+### #is_/same_as :: [Rio_Claro-Mayaro.personal](/_personal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Rio_Claro-Mayaro.personal.md) 
 
-### [Rio_Claro-Mayaro.secret](/_secret/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Rio_Claro-Mayaro.secret.md)
+### #is_/same_as :: [Rio_Claro-Mayaro.secret](/_secret/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Rio_Claro-Mayaro.secret.md)
 

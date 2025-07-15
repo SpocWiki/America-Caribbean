@@ -41,17 +41,17 @@ markerFolder: ./Saint_John_Capesterre/
 
 ## Confidential Links & Embeds: 
 
-### [Saint_John_Capisterre](/_Standards/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_John_Capisterre.md) 
+### #is_/same_as :: [Saint_John_Capisterre](/_Standards/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_John_Capisterre.md) 
 
-### [Saint_John_Capisterre.public](/_public/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_John_Capisterre.public.md) 
+### #is_/same_as :: [Saint_John_Capisterre.public](/_public/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_John_Capisterre.public.md) 
 
-### [Saint_John_Capisterre.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_John_Capisterre.internal.md) 
+### #is_/same_as :: [Saint_John_Capisterre.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_John_Capisterre.internal.md) 
 
-### [Saint_John_Capisterre.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_John_Capisterre.protect.md) 
+### #is_/same_as :: [Saint_John_Capisterre.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_John_Capisterre.protect.md) 
 
-### [Saint_John_Capisterre.private](/_private/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_John_Capisterre.private.md) 
+### #is_/same_as :: [Saint_John_Capisterre.private](/_private/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_John_Capisterre.private.md) 
 
-### [Saint_John_Capisterre.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_John_Capisterre.personal.md) 
+### #is_/same_as :: [Saint_John_Capisterre.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_John_Capisterre.personal.md) 
 
-### [Saint_John_Capisterre.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_John_Capisterre.secret.md)
+### #is_/same_as :: [Saint_John_Capisterre.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_John_Capisterre.secret.md)
 

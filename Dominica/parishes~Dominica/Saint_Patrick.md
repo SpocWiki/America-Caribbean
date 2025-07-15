@@ -41,17 +41,17 @@ markerFolder: ./Saint_Patrick/
 
 ## Confidential Links & Embeds: 
 
-### [Saint_Patrick](/_Standards/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Patrick.md) 
+### #is_/same_as :: [Saint_Patrick](/_Standards/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Patrick.md) 
 
-### [Saint_Patrick.public](/_public/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Patrick.public.md) 
+### #is_/same_as :: [Saint_Patrick.public](/_public/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Patrick.public.md) 
 
-### [Saint_Patrick.internal](/_internal/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Patrick.internal.md) 
+### #is_/same_as :: [Saint_Patrick.internal](/_internal/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Patrick.internal.md) 
 
-### [Saint_Patrick.protect](/_protect/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Patrick.protect.md) 
+### #is_/same_as :: [Saint_Patrick.protect](/_protect/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Patrick.protect.md) 
 
-### [Saint_Patrick.private](/_private/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Patrick.private.md) 
+### #is_/same_as :: [Saint_Patrick.private](/_private/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Patrick.private.md) 
 
-### [Saint_Patrick.personal](/_personal/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Patrick.personal.md) 
+### #is_/same_as :: [Saint_Patrick.personal](/_personal/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Patrick.personal.md) 
 
-### [Saint_Patrick.secret](/_secret/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Patrick.secret.md)
+### #is_/same_as :: [Saint_Patrick.secret](/_secret/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Patrick.secret.md)
 

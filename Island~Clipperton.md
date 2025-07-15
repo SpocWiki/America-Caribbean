@@ -41,17 +41,17 @@ markerFolder: ./Island~Clipperton/
 
 ## Confidential Links & Embeds: 
 
-### [Island~Clipperton](/_Standards/Earth/Continent/America~Caribbean/Island~Clipperton.md) 
+### #is_/same_as :: [Island~Clipperton](/_Standards/Earth/Continent/America~Caribbean/Island~Clipperton.md) 
 
-### [Island~Clipperton.public](/_public/Earth/Continent/America~Caribbean/Island~Clipperton.public.md) 
+### #is_/same_as :: [Island~Clipperton.public](/_public/Earth/Continent/America~Caribbean/Island~Clipperton.public.md) 
 
-### [Island~Clipperton.internal](/_internal/Earth/Continent/America~Caribbean/Island~Clipperton.internal.md) 
+### #is_/same_as :: [Island~Clipperton.internal](/_internal/Earth/Continent/America~Caribbean/Island~Clipperton.internal.md) 
 
-### [Island~Clipperton.protect](/_protect/Earth/Continent/America~Caribbean/Island~Clipperton.protect.md) 
+### #is_/same_as :: [Island~Clipperton.protect](/_protect/Earth/Continent/America~Caribbean/Island~Clipperton.protect.md) 
 
-### [Island~Clipperton.private](/_private/Earth/Continent/America~Caribbean/Island~Clipperton.private.md) 
+### #is_/same_as :: [Island~Clipperton.private](/_private/Earth/Continent/America~Caribbean/Island~Clipperton.private.md) 
 
-### [Island~Clipperton.personal](/_personal/Earth/Continent/America~Caribbean/Island~Clipperton.personal.md) 
+### #is_/same_as :: [Island~Clipperton.personal](/_personal/Earth/Continent/America~Caribbean/Island~Clipperton.personal.md) 
 
-### [Island~Clipperton.secret](/_secret/Earth/Continent/America~Caribbean/Island~Clipperton.secret.md)
+### #is_/same_as :: [Island~Clipperton.secret](/_secret/Earth/Continent/America~Caribbean/Island~Clipperton.secret.md)
 

@@ -41,17 +41,17 @@ markerFolder: ./Saint_George/
 
 ## Confidential Links & Embeds: 
 
-### [Saint_George](/_Standards/Earth/Continent/America~Caribbean/Grenada/parishes~Grenada/Saint_George.md) 
+### #is_/same_as :: [Saint_George](/_Standards/Earth/Continent/America~Caribbean/Grenada/parishes~Grenada/Saint_George.md) 
 
-### [Saint_George.public](/_public/Earth/Continent/America~Caribbean/Grenada/parishes~Grenada/Saint_George.public.md) 
+### #is_/same_as :: [Saint_George.public](/_public/Earth/Continent/America~Caribbean/Grenada/parishes~Grenada/Saint_George.public.md) 
 
-### [Saint_George.internal](/_internal/Earth/Continent/America~Caribbean/Grenada/parishes~Grenada/Saint_George.internal.md) 
+### #is_/same_as :: [Saint_George.internal](/_internal/Earth/Continent/America~Caribbean/Grenada/parishes~Grenada/Saint_George.internal.md) 
 
-### [Saint_George.protect](/_protect/Earth/Continent/America~Caribbean/Grenada/parishes~Grenada/Saint_George.protect.md) 
+### #is_/same_as :: [Saint_George.protect](/_protect/Earth/Continent/America~Caribbean/Grenada/parishes~Grenada/Saint_George.protect.md) 
 
-### [Saint_George.private](/_private/Earth/Continent/America~Caribbean/Grenada/parishes~Grenada/Saint_George.private.md) 
+### #is_/same_as :: [Saint_George.private](/_private/Earth/Continent/America~Caribbean/Grenada/parishes~Grenada/Saint_George.private.md) 
 
-### [Saint_George.personal](/_personal/Earth/Continent/America~Caribbean/Grenada/parishes~Grenada/Saint_George.personal.md) 
+### #is_/same_as :: [Saint_George.personal](/_personal/Earth/Continent/America~Caribbean/Grenada/parishes~Grenada/Saint_George.personal.md) 
 
-### [Saint_George.secret](/_secret/Earth/Continent/America~Caribbean/Grenada/parishes~Grenada/Saint_George.secret.md)
+### #is_/same_as :: [Saint_George.secret](/_secret/Earth/Continent/America~Caribbean/Grenada/parishes~Grenada/Saint_George.secret.md)
 

@@ -41,17 +41,17 @@ markerFolder: ./Long_Island/
 
 ## Confidential Links & Embeds: 
 
-### [Long_Island](/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Long_Island.md) 
+### #is_/same_as :: [Long_Island](/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Long_Island.md) 
 
-### [Long_Island.public](/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Long_Island.public.md) 
+### #is_/same_as :: [Long_Island.public](/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Long_Island.public.md) 
 
-### [Long_Island.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Long_Island.internal.md) 
+### #is_/same_as :: [Long_Island.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Long_Island.internal.md) 
 
-### [Long_Island.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Long_Island.protect.md) 
+### #is_/same_as :: [Long_Island.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Long_Island.protect.md) 
 
-### [Long_Island.private](/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Long_Island.private.md) 
+### #is_/same_as :: [Long_Island.private](/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Long_Island.private.md) 
 
-### [Long_Island.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Long_Island.personal.md) 
+### #is_/same_as :: [Long_Island.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Long_Island.personal.md) 
 
-### [Long_Island.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Long_Island.secret.md)
+### #is_/same_as :: [Long_Island.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Long_Island.secret.md)
 

@@ -41,17 +41,17 @@ markerFolder: ./Grand'Anse/
 
 ## Confidential Links & Embeds: 
 
-### [Grand'Anse](/_Standards/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Grand'Anse.md) 
+### #is_/same_as :: [Grand'Anse](/_Standards/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Grand'Anse.md) 
 
-### [Grand'Anse.public](/_public/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Grand'Anse.public.md) 
+### #is_/same_as :: [Grand'Anse.public](/_public/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Grand'Anse.public.md) 
 
-### [Grand'Anse.internal](/_internal/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Grand'Anse.internal.md) 
+### #is_/same_as :: [Grand'Anse.internal](/_internal/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Grand'Anse.internal.md) 
 
-### [Grand'Anse.protect](/_protect/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Grand'Anse.protect.md) 
+### #is_/same_as :: [Grand'Anse.protect](/_protect/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Grand'Anse.protect.md) 
 
-### [Grand'Anse.private](/_private/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Grand'Anse.private.md) 
+### #is_/same_as :: [Grand'Anse.private](/_private/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Grand'Anse.private.md) 
 
-### [Grand'Anse.personal](/_personal/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Grand'Anse.personal.md) 
+### #is_/same_as :: [Grand'Anse.personal](/_personal/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Grand'Anse.personal.md) 
 
-### [Grand'Anse.secret](/_secret/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Grand'Anse.secret.md)
+### #is_/same_as :: [Grand'Anse.secret](/_secret/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Grand'Anse.secret.md)
 

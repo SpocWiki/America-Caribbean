@@ -41,17 +41,17 @@ markerFolder: ./Saint_George's/
 
 ## Confidential Links & Embeds: 
 
-### [Saint_George-Municipality](/_Standards/Earth/Continent/America~Caribbean/Bermuda/Counties/Saint_George-Municipality.md) 
+### #is_/same_as :: [Saint_George-Municipality](/_Standards/Earth/Continent/America~Caribbean/Bermuda/Counties/Saint_George-Municipality.md) 
 
-### [Saint_George-Municipality.public](/_public/Earth/Continent/America~Caribbean/Bermuda/Counties/Saint_George-Municipality.public.md) 
+### #is_/same_as :: [Saint_George-Municipality.public](/_public/Earth/Continent/America~Caribbean/Bermuda/Counties/Saint_George-Municipality.public.md) 
 
-### [Saint_George-Municipality.internal](/_internal/Earth/Continent/America~Caribbean/Bermuda/Counties/Saint_George-Municipality.internal.md) 
+### #is_/same_as :: [Saint_George-Municipality.internal](/_internal/Earth/Continent/America~Caribbean/Bermuda/Counties/Saint_George-Municipality.internal.md) 
 
-### [Saint_George-Municipality.protect](/_protect/Earth/Continent/America~Caribbean/Bermuda/Counties/Saint_George-Municipality.protect.md) 
+### #is_/same_as :: [Saint_George-Municipality.protect](/_protect/Earth/Continent/America~Caribbean/Bermuda/Counties/Saint_George-Municipality.protect.md) 
 
-### [Saint_George-Municipality.private](/_private/Earth/Continent/America~Caribbean/Bermuda/Counties/Saint_George-Municipality.private.md) 
+### #is_/same_as :: [Saint_George-Municipality.private](/_private/Earth/Continent/America~Caribbean/Bermuda/Counties/Saint_George-Municipality.private.md) 
 
-### [Saint_George-Municipality.personal](/_personal/Earth/Continent/America~Caribbean/Bermuda/Counties/Saint_George-Municipality.personal.md) 
+### #is_/same_as :: [Saint_George-Municipality.personal](/_personal/Earth/Continent/America~Caribbean/Bermuda/Counties/Saint_George-Municipality.personal.md) 
 
-### [Saint_George-Municipality.secret](/_secret/Earth/Continent/America~Caribbean/Bermuda/Counties/Saint_George-Municipality.secret.md)
+### #is_/same_as :: [Saint_George-Municipality.secret](/_secret/Earth/Continent/America~Caribbean/Bermuda/Counties/Saint_George-Municipality.secret.md)
 

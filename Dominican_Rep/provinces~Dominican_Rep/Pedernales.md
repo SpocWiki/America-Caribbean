@@ -41,17 +41,17 @@ markerFolder: ./Pedernales/
 
 ## Confidential Links & Embeds: 
 
-### [Pedernales](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Pedernales.md) 
+### #is_/same_as :: [Pedernales](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Pedernales.md) 
 
-### [Pedernales.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Pedernales.public.md) 
+### #is_/same_as :: [Pedernales.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Pedernales.public.md) 
 
-### [Pedernales.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Pedernales.internal.md) 
+### #is_/same_as :: [Pedernales.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Pedernales.internal.md) 
 
-### [Pedernales.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Pedernales.protect.md) 
+### #is_/same_as :: [Pedernales.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Pedernales.protect.md) 
 
-### [Pedernales.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Pedernales.private.md) 
+### #is_/same_as :: [Pedernales.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Pedernales.private.md) 
 
-### [Pedernales.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Pedernales.personal.md) 
+### #is_/same_as :: [Pedernales.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Pedernales.personal.md) 
 
-### [Pedernales.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Pedernales.secret.md)
+### #is_/same_as :: [Pedernales.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Pedernales.secret.md)
 

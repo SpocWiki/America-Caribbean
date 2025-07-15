@@ -41,17 +41,17 @@ markerFolder: ./Manchester/
 
 ## Confidential Links & Embeds: 
 
-### [Manchester](/_Standards/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Manchester.md) 
+### #is_/same_as :: [Manchester](/_Standards/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Manchester.md) 
 
-### [Manchester.public](/_public/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Manchester.public.md) 
+### #is_/same_as :: [Manchester.public](/_public/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Manchester.public.md) 
 
-### [Manchester.internal](/_internal/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Manchester.internal.md) 
+### #is_/same_as :: [Manchester.internal](/_internal/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Manchester.internal.md) 
 
-### [Manchester.protect](/_protect/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Manchester.protect.md) 
+### #is_/same_as :: [Manchester.protect](/_protect/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Manchester.protect.md) 
 
-### [Manchester.private](/_private/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Manchester.private.md) 
+### #is_/same_as :: [Manchester.private](/_private/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Manchester.private.md) 
 
-### [Manchester.personal](/_personal/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Manchester.personal.md) 
+### #is_/same_as :: [Manchester.personal](/_personal/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Manchester.personal.md) 
 
-### [Manchester.secret](/_secret/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Manchester.secret.md)
+### #is_/same_as :: [Manchester.secret](/_secret/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Manchester.secret.md)
 

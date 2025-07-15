@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Castries](/_Standards/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Castries/City/Castries.md) 
+### #is_/same_as :: [Castries](/_Standards/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Castries/City/Castries.md) 
 
-### [Castries.public](/_public/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Castries/City/Castries.public.md) 
+### #is_/same_as :: [Castries.public](/_public/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Castries/City/Castries.public.md) 
 
-### [Castries.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Castries/City/Castries.internal.md) 
+### #is_/same_as :: [Castries.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Castries/City/Castries.internal.md) 
 
-### [Castries.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Castries/City/Castries.protect.md) 
+### #is_/same_as :: [Castries.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Castries/City/Castries.protect.md) 
 
-### [Castries.private](/_private/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Castries/City/Castries.private.md) 
+### #is_/same_as :: [Castries.private](/_private/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Castries/City/Castries.private.md) 
 
-### [Castries.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Castries/City/Castries.personal.md) 
+### #is_/same_as :: [Castries.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Castries/City/Castries.personal.md) 
 
-### [Castries.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Castries/City/Castries.secret.md)
+### #is_/same_as :: [Castries.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Castries/City/Castries.secret.md)
 

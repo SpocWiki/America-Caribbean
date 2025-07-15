@@ -150,17 +150,17 @@ Capital :: [[Puerto_Rico/City/San_Juan]]
 
 ## Confidential Links & Embeds: 
 
-### [Puerto_Rico](/_Standards/Earth/Continent/America~Caribbean/Puerto_Rico.md) 
+### #is_/same_as :: [Puerto_Rico](/_Standards/Earth/Continent/America~Caribbean/Puerto_Rico.md) 
 
-### [Puerto_Rico.public](/_public/Earth/Continent/America~Caribbean/Puerto_Rico.public.md) 
+### #is_/same_as :: [Puerto_Rico.public](/_public/Earth/Continent/America~Caribbean/Puerto_Rico.public.md) 
 
-### [Puerto_Rico.internal](/_internal/Earth/Continent/America~Caribbean/Puerto_Rico.internal.md) 
+### #is_/same_as :: [Puerto_Rico.internal](/_internal/Earth/Continent/America~Caribbean/Puerto_Rico.internal.md) 
 
-### [Puerto_Rico.protect](/_protect/Earth/Continent/America~Caribbean/Puerto_Rico.protect.md) 
+### #is_/same_as :: [Puerto_Rico.protect](/_protect/Earth/Continent/America~Caribbean/Puerto_Rico.protect.md) 
 
-### [Puerto_Rico.private](/_private/Earth/Continent/America~Caribbean/Puerto_Rico.private.md) 
+### #is_/same_as :: [Puerto_Rico.private](/_private/Earth/Continent/America~Caribbean/Puerto_Rico.private.md) 
 
-### [Puerto_Rico.personal](/_personal/Earth/Continent/America~Caribbean/Puerto_Rico.personal.md) 
+### #is_/same_as :: [Puerto_Rico.personal](/_personal/Earth/Continent/America~Caribbean/Puerto_Rico.personal.md) 
 
-### [Puerto_Rico.secret](/_secret/Earth/Continent/America~Caribbean/Puerto_Rico.secret.md)
+### #is_/same_as :: [Puerto_Rico.secret](/_secret/Earth/Continent/America~Caribbean/Puerto_Rico.secret.md)
 

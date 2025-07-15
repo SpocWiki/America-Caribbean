@@ -41,17 +41,17 @@ markerFolder: ./Penal-Debe/
 
 ## Confidential Links & Embeds: 
 
-### [Penal-Debe](/_Standards/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Penal-Debe.md) 
+### #is_/same_as :: [Penal-Debe](/_Standards/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Penal-Debe.md) 
 
-### [Penal-Debe.public](/_public/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Penal-Debe.public.md) 
+### #is_/same_as :: [Penal-Debe.public](/_public/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Penal-Debe.public.md) 
 
-### [Penal-Debe.internal](/_internal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Penal-Debe.internal.md) 
+### #is_/same_as :: [Penal-Debe.internal](/_internal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Penal-Debe.internal.md) 
 
-### [Penal-Debe.protect](/_protect/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Penal-Debe.protect.md) 
+### #is_/same_as :: [Penal-Debe.protect](/_protect/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Penal-Debe.protect.md) 
 
-### [Penal-Debe.private](/_private/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Penal-Debe.private.md) 
+### #is_/same_as :: [Penal-Debe.private](/_private/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Penal-Debe.private.md) 
 
-### [Penal-Debe.personal](/_personal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Penal-Debe.personal.md) 
+### #is_/same_as :: [Penal-Debe.personal](/_personal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Penal-Debe.personal.md) 
 
-### [Penal-Debe.secret](/_secret/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Penal-Debe.secret.md)
+### #is_/same_as :: [Penal-Debe.secret](/_secret/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Penal-Debe.secret.md)
 

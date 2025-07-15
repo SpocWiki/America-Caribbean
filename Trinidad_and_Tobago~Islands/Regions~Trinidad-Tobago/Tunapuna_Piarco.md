@@ -41,17 +41,17 @@ markerFolder: ./Tunapuna_Piarco/
 
 ## Confidential Links & Embeds: 
 
-### [Tunapuna_Piarco](/_Standards/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Tunapuna_Piarco.md) 
+### #is_/same_as :: [Tunapuna_Piarco](/_Standards/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Tunapuna_Piarco.md) 
 
-### [Tunapuna_Piarco.public](/_public/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Tunapuna_Piarco.public.md) 
+### #is_/same_as :: [Tunapuna_Piarco.public](/_public/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Tunapuna_Piarco.public.md) 
 
-### [Tunapuna_Piarco.internal](/_internal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Tunapuna_Piarco.internal.md) 
+### #is_/same_as :: [Tunapuna_Piarco.internal](/_internal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Tunapuna_Piarco.internal.md) 
 
-### [Tunapuna_Piarco.protect](/_protect/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Tunapuna_Piarco.protect.md) 
+### #is_/same_as :: [Tunapuna_Piarco.protect](/_protect/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Tunapuna_Piarco.protect.md) 
 
-### [Tunapuna_Piarco.private](/_private/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Tunapuna_Piarco.private.md) 
+### #is_/same_as :: [Tunapuna_Piarco.private](/_private/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Tunapuna_Piarco.private.md) 
 
-### [Tunapuna_Piarco.personal](/_personal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Tunapuna_Piarco.personal.md) 
+### #is_/same_as :: [Tunapuna_Piarco.personal](/_personal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Tunapuna_Piarco.personal.md) 
 
-### [Tunapuna_Piarco.secret](/_secret/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Tunapuna_Piarco.secret.md)
+### #is_/same_as :: [Tunapuna_Piarco.secret](/_secret/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Tunapuna_Piarco.secret.md)
 

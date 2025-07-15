@@ -133,17 +133,17 @@ Continent :: [[South-America]]
 
 ## Confidential Links & Embeds: 
 
-### [British_Virgin-Islands](/_Standards/Earth/Continent/America~Caribbean/British_Virgin-Islands.md) 
+### #is_/same_as :: [British_Virgin-Islands](/_Standards/Earth/Continent/America~Caribbean/British_Virgin-Islands.md) 
 
-### [British_Virgin-Islands.public](/_public/Earth/Continent/America~Caribbean/British_Virgin-Islands.public.md) 
+### #is_/same_as :: [British_Virgin-Islands.public](/_public/Earth/Continent/America~Caribbean/British_Virgin-Islands.public.md) 
 
-### [British_Virgin-Islands.internal](/_internal/Earth/Continent/America~Caribbean/British_Virgin-Islands.internal.md) 
+### #is_/same_as :: [British_Virgin-Islands.internal](/_internal/Earth/Continent/America~Caribbean/British_Virgin-Islands.internal.md) 
 
-### [British_Virgin-Islands.protect](/_protect/Earth/Continent/America~Caribbean/British_Virgin-Islands.protect.md) 
+### #is_/same_as :: [British_Virgin-Islands.protect](/_protect/Earth/Continent/America~Caribbean/British_Virgin-Islands.protect.md) 
 
-### [British_Virgin-Islands.private](/_private/Earth/Continent/America~Caribbean/British_Virgin-Islands.private.md) 
+### #is_/same_as :: [British_Virgin-Islands.private](/_private/Earth/Continent/America~Caribbean/British_Virgin-Islands.private.md) 
 
-### [British_Virgin-Islands.personal](/_personal/Earth/Continent/America~Caribbean/British_Virgin-Islands.personal.md) 
+### #is_/same_as :: [British_Virgin-Islands.personal](/_personal/Earth/Continent/America~Caribbean/British_Virgin-Islands.personal.md) 
 
-### [British_Virgin-Islands.secret](/_secret/Earth/Continent/America~Caribbean/British_Virgin-Islands.secret.md)
+### #is_/same_as :: [British_Virgin-Islands.secret](/_secret/Earth/Continent/America~Caribbean/British_Virgin-Islands.secret.md)
 

@@ -41,17 +41,17 @@ markerFolder: ./Saint_James_Windward/
 
 ## Confidential Links & Embeds: 
 
-### [Saint_James_Windward](/_Standards/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_James_Windward.md) 
+### #is_/same_as :: [Saint_James_Windward](/_Standards/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_James_Windward.md) 
 
-### [Saint_James_Windward.public](/_public/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_James_Windward.public.md) 
+### #is_/same_as :: [Saint_James_Windward.public](/_public/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_James_Windward.public.md) 
 
-### [Saint_James_Windward.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_James_Windward.internal.md) 
+### #is_/same_as :: [Saint_James_Windward.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_James_Windward.internal.md) 
 
-### [Saint_James_Windward.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_James_Windward.protect.md) 
+### #is_/same_as :: [Saint_James_Windward.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_James_Windward.protect.md) 
 
-### [Saint_James_Windward.private](/_private/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_James_Windward.private.md) 
+### #is_/same_as :: [Saint_James_Windward.private](/_private/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_James_Windward.private.md) 
 
-### [Saint_James_Windward.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_James_Windward.personal.md) 
+### #is_/same_as :: [Saint_James_Windward.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_James_Windward.personal.md) 
 
-### [Saint_James_Windward.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_James_Windward.secret.md)
+### #is_/same_as :: [Saint_James_Windward.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_James_Windward.secret.md)
 

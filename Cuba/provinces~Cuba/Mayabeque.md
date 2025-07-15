@@ -41,17 +41,17 @@ markerFolder: ./Mayabeque/
 
 ## Confidential Links & Embeds: 
 
-### [Mayabeque](/_Standards/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Mayabeque.md) 
+### #is_/same_as :: [Mayabeque](/_Standards/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Mayabeque.md) 
 
-### [Mayabeque.public](/_public/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Mayabeque.public.md) 
+### #is_/same_as :: [Mayabeque.public](/_public/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Mayabeque.public.md) 
 
-### [Mayabeque.internal](/_internal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Mayabeque.internal.md) 
+### #is_/same_as :: [Mayabeque.internal](/_internal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Mayabeque.internal.md) 
 
-### [Mayabeque.protect](/_protect/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Mayabeque.protect.md) 
+### #is_/same_as :: [Mayabeque.protect](/_protect/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Mayabeque.protect.md) 
 
-### [Mayabeque.private](/_private/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Mayabeque.private.md) 
+### #is_/same_as :: [Mayabeque.private](/_private/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Mayabeque.private.md) 
 
-### [Mayabeque.personal](/_personal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Mayabeque.personal.md) 
+### #is_/same_as :: [Mayabeque.personal](/_personal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Mayabeque.personal.md) 
 
-### [Mayabeque.secret](/_secret/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Mayabeque.secret.md)
+### #is_/same_as :: [Mayabeque.secret](/_secret/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Mayabeque.secret.md)
 

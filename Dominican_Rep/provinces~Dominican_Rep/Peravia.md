@@ -41,17 +41,17 @@ markerFolder: ./Peravia/
 
 ## Confidential Links & Embeds: 
 
-### [Peravia](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Peravia.md) 
+### #is_/same_as :: [Peravia](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Peravia.md) 
 
-### [Peravia.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Peravia.public.md) 
+### #is_/same_as :: [Peravia.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Peravia.public.md) 
 
-### [Peravia.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Peravia.internal.md) 
+### #is_/same_as :: [Peravia.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Peravia.internal.md) 
 
-### [Peravia.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Peravia.protect.md) 
+### #is_/same_as :: [Peravia.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Peravia.protect.md) 
 
-### [Peravia.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Peravia.private.md) 
+### #is_/same_as :: [Peravia.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Peravia.private.md) 
 
-### [Peravia.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Peravia.personal.md) 
+### #is_/same_as :: [Peravia.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Peravia.personal.md) 
 
-### [Peravia.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Peravia.secret.md)
+### #is_/same_as :: [Peravia.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Peravia.secret.md)
 

@@ -41,17 +41,17 @@ markerFolder: ./San_Fernando/
 
 ## Confidential Links & Embeds: 
 
-### [San_Fernando](/_Standards/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/San_Fernando.md) 
+### #is_/same_as :: [San_Fernando](/_Standards/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/San_Fernando.md) 
 
-### [San_Fernando.public](/_public/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/San_Fernando.public.md) 
+### #is_/same_as :: [San_Fernando.public](/_public/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/San_Fernando.public.md) 
 
-### [San_Fernando.internal](/_internal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/San_Fernando.internal.md) 
+### #is_/same_as :: [San_Fernando.internal](/_internal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/San_Fernando.internal.md) 
 
-### [San_Fernando.protect](/_protect/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/San_Fernando.protect.md) 
+### #is_/same_as :: [San_Fernando.protect](/_protect/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/San_Fernando.protect.md) 
 
-### [San_Fernando.private](/_private/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/San_Fernando.private.md) 
+### #is_/same_as :: [San_Fernando.private](/_private/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/San_Fernando.private.md) 
 
-### [San_Fernando.personal](/_personal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/San_Fernando.personal.md) 
+### #is_/same_as :: [San_Fernando.personal](/_personal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/San_Fernando.personal.md) 
 
-### [San_Fernando.secret](/_secret/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/San_Fernando.secret.md)
+### #is_/same_as :: [San_Fernando.secret](/_secret/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/San_Fernando.secret.md)
 

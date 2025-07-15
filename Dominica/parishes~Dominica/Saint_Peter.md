@@ -41,17 +41,17 @@ markerFolder: ./Saint_Peter/
 
 ## Confidential Links & Embeds: 
 
-### [Saint_Peter](/_Standards/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Peter.md) 
+### #is_/same_as :: [Saint_Peter](/_Standards/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Peter.md) 
 
-### [Saint_Peter.public](/_public/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Peter.public.md) 
+### #is_/same_as :: [Saint_Peter.public](/_public/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Peter.public.md) 
 
-### [Saint_Peter.internal](/_internal/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Peter.internal.md) 
+### #is_/same_as :: [Saint_Peter.internal](/_internal/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Peter.internal.md) 
 
-### [Saint_Peter.protect](/_protect/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Peter.protect.md) 
+### #is_/same_as :: [Saint_Peter.protect](/_protect/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Peter.protect.md) 
 
-### [Saint_Peter.private](/_private/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Peter.private.md) 
+### #is_/same_as :: [Saint_Peter.private](/_private/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Peter.private.md) 
 
-### [Saint_Peter.personal](/_personal/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Peter.personal.md) 
+### #is_/same_as :: [Saint_Peter.personal](/_personal/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Peter.personal.md) 
 
-### [Saint_Peter.secret](/_secret/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Peter.secret.md)
+### #is_/same_as :: [Saint_Peter.secret](/_secret/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Peter.secret.md)
 

@@ -41,17 +41,17 @@ markerFolder: ./New_Providence/
 
 ## Confidential Links & Embeds: 
 
-### [New_Providence](/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/New_Providence.md) 
+### #is_/same_as :: [New_Providence](/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/New_Providence.md) 
 
-### [New_Providence.public](/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/New_Providence.public.md) 
+### #is_/same_as :: [New_Providence.public](/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/New_Providence.public.md) 
 
-### [New_Providence.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/New_Providence.internal.md) 
+### #is_/same_as :: [New_Providence.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/New_Providence.internal.md) 
 
-### [New_Providence.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/New_Providence.protect.md) 
+### #is_/same_as :: [New_Providence.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/New_Providence.protect.md) 
 
-### [New_Providence.private](/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/New_Providence.private.md) 
+### #is_/same_as :: [New_Providence.private](/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/New_Providence.private.md) 
 
-### [New_Providence.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/New_Providence.personal.md) 
+### #is_/same_as :: [New_Providence.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/New_Providence.personal.md) 
 
-### [New_Providence.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/New_Providence.secret.md)
+### #is_/same_as :: [New_Providence.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/New_Providence.secret.md)
 

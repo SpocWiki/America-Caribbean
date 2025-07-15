@@ -41,17 +41,17 @@ markerFolder: ./Gros_Islet/
 
 ## Confidential Links & Embeds: 
 
-### [Gros_Islet](/_Standards/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Gros_Islet.md) 
+### #is_/same_as :: [Gros_Islet](/_Standards/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Gros_Islet.md) 
 
-### [Gros_Islet.public](/_public/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Gros_Islet.public.md) 
+### #is_/same_as :: [Gros_Islet.public](/_public/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Gros_Islet.public.md) 
 
-### [Gros_Islet.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Gros_Islet.internal.md) 
+### #is_/same_as :: [Gros_Islet.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Gros_Islet.internal.md) 
 
-### [Gros_Islet.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Gros_Islet.protect.md) 
+### #is_/same_as :: [Gros_Islet.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Gros_Islet.protect.md) 
 
-### [Gros_Islet.private](/_private/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Gros_Islet.private.md) 
+### #is_/same_as :: [Gros_Islet.private](/_private/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Gros_Islet.private.md) 
 
-### [Gros_Islet.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Gros_Islet.personal.md) 
+### #is_/same_as :: [Gros_Islet.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Gros_Islet.personal.md) 
 
-### [Gros_Islet.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Gros_Islet.secret.md)
+### #is_/same_as :: [Gros_Islet.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Gros_Islet.secret.md)
 

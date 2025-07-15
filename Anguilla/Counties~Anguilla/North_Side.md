@@ -41,17 +41,17 @@ markerFolder: ./North_Side/
 
 ## Confidential Links & Embeds: 
 
-### [North_Side](/_Standards/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/North_Side.md) 
+### #is_/same_as :: [North_Side](/_Standards/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/North_Side.md) 
 
-### [North_Side.public](/_public/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/North_Side.public.md) 
+### #is_/same_as :: [North_Side.public](/_public/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/North_Side.public.md) 
 
-### [North_Side.internal](/_internal/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/North_Side.internal.md) 
+### #is_/same_as :: [North_Side.internal](/_internal/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/North_Side.internal.md) 
 
-### [North_Side.protect](/_protect/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/North_Side.protect.md) 
+### #is_/same_as :: [North_Side.protect](/_protect/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/North_Side.protect.md) 
 
-### [North_Side.private](/_private/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/North_Side.private.md) 
+### #is_/same_as :: [North_Side.private](/_private/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/North_Side.private.md) 
 
-### [North_Side.personal](/_personal/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/North_Side.personal.md) 
+### #is_/same_as :: [North_Side.personal](/_personal/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/North_Side.personal.md) 
 
-### [North_Side.secret](/_secret/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/North_Side.secret.md)
+### #is_/same_as :: [North_Side.secret](/_secret/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/North_Side.secret.md)
 

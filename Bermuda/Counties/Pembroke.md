@@ -41,17 +41,17 @@ markerFolder: ./Pembroke/
 
 ## Confidential Links & Embeds: 
 
-### [Pembroke](/_Standards/Earth/Continent/America~Caribbean/Bermuda/Counties/Pembroke.md) 
+### #is_/same_as :: [Pembroke](/_Standards/Earth/Continent/America~Caribbean/Bermuda/Counties/Pembroke.md) 
 
-### [Pembroke.public](/_public/Earth/Continent/America~Caribbean/Bermuda/Counties/Pembroke.public.md) 
+### #is_/same_as :: [Pembroke.public](/_public/Earth/Continent/America~Caribbean/Bermuda/Counties/Pembroke.public.md) 
 
-### [Pembroke.internal](/_internal/Earth/Continent/America~Caribbean/Bermuda/Counties/Pembroke.internal.md) 
+### #is_/same_as :: [Pembroke.internal](/_internal/Earth/Continent/America~Caribbean/Bermuda/Counties/Pembroke.internal.md) 
 
-### [Pembroke.protect](/_protect/Earth/Continent/America~Caribbean/Bermuda/Counties/Pembroke.protect.md) 
+### #is_/same_as :: [Pembroke.protect](/_protect/Earth/Continent/America~Caribbean/Bermuda/Counties/Pembroke.protect.md) 
 
-### [Pembroke.private](/_private/Earth/Continent/America~Caribbean/Bermuda/Counties/Pembroke.private.md) 
+### #is_/same_as :: [Pembroke.private](/_private/Earth/Continent/America~Caribbean/Bermuda/Counties/Pembroke.private.md) 
 
-### [Pembroke.personal](/_personal/Earth/Continent/America~Caribbean/Bermuda/Counties/Pembroke.personal.md) 
+### #is_/same_as :: [Pembroke.personal](/_personal/Earth/Continent/America~Caribbean/Bermuda/Counties/Pembroke.personal.md) 
 
-### [Pembroke.secret](/_secret/Earth/Continent/America~Caribbean/Bermuda/Counties/Pembroke.secret.md)
+### #is_/same_as :: [Pembroke.secret](/_secret/Earth/Continent/America~Caribbean/Bermuda/Counties/Pembroke.secret.md)
 

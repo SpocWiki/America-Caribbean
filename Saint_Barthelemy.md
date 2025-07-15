@@ -43,17 +43,17 @@ Continent :: [[South-America]]
 
 ## Confidential Links & Embeds: 
 
-### [Saint_Barthelemy](/_Standards/Earth/Continent/America~Caribbean/Saint_Barthelemy.md) 
+### #is_/same_as :: [Saint_Barthelemy](/_Standards/Earth/Continent/America~Caribbean/Saint_Barthelemy.md) 
 
-### [Saint_Barthelemy.public](/_public/Earth/Continent/America~Caribbean/Saint_Barthelemy.public.md) 
+### #is_/same_as :: [Saint_Barthelemy.public](/_public/Earth/Continent/America~Caribbean/Saint_Barthelemy.public.md) 
 
-### [Saint_Barthelemy.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Barthelemy.internal.md) 
+### #is_/same_as :: [Saint_Barthelemy.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Barthelemy.internal.md) 
 
-### [Saint_Barthelemy.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Barthelemy.protect.md) 
+### #is_/same_as :: [Saint_Barthelemy.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Barthelemy.protect.md) 
 
-### [Saint_Barthelemy.private](/_private/Earth/Continent/America~Caribbean/Saint_Barthelemy.private.md) 
+### #is_/same_as :: [Saint_Barthelemy.private](/_private/Earth/Continent/America~Caribbean/Saint_Barthelemy.private.md) 
 
-### [Saint_Barthelemy.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Barthelemy.personal.md) 
+### #is_/same_as :: [Saint_Barthelemy.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Barthelemy.personal.md) 
 
-### [Saint_Barthelemy.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Barthelemy.secret.md)
+### #is_/same_as :: [Saint_Barthelemy.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Barthelemy.secret.md)
 

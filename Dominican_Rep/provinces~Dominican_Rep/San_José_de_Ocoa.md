@@ -41,17 +41,17 @@ markerFolder: ./San_José_de_Ocoa/
 
 ## Confidential Links & Embeds: 
 
-### [San_José_de_Ocoa](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/San_José_de_Ocoa.md) 
+### #is_/same_as :: [San_José_de_Ocoa](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/San_José_de_Ocoa.md) 
 
-### [San_José_de_Ocoa.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/San_José_de_Ocoa.public.md) 
+### #is_/same_as :: [San_José_de_Ocoa.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/San_José_de_Ocoa.public.md) 
 
-### [San_José_de_Ocoa.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/San_José_de_Ocoa.internal.md) 
+### #is_/same_as :: [San_José_de_Ocoa.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/San_José_de_Ocoa.internal.md) 
 
-### [San_José_de_Ocoa.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/San_José_de_Ocoa.protect.md) 
+### #is_/same_as :: [San_José_de_Ocoa.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/San_José_de_Ocoa.protect.md) 
 
-### [San_José_de_Ocoa.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/San_José_de_Ocoa.private.md) 
+### #is_/same_as :: [San_José_de_Ocoa.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/San_José_de_Ocoa.private.md) 
 
-### [San_José_de_Ocoa.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/San_José_de_Ocoa.personal.md) 
+### #is_/same_as :: [San_José_de_Ocoa.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/San_José_de_Ocoa.personal.md) 
 
-### [San_José_de_Ocoa.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/San_José_de_Ocoa.secret.md)
+### #is_/same_as :: [San_José_de_Ocoa.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/San_José_de_Ocoa.secret.md)
 

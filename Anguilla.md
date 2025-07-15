@@ -132,17 +132,17 @@ Capital :: [[Anguilla/Counties/The_Valley/City/The_Valley]]
 
 ## Confidential Links & Embeds: 
 
-### [Anguilla](/_Standards/Earth/Continent/America~Caribbean/Anguilla.md) 
+### #is_/same_as :: [Anguilla](/_Standards/Earth/Continent/America~Caribbean/Anguilla.md) 
 
-### [Anguilla.public](/_public/Earth/Continent/America~Caribbean/Anguilla.public.md) 
+### #is_/same_as :: [Anguilla.public](/_public/Earth/Continent/America~Caribbean/Anguilla.public.md) 
 
-### [Anguilla.internal](/_internal/Earth/Continent/America~Caribbean/Anguilla.internal.md) 
+### #is_/same_as :: [Anguilla.internal](/_internal/Earth/Continent/America~Caribbean/Anguilla.internal.md) 
 
-### [Anguilla.protect](/_protect/Earth/Continent/America~Caribbean/Anguilla.protect.md) 
+### #is_/same_as :: [Anguilla.protect](/_protect/Earth/Continent/America~Caribbean/Anguilla.protect.md) 
 
-### [Anguilla.private](/_private/Earth/Continent/America~Caribbean/Anguilla.private.md) 
+### #is_/same_as :: [Anguilla.private](/_private/Earth/Continent/America~Caribbean/Anguilla.private.md) 
 
-### [Anguilla.personal](/_personal/Earth/Continent/America~Caribbean/Anguilla.personal.md) 
+### #is_/same_as :: [Anguilla.personal](/_personal/Earth/Continent/America~Caribbean/Anguilla.personal.md) 
 
-### [Anguilla.secret](/_secret/Earth/Continent/America~Caribbean/Anguilla.secret.md)
+### #is_/same_as :: [Anguilla.secret](/_secret/Earth/Continent/America~Caribbean/Anguilla.secret.md)
 

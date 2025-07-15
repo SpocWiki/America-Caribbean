@@ -41,17 +41,17 @@ markerFolder: ./El_Seybo/
 
 ## Confidential Links & Embeds: 
 
-### [El_Seybo](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/El_Seybo.md) 
+### #is_/same_as :: [El_Seybo](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/El_Seybo.md) 
 
-### [El_Seybo.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/El_Seybo.public.md) 
+### #is_/same_as :: [El_Seybo.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/El_Seybo.public.md) 
 
-### [El_Seybo.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/El_Seybo.internal.md) 
+### #is_/same_as :: [El_Seybo.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/El_Seybo.internal.md) 
 
-### [El_Seybo.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/El_Seybo.protect.md) 
+### #is_/same_as :: [El_Seybo.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/El_Seybo.protect.md) 
 
-### [El_Seybo.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/El_Seybo.private.md) 
+### #is_/same_as :: [El_Seybo.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/El_Seybo.private.md) 
 
-### [El_Seybo.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/El_Seybo.personal.md) 
+### #is_/same_as :: [El_Seybo.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/El_Seybo.personal.md) 
 
-### [El_Seybo.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/El_Seybo.secret.md)
+### #is_/same_as :: [El_Seybo.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/El_Seybo.secret.md)
 

@@ -41,17 +41,17 @@ markerFolder: ./Artemisa/
 
 ## Confidential Links & Embeds: 
 
-### [Artemisa](/_Standards/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Artemisa.md) 
+### #is_/same_as :: [Artemisa](/_Standards/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Artemisa.md) 
 
-### [Artemisa.public](/_public/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Artemisa.public.md) 
+### #is_/same_as :: [Artemisa.public](/_public/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Artemisa.public.md) 
 
-### [Artemisa.internal](/_internal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Artemisa.internal.md) 
+### #is_/same_as :: [Artemisa.internal](/_internal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Artemisa.internal.md) 
 
-### [Artemisa.protect](/_protect/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Artemisa.protect.md) 
+### #is_/same_as :: [Artemisa.protect](/_protect/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Artemisa.protect.md) 
 
-### [Artemisa.private](/_private/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Artemisa.private.md) 
+### #is_/same_as :: [Artemisa.private](/_private/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Artemisa.private.md) 
 
-### [Artemisa.personal](/_personal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Artemisa.personal.md) 
+### #is_/same_as :: [Artemisa.personal](/_personal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Artemisa.personal.md) 
 
-### [Artemisa.secret](/_secret/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Artemisa.secret.md)
+### #is_/same_as :: [Artemisa.secret](/_secret/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Artemisa.secret.md)
 

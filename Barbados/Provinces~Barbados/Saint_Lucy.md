@@ -41,17 +41,17 @@ markerFolder: ./Saint_Lucy/
 
 ## Confidential Links & Embeds: 
 
-### [Saint_Lucy](/_Standards/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Lucy.md) 
+### #is_/same_as :: [Saint_Lucy](/_Standards/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Lucy.md) 
 
-### [Saint_Lucy.public](/_public/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Lucy.public.md) 
+### #is_/same_as :: [Saint_Lucy.public](/_public/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Lucy.public.md) 
 
-### [Saint_Lucy.internal](/_internal/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Lucy.internal.md) 
+### #is_/same_as :: [Saint_Lucy.internal](/_internal/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Lucy.internal.md) 
 
-### [Saint_Lucy.protect](/_protect/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Lucy.protect.md) 
+### #is_/same_as :: [Saint_Lucy.protect](/_protect/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Lucy.protect.md) 
 
-### [Saint_Lucy.private](/_private/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Lucy.private.md) 
+### #is_/same_as :: [Saint_Lucy.private](/_private/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Lucy.private.md) 
 
-### [Saint_Lucy.personal](/_personal/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Lucy.personal.md) 
+### #is_/same_as :: [Saint_Lucy.personal](/_personal/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Lucy.personal.md) 
 
-### [Saint_Lucy.secret](/_secret/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Lucy.secret.md)
+### #is_/same_as :: [Saint_Lucy.secret](/_secret/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Lucy.secret.md)
 

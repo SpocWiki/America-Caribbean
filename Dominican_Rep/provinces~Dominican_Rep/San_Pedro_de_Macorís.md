@@ -41,17 +41,17 @@ markerFolder: ./San_Pedro_de_Macorís/
 
 ## Confidential Links & Embeds: 
 
-### [San_Pedro_de_Macorís](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/San_Pedro_de_Macorís.md) 
+### #is_/same_as :: [San_Pedro_de_Macorís](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/San_Pedro_de_Macorís.md) 
 
-### [San_Pedro_de_Macorís.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/San_Pedro_de_Macorís.public.md) 
+### #is_/same_as :: [San_Pedro_de_Macorís.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/San_Pedro_de_Macorís.public.md) 
 
-### [San_Pedro_de_Macorís.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/San_Pedro_de_Macorís.internal.md) 
+### #is_/same_as :: [San_Pedro_de_Macorís.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/San_Pedro_de_Macorís.internal.md) 
 
-### [San_Pedro_de_Macorís.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/San_Pedro_de_Macorís.protect.md) 
+### #is_/same_as :: [San_Pedro_de_Macorís.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/San_Pedro_de_Macorís.protect.md) 
 
-### [San_Pedro_de_Macorís.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/San_Pedro_de_Macorís.private.md) 
+### #is_/same_as :: [San_Pedro_de_Macorís.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/San_Pedro_de_Macorís.private.md) 
 
-### [San_Pedro_de_Macorís.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/San_Pedro_de_Macorís.personal.md) 
+### #is_/same_as :: [San_Pedro_de_Macorís.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/San_Pedro_de_Macorís.personal.md) 
 
-### [San_Pedro_de_Macorís.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/San_Pedro_de_Macorís.secret.md)
+### #is_/same_as :: [San_Pedro_de_Macorís.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/San_Pedro_de_Macorís.secret.md)
 

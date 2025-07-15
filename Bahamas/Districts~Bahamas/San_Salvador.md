@@ -41,17 +41,17 @@ markerFolder: ./San_Salvador/
 
 ## Confidential Links & Embeds: 
 
-### [San_Salvador](/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/San_Salvador.md) 
+### #is_/same_as :: [San_Salvador](/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/San_Salvador.md) 
 
-### [San_Salvador.public](/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/San_Salvador.public.md) 
+### #is_/same_as :: [San_Salvador.public](/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/San_Salvador.public.md) 
 
-### [San_Salvador.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/San_Salvador.internal.md) 
+### #is_/same_as :: [San_Salvador.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/San_Salvador.internal.md) 
 
-### [San_Salvador.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/San_Salvador.protect.md) 
+### #is_/same_as :: [San_Salvador.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/San_Salvador.protect.md) 
 
-### [San_Salvador.private](/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/San_Salvador.private.md) 
+### #is_/same_as :: [San_Salvador.private](/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/San_Salvador.private.md) 
 
-### [San_Salvador.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/San_Salvador.personal.md) 
+### #is_/same_as :: [San_Salvador.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/San_Salvador.personal.md) 
 
-### [San_Salvador.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/San_Salvador.secret.md)
+### #is_/same_as :: [San_Salvador.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/San_Salvador.secret.md)
 

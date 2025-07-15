@@ -41,17 +41,17 @@ markerFolder: ./Pinar_del_Río/
 
 ## Confidential Links & Embeds: 
 
-### [Pinar_del_Río](/_Standards/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Pinar_del_Río.md) 
+### #is_/same_as :: [Pinar_del_Río](/_Standards/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Pinar_del_Río.md) 
 
-### [Pinar_del_Río.public](/_public/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Pinar_del_Río.public.md) 
+### #is_/same_as :: [Pinar_del_Río.public](/_public/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Pinar_del_Río.public.md) 
 
-### [Pinar_del_Río.internal](/_internal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Pinar_del_Río.internal.md) 
+### #is_/same_as :: [Pinar_del_Río.internal](/_internal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Pinar_del_Río.internal.md) 
 
-### [Pinar_del_Río.protect](/_protect/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Pinar_del_Río.protect.md) 
+### #is_/same_as :: [Pinar_del_Río.protect](/_protect/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Pinar_del_Río.protect.md) 
 
-### [Pinar_del_Río.private](/_private/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Pinar_del_Río.private.md) 
+### #is_/same_as :: [Pinar_del_Río.private](/_private/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Pinar_del_Río.private.md) 
 
-### [Pinar_del_Río.personal](/_personal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Pinar_del_Río.personal.md) 
+### #is_/same_as :: [Pinar_del_Río.personal](/_personal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Pinar_del_Río.personal.md) 
 
-### [Pinar_del_Río.secret](/_secret/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Pinar_del_Río.secret.md)
+### #is_/same_as :: [Pinar_del_Río.secret](/_secret/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Pinar_del_Río.secret.md)
 

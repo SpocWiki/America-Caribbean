@@ -41,17 +41,17 @@ markerFolder: ./The_Farrington/
 
 ## Confidential Links & Embeds: 
 
-### [The_Farrington](/_Standards/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/The_Farrington.md) 
+### #is_/same_as :: [The_Farrington](/_Standards/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/The_Farrington.md) 
 
-### [The_Farrington.public](/_public/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/The_Farrington.public.md) 
+### #is_/same_as :: [The_Farrington.public](/_public/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/The_Farrington.public.md) 
 
-### [The_Farrington.internal](/_internal/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/The_Farrington.internal.md) 
+### #is_/same_as :: [The_Farrington.internal](/_internal/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/The_Farrington.internal.md) 
 
-### [The_Farrington.protect](/_protect/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/The_Farrington.protect.md) 
+### #is_/same_as :: [The_Farrington.protect](/_protect/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/The_Farrington.protect.md) 
 
-### [The_Farrington.private](/_private/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/The_Farrington.private.md) 
+### #is_/same_as :: [The_Farrington.private](/_private/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/The_Farrington.private.md) 
 
-### [The_Farrington.personal](/_personal/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/The_Farrington.personal.md) 
+### #is_/same_as :: [The_Farrington.personal](/_personal/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/The_Farrington.personal.md) 
 
-### [The_Farrington.secret](/_secret/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/The_Farrington.secret.md)
+### #is_/same_as :: [The_Farrington.secret](/_secret/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/The_Farrington.secret.md)
 

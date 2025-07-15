@@ -41,17 +41,17 @@ markerFolder: ./Espaillat/
 
 ## Confidential Links & Embeds: 
 
-### [Espaillat](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Espaillat.md) 
+### #is_/same_as :: [Espaillat](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Espaillat.md) 
 
-### [Espaillat.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Espaillat.public.md) 
+### #is_/same_as :: [Espaillat.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Espaillat.public.md) 
 
-### [Espaillat.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Espaillat.internal.md) 
+### #is_/same_as :: [Espaillat.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Espaillat.internal.md) 
 
-### [Espaillat.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Espaillat.protect.md) 
+### #is_/same_as :: [Espaillat.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Espaillat.protect.md) 
 
-### [Espaillat.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Espaillat.private.md) 
+### #is_/same_as :: [Espaillat.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Espaillat.private.md) 
 
-### [Espaillat.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Espaillat.personal.md) 
+### #is_/same_as :: [Espaillat.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Espaillat.personal.md) 
 
-### [Espaillat.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Espaillat.secret.md)
+### #is_/same_as :: [Espaillat.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Espaillat.secret.md)
 

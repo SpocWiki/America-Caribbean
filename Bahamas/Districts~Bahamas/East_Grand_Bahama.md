@@ -41,17 +41,17 @@ markerFolder: ./East_Grand_Bahama/
 
 ## Confidential Links & Embeds: 
 
-### [East_Grand_Bahama](/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/East_Grand_Bahama.md) 
+### #is_/same_as :: [East_Grand_Bahama](/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/East_Grand_Bahama.md) 
 
-### [East_Grand_Bahama.public](/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/East_Grand_Bahama.public.md) 
+### #is_/same_as :: [East_Grand_Bahama.public](/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/East_Grand_Bahama.public.md) 
 
-### [East_Grand_Bahama.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/East_Grand_Bahama.internal.md) 
+### #is_/same_as :: [East_Grand_Bahama.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/East_Grand_Bahama.internal.md) 
 
-### [East_Grand_Bahama.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/East_Grand_Bahama.protect.md) 
+### #is_/same_as :: [East_Grand_Bahama.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/East_Grand_Bahama.protect.md) 
 
-### [East_Grand_Bahama.private](/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/East_Grand_Bahama.private.md) 
+### #is_/same_as :: [East_Grand_Bahama.private](/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/East_Grand_Bahama.private.md) 
 
-### [East_Grand_Bahama.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/East_Grand_Bahama.personal.md) 
+### #is_/same_as :: [East_Grand_Bahama.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/East_Grand_Bahama.personal.md) 
 
-### [East_Grand_Bahama.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/East_Grand_Bahama.secret.md)
+### #is_/same_as :: [East_Grand_Bahama.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/East_Grand_Bahama.secret.md)
 

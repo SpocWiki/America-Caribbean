@@ -41,17 +41,17 @@ markerFolder: ./Centre/
 
 ## Confidential Links & Embeds: 
 
-### [Centre](/_Standards/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Centre.md) 
+### #is_/same_as :: [Centre](/_Standards/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Centre.md) 
 
-### [Centre.public](/_public/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Centre.public.md) 
+### #is_/same_as :: [Centre.public](/_public/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Centre.public.md) 
 
-### [Centre.internal](/_internal/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Centre.internal.md) 
+### #is_/same_as :: [Centre.internal](/_internal/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Centre.internal.md) 
 
-### [Centre.protect](/_protect/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Centre.protect.md) 
+### #is_/same_as :: [Centre.protect](/_protect/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Centre.protect.md) 
 
-### [Centre.private](/_private/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Centre.private.md) 
+### #is_/same_as :: [Centre.private](/_private/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Centre.private.md) 
 
-### [Centre.personal](/_personal/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Centre.personal.md) 
+### #is_/same_as :: [Centre.personal](/_personal/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Centre.personal.md) 
 
-### [Centre.secret](/_secret/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Centre.secret.md)
+### #is_/same_as :: [Centre.secret](/_secret/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Centre.secret.md)
 

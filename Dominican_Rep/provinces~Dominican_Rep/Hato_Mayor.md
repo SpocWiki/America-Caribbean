@@ -41,17 +41,17 @@ markerFolder: ./Hato_Mayor/
 
 ## Confidential Links & Embeds: 
 
-### [Hato_Mayor](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Hato_Mayor.md) 
+### #is_/same_as :: [Hato_Mayor](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Hato_Mayor.md) 
 
-### [Hato_Mayor.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Hato_Mayor.public.md) 
+### #is_/same_as :: [Hato_Mayor.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Hato_Mayor.public.md) 
 
-### [Hato_Mayor.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Hato_Mayor.internal.md) 
+### #is_/same_as :: [Hato_Mayor.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Hato_Mayor.internal.md) 
 
-### [Hato_Mayor.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Hato_Mayor.protect.md) 
+### #is_/same_as :: [Hato_Mayor.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Hato_Mayor.protect.md) 
 
-### [Hato_Mayor.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Hato_Mayor.private.md) 
+### #is_/same_as :: [Hato_Mayor.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Hato_Mayor.private.md) 
 
-### [Hato_Mayor.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Hato_Mayor.personal.md) 
+### #is_/same_as :: [Hato_Mayor.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Hato_Mayor.personal.md) 
 
-### [Hato_Mayor.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Hato_Mayor.secret.md)
+### #is_/same_as :: [Hato_Mayor.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Hato_Mayor.secret.md)
 

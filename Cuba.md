@@ -482,17 +482,17 @@ Capital :: [[Cuba/City/Habana=Havana=Havanna]]
 
 ## Confidential Links & Embeds: 
 
-### [Cuba](/_Standards/Earth/Continent/America~Caribbean/Cuba.md) 
+### #is_/same_as :: [Cuba](/_Standards/Earth/Continent/America~Caribbean/Cuba.md) 
 
-### [Cuba.public](/_public/Earth/Continent/America~Caribbean/Cuba.public.md) 
+### #is_/same_as :: [Cuba.public](/_public/Earth/Continent/America~Caribbean/Cuba.public.md) 
 
-### [Cuba.internal](/_internal/Earth/Continent/America~Caribbean/Cuba.internal.md) 
+### #is_/same_as :: [Cuba.internal](/_internal/Earth/Continent/America~Caribbean/Cuba.internal.md) 
 
-### [Cuba.protect](/_protect/Earth/Continent/America~Caribbean/Cuba.protect.md) 
+### #is_/same_as :: [Cuba.protect](/_protect/Earth/Continent/America~Caribbean/Cuba.protect.md) 
 
-### [Cuba.private](/_private/Earth/Continent/America~Caribbean/Cuba.private.md) 
+### #is_/same_as :: [Cuba.private](/_private/Earth/Continent/America~Caribbean/Cuba.private.md) 
 
-### [Cuba.personal](/_personal/Earth/Continent/America~Caribbean/Cuba.personal.md) 
+### #is_/same_as :: [Cuba.personal](/_personal/Earth/Continent/America~Caribbean/Cuba.personal.md) 
 
-### [Cuba.secret](/_secret/Earth/Continent/America~Caribbean/Cuba.secret.md)
+### #is_/same_as :: [Cuba.secret](/_secret/Earth/Continent/America~Caribbean/Cuba.secret.md)
 

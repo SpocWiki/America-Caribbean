@@ -58,17 +58,17 @@ markerFolder: ./Kingston/
 
 ## Confidential Links & Embeds: 
 
-### [Kingston](/_Standards/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Kingston.md) 
+### #is_/same_as :: [Kingston](/_Standards/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Kingston.md) 
 
-### [Kingston.public](/_public/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Kingston.public.md) 
+### #is_/same_as :: [Kingston.public](/_public/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Kingston.public.md) 
 
-### [Kingston.internal](/_internal/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Kingston.internal.md) 
+### #is_/same_as :: [Kingston.internal](/_internal/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Kingston.internal.md) 
 
-### [Kingston.protect](/_protect/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Kingston.protect.md) 
+### #is_/same_as :: [Kingston.protect](/_protect/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Kingston.protect.md) 
 
-### [Kingston.private](/_private/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Kingston.private.md) 
+### #is_/same_as :: [Kingston.private](/_private/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Kingston.private.md) 
 
-### [Kingston.personal](/_personal/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Kingston.personal.md) 
+### #is_/same_as :: [Kingston.personal](/_personal/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Kingston.personal.md) 
 
-### [Kingston.secret](/_secret/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Kingston.secret.md)
+### #is_/same_as :: [Kingston.secret](/_secret/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Kingston.secret.md)
 

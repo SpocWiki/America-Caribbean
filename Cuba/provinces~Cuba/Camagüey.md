@@ -41,17 +41,17 @@ markerFolder: ./Camagüey/
 
 ## Confidential Links & Embeds: 
 
-### [Camagüey](/_Standards/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Camagüey.md) 
+### #is_/same_as :: [Camagüey](/_Standards/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Camagüey.md) 
 
-### [Camagüey.public](/_public/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Camagüey.public.md) 
+### #is_/same_as :: [Camagüey.public](/_public/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Camagüey.public.md) 
 
-### [Camagüey.internal](/_internal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Camagüey.internal.md) 
+### #is_/same_as :: [Camagüey.internal](/_internal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Camagüey.internal.md) 
 
-### [Camagüey.protect](/_protect/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Camagüey.protect.md) 
+### #is_/same_as :: [Camagüey.protect](/_protect/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Camagüey.protect.md) 
 
-### [Camagüey.private](/_private/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Camagüey.private.md) 
+### #is_/same_as :: [Camagüey.private](/_private/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Camagüey.private.md) 
 
-### [Camagüey.personal](/_personal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Camagüey.personal.md) 
+### #is_/same_as :: [Camagüey.personal](/_personal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Camagüey.personal.md) 
 
-### [Camagüey.secret](/_secret/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Camagüey.secret.md)
+### #is_/same_as :: [Camagüey.secret](/_secret/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Camagüey.secret.md)
 

@@ -41,17 +41,17 @@ markerFolder: ./Grand_Turk/
 
 ## Confidential Links & Embeds: 
 
-### [Grand_Turk](/_Standards/Earth/Continent/America~Caribbean/Turks_and_Caicos~Islands/Districts~Turks_and_Caicos/Grand_Turk.md) 
+### #is_/same_as :: [Grand_Turk](/_Standards/Earth/Continent/America~Caribbean/Turks_and_Caicos~Islands/Districts~Turks_and_Caicos/Grand_Turk.md) 
 
-### [Grand_Turk.public](/_public/Earth/Continent/America~Caribbean/Turks_and_Caicos~Islands/Districts~Turks_and_Caicos/Grand_Turk.public.md) 
+### #is_/same_as :: [Grand_Turk.public](/_public/Earth/Continent/America~Caribbean/Turks_and_Caicos~Islands/Districts~Turks_and_Caicos/Grand_Turk.public.md) 
 
-### [Grand_Turk.internal](/_internal/Earth/Continent/America~Caribbean/Turks_and_Caicos~Islands/Districts~Turks_and_Caicos/Grand_Turk.internal.md) 
+### #is_/same_as :: [Grand_Turk.internal](/_internal/Earth/Continent/America~Caribbean/Turks_and_Caicos~Islands/Districts~Turks_and_Caicos/Grand_Turk.internal.md) 
 
-### [Grand_Turk.protect](/_protect/Earth/Continent/America~Caribbean/Turks_and_Caicos~Islands/Districts~Turks_and_Caicos/Grand_Turk.protect.md) 
+### #is_/same_as :: [Grand_Turk.protect](/_protect/Earth/Continent/America~Caribbean/Turks_and_Caicos~Islands/Districts~Turks_and_Caicos/Grand_Turk.protect.md) 
 
-### [Grand_Turk.private](/_private/Earth/Continent/America~Caribbean/Turks_and_Caicos~Islands/Districts~Turks_and_Caicos/Grand_Turk.private.md) 
+### #is_/same_as :: [Grand_Turk.private](/_private/Earth/Continent/America~Caribbean/Turks_and_Caicos~Islands/Districts~Turks_and_Caicos/Grand_Turk.private.md) 
 
-### [Grand_Turk.personal](/_personal/Earth/Continent/America~Caribbean/Turks_and_Caicos~Islands/Districts~Turks_and_Caicos/Grand_Turk.personal.md) 
+### #is_/same_as :: [Grand_Turk.personal](/_personal/Earth/Continent/America~Caribbean/Turks_and_Caicos~Islands/Districts~Turks_and_Caicos/Grand_Turk.personal.md) 
 
-### [Grand_Turk.secret](/_secret/Earth/Continent/America~Caribbean/Turks_and_Caicos~Islands/Districts~Turks_and_Caicos/Grand_Turk.secret.md)
+### #is_/same_as :: [Grand_Turk.secret](/_secret/Earth/Continent/America~Caribbean/Turks_and_Caicos~Islands/Districts~Turks_and_Caicos/Grand_Turk.secret.md)
 

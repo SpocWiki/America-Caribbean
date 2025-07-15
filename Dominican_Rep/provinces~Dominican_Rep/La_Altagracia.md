@@ -41,17 +41,17 @@ markerFolder: ./La_Altagracia/
 
 ## Confidential Links & Embeds: 
 
-### [La_Altagracia](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/La_Altagracia.md) 
+### #is_/same_as :: [La_Altagracia](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/La_Altagracia.md) 
 
-### [La_Altagracia.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/La_Altagracia.public.md) 
+### #is_/same_as :: [La_Altagracia.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/La_Altagracia.public.md) 
 
-### [La_Altagracia.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/La_Altagracia.internal.md) 
+### #is_/same_as :: [La_Altagracia.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/La_Altagracia.internal.md) 
 
-### [La_Altagracia.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/La_Altagracia.protect.md) 
+### #is_/same_as :: [La_Altagracia.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/La_Altagracia.protect.md) 
 
-### [La_Altagracia.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/La_Altagracia.private.md) 
+### #is_/same_as :: [La_Altagracia.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/La_Altagracia.private.md) 
 
-### [La_Altagracia.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/La_Altagracia.personal.md) 
+### #is_/same_as :: [La_Altagracia.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/La_Altagracia.personal.md) 
 
-### [La_Altagracia.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/La_Altagracia.secret.md)
+### #is_/same_as :: [La_Altagracia.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/La_Altagracia.secret.md)
 

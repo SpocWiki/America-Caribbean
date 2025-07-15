@@ -41,17 +41,17 @@ markerFolder: ./Siparia/
 
 ## Confidential Links & Embeds: 
 
-### [Siparia](/_Standards/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Siparia.md) 
+### #is_/same_as :: [Siparia](/_Standards/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Siparia.md) 
 
-### [Siparia.public](/_public/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Siparia.public.md) 
+### #is_/same_as :: [Siparia.public](/_public/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Siparia.public.md) 
 
-### [Siparia.internal](/_internal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Siparia.internal.md) 
+### #is_/same_as :: [Siparia.internal](/_internal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Siparia.internal.md) 
 
-### [Siparia.protect](/_protect/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Siparia.protect.md) 
+### #is_/same_as :: [Siparia.protect](/_protect/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Siparia.protect.md) 
 
-### [Siparia.private](/_private/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Siparia.private.md) 
+### #is_/same_as :: [Siparia.private](/_private/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Siparia.private.md) 
 
-### [Siparia.personal](/_personal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Siparia.personal.md) 
+### #is_/same_as :: [Siparia.personal](/_personal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Siparia.personal.md) 
 
-### [Siparia.secret](/_secret/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Siparia.secret.md)
+### #is_/same_as :: [Siparia.secret](/_secret/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Siparia.secret.md)
 

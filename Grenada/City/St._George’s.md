@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [St._George’s](/_Standards/Earth/Continent/America~Caribbean/Grenada/City/St._George’s.md) 
+### #is_/same_as :: [St._George’s](/_Standards/Earth/Continent/America~Caribbean/Grenada/City/St._George’s.md) 
 
-### [St._George’s.public](/_public/Earth/Continent/America~Caribbean/Grenada/City/St._George’s.public.md) 
+### #is_/same_as :: [St._George’s.public](/_public/Earth/Continent/America~Caribbean/Grenada/City/St._George’s.public.md) 
 
-### [St._George’s.internal](/_internal/Earth/Continent/America~Caribbean/Grenada/City/St._George’s.internal.md) 
+### #is_/same_as :: [St._George’s.internal](/_internal/Earth/Continent/America~Caribbean/Grenada/City/St._George’s.internal.md) 
 
-### [St._George’s.protect](/_protect/Earth/Continent/America~Caribbean/Grenada/City/St._George’s.protect.md) 
+### #is_/same_as :: [St._George’s.protect](/_protect/Earth/Continent/America~Caribbean/Grenada/City/St._George’s.protect.md) 
 
-### [St._George’s.private](/_private/Earth/Continent/America~Caribbean/Grenada/City/St._George’s.private.md) 
+### #is_/same_as :: [St._George’s.private](/_private/Earth/Continent/America~Caribbean/Grenada/City/St._George’s.private.md) 
 
-### [St._George’s.personal](/_personal/Earth/Continent/America~Caribbean/Grenada/City/St._George’s.personal.md) 
+### #is_/same_as :: [St._George’s.personal](/_personal/Earth/Continent/America~Caribbean/Grenada/City/St._George’s.personal.md) 
 
-### [St._George’s.secret](/_secret/Earth/Continent/America~Caribbean/Grenada/City/St._George’s.secret.md)
+### #is_/same_as :: [St._George’s.secret](/_secret/Earth/Continent/America~Caribbean/Grenada/City/St._George’s.secret.md)
 

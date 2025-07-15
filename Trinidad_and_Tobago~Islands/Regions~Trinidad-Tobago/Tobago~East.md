@@ -44,17 +44,17 @@ markerFolder: ./Tobago~East/
 
 ## Confidential Links & Embeds: 
 
-### [Tobago~East](/_Standards/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Tobago~East.md) 
+### #is_/same_as :: [Tobago~East](/_Standards/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Tobago~East.md) 
 
-### [Tobago~East.public](/_public/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Tobago~East.public.md) 
+### #is_/same_as :: [Tobago~East.public](/_public/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Tobago~East.public.md) 
 
-### [Tobago~East.internal](/_internal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Tobago~East.internal.md) 
+### #is_/same_as :: [Tobago~East.internal](/_internal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Tobago~East.internal.md) 
 
-### [Tobago~East.protect](/_protect/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Tobago~East.protect.md) 
+### #is_/same_as :: [Tobago~East.protect](/_protect/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Tobago~East.protect.md) 
 
-### [Tobago~East.private](/_private/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Tobago~East.private.md) 
+### #is_/same_as :: [Tobago~East.private](/_private/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Tobago~East.private.md) 
 
-### [Tobago~East.personal](/_personal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Tobago~East.personal.md) 
+### #is_/same_as :: [Tobago~East.personal](/_personal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Tobago~East.personal.md) 
 
-### [Tobago~East.secret](/_secret/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Tobago~East.secret.md)
+### #is_/same_as :: [Tobago~East.secret](/_secret/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Tobago~East.secret.md)
 

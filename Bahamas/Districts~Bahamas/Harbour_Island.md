@@ -41,17 +41,17 @@ markerFolder: ./Harbour_Island/
 
 ## Confidential Links & Embeds: 
 
-### [Harbour_Island](/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Harbour_Island.md) 
+### #is_/same_as :: [Harbour_Island](/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Harbour_Island.md) 
 
-### [Harbour_Island.public](/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Harbour_Island.public.md) 
+### #is_/same_as :: [Harbour_Island.public](/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Harbour_Island.public.md) 
 
-### [Harbour_Island.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Harbour_Island.internal.md) 
+### #is_/same_as :: [Harbour_Island.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Harbour_Island.internal.md) 
 
-### [Harbour_Island.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Harbour_Island.protect.md) 
+### #is_/same_as :: [Harbour_Island.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Harbour_Island.protect.md) 
 
-### [Harbour_Island.private](/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Harbour_Island.private.md) 
+### #is_/same_as :: [Harbour_Island.private](/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Harbour_Island.private.md) 
 
-### [Harbour_Island.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Harbour_Island.personal.md) 
+### #is_/same_as :: [Harbour_Island.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Harbour_Island.personal.md) 
 
-### [Harbour_Island.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Harbour_Island.secret.md)
+### #is_/same_as :: [Harbour_Island.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Harbour_Island.secret.md)
 

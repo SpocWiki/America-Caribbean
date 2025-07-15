@@ -41,17 +41,17 @@ markerFolder: ./Berry_Islands/
 
 ## Confidential Links & Embeds: 
 
-### [Berry_Islands](/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Berry_Islands.md) 
+### #is_/same_as :: [Berry_Islands](/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Berry_Islands.md) 
 
-### [Berry_Islands.public](/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Berry_Islands.public.md) 
+### #is_/same_as :: [Berry_Islands.public](/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Berry_Islands.public.md) 
 
-### [Berry_Islands.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Berry_Islands.internal.md) 
+### #is_/same_as :: [Berry_Islands.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Berry_Islands.internal.md) 
 
-### [Berry_Islands.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Berry_Islands.protect.md) 
+### #is_/same_as :: [Berry_Islands.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Berry_Islands.protect.md) 
 
-### [Berry_Islands.private](/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Berry_Islands.private.md) 
+### #is_/same_as :: [Berry_Islands.private](/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Berry_Islands.private.md) 
 
-### [Berry_Islands.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Berry_Islands.personal.md) 
+### #is_/same_as :: [Berry_Islands.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Berry_Islands.personal.md) 
 
-### [Berry_Islands.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Berry_Islands.secret.md)
+### #is_/same_as :: [Berry_Islands.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Berry_Islands.secret.md)
 

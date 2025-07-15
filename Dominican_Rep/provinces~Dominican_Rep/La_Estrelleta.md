@@ -41,17 +41,17 @@ markerFolder: ./La_Estrelleta/
 
 ## Confidential Links & Embeds: 
 
-### [La_Estrelleta](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/La_Estrelleta.md) 
+### #is_/same_as :: [La_Estrelleta](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/La_Estrelleta.md) 
 
-### [La_Estrelleta.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/La_Estrelleta.public.md) 
+### #is_/same_as :: [La_Estrelleta.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/La_Estrelleta.public.md) 
 
-### [La_Estrelleta.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/La_Estrelleta.internal.md) 
+### #is_/same_as :: [La_Estrelleta.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/La_Estrelleta.internal.md) 
 
-### [La_Estrelleta.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/La_Estrelleta.protect.md) 
+### #is_/same_as :: [La_Estrelleta.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/La_Estrelleta.protect.md) 
 
-### [La_Estrelleta.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/La_Estrelleta.private.md) 
+### #is_/same_as :: [La_Estrelleta.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/La_Estrelleta.private.md) 
 
-### [La_Estrelleta.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/La_Estrelleta.personal.md) 
+### #is_/same_as :: [La_Estrelleta.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/La_Estrelleta.personal.md) 
 
-### [La_Estrelleta.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/La_Estrelleta.secret.md)
+### #is_/same_as :: [La_Estrelleta.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/La_Estrelleta.secret.md)
 

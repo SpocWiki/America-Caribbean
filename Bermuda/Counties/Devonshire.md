@@ -41,17 +41,17 @@ markerFolder: ./Devonshire/
 
 ## Confidential Links & Embeds: 
 
-### [Devonshire](/_Standards/Earth/Continent/America~Caribbean/Bermuda/Counties/Devonshire.md) 
+### #is_/same_as :: [Devonshire](/_Standards/Earth/Continent/America~Caribbean/Bermuda/Counties/Devonshire.md) 
 
-### [Devonshire.public](/_public/Earth/Continent/America~Caribbean/Bermuda/Counties/Devonshire.public.md) 
+### #is_/same_as :: [Devonshire.public](/_public/Earth/Continent/America~Caribbean/Bermuda/Counties/Devonshire.public.md) 
 
-### [Devonshire.internal](/_internal/Earth/Continent/America~Caribbean/Bermuda/Counties/Devonshire.internal.md) 
+### #is_/same_as :: [Devonshire.internal](/_internal/Earth/Continent/America~Caribbean/Bermuda/Counties/Devonshire.internal.md) 
 
-### [Devonshire.protect](/_protect/Earth/Continent/America~Caribbean/Bermuda/Counties/Devonshire.protect.md) 
+### #is_/same_as :: [Devonshire.protect](/_protect/Earth/Continent/America~Caribbean/Bermuda/Counties/Devonshire.protect.md) 
 
-### [Devonshire.private](/_private/Earth/Continent/America~Caribbean/Bermuda/Counties/Devonshire.private.md) 
+### #is_/same_as :: [Devonshire.private](/_private/Earth/Continent/America~Caribbean/Bermuda/Counties/Devonshire.private.md) 
 
-### [Devonshire.personal](/_personal/Earth/Continent/America~Caribbean/Bermuda/Counties/Devonshire.personal.md) 
+### #is_/same_as :: [Devonshire.personal](/_personal/Earth/Continent/America~Caribbean/Bermuda/Counties/Devonshire.personal.md) 
 
-### [Devonshire.secret](/_secret/Earth/Continent/America~Caribbean/Bermuda/Counties/Devonshire.secret.md)
+### #is_/same_as :: [Devonshire.secret](/_secret/Earth/Continent/America~Caribbean/Bermuda/Counties/Devonshire.secret.md)
 

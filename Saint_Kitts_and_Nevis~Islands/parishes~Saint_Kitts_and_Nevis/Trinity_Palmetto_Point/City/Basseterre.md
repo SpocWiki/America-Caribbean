@@ -35,17 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Basseterre](/_Standards/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Trinity_Palmetto_Point/City/Basseterre.md) 
+### #is_/same_as :: [Basseterre](/_Standards/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Trinity_Palmetto_Point/City/Basseterre.md) 
 
-### [Basseterre.public](/_public/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Trinity_Palmetto_Point/City/Basseterre.public.md) 
+### #is_/same_as :: [Basseterre.public](/_public/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Trinity_Palmetto_Point/City/Basseterre.public.md) 
 
-### [Basseterre.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Trinity_Palmetto_Point/City/Basseterre.internal.md) 
+### #is_/same_as :: [Basseterre.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Trinity_Palmetto_Point/City/Basseterre.internal.md) 
 
-### [Basseterre.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Trinity_Palmetto_Point/City/Basseterre.protect.md) 
+### #is_/same_as :: [Basseterre.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Trinity_Palmetto_Point/City/Basseterre.protect.md) 
 
-### [Basseterre.private](/_private/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Trinity_Palmetto_Point/City/Basseterre.private.md) 
+### #is_/same_as :: [Basseterre.private](/_private/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Trinity_Palmetto_Point/City/Basseterre.private.md) 
 
-### [Basseterre.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Trinity_Palmetto_Point/City/Basseterre.personal.md) 
+### #is_/same_as :: [Basseterre.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Trinity_Palmetto_Point/City/Basseterre.personal.md) 
 
-### [Basseterre.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Trinity_Palmetto_Point/City/Basseterre.secret.md)
+### #is_/same_as :: [Basseterre.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Trinity_Palmetto_Point/City/Basseterre.secret.md)
 

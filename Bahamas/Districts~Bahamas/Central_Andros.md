@@ -41,17 +41,17 @@ markerFolder: ./Central_Andros/
 
 ## Confidential Links & Embeds: 
 
-### [Central_Andros](/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Central_Andros.md) 
+### #is_/same_as :: [Central_Andros](/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Central_Andros.md) 
 
-### [Central_Andros.public](/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Central_Andros.public.md) 
+### #is_/same_as :: [Central_Andros.public](/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Central_Andros.public.md) 
 
-### [Central_Andros.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Central_Andros.internal.md) 
+### #is_/same_as :: [Central_Andros.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Central_Andros.internal.md) 
 
-### [Central_Andros.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Central_Andros.protect.md) 
+### #is_/same_as :: [Central_Andros.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Central_Andros.protect.md) 
 
-### [Central_Andros.private](/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Central_Andros.private.md) 
+### #is_/same_as :: [Central_Andros.private](/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Central_Andros.private.md) 
 
-### [Central_Andros.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Central_Andros.personal.md) 
+### #is_/same_as :: [Central_Andros.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Central_Andros.personal.md) 
 
-### [Central_Andros.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Central_Andros.secret.md)
+### #is_/same_as :: [Central_Andros.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Central_Andros.secret.md)
 

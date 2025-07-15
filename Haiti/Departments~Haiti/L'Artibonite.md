@@ -41,17 +41,17 @@ markerFolder: ./L'Artibonite/
 
 ## Confidential Links & Embeds: 
 
-### [L'Artibonite](/_Standards/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/L'Artibonite.md) 
+### #is_/same_as :: [L'Artibonite](/_Standards/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/L'Artibonite.md) 
 
-### [L'Artibonite.public](/_public/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/L'Artibonite.public.md) 
+### #is_/same_as :: [L'Artibonite.public](/_public/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/L'Artibonite.public.md) 
 
-### [L'Artibonite.internal](/_internal/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/L'Artibonite.internal.md) 
+### #is_/same_as :: [L'Artibonite.internal](/_internal/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/L'Artibonite.internal.md) 
 
-### [L'Artibonite.protect](/_protect/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/L'Artibonite.protect.md) 
+### #is_/same_as :: [L'Artibonite.protect](/_protect/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/L'Artibonite.protect.md) 
 
-### [L'Artibonite.private](/_private/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/L'Artibonite.private.md) 
+### #is_/same_as :: [L'Artibonite.private](/_private/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/L'Artibonite.private.md) 
 
-### [L'Artibonite.personal](/_personal/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/L'Artibonite.personal.md) 
+### #is_/same_as :: [L'Artibonite.personal](/_personal/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/L'Artibonite.personal.md) 
 
-### [L'Artibonite.secret](/_secret/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/L'Artibonite.secret.md)
+### #is_/same_as :: [L'Artibonite.secret](/_secret/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/L'Artibonite.secret.md)
 

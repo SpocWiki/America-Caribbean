@@ -41,17 +41,17 @@ Continent :: [[South-America]]
 
 ## Confidential Links & Embeds: 
 
-### [Saint_Martin](/_Standards/Earth/Continent/America~Caribbean/Saint_Martin.md) 
+### #is_/same_as :: [Saint_Martin](/_Standards/Earth/Continent/America~Caribbean/Saint_Martin.md) 
 
-### [Saint_Martin.public](/_public/Earth/Continent/America~Caribbean/Saint_Martin.public.md) 
+### #is_/same_as :: [Saint_Martin.public](/_public/Earth/Continent/America~Caribbean/Saint_Martin.public.md) 
 
-### [Saint_Martin.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Martin.internal.md) 
+### #is_/same_as :: [Saint_Martin.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Martin.internal.md) 
 
-### [Saint_Martin.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Martin.protect.md) 
+### #is_/same_as :: [Saint_Martin.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Martin.protect.md) 
 
-### [Saint_Martin.private](/_private/Earth/Continent/America~Caribbean/Saint_Martin.private.md) 
+### #is_/same_as :: [Saint_Martin.private](/_private/Earth/Continent/America~Caribbean/Saint_Martin.private.md) 
 
-### [Saint_Martin.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Martin.personal.md) 
+### #is_/same_as :: [Saint_Martin.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Martin.personal.md) 
 
-### [Saint_Martin.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Martin.secret.md)
+### #is_/same_as :: [Saint_Martin.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Martin.secret.md)
 

@@ -132,17 +132,17 @@ Continent :: [[South-America]]
 
 ## Confidential Links & Embeds: 
 
-### [Guadeloupe](/_Standards/Earth/Continent/America~Caribbean/Guadeloupe.md) 
+### #is_/same_as :: [Guadeloupe](/_Standards/Earth/Continent/America~Caribbean/Guadeloupe.md) 
 
-### [Guadeloupe.public](/_public/Earth/Continent/America~Caribbean/Guadeloupe.public.md) 
+### #is_/same_as :: [Guadeloupe.public](/_public/Earth/Continent/America~Caribbean/Guadeloupe.public.md) 
 
-### [Guadeloupe.internal](/_internal/Earth/Continent/America~Caribbean/Guadeloupe.internal.md) 
+### #is_/same_as :: [Guadeloupe.internal](/_internal/Earth/Continent/America~Caribbean/Guadeloupe.internal.md) 
 
-### [Guadeloupe.protect](/_protect/Earth/Continent/America~Caribbean/Guadeloupe.protect.md) 
+### #is_/same_as :: [Guadeloupe.protect](/_protect/Earth/Continent/America~Caribbean/Guadeloupe.protect.md) 
 
-### [Guadeloupe.private](/_private/Earth/Continent/America~Caribbean/Guadeloupe.private.md) 
+### #is_/same_as :: [Guadeloupe.private](/_private/Earth/Continent/America~Caribbean/Guadeloupe.private.md) 
 
-### [Guadeloupe.personal](/_personal/Earth/Continent/America~Caribbean/Guadeloupe.personal.md) 
+### #is_/same_as :: [Guadeloupe.personal](/_personal/Earth/Continent/America~Caribbean/Guadeloupe.personal.md) 
 
-### [Guadeloupe.secret](/_secret/Earth/Continent/America~Caribbean/Guadeloupe.secret.md)
+### #is_/same_as :: [Guadeloupe.secret](/_secret/Earth/Continent/America~Caribbean/Guadeloupe.secret.md)
 

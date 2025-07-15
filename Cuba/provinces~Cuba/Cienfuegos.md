@@ -41,17 +41,17 @@ markerFolder: ./Cienfuegos/
 
 ## Confidential Links & Embeds: 
 
-### [Cienfuegos](/_Standards/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Cienfuegos.md) 
+### #is_/same_as :: [Cienfuegos](/_Standards/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Cienfuegos.md) 
 
-### [Cienfuegos.public](/_public/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Cienfuegos.public.md) 
+### #is_/same_as :: [Cienfuegos.public](/_public/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Cienfuegos.public.md) 
 
-### [Cienfuegos.internal](/_internal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Cienfuegos.internal.md) 
+### #is_/same_as :: [Cienfuegos.internal](/_internal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Cienfuegos.internal.md) 
 
-### [Cienfuegos.protect](/_protect/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Cienfuegos.protect.md) 
+### #is_/same_as :: [Cienfuegos.protect](/_protect/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Cienfuegos.protect.md) 
 
-### [Cienfuegos.private](/_private/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Cienfuegos.private.md) 
+### #is_/same_as :: [Cienfuegos.private](/_private/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Cienfuegos.private.md) 
 
-### [Cienfuegos.personal](/_personal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Cienfuegos.personal.md) 
+### #is_/same_as :: [Cienfuegos.personal](/_personal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Cienfuegos.personal.md) 
 
-### [Cienfuegos.secret](/_secret/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Cienfuegos.secret.md)
+### #is_/same_as :: [Cienfuegos.secret](/_secret/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Cienfuegos.secret.md)
 

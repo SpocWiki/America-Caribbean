@@ -41,17 +41,17 @@ markerFolder: ./Central_Eleuthera/
 
 ## Confidential Links & Embeds: 
 
-### [Central_Eleuthera](/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Central_Eleuthera.md) 
+### #is_/same_as :: [Central_Eleuthera](/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Central_Eleuthera.md) 
 
-### [Central_Eleuthera.public](/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Central_Eleuthera.public.md) 
+### #is_/same_as :: [Central_Eleuthera.public](/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Central_Eleuthera.public.md) 
 
-### [Central_Eleuthera.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Central_Eleuthera.internal.md) 
+### #is_/same_as :: [Central_Eleuthera.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Central_Eleuthera.internal.md) 
 
-### [Central_Eleuthera.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Central_Eleuthera.protect.md) 
+### #is_/same_as :: [Central_Eleuthera.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Central_Eleuthera.protect.md) 
 
-### [Central_Eleuthera.private](/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Central_Eleuthera.private.md) 
+### #is_/same_as :: [Central_Eleuthera.private](/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Central_Eleuthera.private.md) 
 
-### [Central_Eleuthera.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Central_Eleuthera.personal.md) 
+### #is_/same_as :: [Central_Eleuthera.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Central_Eleuthera.personal.md) 
 
-### [Central_Eleuthera.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Central_Eleuthera.secret.md)
+### #is_/same_as :: [Central_Eleuthera.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Central_Eleuthera.secret.md)
 

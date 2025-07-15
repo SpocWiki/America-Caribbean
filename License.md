@@ -111,19 +111,5 @@ Except for the limited purpose of indicating to the public that the Work is lice
 Creative Commons may be contacted at <http://creativecommons.org/>.
 
 
-## Confidential Links & Embeds: 
 
-### [License](/_Standards/Earth/Continent/America~Caribbean/License.md) 
-
-### [License.public](/_public/Earth/Continent/America~Caribbean/License.public.md) 
-
-### [License.internal](/_internal/Earth/Continent/America~Caribbean/License.internal.md) 
-
-### [License.protect](/_protect/Earth/Continent/America~Caribbean/License.protect.md) 
-
-### [License.private](/_private/Earth/Continent/America~Caribbean/License.private.md) 
-
-### [License.personal](/_personal/Earth/Continent/America~Caribbean/License.personal.md) 
-
-### [License.secret](/_secret/Earth/Continent/America~Caribbean/License.secret.md)
 

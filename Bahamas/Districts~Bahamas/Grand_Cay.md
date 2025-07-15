@@ -41,17 +41,17 @@ markerFolder: ./Grand_Cay/
 
 ## Confidential Links & Embeds: 
 
-### [Grand_Cay](/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Grand_Cay.md) 
+### #is_/same_as :: [Grand_Cay](/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Grand_Cay.md) 
 
-### [Grand_Cay.public](/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Grand_Cay.public.md) 
+### #is_/same_as :: [Grand_Cay.public](/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Grand_Cay.public.md) 
 
-### [Grand_Cay.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Grand_Cay.internal.md) 
+### #is_/same_as :: [Grand_Cay.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Grand_Cay.internal.md) 
 
-### [Grand_Cay.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Grand_Cay.protect.md) 
+### #is_/same_as :: [Grand_Cay.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Grand_Cay.protect.md) 
 
-### [Grand_Cay.private](/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Grand_Cay.private.md) 
+### #is_/same_as :: [Grand_Cay.private](/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Grand_Cay.private.md) 
 
-### [Grand_Cay.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Grand_Cay.personal.md) 
+### #is_/same_as :: [Grand_Cay.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Grand_Cay.personal.md) 
 
-### [Grand_Cay.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Grand_Cay.secret.md)
+### #is_/same_as :: [Grand_Cay.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Grand_Cay.secret.md)
 

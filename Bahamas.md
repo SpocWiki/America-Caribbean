@@ -146,17 +146,17 @@ Capital :: [[Bahamas/Counties/New_Providence/City/Nassau]]
 
 ## Confidential Links & Embeds: 
 
-### [Bahamas](/_Standards/Earth/Continent/America~Caribbean/Bahamas.md) 
+### #is_/same_as :: [Bahamas](/_Standards/Earth/Continent/America~Caribbean/Bahamas.md) 
 
-### [Bahamas.public](/_public/Earth/Continent/America~Caribbean/Bahamas.public.md) 
+### #is_/same_as :: [Bahamas.public](/_public/Earth/Continent/America~Caribbean/Bahamas.public.md) 
 
-### [Bahamas.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas.internal.md) 
+### #is_/same_as :: [Bahamas.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas.internal.md) 
 
-### [Bahamas.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas.protect.md) 
+### #is_/same_as :: [Bahamas.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas.protect.md) 
 
-### [Bahamas.private](/_private/Earth/Continent/America~Caribbean/Bahamas.private.md) 
+### #is_/same_as :: [Bahamas.private](/_private/Earth/Continent/America~Caribbean/Bahamas.private.md) 
 
-### [Bahamas.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas.personal.md) 
+### #is_/same_as :: [Bahamas.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas.personal.md) 
 
-### [Bahamas.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas.secret.md)
+### #is_/same_as :: [Bahamas.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas.secret.md)
 
