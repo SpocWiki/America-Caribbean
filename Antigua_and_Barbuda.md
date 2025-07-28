@@ -41,6 +41,7 @@ Capital :: [[Antigua_and_Barbuda/Counties/Saint_John/City/Saint_John’s]]
 [has_place_longitude::-61.85] 
 [has_place_latitude::17.1167] 
 
+#is_/same_as :: [[../../../WikiData/WD~Antigua_and_Barbuda,781|WD~Antigua_and_Barbuda,781]]  
 
 ## #has_/text_of_/abstract 
 
