@@ -99,10 +99,9 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 
 [	ISO3166-1-numeric	 :: 533 ] 
 
-
-
 [ISO2::AW] 
 [ISO3::ABW] 
+
 ```leaflet
 id: Aruba
 zoomFeatures: true 
@@ -142,6 +141,7 @@ geojsonFolder: ./Aruba/
 markerFolder: ./Aruba/
 ```
 
+#is_/same_as :: [[../../../WikiData/WD~Aruba,21203|WD~Aruba,21203]] 
 
 ## #has_/text_of_/abstract 
 
