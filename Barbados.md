@@ -366,10 +366,10 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 
 [	ISO3166-1-numeric	 :: 052 ] 
 
-
-
 [ISO2::BB] 
 [ISO3::BRB] 
+
+#is_/same_as :: [[../../../WikiData/WD~Barbados,244|WD~Barbados,244]] 
 
 ```leaflet
 id: Barbados
