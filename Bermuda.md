@@ -167,6 +167,8 @@ Commons_category: Bermuda
 UMLS_CUI: C0005126
 ---
 
+# [[Bermuda]] 
+
 [	ISO4217-currency_alphabetic	 :: BMD ] 
 [	ISO4217-currency_name	 :: Bermudian Dollar ] 
 [	ISO4217-currency_numeric	 :: 060 ] 
@@ -232,6 +234,10 @@ Sub-region_Name ::  [[Northern America]]
 
 [ISO2::BM] 
 [ISO3::BMU] 
+
+#is_/same_as :: [[../../../WikiData/WD~Bermuda,23635|WD~Bermuda,23635]] 
+
+## #has_/map 
 
 ```leaflet
 id: Bermuda
