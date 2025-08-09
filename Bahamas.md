@@ -126,7 +126,7 @@ Capital :: [[Bahamas/Counties/New_Providence/City/Nassau]]
 [Alcohol-l::8.8] 
 [Language-Id::499] 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../Geography/Place]] 
 [has_place_longitude::-77.33] 
 [has_place_latitude::25.05] 
 

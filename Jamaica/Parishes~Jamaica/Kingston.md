@@ -31,7 +31,7 @@ publishDate:
 expiryDate: 
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../../Geography/Place]] 
 [has_place_longitude::-76.8] 
 [has_place_latitude::17.98333] 
 [name::Kingston] 

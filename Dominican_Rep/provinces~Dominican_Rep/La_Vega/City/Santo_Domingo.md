@@ -13,7 +13,7 @@ confidential: public
 
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../../../../Geography/Place]] 
 [has_place_longitude::-70.66666] 
 [has_place_latitude::19] 
 [name::Santo Domingo] 

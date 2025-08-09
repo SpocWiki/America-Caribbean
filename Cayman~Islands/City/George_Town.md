@@ -13,7 +13,7 @@ confidential: public
 
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../../Geography/Place]] 
 [has_place_longitude::-81.36667] 
 [has_place_latitude::19.28333] 
 [name::George Town] 

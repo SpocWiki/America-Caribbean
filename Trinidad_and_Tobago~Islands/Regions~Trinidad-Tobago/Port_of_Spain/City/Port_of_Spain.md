@@ -13,7 +13,7 @@ confidential: public
 
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../../../../Geography/Place]] 
 [has_place_longitude::-61.51667] 
 [has_place_latitude::10.66667] 
 [name::Port of Spain] 

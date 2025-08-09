@@ -13,7 +13,7 @@ confidential: public
 
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../../Geography/Place]] 
 [has_place_longitude::-61.06667] 
 [has_place_latitude::14.6] 
 [name::Fort-de-France] 

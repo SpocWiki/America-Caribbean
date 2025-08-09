@@ -13,7 +13,7 @@ confidential: public
 
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../../../../Geography/Place]] 
 [has_place_longitude::-61.85] 
 [has_place_latitude::17.11667] 
 [name::Saint John’s] 

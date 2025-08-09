@@ -13,7 +13,7 @@ confidential: public
 
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../../../../Geography/Place]] 
 [has_place_longitude::-64.78333] 
 [has_place_latitude::32.3] 
 [name::Hamilton] 

@@ -120,7 +120,7 @@ Capital :: [[Cayman~Islands/City/George_Town]]
 [Alcohol-l::] 
 [Language-Id::] 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../Geography/Place]] 
 [has_place_longitude::-81.3667] 
 [has_place_latitude::19.2833] 
 

@@ -356,7 +356,7 @@ Capital :: [[Dominica/Counties/Saint_George/City/Roseau]]
 [Alcohol-l::7.8] 
 [Language-Id::499] 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../Geography/Place]] 
 [has_place_longitude::-61.3833] 
 [has_place_latitude::15.3] 
 

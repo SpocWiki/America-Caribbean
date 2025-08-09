@@ -125,7 +125,7 @@ Capital :: [[Martinique/City/Fort-de-France]]
 [Alcohol-l::] 
 [Language-Id::] 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../Geography/Place]] 
 [has_place_longitude::-61.0667] 
 [has_place_latitude::14.6] 
 

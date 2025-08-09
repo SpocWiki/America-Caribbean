@@ -13,7 +13,7 @@ confidential: public
 
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../../Geography/Place]] 
 [has_place_longitude::18.4314] 
 [has_place_latitude::-64.62305] 
 [name::Road Town] 

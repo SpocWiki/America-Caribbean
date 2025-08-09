@@ -302,7 +302,7 @@ Capital :: [[Trinidad_and_Tobago~Islands/Counties/Port_of_Spain/City/Port_of_Spa
 [Alcohol-l::6.3] 
 [Language-Id::499] 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../Geography/Place]] 
 [has_place_longitude::-61.5167] 
 [has_place_latitude::10.6667] 
 

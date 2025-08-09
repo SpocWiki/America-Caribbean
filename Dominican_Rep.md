@@ -40,7 +40,7 @@ Capital :: [[Dominican_Rep/Counties/La_Vega/City/Santo_Domingo]]
 [Alcohol-l::6.4] 
 [Language-Id::492] 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../Geography/Place]] 
 [has_place_longitude::-70.6667] 
 [has_place_latitude::19] 
 

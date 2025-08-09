@@ -13,7 +13,7 @@ confidential: public
 
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../../../../Geography/Place]] 
 [has_place_longitude::-61.38334] 
 [has_place_latitude::15.3] 
 [name::Roseau] 

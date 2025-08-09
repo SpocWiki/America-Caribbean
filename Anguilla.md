@@ -125,7 +125,7 @@ Capital :: [[Anguilla/Counties/The_Valley/City/The_Valley]]
 [Alcohol-l::] 
 [Language-Id::] 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../Geography/Place]] 
 [has_place_longitude::-63.049] 
 [has_place_latitude::18.2272] 
 

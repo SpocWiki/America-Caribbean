@@ -367,7 +367,7 @@ Capital :: [[Grenada/City/St._George’s]]
 [Alcohol-l::10.4] 
 [Language-Id::499] 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../Geography/Place]] 
 [has_place_longitude::-61.75] 
 [has_place_latitude::12.05] 
 

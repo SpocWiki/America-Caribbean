@@ -13,7 +13,7 @@ confidential: public
 
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../../../Geography/Place]] 
 [has_place_longitude::-70.01667] 
 [has_place_latitude::12.51667] 
 [name::Oranjestad] 

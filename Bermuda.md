@@ -258,7 +258,7 @@ Capital :: [[Bermuda/Counties/Pembroke/City/Hamilton]]
 [Alcohol-l::] 
 [Language-Id::] 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../Geography/Place]] 
 [has_place_longitude::-64.74] 
 [has_place_latitude::32.32] 
 

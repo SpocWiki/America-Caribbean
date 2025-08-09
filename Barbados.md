@@ -397,7 +397,7 @@ Capital :: [[Barbados/City/Bridgetown]]
 [Alcohol-l::6.9] 
 [Language-Id::499] 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../Geography/Place]] 
 [has_place_longitude::-59.5333] 
 [has_place_latitude::13] 
 

@@ -125,7 +125,7 @@ Continent :: [[South-America]]
 [Alcohol-l::] 
 [Language-Id::] 
 #is_a_/Place  
-#is_a_ :: [[Place]] 
+#is_a_ :: [[../../Geography/Place]] 
 [has_place_longitude::-69] 
 [has_place_latitude::12.1833] 
 
