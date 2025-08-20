@@ -1,30 +1,29 @@
 ---
-location: [ 12.49 , -61.44 ] 
+location:
+  - 12.49
+  - -61.44
 type: geo-Region
 title: Carriacou_and_Petite_Martinique
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Carriacou_and_Petite_Martinique
-
+  - Carriacou_and_Petite_Martinique
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Carriacou_and_Petite_Martinique

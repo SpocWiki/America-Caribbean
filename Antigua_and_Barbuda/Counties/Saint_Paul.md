@@ -1,30 +1,29 @@
 ---
-location: [ 17.03 , -61.77 ] 
+location:
+  - 17.03
+  - -61.77
 type: geo-Region
 title: Saint_Paul
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Saint_Paul
-
+  - Saint_Paul
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Saint_Paul

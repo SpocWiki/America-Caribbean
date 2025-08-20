@@ -1,34 +1,35 @@
 ---
 location:
-- 16
-- -61.7333
+  - 16
+  - -61.7333
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26908
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Guadeloupe
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Guadeloupe
-- Guadalupe
-- غواديلوب
-- 瓜德罗普
-- Гваделупа
-- 
+  - Guadeloupe
+  - Guadalupe
+  - غواديلوب
+  - 瓜德罗普
+  - Гваделупа
+  - 
 Languages:
-- fr-GP
+  - fr-GP
 ---
 
 

@@ -1,30 +1,29 @@
 ---
-location: [ 13.31 , -59.62 ] 
+location:
+  - 13.31
+  - -59.62
 type: geo-Region
 title: Saint_Lucy
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Saint_Lucy
-
+  - Saint_Lucy
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Saint_Lucy

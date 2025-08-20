@@ -1,30 +1,29 @@
 ---
-location: [ 21.7 , -71.5 ] 
+location:
+  - 21.7
+  - -71.5
 type: geo-Region
 title: South_Caicos_and_East_Caicos
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- South_Caicos_and_East_Caicos
-
+  - South_Caicos_and_East_Caicos
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # South_Caicos_and_East_Caicos

@@ -1,30 +1,29 @@
 ---
-location: [ 18.22 , -63.08 ] 
+location:
+  - 18.22
+  - -63.08
 type: geo-Region
 title: Sandy_Ground
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Sandy_Ground
-
+  - Sandy_Ground
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Sandy_Ground

@@ -1,30 +1,29 @@
 ---
-location: [ 18.6 , -69.9 ] 
+location:
+  - 18.6
+  - -69.9
 type: geo-Region
 title: Santo_Domingo
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Santo_Domingo
-
+  - Santo_Domingo
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Santo_Domingo

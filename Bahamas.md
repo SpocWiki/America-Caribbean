@@ -1,37 +1,38 @@
 ---
 location:
-- 25.05
-- -77.33
+  - 25.05
+  - -77.33
 type: Country
 tags:
-- geo/Country
-has_id_wikidata: Q778 
+  - geo/Country
+has_id_wikidata: Q778
 SpocWebEntityId: 26854
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Bahamas
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Bahamas
-- جزر البهاما
-- 巴哈马
-- Багамские Острова
-- the Commonwealth of the Bahamas
-- Bahamas (the)
-- el Commonwealth de las Bahamas
-- Bahamas (las)
+  - Bahamas
+  - جزر البهاما
+  - 巴哈马
+  - Багамские Острова
+  - the Commonwealth of the Bahamas
+  - Bahamas (the)
+  - el Commonwealth de las Bahamas
+  - Bahamas (las)
 Languages:
-- en-BS
+  - en-BS
 ---
 
 # [[Bahamas]] 

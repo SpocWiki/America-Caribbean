@@ -1,35 +1,36 @@
 ---
 location:
-- 18.4314
-- -64.62305
+  - 18.4314
+  - -64.62305
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 27053
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: British Virgin Islands
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- British Virgin Islands
-- Islas Vírgenes Británicas
-- Îles Vierges britanniques
-- جزر فرجن البريطانية
-- 英属维尔京群岛
-- Британские Виргинские острова
-- 
+  - British Virgin Islands
+  - Islas Vírgenes Británicas
+  - Îles Vierges britanniques
+  - جزر فرجن البريطانية
+  - 英属维尔京群岛
+  - Британские Виргинские острова
+  - 
 Languages:
-- en-VG
+  - en-VG
 ---
 
 

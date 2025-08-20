@@ -1,30 +1,29 @@
 ---
-location: [ 17.12 , -62.59 ] 
+location:
+  - 17.12
+  - -62.59
 type: geo-Region
 title: Saint_John_Figtree
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Saint_John_Figtree
-
+  - Saint_John_Figtree
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Saint_John_Figtree

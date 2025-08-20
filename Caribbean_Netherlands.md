@@ -1,38 +1,39 @@
 ---
 location:
-- 12.1833
-- -69
+  - 12.1833
+  - -69
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26832
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Caribbean Netherlands
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Caribbean Netherlands
-- Bonaire, Sint Eustatius and Saba
-- Bonaire, San Eustaquio y Saba
-- Bonaire, Saint-Eustache et Saba
-- بونير وسان يوستاتيوس وسابا
-- 博纳尔,圣俄斯塔休斯和萨巴
-- Бонайре, Саба и Синт-Эстатиус
-- 
+  - Caribbean Netherlands
+  - Bonaire, Sint Eustatius and Saba
+  - Bonaire, San Eustaquio y Saba
+  - Bonaire, Saint-Eustache et Saba
+  - بونير وسان يوستاتيوس وسابا
+  - 博纳尔,圣俄斯塔休斯和萨巴
+  - Бонайре, Саба и Синт-Эстатиус
+  - 
 Languages:
-- nl
-- pap
-- en
+  - nl
+  - pap
+  - en
 ---
 
 

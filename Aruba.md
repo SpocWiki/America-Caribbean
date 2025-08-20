@@ -1,37 +1,38 @@
 ---
 location:
-- 12.5083
-- -69.9933
+  - 12.5083
+  - -69.9933
 type: Country
 tags:
-- geo/Country
-has_id_wikidata: Q21203 
+  - geo/Country
+has_id_wikidata: Q21203
 SpocWebEntityId: 26839
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Aruba
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Aruba
-- أروبا
-- 阿鲁巴
-- Аруба
-- 
+  - Aruba
+  - أروبا
+  - 阿鲁巴
+  - Аруба
+  - 
 Languages:
-- nl-AW
-- pap
-- es
-- en
+  - nl-AW
+  - pap
+  - es
+  - en
 ---
 
 # [[Aruba]] 

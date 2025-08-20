@@ -1,34 +1,35 @@
 ---
 location:
-- 18.2272
-- -63.049
+  - 18.2272
+  - -63.049
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26829
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Anguilla
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Anguilla
-- Anguila
-- أنغيلا
-- 安圭拉
-- Ангилья
-- 
+  - Anguilla
+  - Anguila
+  - أنغيلا
+  - 安圭拉
+  - Ангилья
+  - 
 Languages:
-- en-AI
+  - en-AI
 ---
 
 

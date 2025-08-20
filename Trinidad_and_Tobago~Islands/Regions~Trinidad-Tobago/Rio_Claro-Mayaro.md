@@ -1,30 +1,29 @@
 ---
-location: [ 10.3 , -61.1 ] 
+location:
+  - 10.3
+  - -61.1
 type: geo-Region
 title: Rio_Claro-Mayaro
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Rio_Claro-Mayaro
-
+  - Rio_Claro-Mayaro
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Rio_Claro-Mayaro

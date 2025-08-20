@@ -1,35 +1,36 @@
 ---
 location:
-- 19.2833
-- -81.3667
+  - 19.2833
+  - -81.3667
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26943
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Cayman Islands
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Cayman Islands
-- Islas Caimán
-- Îles Caïmanes
-- جزر كايمان
-- 开曼群岛
-- Кайман острова
-- 
+  - Cayman Islands
+  - Islas Caimán
+  - Îles Caïmanes
+  - جزر كايمان
+  - 开曼群岛
+  - Кайман острова
+  - 
 Languages:
-- en-KY
+  - en-KY
 ---
 
 

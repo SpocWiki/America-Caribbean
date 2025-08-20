@@ -1,46 +1,40 @@
 ---
-location: [ 12.2 , -69 ] 
+location:
+  - 12.2
+  - -69
 license: CC BY-SA 4.0
 confidential: public
 isDeleted: false
 isReadOnly: false
-
 source: https://datahub.io/core/country-codes
-
-#Obsidian well-known Keys
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
-
-# Hugo Tags
 type: Country
 title: Curaçao
-
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
 publishDate:
-expiryDate: 
-
+expiryDate:
 tags:
-- geo/Country
-
+  - geo/Country
 aliases:
-- Curaçao
-- Curaçao
-- Curaçao
-- Curaçao
-- كوراساو
-- 库拉索
-- Кюрасао
-- 
-- 
-- 
-- 
-
-Languages: [nl,pap] 
-
-
+  - Curaçao
+  - Curaçao
+  - Curaçao
+  - Curaçao
+  - كوراساو
+  - 库拉索
+  - Кюрасао
+  - 
+  - 
+  - 
+  - 
+Languages:
+  - nl
+  - pap
 ---
 
 [	ISO4217-currency_alphabetic	 :: ANG ] 

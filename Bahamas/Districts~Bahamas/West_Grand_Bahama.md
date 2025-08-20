@@ -1,30 +1,29 @@
 ---
-location: [ 26.7 , -78.5 ] 
+location:
+  - 26.7
+  - -78.5
 type: geo-Region
 title: West_Grand_Bahama
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- West_Grand_Bahama
-
+  - West_Grand_Bahama
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # West_Grand_Bahama

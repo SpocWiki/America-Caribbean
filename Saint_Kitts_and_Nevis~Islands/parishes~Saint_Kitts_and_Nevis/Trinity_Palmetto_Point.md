@@ -1,30 +1,29 @@
 ---
-location: [ 17.31 , -62.75 ] 
+location:
+  - 17.31
+  - -62.75
 type: geo-Region
 title: Trinity_Palmetto_Point
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Trinity_Palmetto_Point
-
+  - Trinity_Palmetto_Point
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Trinity_Palmetto_Point

@@ -1,30 +1,29 @@
 ---
-location: [ 10.3 , -109.22 ] 
+location:
+  - 10.3
+  - -109.22
 type: geo-Region
 title: Island~Clipperton
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Island~Clipperton
-
+  - Island~Clipperton
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Island~Clipperton
