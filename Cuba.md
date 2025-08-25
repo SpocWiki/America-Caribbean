@@ -434,10 +434,12 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 
 [	ISO3166-1-numeric	 :: 192 ] 
 
-
-
 [ISO2::CU] 
 [ISO3::CUB] 
+
+#is_/same_as :: [[../../../WikiData/WD~Cuba,241|WD~Cuba,241]] 
+
+## #has_/map 
 
 ```leaflet
 id: Cuba
