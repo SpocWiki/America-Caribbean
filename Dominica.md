@@ -326,10 +326,12 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 
 [	ISO3166-1-numeric	 :: 212 ] 
 
-
-
 [ISO2::DM] 
 [ISO3::DMA] 
+
+#is_/same_as :: [[../../../WikiData/WD~Dominica,784|WD~Dominica,784]] 
+
+## #has_/map 
 
 ```leaflet
 id: Dominica
