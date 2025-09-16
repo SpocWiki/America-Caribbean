@@ -14,8 +14,15 @@ isDeleted: false
 confidential: public
 
 ---
+
+# [[Saint_Barthelemy]] 
+
 [ISO2::] 
 [ISO3::] 
+
+#is_/same_as ::  [[WD~Saint_Barthelemy]]
+
+## #has_/map 
 
 ```leaflet
 id: Saint Barthélemy
