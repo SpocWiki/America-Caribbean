@@ -21,7 +21,7 @@ aliases:
 ```leaflet
 id: Antigua And Barbuda
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Antigua_and_Barbuda//
 markerFolder: ./Antigua_and_Barbuda/

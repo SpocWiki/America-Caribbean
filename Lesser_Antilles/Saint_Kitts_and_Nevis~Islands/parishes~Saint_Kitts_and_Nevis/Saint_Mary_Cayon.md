@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Saint_Mary_Cayon
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Saint_Mary_Cayon/
 markerFolder: ./Saint_Mary_Cayon/

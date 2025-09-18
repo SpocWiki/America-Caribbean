@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: South_Caicos_and_East_Caicos
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./South_Caicos_and_East_Caicos/
 markerFolder: ./South_Caicos_and_East_Caicos/

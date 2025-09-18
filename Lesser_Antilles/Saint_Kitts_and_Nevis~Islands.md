@@ -22,7 +22,7 @@ confidential: public
 ```leaflet
 id: Saint Kitts And Nevis
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Saint_Kitts_and_Nevis~Islands//
 markerFolder: ./Saint_Kitts_and_Nevis~Islands/

@@ -49,7 +49,7 @@ coordinates: [[The_Valley]]
 markerFile: [[The_Valley]] 
 defaultZoom: 11 
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./The_Valley/
 markerFolder: ./The_Valley/

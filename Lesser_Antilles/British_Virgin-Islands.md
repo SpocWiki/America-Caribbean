@@ -108,7 +108,7 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 ```leaflet
 id: British Virgin Islands
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./British_Virgin-Islands/
 markerFolder: ./British_Virgin-Islands/

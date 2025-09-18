@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: San_Juan-Laventille
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./San_Juan-Laventille/
 markerFolder: ./San_Juan-Laventille/

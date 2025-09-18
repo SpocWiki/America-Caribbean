@@ -18,7 +18,7 @@ Northern of [[Sint_Maarten|Sint Maarten]]
 ```leaflet
 id: Saint Martin
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Saint_Martin/
 markerFolder: ./Saint_Martin/

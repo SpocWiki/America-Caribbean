@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Saint_David
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Saint_David/
 markerFolder: ./Saint_David/

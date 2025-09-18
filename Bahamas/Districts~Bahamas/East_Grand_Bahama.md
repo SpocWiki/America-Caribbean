@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: East_Grand_Bahama
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./East_Grand_Bahama/
 markerFolder: ./East_Grand_Bahama/

@@ -305,7 +305,7 @@ ISNI: "0000000123700622"
 ```leaflet
 id: Dominican Rep.
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Dominican_Rep///
 markerFolder: ./Dominican_Rep/

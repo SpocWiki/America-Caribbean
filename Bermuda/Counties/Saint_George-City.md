@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: City_of_Saint_George
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./City_of_Saint_George/
 markerFolder: ./City_of_Saint_George/

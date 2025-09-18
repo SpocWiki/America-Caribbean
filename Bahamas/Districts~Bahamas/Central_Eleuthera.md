@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Central_Eleuthera
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Central_Eleuthera/
 markerFolder: ./Central_Eleuthera/

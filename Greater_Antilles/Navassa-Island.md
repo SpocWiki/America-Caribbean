@@ -37,7 +37,7 @@ expiryDate:
 ```leaflet
 id: Navassa-Island
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Navassa-Island/
 markerFolder: ./Navassa-Island/

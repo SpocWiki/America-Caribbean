@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Couva-Tabaquite-Talparo
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Couva-Tabaquite-Talparo/
 markerFolder: ./Couva-Tabaquite-Talparo/

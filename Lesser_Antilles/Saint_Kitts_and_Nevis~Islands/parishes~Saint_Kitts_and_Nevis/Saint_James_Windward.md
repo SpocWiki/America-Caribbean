@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Saint_James_Windward
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Saint_James_Windward/
 markerFolder: ./Saint_James_Windward/

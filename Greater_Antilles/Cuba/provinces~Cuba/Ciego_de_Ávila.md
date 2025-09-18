@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Ciego_de_Ávila
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Ciego_de_Ávila/
 markerFolder: ./Ciego_de_Ávila/

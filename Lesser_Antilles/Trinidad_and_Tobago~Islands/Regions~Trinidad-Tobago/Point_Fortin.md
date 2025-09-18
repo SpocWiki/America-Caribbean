@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Point_Fortin
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Point_Fortin/
 markerFolder: ./Point_Fortin/

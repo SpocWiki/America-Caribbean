@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: San_Pedro_de_Macorís
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./San_Pedro_de_Macorís/
 markerFolder: ./San_Pedro_de_Macorís/

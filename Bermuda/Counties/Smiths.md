@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Smith's
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Smith's/
 markerFolder: ./Smith's/

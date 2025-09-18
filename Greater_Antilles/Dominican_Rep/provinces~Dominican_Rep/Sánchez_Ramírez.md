@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Sánchez_Ramírez
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Sánchez_Ramírez/
 markerFolder: ./Sánchez_Ramírez/

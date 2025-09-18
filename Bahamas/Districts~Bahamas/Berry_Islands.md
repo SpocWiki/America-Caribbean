@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Berry_Islands
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Berry_Islands/
 markerFolder: ./Berry_Islands/

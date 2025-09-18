@@ -15,7 +15,7 @@ confidential: public
 ```leaflet
 id: Turks And Caicos Islands
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Turks_and_Caicos~Islands//
 markerFolder: ./Turks_and_Caicos~Islands/

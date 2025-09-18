@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Port_of_Spain
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Port_of_Spain/
 markerFolder: ./Port_of_Spain/

@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Sud-Est
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Sud-Est/
 markerFolder: ./Sud-Est/

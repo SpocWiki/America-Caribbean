@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Vieux_Fort
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Vieux_Fort/
 markerFolder: ./Vieux_Fort/

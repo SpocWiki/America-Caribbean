@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: North_Caicos
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./North_Caicos/
 markerFolder: ./North_Caicos/

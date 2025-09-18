@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: La_Romana
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./La_Romana/
 markerFolder: ./La_Romana/

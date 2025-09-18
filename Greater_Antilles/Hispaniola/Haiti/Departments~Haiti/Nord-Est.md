@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Nord-Est
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Nord-Est/
 markerFolder: ./Nord-Est/

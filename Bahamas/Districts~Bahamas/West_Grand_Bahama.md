@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: West_Grand_Bahama
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./West_Grand_Bahama/
 markerFolder: ./West_Grand_Bahama/

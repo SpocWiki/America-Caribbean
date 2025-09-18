@@ -50,7 +50,7 @@ coordinates: [[Kingston]]
 markerFile: [[Kingston]] 
 defaultZoom: 11 
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Kingston/
 markerFolder: ./Kingston/

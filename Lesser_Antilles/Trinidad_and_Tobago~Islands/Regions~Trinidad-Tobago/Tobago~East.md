@@ -34,7 +34,7 @@ expiryDate:
 ```leaflet
 id: Tobago~East
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Tobago~East/
 markerFolder: ./Tobago~East/

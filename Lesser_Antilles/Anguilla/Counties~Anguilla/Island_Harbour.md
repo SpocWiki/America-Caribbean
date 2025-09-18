@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Island_Harbour
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Island_Harbour/
 markerFolder: ./Island_Harbour/

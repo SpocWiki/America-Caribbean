@@ -387,14 +387,17 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 
 [	ISO3166-1-numeric	 :: 332 ] 
 
-
-
 [ISO2::HT] 
 [ISO3::HTI] 
+
+#is_/same_as :: [[../../../../../WikiData/WD~Haiti,790|WD~Haiti,790]] 
+
+## #has_/map  
+
 ```leaflet
 id: Haiti
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Haiti//
 markerFolder: ./Haiti/

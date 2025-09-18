@@ -16,7 +16,7 @@ confidential: public
 ```leaflet
 id: Saint Vincent And The Grenadines
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Saint_Vincent_and_Grenadines//
 markerFolder: ./Saint_Vincent_and_Grenadines/

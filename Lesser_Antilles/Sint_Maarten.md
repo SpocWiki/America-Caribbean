@@ -62,7 +62,7 @@ Southern of [[Lesser_Antilles/Saint_Martin]]
 ```leaflet
 id: Suriname
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Sint_Maarten//
 markerFolder: ./Sint_Maarten/

@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Saint_George_Gingerland
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Saint_George_Gingerland/
 markerFolder: ./Saint_George_Gingerland/

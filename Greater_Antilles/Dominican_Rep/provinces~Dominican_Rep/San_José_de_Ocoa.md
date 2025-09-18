@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: San_José_de_Ocoa
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./San_José_de_Ocoa/
 markerFolder: ./San_José_de_Ocoa/

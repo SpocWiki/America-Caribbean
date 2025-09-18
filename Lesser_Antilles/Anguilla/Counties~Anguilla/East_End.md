@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: East_End
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./East_End/
 markerFolder: ./East_End/

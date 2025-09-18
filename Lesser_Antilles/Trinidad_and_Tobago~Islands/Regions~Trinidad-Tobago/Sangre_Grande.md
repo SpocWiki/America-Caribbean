@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Sangre_Grande
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Sangre_Grande/
 markerFolder: ./Sangre_Grande/

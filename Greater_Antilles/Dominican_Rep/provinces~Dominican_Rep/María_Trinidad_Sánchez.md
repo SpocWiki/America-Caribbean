@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: María_Trinidad_Sánchez
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./María_Trinidad_Sánchez/
 markerFolder: ./María_Trinidad_Sánchez/

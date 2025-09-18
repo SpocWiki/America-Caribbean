@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Saint_Lucy
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Saint_Lucy/
 markerFolder: ./Saint_Lucy/

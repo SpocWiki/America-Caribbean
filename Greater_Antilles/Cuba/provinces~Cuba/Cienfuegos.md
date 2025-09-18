@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Cienfuegos
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Cienfuegos/
 markerFolder: ./Cienfuegos/

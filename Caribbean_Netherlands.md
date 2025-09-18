@@ -107,7 +107,7 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 ```leaflet
 id: Netherlands Antilles
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Caribbean_Netherlands/
 markerFolder: ./Caribbean_Netherlands/

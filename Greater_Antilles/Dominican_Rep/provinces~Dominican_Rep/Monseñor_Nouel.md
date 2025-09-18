@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Monseñor_Nouel
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Monseñor_Nouel/
 markerFolder: ./Monseñor_Nouel/

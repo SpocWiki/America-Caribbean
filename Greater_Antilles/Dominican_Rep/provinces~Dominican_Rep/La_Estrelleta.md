@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: La_Estrelleta
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./La_Estrelleta/
 markerFolder: ./La_Estrelleta/

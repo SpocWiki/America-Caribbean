@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Saint_Andrew
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Saint_Andrew/
 markerFolder: ./Saint_Andrew/

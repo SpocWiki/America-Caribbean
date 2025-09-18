@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Santiago_de_Cuba
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Santiago_de_Cuba/
 markerFolder: ./Santiago_de_Cuba/

@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Diego_Martin
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Diego_Martin/
 markerFolder: ./Diego_Martin/

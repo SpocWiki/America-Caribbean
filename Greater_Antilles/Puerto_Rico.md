@@ -106,7 +106,7 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 ```leaflet
 id: Puerto Rico
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Puerto_Rico/
 markerFolder: ./Puerto_Rico/

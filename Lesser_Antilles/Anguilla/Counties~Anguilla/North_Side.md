@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: North_Side
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./North_Side/
 markerFolder: ./North_Side/

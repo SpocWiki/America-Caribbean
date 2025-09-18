@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Santiago_Rodríguez
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Santiago_Rodríguez/
 markerFolder: ./Santiago_Rodríguez/

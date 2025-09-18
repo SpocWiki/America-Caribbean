@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Trinity_Palmetto_Point
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Trinity_Palmetto_Point/
 markerFolder: ./Trinity_Palmetto_Point/

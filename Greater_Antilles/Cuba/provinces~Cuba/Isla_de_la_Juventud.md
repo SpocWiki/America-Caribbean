@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Isla_de_la_Juventud
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Isla_de_la_Juventud/
 markerFolder: ./Isla_de_la_Juventud/

@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Middle_Caicos
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Middle_Caicos/
 markerFolder: ./Middle_Caicos/

@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: San_Cristóbal
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./San_Cristóbal/
 markerFolder: ./San_Cristóbal/

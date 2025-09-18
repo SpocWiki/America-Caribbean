@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Moore's_Island
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Moore's_Island/
 markerFolder: ./Moore's_Island/

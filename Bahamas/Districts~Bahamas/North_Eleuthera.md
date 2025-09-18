@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: North_Eleuthera
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./North_Eleuthera/
 markerFolder: ./North_Eleuthera/

@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Princes_Town
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Princes_Town/
 markerFolder: ./Princes_Town/

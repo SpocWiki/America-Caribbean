@@ -256,7 +256,7 @@ official_website: "https://www.gov.vc/"
 ```leaflet
 id: Grenadines
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Grenadines/
 markerFolder: ./Grenadines/

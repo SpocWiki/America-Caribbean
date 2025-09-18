@@ -51,7 +51,7 @@ Languages:
 ```leaflet
 id: Cuba
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Curacao//
 markerFolder: ./Curacao/

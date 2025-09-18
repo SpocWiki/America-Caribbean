@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Bajo_Nuevo_Bank
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Bajo_Nuevo_Bank/
 markerFolder: ./Bajo_Nuevo_Bank/

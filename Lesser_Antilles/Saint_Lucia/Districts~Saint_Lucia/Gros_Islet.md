@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Gros_Islet
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Gros_Islet/
 markerFolder: ./Gros_Islet/

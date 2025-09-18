@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Monte_Cristi
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Monte_Cristi/
 markerFolder: ./Monte_Cristi/

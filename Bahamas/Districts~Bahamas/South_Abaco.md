@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: South_Abaco
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./South_Abaco/
 markerFolder: ./South_Abaco/

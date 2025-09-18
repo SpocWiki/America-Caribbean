@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Saint_Thomas_Lowland
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Saint_Thomas_Lowland/
 markerFolder: ./Saint_Thomas_Lowland/

@@ -283,7 +283,7 @@ Dewey_Decimal_Classification: 2--72983
 ```leaflet
 id: Trinidad And Tobago
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Trinidad_and_Tobago~Islands///
 markerFolder: ./Trinidad_and_Tobago~Islands/

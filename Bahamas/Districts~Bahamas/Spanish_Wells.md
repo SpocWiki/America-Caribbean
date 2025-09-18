@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Spanish_Wells
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Spanish_Wells/
 markerFolder: ./Spanish_Wells/

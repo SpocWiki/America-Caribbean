@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: George_Hill
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./George_Hill/
 markerFolder: ./George_Hill/

@@ -374,7 +374,7 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 ```leaflet
 id: Barbados
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Barbados//
 markerFolder: ./Barbados/

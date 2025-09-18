@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: San_Juan
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./San_Juan/
 markerFolder: ./San_Juan/

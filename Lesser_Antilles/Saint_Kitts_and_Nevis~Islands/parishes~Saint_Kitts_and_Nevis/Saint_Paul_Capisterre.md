@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Saint_Paul_Capesterre
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Saint_Paul_Capesterre/
 markerFolder: ./Saint_Paul_Capesterre/

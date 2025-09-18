@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Hope_Town
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Hope_Town/
 markerFolder: ./Hope_Town/

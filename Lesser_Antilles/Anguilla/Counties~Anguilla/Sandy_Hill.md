@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Sandy_Hill
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Sandy_Hill/
 markerFolder: ./Sandy_Hill/

@@ -32,7 +32,7 @@ expiryDate:
 ```leaflet
 id: St._Eustatius
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./St._Eustatius/
 markerFolder: ./St._Eustatius/

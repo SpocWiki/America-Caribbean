@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Stoney_Ground
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Stoney_Ground/
 markerFolder: ./Stoney_Ground/

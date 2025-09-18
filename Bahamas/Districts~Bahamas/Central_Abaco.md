@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Central_Abaco
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Central_Abaco/
 markerFolder: ./Central_Abaco/

@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: New_Providence
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./New_Providence/
 markerFolder: ./New_Providence/

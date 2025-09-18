@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Ragged_Island
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Ragged_Island/
 markerFolder: ./Ragged_Island/

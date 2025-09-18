@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: The_Farrington
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./The_Farrington/
 markerFolder: ./The_Farrington/

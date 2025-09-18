@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Saint_George's
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Saint_George's/
 markerFolder: ./Saint_George's/

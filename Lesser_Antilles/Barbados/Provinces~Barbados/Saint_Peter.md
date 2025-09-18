@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Saint_Peter
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Saint_Peter/
 markerFolder: ./Saint_Peter/

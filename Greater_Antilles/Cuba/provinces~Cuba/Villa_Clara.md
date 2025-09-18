@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Villa_Clara
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Villa_Clara/
 markerFolder: ./Villa_Clara/

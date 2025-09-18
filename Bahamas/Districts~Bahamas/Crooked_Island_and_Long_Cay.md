@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Crooked_Island_and_Long_Cay
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Crooked_Island_and_Long_Cay/
 markerFolder: ./Crooked_Island_and_Long_Cay/

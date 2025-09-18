@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Monte_Plata
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Monte_Plata/
 markerFolder: ./Monte_Plata/

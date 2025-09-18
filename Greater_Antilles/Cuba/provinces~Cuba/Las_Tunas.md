@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Las_Tunas
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Las_Tunas/
 markerFolder: ./Las_Tunas/

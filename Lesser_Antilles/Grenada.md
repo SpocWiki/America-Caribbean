@@ -348,7 +348,7 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 ```leaflet
 id: Grenada
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Grenada//
 markerFolder: ./Grenada/

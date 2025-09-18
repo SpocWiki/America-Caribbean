@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Saint_Luke
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Saint_Luke/
 markerFolder: ./Saint_Luke/

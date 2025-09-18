@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Penal-Debe
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Penal-Debe/
 markerFolder: ./Penal-Debe/

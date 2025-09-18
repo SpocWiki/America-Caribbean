@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Black_Point
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Black_Point/
 markerFolder: ./Black_Point/

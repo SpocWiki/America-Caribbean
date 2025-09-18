@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Carriacou_and_Petite_Martinique
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Carriacou_and_Petite_Martinique/
 markerFolder: ./Carriacou_and_Petite_Martinique/

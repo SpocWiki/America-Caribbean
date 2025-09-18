@@ -27,7 +27,7 @@ confidential: public
 ```leaflet
 id: Saint Barthélemy
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Saint_Barthelemy/
 markerFolder: ./Saint_Barthelemy/

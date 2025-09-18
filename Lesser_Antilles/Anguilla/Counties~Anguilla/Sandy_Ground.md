@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Sandy_Ground
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Sandy_Ground/
 markerFolder: ./Sandy_Ground/

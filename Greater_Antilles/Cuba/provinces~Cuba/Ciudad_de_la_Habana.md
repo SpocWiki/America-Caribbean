@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Ciudad_de_la_Habana
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Ciudad_de_la_Habana/
 markerFolder: ./Ciudad_de_la_Habana/

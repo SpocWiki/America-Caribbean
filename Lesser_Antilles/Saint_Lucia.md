@@ -18,7 +18,7 @@ confidential: public
 ```leaflet
 id: Saint Lucia
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Saint_Lucia//
 markerFolder: ./Saint_Lucia/

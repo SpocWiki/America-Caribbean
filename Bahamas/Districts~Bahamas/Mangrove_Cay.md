@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Mangrove_Cay
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Mangrove_Cay/
 markerFolder: ./Mangrove_Cay/

@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Grand_Turk
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Grand_Turk/
 markerFolder: ./Grand_Turk/

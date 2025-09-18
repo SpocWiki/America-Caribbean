@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Anse-la-Raye
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Anse-la-Raye/
 markerFolder: ./Anse-la-Raye/

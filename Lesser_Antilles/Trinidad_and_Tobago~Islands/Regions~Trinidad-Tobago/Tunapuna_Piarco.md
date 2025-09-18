@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Tunapuna_Piarco
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Tunapuna_Piarco/
 markerFolder: ./Tunapuna_Piarco/

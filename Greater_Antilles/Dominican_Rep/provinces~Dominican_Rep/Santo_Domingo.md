@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Santo_Domingo
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Santo_Domingo/
 markerFolder: ./Santo_Domingo/

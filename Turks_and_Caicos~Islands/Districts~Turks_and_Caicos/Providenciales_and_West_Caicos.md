@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Providenciales_and_West_Caicos
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Providenciales_and_West_Caicos/
 markerFolder: ./Providenciales_and_West_Caicos/

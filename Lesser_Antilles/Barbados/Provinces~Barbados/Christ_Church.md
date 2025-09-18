@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Christ_Church
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Christ_Church/
 markerFolder: ./Christ_Church/

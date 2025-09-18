@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: The_Quarter
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./The_Quarter/
 markerFolder: ./The_Quarter/

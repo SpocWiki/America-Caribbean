@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: El_Seybo
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./El_Seybo/
 markerFolder: ./El_Seybo/

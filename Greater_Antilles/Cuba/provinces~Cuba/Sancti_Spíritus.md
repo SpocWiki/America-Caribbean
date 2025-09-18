@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Sancti_Spíritus
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Sancti_Spíritus/
 markerFolder: ./Sancti_Spíritus/

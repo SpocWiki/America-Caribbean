@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Salt_Cay
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Salt_Cay/
 markerFolder: ./Salt_Cay/
