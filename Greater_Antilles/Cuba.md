@@ -456,7 +456,7 @@ markerFolder: ./Cuba/
 [Area-Land::109820] 
 Continent :: [[South-America]]  
 [VehicleCode::C] 
-Capital :: [[Cuba/City/Habana=Havana=Havanna]]  
+Capital :: [[Cuba/City/Havana]]  
 
 ![[Cuba/Coat_of_arms_of_Cuba.svg|350]] 
 
