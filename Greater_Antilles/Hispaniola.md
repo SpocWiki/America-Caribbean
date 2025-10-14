@@ -22,7 +22,7 @@ contains_the_administrative_territorial_entity:
 country:
   - "[[_Standards/WikiData/WD~Dominican_Republic,786]]"
   - "[[_Standards/WikiData/WD~Haiti,790]]"
-location: "[[_Standards/WikiData/WD~Caribbean_Sea,1247]]"
+locations: "[[_Standards/WikiData/WD~Caribbean_Sea,1247]]"
 located_in_time_zone: "[[_Standards/WikiData/WD~UTC_05_00,5390]]"
 instance_of: "[[_Standards/WikiData/WD~island,23442]]"
 continent: "[[_Standards/WikiData/WD~North_America,49]]"
