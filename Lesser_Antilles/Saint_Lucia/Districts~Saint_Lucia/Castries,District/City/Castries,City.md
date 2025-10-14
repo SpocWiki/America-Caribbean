@@ -28,7 +28,7 @@ State ::
 Country :: [[../../../../Saint_Lucia]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Castries,41699|WD~Castries,41699]] 
 

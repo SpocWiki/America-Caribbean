@@ -21,7 +21,7 @@ State ::
 Country :: [[../../Saint_Kitts_and_Nevis~Islands]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

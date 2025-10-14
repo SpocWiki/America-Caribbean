@@ -21,7 +21,7 @@ State ::
 Country :: [[../../Guadeloupe]] 
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 
 ```leaflet

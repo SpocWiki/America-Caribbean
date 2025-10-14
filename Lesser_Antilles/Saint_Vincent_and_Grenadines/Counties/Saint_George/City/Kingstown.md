@@ -24,7 +24,7 @@ State ::
 Country :: [[../../Saint_Vincent_and_Grenadines]]  
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Kingstown,41474|WD~Kingstown,41474]] 
 
 ## #has_/map  

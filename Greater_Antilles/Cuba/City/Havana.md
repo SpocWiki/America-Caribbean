@@ -140,7 +140,7 @@ State ::
 Country :: [[../../Cuba]] 
 [StateId::] 
 [Population::] 
-[Unknown::] 
+
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Havana,1563|WD~Havana,1563]] 
 
