@@ -37,7 +37,7 @@ Languages:
   - en
 ---
 
-Southern of [[Lesser_Antilles/Saint_Martin]] 
+Southern of [[Saint_Martin_Island]] 
 
 [	ISO4217-currency_alphabetic	 :: ANG ] 
 [	ISO4217-currency_name	 :: Netherlands Antillean Guilder ] 

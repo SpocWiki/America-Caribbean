@@ -367,7 +367,7 @@ markerFolder: ./Grenada/
 [Area-Land::340] 
 Continent :: [[South-America]]  
 [VehicleCode::WG] 
-Capital :: [[Grenada/City/St._George’s]]  
+Capital :: [[Grenada/parishes~Grenada/Saint_George_Parish/St._George’s]]  
 [Alcohol-l::10.4] 
 [Language-Id::499] 
 #is_a_/Place  

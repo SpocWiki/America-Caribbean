@@ -33,7 +33,7 @@ markerFolder: ./Antigua_and_Barbuda/
 [Area-Land::440] 
 Continent :: [[South-America]]  
 [VehicleCode::AG] 
-Capital :: [[Antigua_and_Barbuda/Counties/Saint_John/City/Saint_John’s]]  
+Capital :: [[Antigua_and_Barbuda/Counties/Saint_John,Barbados/City/Saint_John's]]  
 [Alcohol-l::7.2] 
 [Language-Id::] 
 #is_a_/Place  
