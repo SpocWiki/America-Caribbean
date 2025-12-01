@@ -1,11 +1,20 @@
 ---
+aliases:
+  - Bahamas
+  - جزر البهاما
+  - 巴哈马
+  - Багамские Острова
+  - the Commonwealth of the Bahamas
+  - Bahamas (the)
+  - el Commonwealth de las Bahamas
+  - Bahamas (las)
+has_id_wikidata: Q778
 location:
   - 25.05
   - -77.33
 type: Country
 tags:
   - geo/Country
-has_id_wikidata: Q778
 SpocWebEntityId: 26854
 isDeleted: false
 confidential: public
@@ -22,15 +31,6 @@ layout:
 draft: false
 publishDate:
 expiryDate:
-aliases:
-  - Bahamas
-  - جزر البهاما
-  - 巴哈马
-  - Багамские Острова
-  - the Commonwealth of the Bahamas
-  - Bahamas (the)
-  - el Commonwealth de las Bahamas
-  - Bahamas (las)
 Languages:
   - en-BS
 ---
@@ -100,10 +100,12 @@ Sub-region_Name ::  [[Latin America and the Caribbean]]
 
 [	ISO3166-1-numeric	 :: 044 ] 
 
-
-
 [ISO2::BS] 
 [ISO3::BHS] 
+
+#is_/same_as :: [[../../../WikiData/WD~The_Bahamas,778|WD~The_Bahamas,778]] 
+
+## #has_/map 
 
 ```leaflet
 id: Bahamas
