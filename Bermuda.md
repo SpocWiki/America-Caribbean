@@ -1,114 +1,114 @@
 ---
 location:
-- 32.32
-- -64.74
+  - 32.32
+  - -64.74
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26850
 isDeleted: false
 confidential: public
-license: "CC BY-SA 4.0"
+license: CC BY-SA 4.0
 isReadOnly: false
-source: "https://datahub.io/core/country-codes"
+source: https://datahub.io/core/country-codes
 cssclasses:
-- Country
+  - Country
 publish: true
 title: Bermuda
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Bermuda
-- Bermudes
-- برمودا
-- 百慕大
-- "Бермудские острова"
+  - Bermuda
+  - Bermudes
+  - برمودا
+  - 百慕大
+  - Бермудские острова
 Languages:
-- en-BM
-- pt
+  - en-BM
+  - pt
 has_id_wikidata: Q23635
 contains_the_administrative_territorial_entity:
-- "[[_Standards/WikiData/WD~Sandys_Parish,121782]]"
-- "[[_Standards/WikiData/WD~Hamilton_Parish,289876]]"
-- "[[_Standards/WikiData/WD~Devonshire_Parish,1207018]]"
-- "[[_Standards/WikiData/WD~Southampton_Parish,1323054]]"
-- "[[_Standards/WikiData/WD~Warwick_Parish,1468860]]"
-- "[[_Standards/WikiData/WD~St._George's_Parish,1521745]]"
-- "[[_Standards/WikiData/WD~Smith's_Parish,1735847]]"
-- "[[_Standards/WikiData/WD~Pembroke_Parish,1756036]]"
-- '[[_Standards/WikiData/WD~Paget,2046204]]'
-- "[[_Standards/WikiData/WD~St._George's,28063]]"
-- '[[_Standards/WikiData/WD~Hamilton,30985]]'
+  - "[[_Standards/WikiData/WD~Sandys_Parish,121782]]"
+  - "[[_Standards/WikiData/WD~Hamilton_Parish,289876]]"
+  - "[[_Standards/WikiData/WD~Devonshire_Parish,1207018]]"
+  - "[[_Standards/WikiData/WD~Southampton_Parish,1323054]]"
+  - "[[_Standards/WikiData/WD~Warwick_Parish,1468860]]"
+  - "[[_Standards/WikiData/WD~St._George's_Parish,1521745]]"
+  - "[[_Standards/WikiData/WD~Smith's_Parish,1735847]]"
+  - "[[_Standards/WikiData/WD~Pembroke_Parish,1756036]]"
+  - "[[_Standards/WikiData/WD~Paget,2046204]]"
+  - "[[_Standards/WikiData/WD~St._George's,28063]]"
+  - "[[_Standards/WikiData/WD~Hamilton,30985]]"
 flag: "[[_Standards/WikiData/WD~flag_of_Bermuda,190064]]"
-different_from: '[[_Standards/WikiData/WD~Barbuda,238752]]'
+different_from: "[[_Standards/WikiData/WD~Barbuda,238752]]"
 coat_of_arms: "[[_Standards/WikiData/WD~Coat_of_arms_of_Bermuda,369400]]"
-emergency_phone_number: '[[_Standards/WikiData/WD~911,533806]]'
+emergency_phone_number: "[[_Standards/WikiData/WD~911,533806]]"
 described_by_source:
-- "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-- "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-- "[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]"
-- "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-- "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
-- "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
-- "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]"
 member_of: "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
 part_of:
-- '[[_Standards/WikiData/WD~Caribbean,664609]]'
-- "[[_Standards/WikiData/WD~European_Union_tax_haven_blacklist,66458647]]"
+  - "[[_Standards/WikiData/WD~Caribbean,664609]]"
+  - "[[_Standards/WikiData/WD~European_Union_tax_haven_blacklist,66458647]]"
 separated_from: "[[_Standards/WikiData/WD~Colony_of_Virginia,1070529]]"
 instance_of:
-- "[[_Standards/WikiData/WD~island_group,1402592]]"
-- '[[_Standards/WikiData/WD~archipelago,33837]]'
-- "[[_Standards/WikiData/WD~British_overseas_territories,46395]]"
-- "[[_Standards/WikiData/WD~administrative_territorial_entity,56061]]"
+  - "[[_Standards/WikiData/WD~island_group,1402592]]"
+  - "[[_Standards/WikiData/WD~archipelago,33837]]"
+  - "[[_Standards/WikiData/WD~British_overseas_territories,46395]]"
+  - "[[_Standards/WikiData/WD~administrative_territorial_entity,56061]]"
 central_bank: "[[_Standards/WikiData/WD~Bermuda_Monetary_Authority,1774433]]"
 named_after: "[[_Standards/WikiData/WD~Juan_de_Bermúdez,2551899]]"
 geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Bermuda,3123411]]"
 demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Bermuda,3301947]]"
 economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Bermuda,3320693]]"
-Wikimedia_outline: '[[_Standards/WikiData/WD~تاا,7112202]]'
+Wikimedia_outline: "[[_Standards/WikiData/WD~تاا,7112202]]"
 legislative_body: "[[_Standards/WikiData/WD~Parliament_of_Bermuda,7138929]]"
-driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Bermuda,13375879]]'
+driving_side: "[[_Standards/WikiData/WD~left,13196750]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Bermuda,13375879]]"
 head_of_state: "[[_Standards/WikiData/WD~John_Rankin,15429094]]"
 electrical_plug_type:
-- "[[_Standards/WikiData/WD~NEMA_1-15,24288454]]"
-- "[[_Standards/WikiData/WD~NEMA_5-15,24288456]]"
+  - "[[_Standards/WikiData/WD~NEMA_1-15,24288454]]"
+  - "[[_Standards/WikiData/WD~NEMA_5-15,24288456]]"
 head_of_government: "[[_Standards/WikiData/WD~E._David_Burt,33120852]]"
 office_held_by_head_of_government: "[[_Standards/WikiData/WD~Premier_of_Bermuda,56611785]]"
-open_data_portal: '[[_Standards/WikiData/WD~bermuda.io,97024956]]'
+open_data_portal: "[[_Standards/WikiData/WD~bermuda.io,97024956]]"
 executive_body: "[[_Standards/WikiData/WD~Cabinet_of_Bermuda,107979988]]"
 highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme_Court_of_Bermuda,113006163]]"
 main_regulatory_text: "[[_Standards/WikiData/WD~Constitution_of_Bermuda,131425450]]"
 inception: "1612"
-official_website: "https://www.gov.bm/"
-image: "http://commons.wikimedia.org/wiki/Special:FilePath/ISS017-E-10695%20-%20View%20of%20Bermuda.jpg"
+official_website: https://www.gov.bm/
+image: http://commons.wikimedia.org/wiki/Special:FilePath/ISS017-E-10695%20-%20View%20of%20Bermuda.jpg
 demonym:
-- Beirmiúdach
-- bermudan
-- bermudês
-- Bermudian
-- Bermudan
-- bermudano
-- Bermudien
-- ברמודי
-- ברמודית
-- bermudiana
-- bermudiane
-- bermudiani
-- bermudiano
+  - Beirmiúdach
+  - bermudan
+  - bermudês
+  - Bermudian
+  - Bermudan
+  - bermudano
+  - Bermudien
+  - ברמודי
+  - ברמודית
+  - bermudiana
+  - bermudiane
+  - bermudiani
+  - bermudiano
 MeSH_tree_code: Z01.639.040.390
-language_used: '[[_Standards/WikiData/WD~English,1860]]'
-official_language: '[[_Standards/WikiData/WD~English,1860]]'
-located_in_time_zone: '[[_Standards/WikiData/WD~UTC−04_00,5762]]'
-capital: '[[_Standards/WikiData/WD~Hamilton,30985]]'
+language_used: "[[_Standards/WikiData/WD~English,1860]]"
+official_language: "[[_Standards/WikiData/WD~English,1860]]"
+located_in_time_zone: "[[_Standards/WikiData/WD~UTC−04_00,5762]]"
+capital: "[[_Standards/WikiData/WD~Hamilton,30985]]"
 diplomatic_relation: "[[_Standards/WikiData/WD~United_States,30]]"
 continent: "[[_Standards/WikiData/WD~North_America,49]]"
 country: "[[_Standards/WikiData/WD~United_Kingdom,145]]"
@@ -118,10 +118,10 @@ elevation_above_sea_level: 25
 area: 53
 total_fertility_rate: 1.63
 anthem: "[[_Standards/WikiData/WD~God_Save_the_King,40807]]"
-top_level_Internet_domain: '[[_Standards/WikiData/WD~.bm,41028]]'
+top_level_Internet_domain: "[[_Standards/WikiData/WD~.bm,41028]]"
 basic_form_of_government:
-- "[[_Standards/WikiData/WD~constitutional_monarchy,41614]]"
-- "[[_Standards/WikiData/WD~British_overseas_territories,46395]]"
+  - "[[_Standards/WikiData/WD~constitutional_monarchy,41614]]"
+  - "[[_Standards/WikiData/WD~British_overseas_territories,46395]]"
 located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~British_overseas_territories,46395]]"
 number_of_out_of_school_children: 2022
 maritime_identification_digits: 310
@@ -131,36 +131,36 @@ ISO_3166_1_alpha_2_code: BM
 WIPO_ST_3: BM
 IAB_code: 1252
 motto_text:
-- "Quo Fata Ferunt"
-- "Каквото съдбата донесе"
-- "Whither the Fates carry (us)"
+  - Quo Fata Ferunt
+  - Каквото съдбата донесе
+  - Whither the Fates carry (us)
 official_name:
-- Bermudy
-- Bermuda
-short_name: "\U0001F1E7\U0001F1F2"
+  - Bermudy
+  - Bermuda
+short_name: 🇧🇲
 population: 65024
 nominal_GDP:
-- 7127200000
-- 7550500000
-flag_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bermuda.svg"
-Unicode_character: 🇧🇲 
-ISO_3166_1_numeric_code: 060
-M49_code: 060
+  - 7127200000
+  - 7550500000
+flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bermuda.svg
+Unicode_character: 🇧🇲
+ISO_3166_1_numeric_code: 60
+M49_code: 60
 IOC_country_code: BER
 native_label: Bermuda
 OmegaWiki_Defined_Meaning: 615978
 ISO_3166_1_alpha_3_code: BMU
 PM20_geo_code: E11
 life_expectancy: 81.22707
-coordinate_location: "Point(-64.74 32.32)"
-geoshape: "http://commons.wikimedia.org/data/main/Data:Bermuda.map"
-page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Bermuda%20WV%20banner.jpg"
-coat_of_arms_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Bermuda.svg"
-locator_map_image: "http://commons.wikimedia.org/wiki/Special:FilePath/United%20Kingdom%20on%20the%20globe%20%28Bermuda%20special%29%20%28Americas%20centered%29.svg"
-country_calling_code: +1441
+coordinate_location: Point(-64.74 32.32)
+geoshape: http://commons.wikimedia.org/data/main/Data:Bermuda.map
+page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Bermuda%20WV%20banner.jpg
+coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Bermuda.svg
+locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/United%20Kingdom%20on%20the%20globe%20%28Bermuda%20special%29%20%28Americas%20centered%29.svg
+country_calling_code: 1441
 U_S_National_Archives_Identifier: 10044636
 Dewey_Decimal_Classification: 2--7299
-Commons_gallery: "Atlas of Bermuda"
+Commons_gallery: Atlas of Bermuda
 GitHub_topic: bermuda
 subreddit: bermuda
 Commons_category: Bermuda

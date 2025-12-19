@@ -5,7 +5,7 @@ part_of:
   - "[[_Standards/WikiData/WD~Greater_Antilles,128011]]"
   - "[[_Standards/WikiData/WD~West_Indies,669037]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
   - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"

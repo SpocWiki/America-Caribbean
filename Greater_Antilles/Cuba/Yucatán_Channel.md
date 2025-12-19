@@ -2,7 +2,7 @@
 aliases:
 has_id_wikidata: Q193260
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
   - "[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]"
 coordinate_location: Point(-85.75 21.75)

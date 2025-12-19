@@ -56,7 +56,7 @@ inflows:
   - "[[_Standards/WikiData/WD~Pascagoula_River,55262]]"
 described_by_source:
   - "[[_Standards/WikiData/WD~Apple_Maps,276101]]"
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[_Standards/WikiData/WD~Bing_Maps,863756]]"
   - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
   - "[[_Standards/WikiData/WD~Library_of_Congress_Subject_Headings,1823134]]"
