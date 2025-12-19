@@ -30,6 +30,7 @@ Commons_category: Greater Antilles
 
 #is_/same_as :: [[../../../WikiData/WD~Greater_Antilles,128011|WD~Greater_Antilles,128011]] 
 
+
 ## #has_/text_of_/abstract 
 
 > The Greater Antilles is a grouping of the larger islands in the Caribbean Sea, 
