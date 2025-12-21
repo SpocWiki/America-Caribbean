@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Ciego_de_Ávila
+  - Ciego de Ávila
 location:
   - 22
   - -78.6
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Ciego_de_Ávila
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Ciego_de_Ávila

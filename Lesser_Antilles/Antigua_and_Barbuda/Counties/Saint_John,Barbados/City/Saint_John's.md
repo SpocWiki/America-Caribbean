@@ -1,4 +1,9 @@
 ---
+aliases:
+  - Saint_John's
+  - Saint_John’s
+  - Saint John's
+  - Saint John’s
 location:
   - 17.11667
   - -61.85
@@ -12,11 +17,6 @@ tags:
 SpocWebEntityId: 36653
 isDeleted: false
 confidential: public
-aliases:
-  - Saint_John's
-  - Saint_John’s
-  - Saint John's
-  - Saint John’s
 ---
 
 # [[Saint_John's]]

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Saint_Peter
+  - Saint Peter
 location:
   - 16.79
   - -62.19
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Saint_Peter
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Saint_Peter

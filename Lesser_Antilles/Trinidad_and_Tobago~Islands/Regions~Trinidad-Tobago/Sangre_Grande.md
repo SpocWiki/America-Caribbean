@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Sangre_Grande
+  - Sangre Grande
 location:
   - 10.7
   - -61.1
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Sangre_Grande
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Sangre_Grande

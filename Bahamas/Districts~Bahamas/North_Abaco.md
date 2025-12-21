@@ -1,4 +1,7 @@
 ---
+aliases:
+  - North_Abaco
+  - North Abaco
 location:
   - 26.79
   - -77.44
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - North_Abaco
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # North_Abaco

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - South_Eleuthera
+  - South Eleuthera
 location:
   - 24.8
   - -76.3
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - South_Eleuthera
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # South_Eleuthera

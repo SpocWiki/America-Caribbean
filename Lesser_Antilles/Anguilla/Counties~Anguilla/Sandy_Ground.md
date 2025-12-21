@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Sandy_Ground
+  - Sandy Ground
 location:
   - 18.22
   - -63.08
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Sandy_Ground
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Sandy_Ground

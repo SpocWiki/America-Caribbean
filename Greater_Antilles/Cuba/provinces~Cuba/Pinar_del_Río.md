@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Pinar_del_Río
+  - Pinar del Río
 location:
   - 22.4
   - -83.7
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Pinar_del_Río
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Pinar_del_Río

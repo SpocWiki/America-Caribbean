@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Grand_Cay
+  - Grand Cay
 location:
   - 27.23
   - -78.33
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Grand_Cay
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Grand_Cay

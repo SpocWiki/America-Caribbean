@@ -1,14 +1,17 @@
 ---
-location: [ 18.08 , -63.06 ] 
-
+aliases:
+  - Saint_Martin_Island
+  - Saint Martin Island
+has_id_wikidata: Q26273
+location:
+  - 18.08
+  - -63.06
 type: Country
 tags:
-- geo/Country
-has_id_wikidata: Q26273 
+  - geo/Country
 SpocWebEntityId: 76731
 isDeleted: false
 confidential: public
-
 ---
 
 # [[Saint_Martin_Island]] 

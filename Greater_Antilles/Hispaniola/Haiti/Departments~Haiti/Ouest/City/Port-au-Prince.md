@@ -22,48 +22,48 @@ demonym:
   - Principortain
   - Principortaine
 coordinate_location: Point(-72.340277777 18.546944444)
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Gulf_of_Gonâve,844003]]"
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Gulf_of_Gonâve,844003]]'
 described_by_source:
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
 capital_of:
-  - "[[_Standards/WikiData/WD~Ouest,1434621]]"
-  - "[[_Standards/WikiData/WD~Haiti,790]]"
+  - '[[_Standards/WikiData/WD~Ouest,1434621]]'
+  - '[[_Standards/WikiData/WD~Haiti,790]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~big_city,1549591]]"
-  - "[[_Standards/WikiData/WD~commune_of_Haiti,3685462]]"
-  - "[[_Standards/WikiData/WD~city_or_town,7930989]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Port_au_Prince_Arrondissement,2222007]]"
-history_of_topic: "[[_Standards/WikiData/WD~timeline_of_Port_au_Prince,16933297]]"
-category_for_people_buried_here: "[[_Standards/WikiData/WD~Q25213512,25213512]]"
+  - '[[_Standards/WikiData/WD~big_city,1549591]]'
+  - '[[_Standards/WikiData/WD~commune_of_Haiti,3685462]]'
+  - '[[_Standards/WikiData/WD~city_or_town,7930989]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Port_au_Prince_Arrondissement,2222007]]'
+history_of_topic: '[[_Standards/WikiData/WD~timeline_of_Port_au_Prince,16933297]]'
+category_for_people_buried_here: '[[_Standards/WikiData/WD~Q25213512,25213512]]'
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Turgeau,47364624]]"
-  - "[[_Standards/WikiData/WD~Q47365047,47365047]]"
-  - "[[_Standards/WikiData/WD~Martissant,47365189]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Port_au_Prince,106020406]]"
-head_of_government: "[[_Standards/WikiData/WD~Q134087271,134087271]]"
+  - '[[_Standards/WikiData/WD~Turgeau,47364624]]'
+  - '[[_Standards/WikiData/WD~Q47365047,47365047]]'
+  - '[[_Standards/WikiData/WD~Martissant,47365189]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Port_au_Prince,106020406]]'
+head_of_government: '[[_Standards/WikiData/WD~Q134087271,134087271]]'
 inception: 1749-01-01T00:00:00Z
 fiscal_tax_revenue: 253200124.76
 aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/US%20Navy%20100316-N-5961C-020%20An%20aerial%20view%20of%20Port-au-Prince%2C%20Haiti%20shows%20the%20proximity%20of%20homes%2C%20many%20damaged%20in%20a%20major%20earthquake%20and%20subsequent%20aftershocks.jpg
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Montreal,340]]"
-  - "[[_Standards/WikiData/WD~Montevideo,1335]]"
-  - "[[_Standards/WikiData/WD~Liège,3992]]"
-  - "[[_Standards/WikiData/WD~Miami,8652]]"
-  - "[[_Standards/WikiData/WD~Baton_Rouge,28218]]"
-country: "[[_Standards/WikiData/WD~Haiti,790]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC_05_00,5390]]"
+  - '[[_Standards/WikiData/WD~Montreal,340]]'
+  - '[[_Standards/WikiData/WD~Montevideo,1335]]'
+  - '[[_Standards/WikiData/WD~Liège,3992]]'
+  - '[[_Standards/WikiData/WD~Miami,8652]]'
+  - '[[_Standards/WikiData/WD~Baton_Rouge,28218]]'
+country: '[[_Standards/WikiData/WD~Haiti,790]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC_05_00,5390]]'
 official_language:
-  - "[[_Standards/WikiData/WD~French,150]]"
-  - "[[_Standards/WikiData/WD~Haitian_Creole,33491]]"
+  - '[[_Standards/WikiData/WD~French,150]]'
+  - '[[_Standards/WikiData/WD~Haitian_Creole,33491]]'
 elevation_above_sea_level: 98
-local_dialing_code: "21"
+local_dialing_code: 21
 area: 36040000
 population: 987310
-WOEID: "96110"
-OmegaWiki_Defined_Meaning: "1115546"
-U_S_National_Archives_Identifier: "10044617"
+WOEID: 96110
+OmegaWiki_Defined_Meaning: 1115546
+U_S_National_Archives_Identifier: 10044617
 Commons_gallery: Port-au-Prince
 Commons_category: Port-au-Prince
 short_name: PAP

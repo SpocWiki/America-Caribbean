@@ -1,6 +1,8 @@
 ---
 aliases:
   - Saint Vincent and the Grenadines
+  - Saint_Vincent_and_Grenadines
+  - Saint Vincent and Grenadines
 has_id_wikidata: Q757
 location:
   - 13.1667
@@ -129,7 +131,7 @@ pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Sf%C3%A2ntul%20Vincen%C8%9Biu%20%C8%99i%20Grenadine.wav
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/VCT%20orthographic.svg
 IPA_transcription: ˈsɑnt ˈʋɪnsɛnt ɔ ɡɾɛnɑˈdiːnːə
-telephone_country_code: "+1784"
+telephone_country_code: 1784
 Dewey_Decimal_Classification: 2--729844
 Wolfram_Language_entity_code: Entity["HistoricalCountry", "SaintVincentGrenadines"]
 booru_tag: saint_vincent_and_the_grenadines
@@ -174,24 +176,24 @@ motto_text:
   - Peace and Justice
   - Heddwch a Chyfiawnder
 maritime_identification_digits:
-  - "375"
-  - "377"
-  - "376"
+  - 375
+  - 377
+  - 376
 total_fertility_rate: 1.974
 female_population:
   - 51020
   - 51123
   - 51199
   - 51288
-ISO_3166_1_numeric_code: "670"
-M49_code: "670"
+ISO_3166_1_numeric_code: 670
+M49_code: 670
 birth_rate:
   - 12.726
   - 12.901
   - 13.071
   - 13.346
-IAB_code: "1394"
-INSEE_countries_and_foreign_territories_code: "99440"
+IAB_code: 1394
+INSEE_countries_and_foreign_territories_code: 99440
 rural_population:
   - 47946
   - 48564
@@ -209,7 +211,7 @@ urban_population:
   - 56002
 life_expectancy: 73.179
 population: 109897
-U_S_National_Archives_Identifier: "10044694"
+U_S_National_Archives_Identifier: 10044694
 official_name:
   - Saint-Vincent-et-les-Grenadines
   - Saint Vincent and the Grenadines

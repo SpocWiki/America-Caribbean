@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Saint_Peter_Basseterre
+  - Saint Peter Basseterre
 location:
   - 17.32
   - -62.71
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Saint_Peter_Basseterre
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Saint_Peter_Basseterre

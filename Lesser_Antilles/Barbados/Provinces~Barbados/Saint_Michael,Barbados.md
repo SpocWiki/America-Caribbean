@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Saint_Michael
+  - Saint_Michael,Barbados
+  - Saint Michael,Barbados
 location:
   - 13.13
   - -59.61
@@ -12,18 +16,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Saint_Michael
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Saint_Michael,Barbados]]

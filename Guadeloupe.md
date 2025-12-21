@@ -1,4 +1,11 @@
 ---
+aliases:
+  - Guadeloupe
+  - Guadalupe
+  - غواديلوب
+  - 瓜德罗普
+  - Гваделупа
+  - ''
 location:
   - 16
   - -61.7333
@@ -15,19 +22,12 @@ cssclasses:
   - Country
 publish: true
 title: Guadeloupe
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Guadeloupe
-  - Guadalupe
-  - غواديلوب
-  - 瓜德罗普
-  - Гваделупа
-  - 
+publishDate: ''
+expiryDate: ''
 Languages:
   - fr-GP
 ---

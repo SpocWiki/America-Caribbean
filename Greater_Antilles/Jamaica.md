@@ -1,7 +1,8 @@
 ---
-has_id_wikidata: Q766
 aliases:
   - Jamaika
+  - Jamaica
+has_id_wikidata: Q766
 instance_of:
   - "[[_Standards/WikiData/WD~island_country,112099]]"
   - "[[_Standards/WikiData/WD~Commonwealth_realm,202686]]"
@@ -278,7 +279,7 @@ population: 2697983
 ISO_3166_1_alpha_3_code: JAM
 IOC_country_code: JAM
 coordinates_of_northernmost_point: Point(-77.8469 18.52493)
-inception: "1962"
+inception: 1962
 ISO_3166_1_alpha_2_code: JM
 FIPS_10_4_countries_and_regions_: JM
 WIPO_ST_3: JM

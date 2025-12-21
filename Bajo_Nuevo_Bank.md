@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Bajo_Nuevo_Bank
+  - Bajo Nuevo Bank
 location:
   - 15.79
   - -79.846
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Bajo_Nuevo_Bank
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Bajo_Nuevo_Bank

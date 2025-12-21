@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Santo_Domingo
+  - Santo Domingo
 location:
   - 18.6
   - -69.9
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Santo_Domingo
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Santo_Domingo]] 

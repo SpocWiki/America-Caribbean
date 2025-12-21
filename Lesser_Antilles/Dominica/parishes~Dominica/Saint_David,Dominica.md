@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Saint_David
+  - Saint_David,Dominica
+  - Saint David,Dominica
 location:
   - 15.4
   - -61.3
@@ -12,18 +16,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Saint_David
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Saint_David,Dominica]] 

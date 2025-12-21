@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Stoney_Ground
+  - Stoney Ground
 location:
   - 18.252
   - -63.023
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Stoney_Ground
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Stoney_Ground

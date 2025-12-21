@@ -1,21 +1,22 @@
 ---
 aliases:
   - Greater Antilles
+  - Greater_Antilles
 has_id_wikidata: Q128011
 located_in_on_physical_feature:
-  - "[[_Standards/WikiData/WD~Antilles,166131]]"
-  - "[[_Standards/WikiData/WD~Caribbean,664609]]"
-part_of: "[[_Standards/WikiData/WD~Antilles,166131]]"
+  - '[[_Standards/WikiData/WD~Antilles,166131]]'
+  - '[[_Standards/WikiData/WD~Caribbean,664609]]'
+part_of: '[[_Standards/WikiData/WD~Antilles,166131]]'
 has_part_s_:
-  - "[[_Standards/WikiData/WD~Cuba,586657]]"
-  - "[[_Standards/WikiData/WD~Puerto_Rico,2076337]]"
-  - "[[_Standards/WikiData/WD~Jamaica,27119301]]"
-  - "[[_Standards/WikiData/WD~Hispaniola,25277]]"
-  - "[[_Standards/WikiData/WD~Navassa_Island,25359]]"
-instance_of: "[[_Standards/WikiData/WD~island_group,1402592]]"
-described_by_source: "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - '[[_Standards/WikiData/WD~Cuba,586657]]'
+  - '[[_Standards/WikiData/WD~Puerto_Rico,2076337]]'
+  - '[[_Standards/WikiData/WD~Jamaica,27119301]]'
+  - '[[_Standards/WikiData/WD~Hispaniola,25277]]'
+  - '[[_Standards/WikiData/WD~Navassa_Island,25359]]'
+instance_of: '[[_Standards/WikiData/WD~island_group,1402592]]'
+described_by_source: '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
 coordinate_location: Point(-79.033333333 21.983333333)
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
 elevation_above_sea_level: 3087
 area: 207411
 population: 37862400

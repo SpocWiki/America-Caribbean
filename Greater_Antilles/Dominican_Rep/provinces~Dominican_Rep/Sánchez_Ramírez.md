@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Sánchez_Ramírez
+  - Sánchez Ramírez
 location:
   - 19
   - -70.1
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Sánchez_Ramírez
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Sánchez_Ramírez

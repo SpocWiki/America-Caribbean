@@ -1,4 +1,7 @@
 ---
+aliases:
+  - The_Valley
+  - The Valley
 location:
   - 18.22723
   - -63.04899
@@ -17,18 +20,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - The_Valley
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 #is_a_/Place  
 #is_a_ :: [[../../../../../Geography/Place]] 

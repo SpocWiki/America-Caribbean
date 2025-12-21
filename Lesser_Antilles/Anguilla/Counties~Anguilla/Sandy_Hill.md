@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Sandy_Hill
+  - Sandy Hill
 location:
   - 18.24
   - -63.01
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Sandy_Hill
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Sandy_Hill

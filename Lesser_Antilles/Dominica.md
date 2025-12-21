@@ -1,11 +1,19 @@
 ---
+aliases:
+  - Dominica
+  - Dominique
+  - دومينيكا
+  - 多米尼克
+  - Доминика
+  - the Commonwealth of Dominica
+  - el Commonwealth de Dominica
+has_id_wikidata: Q784
 location:
   - 15.3
   - -61.3833
 type: Country
 tags:
   - geo/Country
-has_id_wikidata: Q784
 SpocWebEntityId: 26881
 isDeleted: false
 confidential: public
@@ -16,20 +24,12 @@ cssclasses:
   - Country
 publish: true
 title: Dominica
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Dominica
-  - Dominique
-  - دومينيكا
-  - 多米尼克
-  - Доминика
-  - the Commonwealth of Dominica
-  - el Commonwealth de Dominica
+publishDate: ""
+expiryDate: ""
 Languages:
   - en-DM
 Wolfram_Language_entity_code:
@@ -250,7 +250,7 @@ nominal_GDP:
   - 555266667
   - 612048148
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Dominica.svg
-inception: "1978"
+inception: 1978
 coordinates_of_westernmost_point: Point(-61.47985 15.53773)
 U_S_National_Archives_Identifier: 10044924
 Commons_gallery: Dominica

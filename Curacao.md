@@ -1,4 +1,17 @@
 ---
+aliases:
+  - Curaçao
+  - Curaçao
+  - Curaçao
+  - Curaçao
+  - كوراساو
+  - 库拉索
+  - Кюрасао
+  - ''
+  - ''
+  - ''
+  - ''
+  - Curacao
 location:
   - 12.2
   - -69
@@ -12,26 +25,14 @@ cssclasses:
 publish: true
 type: Country
 title: Curaçao
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
+publishDate: ''
+expiryDate: ''
 tags:
   - geo/Country
-aliases:
-  - Curaçao
-  - Curaçao
-  - Curaçao
-  - Curaçao
-  - كوراساو
-  - 库拉索
-  - Кюрасао
-  - 
-  - 
-  - 
-  - 
 Languages:
   - nl
   - pap

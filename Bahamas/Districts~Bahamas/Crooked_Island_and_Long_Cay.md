@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Crooked_Island_and_Long_Cay
+  - Crooked Island and Long Cay
 location:
   - 22.75
   - -74.24
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Crooked_Island_and_Long_Cay
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Crooked_Island_and_Long_Cay

@@ -1,4 +1,11 @@
 ---
+aliases:
+  - Bermuda
+  - Bermudes
+  - برمودا
+  - 百慕大
+  - Бермудские острова
+has_id_wikidata: Q23635
 location:
   - 32.32
   - -64.74
@@ -15,22 +22,15 @@ cssclasses:
   - Country
 publish: true
 title: Bermuda
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Bermuda
-  - Bermudes
-  - برمودا
-  - 百慕大
-  - Бермудские острова
+publishDate: ""
+expiryDate: ""
 Languages:
   - en-BM
   - pt
-has_id_wikidata: Q23635
 contains_the_administrative_territorial_entity:
   - "[[_Standards/WikiData/WD~Sandys_Parish,121782]]"
   - "[[_Standards/WikiData/WD~Hamilton_Parish,289876]]"
@@ -87,7 +87,7 @@ open_data_portal: "[[_Standards/WikiData/WD~bermuda.io,97024956]]"
 executive_body: "[[_Standards/WikiData/WD~Cabinet_of_Bermuda,107979988]]"
 highest_judicial_authority: "[[_Standards/WikiData/WD~Supreme_Court_of_Bermuda,113006163]]"
 main_regulatory_text: "[[_Standards/WikiData/WD~Constitution_of_Bermuda,131425450]]"
-inception: "1612"
+inception: 1612
 official_website: https://www.gov.bm/
 image: http://commons.wikimedia.org/wiki/Special:FilePath/ISS017-E-10695%20-%20View%20of%20Bermuda.jpg
 demonym:

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - North_Caicos
+  - North Caicos
 location:
   - 21.89
   - -71.93
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - North_Caicos
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # North_Caicos

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Couva-Tabaquite-Talparo
 location:
   - 10.4
   - -61.3
@@ -12,18 +14,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Couva-Tabaquite-Talparo
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Couva-Tabaquite-Talparo

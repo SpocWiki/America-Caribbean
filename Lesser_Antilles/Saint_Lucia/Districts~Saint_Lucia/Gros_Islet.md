@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Gros_Islet
+  - Gros Islet
 location:
   - 14.07
   - -60.94
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Gros_Islet
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Gros_Islet

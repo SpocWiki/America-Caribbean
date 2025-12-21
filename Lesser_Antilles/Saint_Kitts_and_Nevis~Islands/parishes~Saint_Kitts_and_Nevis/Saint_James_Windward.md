@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Saint_James_Windward
+  - Saint James Windward
 location:
   - 17.17
   - -62.57
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Saint_James_Windward
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Saint_James_Windward

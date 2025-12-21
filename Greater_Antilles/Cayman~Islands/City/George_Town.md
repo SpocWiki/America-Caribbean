@@ -1,16 +1,20 @@
 ---
-location: [19.28333,-81.36667] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - George_Town
+  - George Town
+location:
+  - 19.28333
+  - -81.36667
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 36655
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[../../../../../Geography/Place]] 

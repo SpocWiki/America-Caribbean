@@ -5,7 +5,8 @@ aliases:
   - بورتوريكو
   - 波多黎各
   - Пуэрто-Рико
-  - 
+  - ''
+  - Puerto_Rico
 has_id_wikidata: Q1183
 location:
   - 18.45
@@ -23,12 +24,12 @@ cssclasses:
   - Country
 publish: true
 title: Puerto Rico
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
+publishDate: ''
+expiryDate: ''
 Languages:
   - en-PR
   - es-PR

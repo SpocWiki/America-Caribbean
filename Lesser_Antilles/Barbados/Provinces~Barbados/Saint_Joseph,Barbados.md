@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Saint_Joseph
+  - Saint_Joseph,Barbados
+  - Saint Joseph,Barbados
 location:
   - 13.21
   - -59.55
@@ -12,18 +16,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Saint_Joseph
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Saint_Joseph,Barbados]]

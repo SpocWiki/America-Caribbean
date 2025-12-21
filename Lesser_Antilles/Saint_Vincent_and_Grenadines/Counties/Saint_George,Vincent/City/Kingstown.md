@@ -1,16 +1,19 @@
 ---
-location: [13.16667,-61.23333] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Kingstown
+location:
+  - 13.16667
+  - -61.23333
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 36654
 isDeleted: false
 confidential: public
-
 ---
 
 # [[Kingstown]] 

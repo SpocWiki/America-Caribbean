@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Saint_Paul_Capesterre
+  - Saint_Paul_Capisterre
+  - Saint Paul Capisterre
 location:
   - 17.39
   - -62.84
@@ -12,18 +16,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Saint_Paul_Capesterre
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Saint_Paul_Capesterre

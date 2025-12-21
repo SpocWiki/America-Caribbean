@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Saint_Philip
+  - Saint_Philip,Barbados
+  - Saint Philip,Barbados
 location:
   - 13.14
   - -59.47
@@ -12,18 +16,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Saint_Philip
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Saint_Philip,Barbados]]

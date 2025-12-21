@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Villa_Clara
+  - Villa Clara
 location:
   - 22.5
   - -79.9
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Villa_Clara
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Villa_Clara

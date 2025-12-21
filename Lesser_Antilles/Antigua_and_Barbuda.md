@@ -1,16 +1,17 @@
 ---
+aliases:
+  - Antigua and Barbuda
+  - Antigua_and_Barbuda
+has_id_wikidata: Q781
 location:
   - 17.1167
   - -61.85
 type: Country
 tags:
   - geo/Country
-has_id_wikidata: Q781
 SpocWebEntityId: 26828
 isDeleted: false
 confidential: public
-aliases:
-  - Antigua and Barbuda
 ---
 
 # [[Antigua_and_Barbuda]] 

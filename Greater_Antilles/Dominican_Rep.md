@@ -1,16 +1,18 @@
 ---
+aliases:
+  - Dominican Republic
+  - Dominican_Rep
+  - Dominican Rep
+has_id_wikidata: Q786
 location:
   - 19
   - -70.6667
 type: Country
 tags:
   - geo/Country
-has_id_wikidata: Q786
 SpocWebEntityId: 26882
 isDeleted: false
 confidential: public
-aliases:
-  - Dominican Republic
 instance_of:
   - "[[_Standards/WikiData/WD~island_country,112099]]"
   - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
@@ -175,18 +177,18 @@ BTI_Governance_Index:
 Happy_Planet_Index_score: 54.8
 Inequality_adjusted_Human_Development_Index: 0.618
 Democracy_Index: 6.32
-ISO_3166_1_numeric_code: "214"
-M49_code: "214"
-mobile_country_code: "370"
+ISO_3166_1_numeric_code: 214
+M49_code: 214
+mobile_country_code: 370
 Human_Development_Index: 0.767
 economy_of_topic: "[[_Standards/WikiData/WD~economy_of_the_Dominican_Republic,62790]]"
-maritime_identification_digits: "327"
+maritime_identification_digits: 327
 death_rate: 6.068
-IAB_code: "1434"
-GS1_country_code: "746"
+IAB_code: 1434
+GS1_country_code: 746
 birth_rate: 18.111
 FIPS_10_4_countries_and_regions_: DR
-INSEE_countries_and_foreign_territories_code: "99408"
+INSEE_countries_and_foreign_territories_code: 99408
 number_of_out_of_school_children: 355283
 male_population:
   - 5472410
@@ -273,7 +275,7 @@ locator_map_image:
   - http://commons.wikimedia.org/wiki/Special:FilePath/LocationDominicanRepublic.svg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Dominican%20Republic%20%28orthographic%20projection%29.svg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Dominican%20Republic%20on%20the%20globe%20%28Americas%20centered%29.svg
-U_S_National_Archives_Identifier: "10044698"
+U_S_National_Archives_Identifier: 10044698
 Unicode_character: 🇩🇴
 nominal_GDP:
   - 94243426487
@@ -287,10 +289,10 @@ pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Republica%20Dominican%C4%83.wav
 official_website: https://www.dominicanrepublic.com/
 telephone_country_code:
-  - "+1809"
-  - "+1829"
-  - "+1849"
-ISNI: "0000000123700622"
+  - 1809
+  - 1829
+  - 1849
+ISNI: 123700622
 ---
 
 # [[Dominican_Rep]] 

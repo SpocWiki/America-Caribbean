@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Saint_John_Capesterre
+  - Saint_John_Capisterre
+  - Saint John Capisterre
 location:
   - 17.38
   - -62.79
@@ -12,18 +16,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Saint_John_Capesterre
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Saint_John_Capesterre

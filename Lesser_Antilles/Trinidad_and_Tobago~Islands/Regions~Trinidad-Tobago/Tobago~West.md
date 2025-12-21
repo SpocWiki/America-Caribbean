@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Western_Tobago
+  - Tobago~West
 location:
   - 11.2
   - -60.7
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Western_Tobago
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Tobago~West]] 

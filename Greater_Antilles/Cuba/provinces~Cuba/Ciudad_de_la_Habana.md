@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Ciudad_de_la_Habana
+  - Ciudad de la Habana
 location:
   - 23.1
   - -82.4
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Ciudad_de_la_Habana
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Ciudad_de_la_Habana

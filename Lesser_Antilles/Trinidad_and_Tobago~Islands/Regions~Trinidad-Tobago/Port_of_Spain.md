@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Port_of_Spain
+  - Port of Spain
 has_id_wikidata: Q39178
 location:
   - 10.66
@@ -13,56 +16,54 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Port_of_Spain
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~Trinidad,128323]]"
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Trinidad,128323]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+  - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 capital_of:
-  - "[[_Standards/WikiData/WD~West_Indies_Federation,652560]]"
-  - "[[_Standards/WikiData/WD~Trinidad_and_Tobago,754]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Gulf_of_Paria,844799]]"
+  - '[[_Standards/WikiData/WD~West_Indies_Federation,652560]]'
+  - '[[_Standards/WikiData/WD~Trinidad_and_Tobago,754]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Gulf_of_Paria,844799]]'
 twinned_administrative_body:
   - "[[_Standards/WikiData/WD~Morne_à_l'Eau,996320]]"
-  - "[[_Standards/WikiData/WD~Lagos,8673]]"
-  - "[[_Standards/WikiData/WD~Georgetown,10717]]"
-  - "[[_Standards/WikiData/WD~Atlanta,23556]]"
-  - "[[_Standards/WikiData/WD~Yeosu,42125]]"
+  - '[[_Standards/WikiData/WD~Lagos,8673]]'
+  - '[[_Standards/WikiData/WD~Georgetown,10717]]'
+  - '[[_Standards/WikiData/WD~Atlanta,23556]]'
+  - '[[_Standards/WikiData/WD~Yeosu,42125]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~political_territorial_entity,1048835]]"
-  - "[[_Standards/WikiData/WD~regional_corporation_or_municipality_of_Trinidad_and_Tobago,1996198]]"
-  - "[[_Standards/WikiData/WD~city,515]]"
-member_of: "[[_Standards/WikiData/WD~Creative_Cities_Network,1139352]]"
-head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Trinidad_and_Tobago,30101326]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Trinidad_and_Tobago,754]]"
-country: "[[_Standards/WikiData/WD~Trinidad_and_Tobago,754]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC_04_00,5762]]"
+  - '[[_Standards/WikiData/WD~political_territorial_entity,1048835]]'
+  - '[[_Standards/WikiData/WD~regional_corporation_or_municipality_of_Trinidad_and_Tobago,1996198]]'
+  - '[[_Standards/WikiData/WD~city,515]]'
+member_of: '[[_Standards/WikiData/WD~Creative_Cities_Network,1139352]]'
+head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Trinidad_and_Tobago,30101326]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Trinidad_and_Tobago,754]]'
+country: '[[_Standards/WikiData/WD~Trinidad_and_Tobago,754]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC_04_00,5762]]'
 named_after:
-  - "[[_Standards/WikiData/WD~Spain,29]]"
-  - "[[_Standards/WikiData/WD~port,44782]]"
+  - '[[_Standards/WikiData/WD~Spain,29]]'
+  - '[[_Standards/WikiData/WD~port,44782]]'
 elevation_above_sea_level: 3
 area: 12
 population: 49031
-OmegaWiki_Defined_Meaning: "1002078"
-postal_code: "500234"
-WOEID: "380213"
+OmegaWiki_Defined_Meaning: 1002078
+postal_code: 500234
+WOEID: 380213
 Commons_gallery: Port of Spain
 Commons_category: Port of Spain
 native_label: Port of Spain
 official_name: Port of Spain
-U_S_National_Archives_Identifier: "10037382"
+U_S_National_Archives_Identifier: 10037382
 geoshape: http://commons.wikimedia.org/data/main/Data:Trinidad+and+Tobago/Port+of+Spain.map
 aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Port-of-Spain%2C%20Trinidad%20and%20Tobago.JPG
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Port%20of%20Spain%20banner.jpg

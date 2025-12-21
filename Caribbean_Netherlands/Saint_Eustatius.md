@@ -1,4 +1,9 @@
 ---
+aliases:
+  - St._Eustatius
+  - Sint Eustatius
+  - Saint_Eustatius
+  - Saint Eustatius
 location:
   - 17.5
   - -62.98
@@ -12,19 +17,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - St._Eustatius
-  - Sint Eustatius
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # St._Eustatius

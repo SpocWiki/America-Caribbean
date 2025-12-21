@@ -1,4 +1,7 @@
 ---
+aliases:
+  - South_Caicos_and_East_Caicos
+  - South Caicos and East Caicos
 location:
   - 21.7
   - -71.5
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - South_Caicos_and_East_Caicos
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # South_Caicos_and_East_Caicos

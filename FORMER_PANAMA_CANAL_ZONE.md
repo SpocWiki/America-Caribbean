@@ -1,13 +1,13 @@
 ---
-
+aliases:
+  - FORMER_PANAMA_CANAL_ZONE
+  - FORMER PANAMA CANAL ZONE
 type: Country
 tags:
-- geo/Country
-
+  - geo/Country
 SpocWebEntityId: 76729
 isDeleted: false
 confidential: public
-
 ---
 [ISO2::] 
 [ISO3::] 

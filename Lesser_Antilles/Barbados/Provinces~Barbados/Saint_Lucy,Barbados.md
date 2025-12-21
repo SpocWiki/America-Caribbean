@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Saint_Lucy
+  - Saint_Lucy,Barbados
+  - Saint Lucy,Barbados
 location:
   - 13.31
   - -59.62
@@ -12,18 +16,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Saint_Lucy
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Saint_Lucy,Barbados]]

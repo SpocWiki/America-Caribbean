@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Salt_Cay
+  - Salt Cay
 location:
   - 21.33
   - -71.21
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Salt_Cay
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Salt_Cay

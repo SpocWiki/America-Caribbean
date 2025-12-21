@@ -1,11 +1,18 @@
 ---
+aliases:
+  - Grenada
+  - Granada
+  - Grenade
+  - غرينادا
+  - 格林纳达
+  - Гренада
+has_id_wikidata: Q769
 location:
   - 12.05
   - -61.75
 type: Country
 tags:
   - geo/Country
-has_id_wikidata: Q769
 SpocWebEntityId: 26900
 isDeleted: false
 confidential: public
@@ -16,19 +23,12 @@ cssclasses:
   - Country
 publish: true
 title: Grenada
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Grenada
-  - Granada
-  - Grenade
-  - غرينادا
-  - 格林纳达
-  - Гренада
+publishDate: ""
+expiryDate: ""
 Languages:
   - en-GD
 located_in_on_physical_feature:
@@ -248,12 +248,12 @@ official_name:
   - Grenada
 short_name: 🇬🇩
 coordinates_of_northernmost_point: Point(-61.43 12.53)
-time_of_discovery_or_invention: "1498"
+time_of_discovery_or_invention: 1498
 subreddit: Grenada
 Commons_gallery: Grenada
 Commons_category: Grenada
 OmegaWiki_Defined_Meaning: 154232
-inception: "1974"
+inception: 1974
 U_S_National_Archives_Identifier: 10044769
 coordinates_of_southernmost_point: Point(-61.78786 11.98499)
 coordinate_location: Point(-61.7 12.1)

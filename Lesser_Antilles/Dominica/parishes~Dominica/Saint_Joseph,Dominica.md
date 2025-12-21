@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Saint_Joseph
+  - Saint_Joseph,Dominica
+  - Saint Joseph,Dominica
 location:
   - 15.4
   - -61.4
@@ -12,18 +16,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Saint_Joseph
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Saint_Joseph,Dominica]]

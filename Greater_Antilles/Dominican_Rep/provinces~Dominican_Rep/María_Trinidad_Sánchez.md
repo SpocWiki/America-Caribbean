@@ -1,4 +1,7 @@
 ---
+aliases:
+  - María_Trinidad_Sánchez
+  - María Trinidad Sánchez
 location:
   - 19.4
   - -70
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - María_Trinidad_Sánchez
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # María_Trinidad_Sánchez

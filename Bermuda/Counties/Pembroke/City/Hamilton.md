@@ -1,16 +1,19 @@
 ---
-location: [32.3,-64.78333] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Hamilton
+location:
+  - 32.3
+  - -64.78333
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 30746
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[../../../../../../Geography/Place]] 

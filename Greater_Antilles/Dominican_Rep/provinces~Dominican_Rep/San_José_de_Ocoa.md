@@ -1,4 +1,7 @@
 ---
+aliases:
+  - San_José_de_Ocoa
+  - San José de Ocoa
 location:
   - 18.6
   - -70.5
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - San_José_de_Ocoa
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # San_José_de_Ocoa

@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Saint_Paul
+  - Saint_Paul,Dominica
+  - Saint Paul,Dominica
 location:
   - 15.37
   - -61.37
@@ -12,18 +16,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Saint_Paul
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Saint_Paul,Dominica]]

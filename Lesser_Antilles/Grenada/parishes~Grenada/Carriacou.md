@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Carriacou_and_Petite_Martinique
+  - Carriacou
 location:
   - 12.49
   - -61.44
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Carriacou_and_Petite_Martinique
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Carriacou_and_Petite_Martinique

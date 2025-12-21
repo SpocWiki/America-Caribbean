@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Middle_Caicos
+  - Middle Caicos
 location:
   - 21.8
   - -71.8
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Middle_Caicos
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Middle_Caicos

@@ -1,13 +1,15 @@
 ---
+aliases:
+  - St._Kitts-Nevis-Anguilla
+  - Saint_Kitts_and_Nevis~Islands
+  - Saint Kitts and Nevis~Islands
+has_id_wikidata: Q763
 location:
   - 17.3
   - -62.7333
 type: Country
 tags:
   - geo/Country
-aliases:
-  - St._Kitts-Nevis-Anguilla
-has_id_wikidata: Q763
 SpocWebEntityId: 26939
 isDeleted: false
 confidential: public
@@ -165,14 +167,14 @@ capital: "[[_Standards/WikiData/WD~Basseterre,41295]]"
 top_level_Internet_domain: "[[_Standards/WikiData/WD~.kn,43146]]"
 head_of_state: "[[_Standards/WikiData/WD~Charles_III,43274]]"
 Human_Development_Index: 0.777
-maritime_identification_digits: "341"
+maritime_identification_digits: 341
 female_population:
   - 24570
   - 24562
   - 24591
   - 24646
-ISO_3166_1_numeric_code: "659"
-M49_code: "659"
+ISO_3166_1_numeric_code: 659
+M49_code: 659
 death_rate: 10.078
 birth_rate: 11.823
 urban_population:
@@ -185,14 +187,14 @@ male_population:
   - 23015
   - 23072
   - 23149
-IAB_code: "1390"
+IAB_code: 1390
 rural_population:
   - 32888
   - 32893
   - 32948
   - 33017
 population: 46922
-INSEE_countries_and_foreign_territories_code: "99442"
+INSEE_countries_and_foreign_territories_code: 99442
 official_website: https://www.gov.kn/
 Commons_category: Saint Kitts and Nevis
 Commons_gallery: Saint Kitts and Nevis
@@ -206,7 +208,7 @@ ISO_3166_1_alpha_2_code: KN
 WIPO_ST_3: KN
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Saint%20Kitts%20and%20Nevis.svg
 UNDP_country_code: STK
-U_S_National_Archives_Identifier: "10044693"
+U_S_National_Archives_Identifier: 10044693
 coordinates_of_northernmost_point: Point(-62.81061 17.41805)
 Unicode_character: 🇰🇳
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Kitts%20and%20Nevis%20banner.jpg
@@ -219,7 +221,7 @@ pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-St.%20Kitts%20an%20Nevis.ogg
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Sf%C3%A2ntul%20Cristofor%20%C8%99i%20Nevis.wav
 detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Kitts%20and%20Nevis%2C%20administrative%20divisions%20-%20en%20-%20monochrome.svg
-telephone_country_code: "+1869"
+telephone_country_code: 1869
 ---
 
 # [[Saint_Kitts_and_Nevis~Islands]] 

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - The_Quarter
+  - The Quarter
 location:
   - 18.23
   - -63.04
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - The_Quarter
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # The_Quarter

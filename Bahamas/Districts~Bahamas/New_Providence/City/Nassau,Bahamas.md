@@ -1,6 +1,7 @@
 ---
 aliases:
   - Nassau
+  - Nassau,Bahamas
 has_id_wikidata: Q2467
 location:
   - 25.05
@@ -16,29 +17,29 @@ SpocWebEntityId: 32742
 isDeleted: false
 confidential: public
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Q81398,81398]]"
-  - "[[_Standards/WikiData/WD~Detroit,12439]]"
-  - "[[_Standards/WikiData/WD~Albany,24861]]"
-  - "[[_Standards/WikiData/WD~Winston_Salem,49227]]"
-named_after: "[[_Standards/WikiData/WD~House_of_Nassau,646085]]"
-located_in_on_physical_feature: "[[_Standards/WikiData/WD~New_Providence,858513]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~Eastern_Time_Zone,941023]]"
-is_member_of: "[[_Standards/WikiData/WD~Creative_Cities_Network,1139352]]"
-different_from: "[[_Standards/WikiData/WD~Nassau,1215730]]"
+  - '[[_Standards/WikiData/WD~Q81398,81398]]'
+  - '[[_Standards/WikiData/WD~Detroit,12439]]'
+  - '[[_Standards/WikiData/WD~Albany,24861]]'
+  - '[[_Standards/WikiData/WD~Winston_Salem,49227]]'
+named_after: '[[_Standards/WikiData/WD~House_of_Nassau,646085]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~New_Providence,858513]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~Eastern_Time_Zone,941023]]'
+is_member_of: '[[_Standards/WikiData/WD~Creative_Cities_Network,1139352]]'
+different_from: '[[_Standards/WikiData/WD~Nassau,1215730]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~big_city,1549591]]"
-  - "[[_Standards/WikiData/WD~city,515]]"
-  - "[[_Standards/WikiData/WD~capital_city,5119]]"
+  - '[[_Standards/WikiData/WD~big_city,1549591]]'
+  - '[[_Standards/WikiData/WD~city,515]]'
+  - '[[_Standards/WikiData/WD~capital_city,5119]]'
 capital_of:
-  - "[[_Standards/WikiData/WD~New_Providence,3339000]]"
-  - "[[_Standards/WikiData/WD~The_Bahamas,778]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~New_Providence,3339000]]"
+  - '[[_Standards/WikiData/WD~New_Providence,3339000]]'
+  - '[[_Standards/WikiData/WD~The_Bahamas,778]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~New_Providence,3339000]]'
 coordinate_location: Point(-77.338611111 25.078055555)
-country: "[[_Standards/WikiData/WD~The_Bahamas,778]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
+country: '[[_Standards/WikiData/WD~The_Bahamas,778]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
 elevation_above_sea_level: 34
 area: 207
-local_dialing_code: "242"
+local_dialing_code: 242
 population: 227940
 Commons_gallery: Nassau
 native_label: Nassau
@@ -49,7 +50,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/BHA%20Nassau%2C%20Para
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20Arms%20of%20Nassau%2C%20New%20Providence.jpg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Nassau%20banner%20Blue%20Lagoon.jpg
 official_website: http://www.nassauparadiseisland.com/
-U_S_National_Archives_Identifier: "10045247"
+U_S_National_Archives_Identifier: 10045247
 UN_LOCODE: BSNAS
 Commons_category: Nassau, Bahamas
 demonym:

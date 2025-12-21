@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Saint_James
+  - Saint_James,Barbados
+  - Saint James,Barbados
 location:
   - 13.19
   - -59.63
@@ -12,18 +16,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Saint_James
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Saint_James,Barbados]]

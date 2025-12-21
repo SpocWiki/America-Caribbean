@@ -2,6 +2,8 @@
 aliases:
   - St. George's
   - Sen Jòj
+  - St._George’s,Grenada
+  - St. George’s,Grenada
 has_id_wikidata: Q41547
 location:
   - 12.05
@@ -16,31 +18,31 @@ tags:
 SpocWebEntityId: 35928
 isDeleted: false
 confidential: public
-twinned_administrative_body: "[[_Standards/WikiData/WD~London_Borough_of_Hackney,205679]]"
+twinned_administrative_body: '[[_Standards/WikiData/WD~London_Borough_of_Hackney,205679]]'
 capital_of:
-  - "[[_Standards/WikiData/WD~Saint_George_Parish,576651]]"
+  - '[[_Standards/WikiData/WD~Saint_George_Parish,576651]]'
   - "[[_Standards/WikiData/WD~People's_Revolutionary_Government,2152097]]"
-  - "[[_Standards/WikiData/WD~British_Windward_Islands,2660774]]"
-  - "[[_Standards/WikiData/WD~Grenada,769]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Saint_George_Parish,576651]]"
+  - '[[_Standards/WikiData/WD~British_Windward_Islands,2660774]]'
+  - '[[_Standards/WikiData/WD~Grenada,769]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Saint_George_Parish,576651]]'
 official_language:
-  - "[[_Standards/WikiData/WD~Grenadian_Creole_English,4252500]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
+  - '[[_Standards/WikiData/WD~Grenadian_Creole_English,4252500]]'
+  - '[[_Standards/WikiData/WD~English,1860]]'
 different_from: "[[_Standards/WikiData/WD~Saint_George's,9332775]]"
-category_for_people_born_here: "[[_Standards/WikiData/WD~Q32155181,32155181]]"
-category_for_people_who_died_here: "[[_Standards/WikiData/WD~Q95468468,95468468]]"
+category_for_people_born_here: '[[_Standards/WikiData/WD~Q32155181,32155181]]'
+category_for_people_who_died_here: '[[_Standards/WikiData/WD~Q95468468,95468468]]'
 coordinate_location: Point(-61.753055555 12.0525)
-instance_of: "[[_Standards/WikiData/WD~city,515]]"
-country: "[[_Standards/WikiData/WD~Grenada,769]]"
-located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Caribbean_Sea,1247]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC_04_00,5762]]"
+instance_of: '[[_Standards/WikiData/WD~city,515]]'
+country: '[[_Standards/WikiData/WD~Grenada,769]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Caribbean_Sea,1247]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC_04_00,5762]]'
 elevation_above_sea_level: 30
-named_after: "[[_Standards/WikiData/WD~Saint_George,48438]]"
-local_dialing_code: "473"
+named_after: '[[_Standards/WikiData/WD~Saint_George,48438]]'
+local_dialing_code: 473
 population: 33734
 native_label: St. George's
 official_name: St. George's
-U_S_National_Archives_Identifier: "10037257"
+U_S_National_Archives_Identifier: 10037257
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/St-george%20banner.jpg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Gj-map%20en.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Grenada%20-%20St.%20George.jpg

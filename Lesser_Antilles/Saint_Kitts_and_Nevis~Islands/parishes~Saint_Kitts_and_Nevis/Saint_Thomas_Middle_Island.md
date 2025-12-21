@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Saint_Thomas_Middle_Island
+  - Saint Thomas Middle Island
 location:
   - 17.33
   - -62.8
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Saint_Thomas_Middle_Island
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Saint_Thomas_Middle_Island

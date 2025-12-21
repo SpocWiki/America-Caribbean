@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Saint_George's
+  - Saint_George-Municipality
+  - Saint George-Municipality
 location:
   - 32.37
   - -64.68
@@ -12,18 +16,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Saint_George's
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Saint_George's

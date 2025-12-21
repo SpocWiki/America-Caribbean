@@ -1,6 +1,8 @@
 ---
 aliases:
   - Castries
+  - Castries,City
+has_id_wikidata: Q41699
 location:
   - 14.03333
   - -60.98333
@@ -14,7 +16,6 @@ tags:
 SpocWebEntityId: 36647
 isDeleted: false
 confidential: public
-has_id_wikidata: Q41699
 ---
 
 # [[Castries,City]] 

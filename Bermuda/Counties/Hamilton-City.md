@@ -1,4 +1,7 @@
 ---
+aliases:
+  - City_of_Hamilton
+  - Hamilton-City
 location:
   - 32.293
   - -64.789
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - City_of_Hamilton
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # City_of_Hamilton

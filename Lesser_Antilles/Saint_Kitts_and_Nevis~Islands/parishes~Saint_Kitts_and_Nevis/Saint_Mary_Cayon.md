@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Saint_Mary_Cayon
+  - Saint Mary Cayon
 location:
   - 17.35
   - -62.73
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Saint_Mary_Cayon
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Saint_Mary_Cayon

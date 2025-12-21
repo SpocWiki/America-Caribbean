@@ -1,11 +1,18 @@
 ---
+aliases:
+  - Cuba
+  - كوبا
+  - 古巴
+  - Куба
+  - the Republic of Cuba
+  - la República de Cuba
+has_id_wikidata: Q241
 location:
   - 22.13
   - -82.37
 type: Country
 tags:
   - geo/Country
-has_id_wikidata: Q241
 SpocWebEntityId: 26873
 isDeleted: false
 confidential: public
@@ -16,19 +23,12 @@ cssclasses:
   - Country
 publish: true
 title: Cuba
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Cuba
-  - كوبا
-  - 古巴
-  - Куба
-  - the Republic of Cuba
-  - la República de Cuba
+publishDate: ""
+expiryDate: ""
 Languages:
   - es-CU
   - pap

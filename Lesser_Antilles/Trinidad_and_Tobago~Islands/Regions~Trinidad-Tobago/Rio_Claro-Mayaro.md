@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Rio_Claro-Mayaro
+  - Rio Claro-Mayaro
 location:
   - 10.3
   - -61.1
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Rio_Claro-Mayaro
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Rio_Claro-Mayaro

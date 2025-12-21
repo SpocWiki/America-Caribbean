@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Vieux_Fort
+  - Vieux Fort
 location:
   - 13.78
   - -60.95
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Vieux_Fort
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Vieux_Fort

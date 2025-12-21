@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Point_Fortin
+  - Point Fortin
 location:
   - 10.18
   - -61.66
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Point_Fortin
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Point_Fortin

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Christ_Church_Nichola_Town
+  - Christ Church Nichola Town
 location:
   - 17.36
   - -62.76
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Christ_Church_Nichola_Town
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Christ_Church_Nichola_Town

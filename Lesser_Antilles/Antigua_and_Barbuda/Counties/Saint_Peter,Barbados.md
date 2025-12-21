@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Saint_Peter
+  - Saint_Peter,Barbados
+  - Saint Peter,Barbados
 location:
   - 17.1
   - -61.74
@@ -12,18 +16,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Saint_Peter
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Saint_Peter,Barbados]]

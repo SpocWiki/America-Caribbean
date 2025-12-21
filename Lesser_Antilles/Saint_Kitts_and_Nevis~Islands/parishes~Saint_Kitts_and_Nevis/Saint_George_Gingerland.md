@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Saint_George_Gingerland
+  - Saint George Gingerland
 location:
   - 17.13
   - -62.56
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Saint_George_Gingerland
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Saint_George_Gingerland

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Santiago_de_Cuba
+  - Santiago de Cuba
 location:
   - 20.2
   - -76
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Santiago_de_Cuba
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Santiago_de_Cuba

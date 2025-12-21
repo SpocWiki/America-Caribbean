@@ -3,6 +3,7 @@ aliases:
   - Habana
   - Havana
   - Havanna
+has_id_wikidata: Q1563
 location:
   - 22.13
   - -82.37
@@ -16,83 +17,82 @@ tags:
 SpocWebEntityId: 30686
 isDeleted: false
 confidential: public
-has_id_wikidata: Q1563
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Constanța,79808]]"
-  - "[[_Standards/WikiData/WD~Mobile,79875]]"
-  - "[[_Standards/WikiData/WD~Tijuana,124739]]"
-  - "[[_Standards/WikiData/WD~São_Bernardo_do_Campo,184403]]"
-  - "[[_Standards/WikiData/WD~Sintra,190187]]"
-  - "[[_Standards/WikiData/WD~Sullana,510413]]"
-  - "[[_Standards/WikiData/WD~Cusco,5582862]]"
-  - "[[_Standards/WikiData/WD~Istanbul,406]]"
-  - "[[_Standards/WikiData/WD~Saint_Petersburg,656]]"
-  - "[[_Standards/WikiData/WD~Beijing,956]]"
-  - "[[_Standards/WikiData/WD~Manila,1461]]"
-  - "[[_Standards/WikiData/WD~La_Paz,1491]]"
-  - "[[_Standards/WikiData/WD~Mexico_City,1489]]"
-  - "[[_Standards/WikiData/WD~Barcelona,1492]]"
-  - "[[_Standards/WikiData/WD~Athens,1524]]"
-  - "[[_Standards/WikiData/WD~Kyiv,1899]]"
-  - "[[_Standards/WikiData/WD~Minsk,2280]]"
-  - "[[_Standards/WikiData/WD~Madrid,2807]]"
-  - "[[_Standards/WikiData/WD~Tehran,3616]]"
-  - "[[_Standards/WikiData/WD~Windhoek,3935]]"
-  - "[[_Standards/WikiData/WD~Glasgow,4093]]"
-  - "[[_Standards/WikiData/WD~Q5836,5836]]"
-  - "[[_Standards/WikiData/WD~Rio_de_Janeiro,8678]]"
-  - "[[_Standards/WikiData/WD~Seville,8717]]"
-  - "[[_Standards/WikiData/WD~Gijón,12273]]"
-  - "[[_Standards/WikiData/WD~Cádiz,15682]]"
-  - "[[_Standards/WikiData/WD~São_Paulo,174]]"
-  - "[[_Standards/WikiData/WD~Rotterdam,34370]]"
-  - "[[_Standards/WikiData/WD~Santo_Domingo,34820]]"
-  - "[[_Standards/WikiData/WD~İzmir,35997]]"
-  - "[[_Standards/WikiData/WD~Isfahan,42053]]"
-  - "[[_Standards/WikiData/WD~Mar_del_Plata,52607]]"
-patron_saint: "[[_Standards/WikiData/WD~Saint_Christopher,193507]]"
-different_from: "[[_Standards/WikiData/WD~Havana_Province,274126]]"
+  - '[[_Standards/WikiData/WD~Constanța,79808]]'
+  - '[[_Standards/WikiData/WD~Mobile,79875]]'
+  - '[[_Standards/WikiData/WD~Tijuana,124739]]'
+  - '[[_Standards/WikiData/WD~São_Bernardo_do_Campo,184403]]'
+  - '[[_Standards/WikiData/WD~Sintra,190187]]'
+  - '[[_Standards/WikiData/WD~Sullana,510413]]'
+  - '[[_Standards/WikiData/WD~Cusco,5582862]]'
+  - '[[_Standards/WikiData/WD~Istanbul,406]]'
+  - '[[_Standards/WikiData/WD~Saint_Petersburg,656]]'
+  - '[[_Standards/WikiData/WD~Beijing,956]]'
+  - '[[_Standards/WikiData/WD~Manila,1461]]'
+  - '[[_Standards/WikiData/WD~La_Paz,1491]]'
+  - '[[_Standards/WikiData/WD~Mexico_City,1489]]'
+  - '[[_Standards/WikiData/WD~Barcelona,1492]]'
+  - '[[_Standards/WikiData/WD~Athens,1524]]'
+  - '[[_Standards/WikiData/WD~Kyiv,1899]]'
+  - '[[_Standards/WikiData/WD~Minsk,2280]]'
+  - '[[_Standards/WikiData/WD~Madrid,2807]]'
+  - '[[_Standards/WikiData/WD~Tehran,3616]]'
+  - '[[_Standards/WikiData/WD~Windhoek,3935]]'
+  - '[[_Standards/WikiData/WD~Glasgow,4093]]'
+  - '[[_Standards/WikiData/WD~Q5836,5836]]'
+  - '[[_Standards/WikiData/WD~Rio_de_Janeiro,8678]]'
+  - '[[_Standards/WikiData/WD~Seville,8717]]'
+  - '[[_Standards/WikiData/WD~Gijón,12273]]'
+  - '[[_Standards/WikiData/WD~Cádiz,15682]]'
+  - '[[_Standards/WikiData/WD~São_Paulo,174]]'
+  - '[[_Standards/WikiData/WD~Rotterdam,34370]]'
+  - '[[_Standards/WikiData/WD~Santo_Domingo,34820]]'
+  - '[[_Standards/WikiData/WD~İzmir,35997]]'
+  - '[[_Standards/WikiData/WD~Isfahan,42053]]'
+  - '[[_Standards/WikiData/WD~Mar_del_Plata,52607]]'
+patron_saint: '[[_Standards/WikiData/WD~Saint_Christopher,193507]]'
+different_from: '[[_Standards/WikiData/WD~Havana_Province,274126]]'
 described_by_source:
-  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]"
-  - "[[_Standards/WikiData/WD~Meyer_s_Universum,_Achter_Band,131447403]]"
+  - '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+  - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+  - '[[_Standards/WikiData/WD~Meyer_s_Universum,_Achter_Band,131447403]]'
 member_of:
-  - "[[_Standards/WikiData/WD~Organization_of_World_Heritage_Cities,734958]]"
-  - "[[_Standards/WikiData/WD~Creative_Cities_Network,1139352]]"
+  - '[[_Standards/WikiData/WD~Organization_of_World_Heritage_Cities,734958]]'
+  - '[[_Standards/WikiData/WD~Creative_Cities_Network,1139352]]'
 located_in_or_next_to_body_of_water:
-  - "[[_Standards/WikiData/WD~Almendares_River,2592558]]"
-  - "[[_Standards/WikiData/WD~Gulf_of_Mexico,12630]]"
-coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Havana,5138451]]"
+  - '[[_Standards/WikiData/WD~Almendares_River,2592558]]'
+  - '[[_Standards/WikiData/WD~Gulf_of_Mexico,12630]]'
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Havana,5138451]]'
 head_of_government:
-  - "[[_Standards/WikiData/WD~Marta_Hernández_Romero,6774124]]"
-  - "[[_Standards/WikiData/WD~Reinaldo_García_Zapata,85847047]]"
+  - '[[_Standards/WikiData/WD~Marta_Hernández_Romero,6774124]]'
+  - '[[_Standards/WikiData/WD~Reinaldo_García_Zapata,85847047]]'
 history_of_topic:
-  - "[[_Standards/WikiData/WD~timeline_of_Havana_history,7805745]]"
-  - "[[_Standards/WikiData/WD~history_of_Havana,12060223]]"
-category_for_people_buried_here: "[[_Standards/WikiData/WD~Q32380894,32380894]]"
+  - '[[_Standards/WikiData/WD~timeline_of_Havana_history,7805745]]'
+  - '[[_Standards/WikiData/WD~history_of_Havana,12060223]]'
+category_for_people_buried_here: '[[_Standards/WikiData/WD~Q32380894,32380894]]'
 instance_of:
-  - "[[_Standards/WikiData/WD~largest_city,51929311]]"
-  - "[[_Standards/WikiData/WD~city,515]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Havana,106020254]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC_05_00,5390]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Havana_Province,12588]]"
+  - '[[_Standards/WikiData/WD~largest_city,51929311]]'
+  - '[[_Standards/WikiData/WD~city,515]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Havana,106020254]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC_05_00,5390]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Havana_Province,12588]]'
 capital_of:
-  - "[[_Standards/WikiData/WD~Havana_Province,12588]]"
-  - "[[_Standards/WikiData/WD~Cuba,241]]"
-country: "[[_Standards/WikiData/WD~Cuba,241]]"
+  - '[[_Standards/WikiData/WD~Havana_Province,12588]]'
+  - '[[_Standards/WikiData/WD~Cuba,241]]'
+country: '[[_Standards/WikiData/WD~Cuba,241]]'
 elevation_above_sea_level: 59
-local_dialing_code: "7"
-OmegaWiki_Defined_Meaning: "507300"
+local_dialing_code: 7
+OmegaWiki_Defined_Meaning: 507300
 area: 728.26
 BHCL_UUID:
   - 6896c441-bfa0-4a47-81a2-36a75a507655
   - 2602640a-ade8-43a0-8bd6-d4f035fde39b
-WOEID: "63817"
+WOEID: 63817
 Commons_gallery: La Habana
 population:
   - 2089532
@@ -120,7 +120,7 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Malecon%20%28Cub
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Official%20flag%20of%20Havana%2C%20Cuba.svg
 official_website: https://www.lahabana.gob.cu/
 postal_code: 10000–19999
-U_S_National_Archives_Identifier: "10045175"
+U_S_National_Archives_Identifier: 10045175
 FIPS_10_4_countries_and_regions_: CU02
 UN_LOCODE: CUHAV
 Provenio_UUID: e68046ad-4510-47a9-ac5e-eaf052945aec

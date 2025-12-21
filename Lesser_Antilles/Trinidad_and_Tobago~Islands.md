@@ -3,13 +3,15 @@ aliases:
   - Trinidad_and_Tobago
   - Trinidad and Tobago
   - Trinidad & Tobago
+  - Trinidad_and_Tobago~Islands
+  - Trinidad and Tobago~Islands
+has_id_wikidata: Q754
 location:
   - 10.6667
   - -61.5167
 type: Country
 tags:
   - geo/Country
-has_id_wikidata: Q754
 SpocWebEntityId: 27040
 isDeleted: false
 confidential: public

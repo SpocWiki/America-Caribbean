@@ -1,11 +1,17 @@
 ---
+aliases:
+  - Aruba
+  - أروبا
+  - 阿鲁巴
+  - Аруба
+  - ''
+has_id_wikidata: Q21203
 location:
   - 12.5083
   - -69.9933
 type: Country
 tags:
   - geo/Country
-has_id_wikidata: Q21203
 SpocWebEntityId: 26839
 isDeleted: false
 confidential: public
@@ -16,18 +22,12 @@ cssclasses:
   - Country
 publish: true
 title: Aruba
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Aruba
-  - أروبا
-  - 阿鲁巴
-  - Аруба
-  - 
+publishDate: ''
+expiryDate: ''
 Languages:
   - nl-AW
   - pap

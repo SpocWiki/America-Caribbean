@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Saint_George
+  - Saint_George,Vincent
+  - Saint George,Vincent
 location:
   - 13.2
   - -61.2
@@ -12,18 +16,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Saint_George
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Saint_George,Vincent]]

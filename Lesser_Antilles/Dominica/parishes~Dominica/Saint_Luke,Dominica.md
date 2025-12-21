@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Saint_Luke
+  - Saint_Luke,Dominica
+  - Saint Luke,Dominica
 location:
   - 15.25
   - -61.36
@@ -12,18 +16,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Saint_Luke
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Saint_Luke,Dominica]]

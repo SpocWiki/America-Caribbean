@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Santiago
+  - Santiago,Dom_Rep
+  - Santiago,Dom Rep
 location:
   - 19.3
   - -71
@@ -12,18 +16,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Santiago
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Santiago,Dom_Rep]]

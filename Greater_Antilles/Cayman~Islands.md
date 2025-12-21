@@ -1,4 +1,13 @@
 ---
+aliases:
+  - Cayman Islands
+  - Islas Caimán
+  - Îles Caïmanes
+  - جزر كايمان
+  - 开曼群岛
+  - Кайман острова
+  - ''
+  - Cayman~Islands
 location:
   - 19.2833
   - -81.3667
@@ -15,20 +24,12 @@ cssclasses:
   - Country
 publish: true
 title: Cayman Islands
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Cayman Islands
-  - Islas Caimán
-  - Îles Caïmanes
-  - جزر كايمان
-  - 开曼群岛
-  - Кайман острова
-  - 
+publishDate: ''
+expiryDate: ''
 Languages:
   - en-KY
 ---

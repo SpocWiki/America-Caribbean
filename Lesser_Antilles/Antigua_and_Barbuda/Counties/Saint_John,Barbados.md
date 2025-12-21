@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Saint_John
+  - Saint_John,Barbados
+  - Saint John,Barbados
 location:
   - 17.1
   - -61.8
@@ -12,18 +16,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Saint_John
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Saint_John,Barbados]]

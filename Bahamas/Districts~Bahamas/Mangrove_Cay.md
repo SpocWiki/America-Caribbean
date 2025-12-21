@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Mangrove_Cay
+  - Mangrove Cay
 location:
   - 24.1
   - -77.8
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Mangrove_Cay
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Mangrove_Cay

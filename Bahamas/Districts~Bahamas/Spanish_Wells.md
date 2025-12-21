@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Spanish_Wells
+  - Spanish Wells
 location:
   - 25.52
   - -76.84
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Spanish_Wells
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Spanish_Wells

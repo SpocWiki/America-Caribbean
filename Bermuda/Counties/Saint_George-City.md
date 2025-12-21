@@ -1,4 +1,8 @@
 ---
+aliases:
+  - City_of_Saint_George
+  - Saint_George-City
+  - Saint George-City
 location:
   - 32.375
   - -64.675
@@ -12,18 +16,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - City_of_Saint_George
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # City_of_Saint_George

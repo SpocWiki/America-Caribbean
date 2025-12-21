@@ -1,4 +1,7 @@
 ---
+aliases:
+  - San_Cristóbal
+  - San Cristóbal
 location:
   - 18.5
   - -70.2
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - San_Cristóbal
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # San_Cristóbal

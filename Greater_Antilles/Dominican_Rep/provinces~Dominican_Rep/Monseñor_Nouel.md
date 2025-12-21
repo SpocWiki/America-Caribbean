@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Monseñor_Nouel
+  - Monseñor Nouel
 location:
   - 18.9
   - -70.4
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Monseñor_Nouel
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Monseñor_Nouel

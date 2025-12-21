@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Saint_Thomas_Lowland
+  - Saint Thomas Lowland
 location:
   - 17.16
   - -62.6
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Saint_Thomas_Lowland
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Saint_Thomas_Lowland

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Sancti_Spíritus
+  - Sancti Spíritus
 location:
   - 22
   - -79.4
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Sancti_Spíritus
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Sancti_Spíritus

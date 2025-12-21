@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Providenciales_and_West_Caicos
+  - Providenciales and West Caicos
 location:
   - 21.8
   - -72.3
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Providenciales_and_West_Caicos
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Providenciales_and_West_Caicos

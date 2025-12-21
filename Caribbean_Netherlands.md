@@ -1,4 +1,14 @@
 ---
+aliases:
+  - Caribbean Netherlands
+  - Bonaire, Sint Eustatius and Saba
+  - Bonaire, San Eustaquio y Saba
+  - Bonaire, Saint-Eustache et Saba
+  - بونير وسان يوستاتيوس وسابا
+  - 博纳尔,圣俄斯塔休斯和萨巴
+  - Бонайре, Саба и Синт-Эстатиус
+  - ''
+  - Caribbean_Netherlands
 location:
   - 12.1833
   - -69
@@ -15,21 +25,12 @@ cssclasses:
   - Country
 publish: true
 title: Caribbean Netherlands
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Caribbean Netherlands
-  - Bonaire, Sint Eustatius and Saba
-  - Bonaire, San Eustaquio y Saba
-  - Bonaire, Saint-Eustache et Saba
-  - بونير وسان يوستاتيوس وسابا
-  - 博纳尔,圣俄斯塔休斯和萨巴
-  - Бонайре, Саба и Синт-Эстатиус
-  - 
+publishDate: ''
+expiryDate: ''
 Languages:
   - nl
   - pap

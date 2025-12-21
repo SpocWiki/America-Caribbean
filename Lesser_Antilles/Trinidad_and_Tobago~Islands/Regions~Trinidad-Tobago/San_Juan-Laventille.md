@@ -1,4 +1,7 @@
 ---
+aliases:
+  - San_Juan-Laventille
+  - San Juan-Laventille
 location:
   - 10.67
   - -61.46
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - San_Juan-Laventille
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # San_Juan-Laventille

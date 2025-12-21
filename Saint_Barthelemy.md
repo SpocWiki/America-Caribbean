@@ -1,18 +1,18 @@
 ---
-location: [ 17.91 , -62.83 ] 
-
+aliases:
+  - St._Barthélemy
+  - Saint_Barthélemy
+  - Saint_Barthelemy
+  - Saint Barthelemy
+location:
+  - 17.91
+  - -62.83
 type: Country
 tags:
-- geo/Country
-
-aliases:
-- St._Barthélemy
-- Saint_Barthélemy
-
+  - geo/Country
 SpocWebEntityId: 76723
 isDeleted: false
 confidential: public
-
 ---
 
 # [[Saint_Barthelemy]] 

@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Saint_Andrew
+  - Saint_Andrew_Parish
+  - Saint Andrew Parish
 location:
   - 12.12
   - -61.65
@@ -12,18 +16,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Saint_Andrew
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Saint_Andrew_Parish]]

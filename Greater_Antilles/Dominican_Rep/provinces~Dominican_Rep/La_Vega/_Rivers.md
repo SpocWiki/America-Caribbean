@@ -1,4 +1,7 @@
 ---
+aliases:
+  - _Rivers
+  - ' Rivers'
 location:
   - 19.088405666139863
   - -70.61266028554124
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - _Rivers
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # _Rivers

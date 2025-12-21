@@ -1,11 +1,13 @@
 ---
 aliases:
   - history of the Caribbean
+  - History_of_the_Caribbean
+  - History of the Caribbean
 has_id_wikidata: Q457898
-facet_of: "[[_Standards/WikiData/WD~Caribbean,664609]]"
-part_of: "[[_Standards/WikiData/WD~history_of_the_Americas,690256]]"
-subclass_of: "[[_Standards/WikiData/WD~history_of_the_Americas,690256]]"
-instance_of: "[[_Standards/WikiData/WD~aspect_of_history,17524420]]"
+facet_of: '[[_Standards/WikiData/WD~Caribbean,664609]]'
+part_of: '[[_Standards/WikiData/WD~history_of_the_Americas,690256]]'
+subclass_of: '[[_Standards/WikiData/WD~history_of_the_Americas,690256]]'
+instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
 Commons_category: History of the Caribbean
 ---
 

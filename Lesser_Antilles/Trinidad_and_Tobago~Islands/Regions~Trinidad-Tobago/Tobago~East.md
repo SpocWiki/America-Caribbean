@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Eastern_Tobago
+  - Tobago~East
 location:
   - 11.3
   - -60.6
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Eastern_Tobago
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Tobago~East]] 

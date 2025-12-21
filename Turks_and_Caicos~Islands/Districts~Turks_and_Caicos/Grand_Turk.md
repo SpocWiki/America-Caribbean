@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Grand_Turk
+  - Grand Turk
 location:
   - 21.47
   - -71.14
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Grand_Turk
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Grand_Turk

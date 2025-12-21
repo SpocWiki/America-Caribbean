@@ -1,4 +1,11 @@
 ---
+aliases:
+  - Martinique
+  - Martinica
+  - مارتينيك
+  - 马提尼克
+  - Мартиника
+  - ''
 location:
   - 14.6
   - -61.0667
@@ -15,19 +22,12 @@ cssclasses:
   - Country
 publish: true
 title: Martinique
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Martinique
-  - Martinica
-  - مارتينيك
-  - 马提尼克
-  - Мартиника
-  - 
+publishDate: ''
+expiryDate: ''
 Languages:
   - fr-MQ
 ---

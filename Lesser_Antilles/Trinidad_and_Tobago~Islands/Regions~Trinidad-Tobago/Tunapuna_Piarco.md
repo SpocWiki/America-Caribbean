@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Tunapuna_Piarco
+  - Tunapuna Piarco
 location:
   - 10.7
   - -61.3
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Tunapuna_Piarco
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Tunapuna_Piarco

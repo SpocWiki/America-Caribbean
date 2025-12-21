@@ -1,9 +1,11 @@
 ---
 aliases:
   - history of Haiti
+  - History_of_Haiti
+  - History of Haiti
 has_id_wikidata: Q846445
-instance_of: "[[_Standards/WikiData/WD~aspect_of_history,17524420]]"
-facet_of: "[[_Standards/WikiData/WD~Haiti,790]]"
+instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
+facet_of: '[[_Standards/WikiData/WD~Haiti,790]]'
 Commons_category: History of Haiti
 ---
 

@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Santiago_Rodríguez
+  - Santiago Rodríguez
 location:
   - 19.4
   - -71.3
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Santiago_Rodríguez
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Santiago_Rodríguez

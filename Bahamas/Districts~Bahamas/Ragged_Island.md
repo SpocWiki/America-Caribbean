@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Ragged_Island
+  - Ragged Island
 location:
   - 22.2
   - -75.74
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Ragged_Island
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Ragged_Island

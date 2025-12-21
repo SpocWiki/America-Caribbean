@@ -1,4 +1,7 @@
 ---
+aliases:
+  - East_Grand_Bahama
+  - East Grand Bahama
 location:
   - 26.68
   - -78.18
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - East_Grand_Bahama
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # East_Grand_Bahama

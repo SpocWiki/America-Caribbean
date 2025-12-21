@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Distrito_Nacional
+  - Distrito Nacional
 location:
   - 18.5
   - -69.9
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Distrito_Nacional
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Distrito_Nacional

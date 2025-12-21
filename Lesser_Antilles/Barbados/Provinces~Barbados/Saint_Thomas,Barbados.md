@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Saint_Thomas
+  - Saint_Thomas,Barbados
+  - Saint Thomas,Barbados
 location:
   - 13.18
   - -59.59
@@ -12,18 +16,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Saint_Thomas
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Saint_Thomas,Barbados]]

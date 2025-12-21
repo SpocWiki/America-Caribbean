@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Saint_George_Basseterre
+  - Saint George Basseterre
 location:
   - 17.3
   - -62.7
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Saint_George_Basseterre
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Saint_George_Basseterre

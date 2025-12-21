@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Saint_John_Figtree
+  - Saint John Figtree
 location:
   - 17.12
   - -62.59
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Saint_John_Figtree
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Saint_John_Figtree

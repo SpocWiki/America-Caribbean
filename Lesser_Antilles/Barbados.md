@@ -1,4 +1,11 @@
 ---
+aliases:
+  - Barbados
+  - Barbade
+  - بربادوس
+  - 巴巴多斯
+  - Барбадос
+has_id_wikidata: Q244
 location:
   - 13
   - -59.5333
@@ -15,21 +22,14 @@ cssclasses:
   - Country
 publish: true
 title: Barbados
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Barbados
-  - Barbade
-  - بربادوس
-  - 巴巴多斯
-  - Барбадос
+publishDate: ""
+expiryDate: ""
 Languages:
   - en-BB
-has_id_wikidata: Q244
 part_of:
   - "[[_Standards/WikiData/WD~Lesser_Antilles,93259]]"
   - "[[_Standards/WikiData/WD~Windward_Islands,183416]]"

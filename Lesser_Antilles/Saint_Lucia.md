@@ -121,7 +121,7 @@ official_language: "[[_Standards/WikiData/WD~English,1860]]"
 continent: "[[_Standards/WikiData/WD~North_America,49]]"
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Lucia%20on%20the%20globe%20%28Americas%20centered%29.svg
 official_website: http://www.govt.lc/
-telephone_country_code: "+1758"
+telephone_country_code: 1758
 Dewey_Decimal_Classification: 2--729843
 UMLS_CUI: C0036056
 Libris_URI: mkz117051t392rn
@@ -174,10 +174,10 @@ head_of_state: "[[_Standards/WikiData/WD~Charles_III,43274]]"
 number_of_out_of_school_children: 4240
 Gini_coefficient: 51.2
 Inequality_adjusted_Human_Development_Index: 0.559
-maritime_identification_digits: "343"
+maritime_identification_digits: 343
 Human_Development_Index: 0.715
-M49_code: "662"
-ISO_3166_1_numeric_code: "662"
+M49_code: 662
+ISO_3166_1_numeric_code: 662
 urban_population:
   - 33770
   - 33491
@@ -190,10 +190,10 @@ male_population:
   - 88948
 death_rate: 10.151
 birth_rate: 11.316
-IAB_code: "1391"
+IAB_code: 1391
 Commons_gallery: Saint Lucia
 Commons_category: Saint Lucia
-INSEE_countries_and_foreign_territories_code: "99439"
+INSEE_countries_and_foreign_territories_code: 99439
 female_population:
   - 90001
   - 90411
@@ -205,8 +205,8 @@ rural_population:
   - 145594
   - 145625
 population: 167591
-OmegaWiki_Defined_Meaning: "153987"
-U_S_National_Archives_Identifier: "10044807"
+OmegaWiki_Defined_Meaning: 153987
+U_S_National_Archives_Identifier: 10044807
 official_name:
   - Sainte-Lucie
   - Saint Lucia

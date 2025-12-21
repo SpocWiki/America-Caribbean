@@ -1,4 +1,7 @@
 ---
+aliases:
+  - West_Grand_Bahama
+  - West Grand Bahama
 location:
   - 26.7
   - -78.5
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - West_Grand_Bahama
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # West_Grand_Bahama

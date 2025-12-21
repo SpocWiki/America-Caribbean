@@ -1,13 +1,13 @@
 ---
-
+aliases:
+  - Turks_and_Caicos~Islands
+  - Turks and Caicos~Islands
 type: Country
 tags:
-- geo/Country
-
+  - geo/Country
 SpocWebEntityId: 27028
 isDeleted: false
 confidential: public
-
 ---
 [ISO2::TC] 
 [ISO3::TCA] 

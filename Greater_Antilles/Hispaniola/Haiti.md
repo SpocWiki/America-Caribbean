@@ -1,11 +1,20 @@
 ---
+aliases:
+  - Haiti
+  - Haití
+  - Haïti
+  - هايتي
+  - 海地
+  - Гаити
+  - the Republic of Haiti
+  - la República de Haití
+has_id_wikidata: Q790
 location:
   - 18.5333
   - -72.3333
 type: Country
 tags:
   - geo/Country
-has_id_wikidata: Q790
 SpocWebEntityId: 26920
 isDeleted: false
 confidential: public
@@ -16,21 +25,12 @@ cssclasses:
   - Country
 publish: true
 title: Haiti
-linkTitle:
-keywords:
-layout:
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Haiti
-  - Haití
-  - Haïti
-  - هايتي
-  - 海地
-  - Гаити
-  - the Republic of Haiti
-  - la República de Haití
+publishDate: ""
+expiryDate: ""
 Languages:
   - ht
   - fr-HT
@@ -319,7 +319,7 @@ hashtag: Haiti
 official_website: http://primature.gouv.ht/
 U_S_National_Archives_Identifier: 10044783
 coordinates_of_easternmost_point: Point(-71.62183 19.20649)
-inception: "1804"
+inception: 1804
 ---
 
 # [[Haiti]] 

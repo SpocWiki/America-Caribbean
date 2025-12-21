@@ -1,4 +1,7 @@
 ---
+aliases:
+  - City_of_Freeport
+  - City of Freeport
 location:
   - 26.52
   - -78.63
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - City_of_Freeport
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # City_of_Freeport

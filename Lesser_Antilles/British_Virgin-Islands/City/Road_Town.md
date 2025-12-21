@@ -1,16 +1,20 @@
 ---
-location: [-64.62305,18.4314] 
-mapzoom: [7,12] 
-mapmarker: city 
+aliases:
+  - Road_Town
+  - Road Town
+location:
+  - -64.62305
+  - 18.4314
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
 type: City
 tags:
-- geo/City
-
-
+  - geo/City
 SpocWebEntityId: 139690
 isDeleted: false
 confidential: public
-
 ---
 #is_a_/Place  
 #is_a_ :: [[../../../../../Geography/Place]] 

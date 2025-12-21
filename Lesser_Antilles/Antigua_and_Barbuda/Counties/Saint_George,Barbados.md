@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Saint_George
+  - Saint_George,Barbados
+  - Saint George,Barbados
 location:
   - 17.12
   - -61.78
@@ -12,18 +16,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Saint_George
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Saint_George,Barbados]]

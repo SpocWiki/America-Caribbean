@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Monte_Cristi
+  - Monte Cristi
 location:
   - 19.7
   - -71.4
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Monte_Cristi
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Monte_Cristi

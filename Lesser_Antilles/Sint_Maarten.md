@@ -1,4 +1,17 @@
 ---
+aliases:
+  - Sint Maarten
+  - Sint Maarten (Dutch part)
+  - San Martín (parte holandés)
+  - Saint-Martin (partie néerlandaise)
+  - سانت مارتن
+  - 圣马丁(荷属)
+  - Синт-Мартен
+  - ''
+  - ''
+  - ''
+  - ''
+  - Sint_Maarten
 location:
   - 18.04
   - -63.07
@@ -12,26 +25,14 @@ cssclasses:
 publish: true
 type: Country
 title: Sint Maarten
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
+publishDate: ''
+expiryDate: ''
 tags:
   - geo/Country
-aliases:
-  - Sint Maarten
-  - Sint Maarten (Dutch part)
-  - San Martín (parte holandés)
-  - Saint-Martin (partie néerlandaise)
-  - سانت مارتن
-  - 圣马丁(荷属)
-  - Синт-Мартен
-  - 
-  - 
-  - 
-  - 
 Languages:
   - nl
   - en

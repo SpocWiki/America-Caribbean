@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Saint_Mary
+  - Saint_Mary,Barbados
+  - Saint Mary,Barbados
 location:
   - 17.05
   - -61.86
@@ -12,18 +16,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Saint_Mary
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Saint_Mary,Barbados]]

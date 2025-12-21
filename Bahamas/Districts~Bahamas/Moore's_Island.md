@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Moore's_Island
+  - Moore's Island
 location:
   - 26.3
   - -77.56
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Moore's_Island
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Moore's_Island

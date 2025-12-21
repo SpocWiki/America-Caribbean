@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Saint_John
+  - Saint_John_Parish
+  - Saint John Parish
 location:
   - 12.14
   - -61.7
@@ -12,18 +16,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Saint_John
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Saint_John_Parish]]

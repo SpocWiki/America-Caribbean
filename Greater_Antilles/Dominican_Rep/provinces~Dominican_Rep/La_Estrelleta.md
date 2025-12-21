@@ -1,4 +1,7 @@
 ---
+aliases:
+  - La_Estrelleta
+  - La Estrelleta
 location:
   - 19
   - -71.7
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - La_Estrelleta
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # La_Estrelleta

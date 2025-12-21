@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Puerto_Plata
+  - Puerto Plata
 location:
   - 19.7
   - -70.7
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Puerto_Plata
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Puerto_Plata

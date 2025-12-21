@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Trinity_Palmetto_Point
+  - Trinity Palmetto Point
 location:
   - 17.31
   - -62.75
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Trinity_Palmetto_Point
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Trinity_Palmetto_Point

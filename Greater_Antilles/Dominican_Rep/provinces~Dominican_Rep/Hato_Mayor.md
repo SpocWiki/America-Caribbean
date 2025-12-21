@@ -1,4 +1,7 @@
 ---
+aliases:
+  - Hato_Mayor
+  - Hato Mayor
 location:
   - 18.8
   - -69.4
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Hato_Mayor
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # Hato_Mayor

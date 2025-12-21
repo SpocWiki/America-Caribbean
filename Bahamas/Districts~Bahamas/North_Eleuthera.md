@@ -1,4 +1,7 @@
 ---
+aliases:
+  - North_Eleuthera
+  - North Eleuthera
 location:
   - 25.43
   - -76.59
@@ -12,18 +15,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - North_Eleuthera
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # North_Eleuthera

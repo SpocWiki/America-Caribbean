@@ -1,6 +1,7 @@
 ---
 aliases:
   - Wozo
+  - Roseau
 has_id_wikidata: Q36281
 location:
   - 15.3
@@ -15,33 +16,33 @@ tags:
 SpocWebEntityId: 35923
 isDeleted: false
 confidential: public
-different_from: "[[_Standards/WikiData/WD~Roseau,406753]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Saint_George_Parish,617801]]"
-named_after: "[[_Standards/WikiData/WD~reed,2734060]]"
+different_from: '[[_Standards/WikiData/WD~Roseau,406753]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Saint_George_Parish,617801]]'
+named_after: '[[_Standards/WikiData/WD~reed,2734060]]'
 located_in_or_next_to_body_of_water:
-  - "[[_Standards/WikiData/WD~Roseau_River,3018552]]"
-  - "[[_Standards/WikiData/WD~Caribbean_Sea,1247]]"
-category_for_people_born_here: "[[_Standards/WikiData/WD~Q18753342,18753342]]"
-category_for_people_who_died_here: "[[_Standards/WikiData/WD~Q32411404,32411404]]"
-head_of_government: "[[_Standards/WikiData/WD~Q134823114,134823114]]"
-instance_of: "[[_Standards/WikiData/WD~city,515]]"
-capital_of: "[[_Standards/WikiData/WD~Dominica,784]]"
-country: "[[_Standards/WikiData/WD~Dominica,784]]"
-official_language: "[[_Standards/WikiData/WD~English,1860]]"
-located_in_time_zone: "[[_Standards/WikiData/WD~UTC_04_00,5762]]"
+  - '[[_Standards/WikiData/WD~Roseau_River,3018552]]'
+  - '[[_Standards/WikiData/WD~Caribbean_Sea,1247]]'
+category_for_people_born_here: '[[_Standards/WikiData/WD~Q18753342,18753342]]'
+category_for_people_who_died_here: '[[_Standards/WikiData/WD~Q32411404,32411404]]'
+head_of_government: '[[_Standards/WikiData/WD~Q134823114,134823114]]'
+instance_of: '[[_Standards/WikiData/WD~city,515]]'
+capital_of: '[[_Standards/WikiData/WD~Dominica,784]]'
+country: '[[_Standards/WikiData/WD~Dominica,784]]'
+official_language: '[[_Standards/WikiData/WD~English,1860]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC_04_00,5762]]'
 elevation_above_sea_level: 43
 area: 5.4
-local_dialing_code: "767"
+local_dialing_code: 767
 population: 16571
-WOEID: "68829"
-OmegaWiki_Defined_Meaning: "1002811"
+WOEID: 68829
+OmegaWiki_Defined_Meaning: 1002811
 Commons_category: Roseau
 native_label:
   - Roseau
   - Wozo
 official_name: Roseau
 coordinate_location: Point(-61.383333333 15.3)
-U_S_National_Archives_Identifier: "10037386"
+U_S_National_Archives_Identifier: 10037386
 demonym:
   - Roselien
   - Roselienne

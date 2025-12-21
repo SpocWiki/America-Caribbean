@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Saint_David
+  - Saint_David_Parish
+  - Saint David Parish
 location:
   - 12.06
   - -61.66
@@ -12,18 +16,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Saint_David
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Saint_David_Parish]]

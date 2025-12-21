@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Saint_Patrick
+  - Saint_Patrick,Vincent
+  - Saint Patrick,Vincent
 location:
   - 13.22
   - -61.25
@@ -12,18 +16,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Saint_Patrick
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Saint_Patrick,Vincent]]

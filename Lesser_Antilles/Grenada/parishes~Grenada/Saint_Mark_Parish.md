@@ -1,4 +1,8 @@
 ---
+aliases:
+  - Saint_Mark
+  - Saint_Mark_Parish
+  - Saint Mark Parish
 location:
   - 12.19
   - -61.68
@@ -12,18 +16,16 @@ draft: false
 confidential: public
 tags:
   - geo/Country/Region
-aliases:
-  - Saint_Mark
 Languages:
   - de
 cssclasses:
   - geo-Region
 publish: true
-linkTitle:
-keywords:
-layout:
-publishDate:
-expiryDate:
+linkTitle: ''
+keywords: ''
+layout: ''
+publishDate: ''
+expiryDate: ''
 ---
 
 # [[Saint_Mark_Parish]]

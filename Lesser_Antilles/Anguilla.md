@@ -1,4 +1,11 @@
 ---
+aliases:
+  - Anguilla
+  - Anguila
+  - أنغيلا
+  - 安圭拉
+  - Ангилья
+  - ''
 location:
   - 18.2272
   - -63.049
@@ -15,19 +22,12 @@ cssclasses:
   - Country
 publish: true
 title: Anguilla
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Anguilla
-  - Anguila
-  - أنغيلا
-  - 安圭拉
-  - Ангилья
-  - 
+publishDate: ''
+expiryDate: ''
 Languages:
   - en-AI
 ---
