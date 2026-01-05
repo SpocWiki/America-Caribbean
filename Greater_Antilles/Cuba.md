@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1898-12-10 
 aliases:
   - Cuba
   - كوبا

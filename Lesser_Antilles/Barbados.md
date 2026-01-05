@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1966-11-30 
 aliases:
   - Barbados
   - Barbade

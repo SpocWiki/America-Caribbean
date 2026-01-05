@@ -1,4 +1,5 @@
----
+﻿---
+has_time_started: 1695-01-01 
 aliases:
   - Nassau
   - Nassau,Bahamas
