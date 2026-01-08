@@ -7,15 +7,13 @@ dv_ISO4217-currency_country_name: DOMINICA
 dv_Telephone: 1-767
 dv_Global: true
 dv_Global_Name: World
-dv_name: Dominica
-dv_name-en:
-  - Dominica
-  - Dominica
-dv_name-es: Dominica
-dv_name-fr: Dominique
-dv_name-cn: 多米尼克
-dv_name-ar: دومينيكا
-dv_name-ru: Доминика
+dv_has_name_: Dominica
+dv_has_name_en: Dominica
+dv_has_name_es: Dominica
+dv_has_name_fr: Dominique
+dv_has_name_cn: 多米尼克
+dv_has_name_ar: دومينيكا
+dv_has_name_ru: Доминика
 dv_CLDR_display_name: Dominica
 dv_UNTERM_English: Dominica
 dv_UNTERM_English_Formal: the Commonwealth of Dominica
@@ -64,7 +62,7 @@ dv_is_:
     - "[Dominica.private](/_private/Earth/Continent/America~Caribbean/Dominica.private.md)"
     - "[Dominica.personal](/_personal/Earth/Continent/America~Caribbean/Dominica.personal.md)"
     - "[Dominica.secret](/_secret/Earth/Continent/America~Caribbean/Dominica.secret.md)"
-dv_name-de: Dominica
+dv_has_name_de: Dominica
 dv_Area-Total: 750
 dv_Area-Land: 750
 dv_VehicleCode: WD
@@ -361,12 +359,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Dominica ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Dominica ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -428,8 +426,8 @@ geojsonFolder: ./Dominica//
 markerFolder: ./Dominica/
 ```
 
-[name-en::Dominica] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Dominica] 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent :: [[South-America]]  

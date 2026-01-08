@@ -11,8 +11,8 @@ dv_is_:
     - "[Dominican_Rep.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep.private.md)"
     - "[Dominican_Rep.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep.personal.md)"
     - "[Dominican_Rep.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep.secret.md)"
-dv_name-en: Dominican Rep.
-dv_name-de: Dominikanische Republik
+dv_has_name_en: Dominican Rep.
+dv_has_name_de: Dominikanische Republik
 dv_Area-Total: 48422
 dv_Area-Land: 48380
 dv_VehicleCode: DOM
@@ -346,8 +346,8 @@ geojsonFolder: ./Dominican_Rep///
 markerFolder: ./Dominican_Rep/
 ```
 
-name-en = `=this.dv_name-en` 
-name-de = `=this.dv_name-de` 
+has_name_en = `=this.dv_has_name_en` 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent :: [[South-America]]  

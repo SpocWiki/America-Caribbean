@@ -11,8 +11,8 @@ dv_is_:
     - "[Trinidad_and_Tobago~Islands.private](/_private/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands.private.md)"
     - "[Trinidad_and_Tobago~Islands.personal](/_personal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands.personal.md)"
     - "[Trinidad_and_Tobago~Islands.secret](/_secret/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands.secret.md)"
-dv_name-en: Trinidad And Tobago
-dv_name-de: Trinidad und Tobago
+dv_has_name_en: Trinidad And Tobago
+dv_has_name_de: Trinidad und Tobago
 dv_Area-Total: 5128
 dv_Area-Land: 5130
 dv_VehicleCode: TT
@@ -335,8 +335,8 @@ coordinates: [[Trinidad_and_Tobago~Islands]]
 markerFile: [[Trinidad_and_Tobago~Islands]] 
 ```
 
-name-en = `=this.dv_name-en` 
-name-de = `=this.dv_name-de` 
+has_name_en = `=this.dv_has_name_en` 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent :: [[South-America]]  

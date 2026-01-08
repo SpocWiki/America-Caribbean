@@ -7,15 +7,13 @@ dv_ISO4217-currency_country_name: BARBADOS
 dv_Telephone: 1-246
 dv_Global: true
 dv_Global_Name: World
-dv_name: Barbados
-dv_name-en:
-  - Barbados
-  - Barbados
-dv_name-es: Barbados
-dv_name-fr: Barbade
-dv_name-cn: 巴巴多斯
-dv_name-ar: بربادوس
-dv_name-ru: Барбадос
+dv_has_name_: Barbados
+dv_has_name_en: Barbados
+dv_has_name_es: Barbados
+dv_has_name_fr: Barbade
+dv_has_name_cn: 巴巴多斯
+dv_has_name_ar: بربادوس
+dv_has_name_ru: Барбадос
 dv_CLDR_display_name: Barbados
 dv_UNTERM_English: Barbados
 dv_UNTERM_English_Formal: Barbados
@@ -64,7 +62,7 @@ dv_is_:
     - "[Barbados.private](/_private/Earth/Continent/America~Caribbean/Barbados.private.md)"
     - "[Barbados.personal](/_personal/Earth/Continent/America~Caribbean/Barbados.personal.md)"
     - "[Barbados.secret](/_secret/Earth/Continent/America~Caribbean/Barbados.secret.md)"
-dv_name-de: Barbados
+dv_has_name_de: Barbados
 dv_Area-Total: 430
 dv_Area-Land: 430
 dv_VehicleCode: BDS
@@ -401,12 +399,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Barbados ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Barbados ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -466,8 +464,8 @@ geojsonFolder: ./Barbados//
 markerFolder: ./Barbados/
 ```
 
-[name-en::Barbados] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Barbados] 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent :: [[South-America]]  

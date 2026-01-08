@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../Geography/Place]]"
 dv_has_place_longitude: -70.01667
 dv_has_place_latitude: 12.51667
-dv_name: Oranjestad
+dv_has_name_: Oranjestad
 dv_Country: "[[../../Aruba]]"
 dv_Unknown: 32
 dv_is_:

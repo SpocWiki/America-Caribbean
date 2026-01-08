@@ -14,8 +14,8 @@ isDeleted: false
 confidential: public
 dv_ISO2: AG
 dv_ISO3: ATG
-dv_name-en: Antigua And Barbuda
-dv_name-de: Antigua und Barbuda
+dv_has_name_en: Antigua And Barbuda
+dv_has_name_de: Antigua und Barbuda
 dv_Area-Total: 441
 dv_Area-Land: 440
 dv_Continent: "[[South-America]]"
@@ -60,8 +60,8 @@ geojsonFolder: ./Antigua_and_Barbuda//
 markerFolder: ./Antigua_and_Barbuda/
 ```
 
-name-en = `=this.dv_name-en` 
-name-de = `=this.dv_name-de` 
+has_name_en = `=this.dv_has_name_en` 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent = `=this.dv_Continent`

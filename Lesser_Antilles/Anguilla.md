@@ -38,15 +38,13 @@ dv_ISO4217-currency_country_name: ANGUILLA
 dv_Telephone: 1-264
 dv_Global: true
 dv_Global_Name: World
-dv_name: Anguilla
-dv_name-en:
-  - Anguilla
-  - Anguilla
-dv_name-es: Anguila
-dv_name-fr: Anguilla
-dv_name-cn: 安圭拉
-dv_name-ar: أنغيلا
-dv_name-ru: Ангилья
+dv_has_name_: Anguilla
+dv_has_name_en: Anguilla
+dv_has_name_es: Anguila
+dv_has_name_fr: Anguilla
+dv_has_name_cn: 安圭拉
+dv_has_name_ar: أنغيلا
+dv_has_name_ru: Ангилья
 dv_CLDR_display_name: Anguilla
 dv_Region_Name: "[[Americas]]"
 dv_Intermediate_Region_Name: "[[Caribbean]]"
@@ -71,7 +69,7 @@ dv_Small_Island_Developing_States: x
 dv_ISO3166-1-numeric: 660
 dv_ISO2: AI
 dv_ISO3: AIA
-dv_name-de: Anguilla
+dv_has_name_de: Anguilla
 dv_Area-Total: 0
 dv_Area-Land: 0
 dv_Continent: "[[South-America]]"
@@ -113,12 +111,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Anguilla ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Anguilla ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -177,8 +175,8 @@ geojsonFolder: ./Anguilla//
 markerFolder: ./Anguilla/
 ```
 
-[name-en::Anguilla] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Anguilla] 
+has_name_de = `=this.dv_has_name_de` 
 
 ![[Anguilla/Coat_of_arms_of_Anguilla.svg|350]] 
 

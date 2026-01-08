@@ -44,13 +44,13 @@ dv_ISO4217-currency_country_name: SINT MAARTEN (DUTCH PART)
 dv_Telephone: 1-721
 dv_Global: true
 dv_Global_Name: World
-dv_name: Sint Maarten
-dv_name-en: Sint Maarten (Dutch part)
-dv_name-es: San Martín (parte holandés)
-dv_name-fr: Saint-Martin (partie néerlandaise)
-dv_name-cn: 圣马丁(荷属)
-dv_name-ar: سانت مارتن
-dv_name-ru: Синт-Мартен
+dv_has_name_: Sint Maarten
+dv_has_name_en: Sint Maarten (Dutch part)
+dv_has_name_es: San Martín (parte holandés)
+dv_has_name_fr: Saint-Martin (partie néerlandaise)
+dv_has_name_cn: 圣马丁(荷属)
+dv_has_name_ar: سانت مارتن
+dv_has_name_ru: Синт-Мартен
 dv_CLDR_display_name: Sint Maarten
 dv_Region_Name: "[[Americas]]"
 dv_Intermediate_Region_Name: "[[Caribbean]]"
@@ -102,12 +102,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-name-en = `=this.dv_name-en` 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+has_name_en = `=this.dv_has_name_en` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 
 ```leaflet

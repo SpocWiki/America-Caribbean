@@ -235,8 +235,8 @@ pronunciation_audio:
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Lucia.png
 dv_ISO2: LC
 dv_ISO3: LCA
-dv_name-en: Saint Lucia
-dv_name-de: Saint Lucia
+dv_has_name_en: Saint Lucia
+dv_has_name_de: Saint Lucia
 dv_is_:
   same_as:
     - "[[../../../../WikiData/WD~Saint_Lucia,760|WD~Saint_Lucia,760]]"
@@ -279,8 +279,8 @@ geojsonFolder: ./Saint_Lucia//
 markerFolder: ./Saint_Lucia/
 ```
 
-name-en = `=this.dv_name-en` 
-name-de = `=this.dv_name-de` 
+has_name_en = `=this.dv_has_name_en` 
+has_name_de = `=this.dv_has_name_de` 
 is_a_ = `=this.dv_is_a_`
 
 ![[Mexico/Coat_of_arms_of_Mexico.svg|350]] 

@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -61.51667
 dv_has_place_latitude: 10.66667
-dv_name: Port of Spain
+dv_has_name_: Port of Spain
 dv_Country: "[[../../Trinidad_and_Tobago~Islands]]"
 dv_Unknown: 32
 dv_is_:

@@ -44,13 +44,13 @@ dv_ISO4217-currency_country_name: CURAÇAO
 dv_Telephone: 599
 dv_Global: true
 dv_Global_Name: World
-dv_name: Curaçao
-dv_name-en: Curaçao
-dv_name-es: Curaçao
-dv_name-fr: Curaçao
-dv_name-cn: 库拉索
-dv_name-ar: كوراساو
-dv_name-ru: Кюрасао
+dv_has_name_: Curaçao
+dv_has_name_en: Curaçao
+dv_has_name_es: Curaçao
+dv_has_name_fr: Curaçao
+dv_has_name_cn: 库拉索
+dv_has_name_ar: كوراساو
+dv_has_name_ru: Кюрасао
 dv_CLDR_display_name: Curaçao
 dv_Region_Name: "[[Americas]]"
 dv_Intermediate_Region_Name: "[[Caribbean]]"
@@ -109,12 +109,12 @@ markerFolder: ./Curacao/
 ```
 
 name = `=this.dv_name` 
-name-en = `=this.dv_name-en` 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+has_name_en = `=this.dv_has_name_en` 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 

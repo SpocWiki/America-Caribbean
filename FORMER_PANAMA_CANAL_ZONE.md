@@ -8,8 +8,8 @@ tags:
 SpocWebEntityId: 76729
 isDeleted: false
 confidential: public
-dv_name-en: FORMER PANAMA CANAL ZONE
-dv_name-de: Panama Kanal Zone
+dv_has_name_en: FORMER PANAMA CANAL ZONE
+dv_has_name_de: Panama Kanal Zone
 dv_Continent: "[[South-America]]"
 dv_is_a_: "[[../../Geography/Place]]"
 dv_is_:
@@ -41,8 +41,8 @@ geojsonFolder: ./FORMER_PANAMA_CANAL_ZONE/
 markerFolder: ./FORMER_PANAMA_CANAL_ZONE/
 ```
 
-name-en = `=this.dv_name-en` 
-name-de = `=this.dv_name-de` 
+has_name_en = `=this.dv_has_name_en` 
+has_name_de = `=this.dv_has_name_de` 
 [Area-Total::] 
 [Area-Land::] 
 Continent = `=this.dv_Continent`

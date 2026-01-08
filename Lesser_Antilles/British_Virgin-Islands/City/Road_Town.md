@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.4314
 dv_has_place_latitude: -64.62305
-dv_name: Road Town
+dv_has_name_: Road Town
 dv_Country: "[[../../../British_Virgin~Islands]]"
 dv_is_:
   same_as:

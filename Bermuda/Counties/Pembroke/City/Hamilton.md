@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: -64.78333
 dv_has_place_latitude: 32.3
-dv_name: Hamilton
+dv_has_name_: Hamilton
 dv_Country: "[[../../../../../Europe/Europe~North/UK]]"
 dv_Unknown: 32
 dv_is_:

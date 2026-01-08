@@ -41,15 +41,15 @@ dv_ISO4217-currency_country_name: PUERTO RICO
 dv_Telephone: 1
 dv_Global: true
 dv_Global_Name: World
-dv_name: Puerto Rico
-dv_name-en:
+dv_has_name_: Puerto Rico
+dv_has_name_en:
   - Puerto Rico
   - Puerto Rico
-dv_name-es: Puerto Rico
-dv_name-fr: Porto Rico
-dv_name-cn: 波多黎各
-dv_name-ar: بورتوريكو
-dv_name-ru: Пуэрто-Рико
+dv_has_name_es: Puerto Rico
+dv_has_name_fr: Porto Rico
+dv_has_name_cn: 波多黎各
+dv_has_name_ar: بورتوريكو
+dv_has_name_ru: Пуэрто-Рико
 dv_CLDR_display_name: Puerto Rico
 dv_Region_Name: "[[Americas]]"
 dv_Intermediate_Region_Name: "[[Caribbean]]"
@@ -87,7 +87,7 @@ dv_is_:
     - "[Puerto_Rico.personal](/_personal/Earth/Continent/America~Caribbean/Puerto_Rico.personal.md)"
     - "[Puerto_Rico.secret](/_secret/Earth/Continent/America~Caribbean/Puerto_Rico.secret.md)"
   different_from: "[[../../America~Central/Costa_Rica|Costa_Rica]]"
-dv_name-de: Puerto Rico
+dv_has_name_de: Puerto Rico
 dv_Area-Total: 0
 dv_Area-Land: 0
 dv_Continent: "[[South-America]]"
@@ -125,12 +125,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Puerto Rico ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Puerto Rico ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -193,8 +193,8 @@ geojsonFolder: ./Puerto_Rico/
 markerFolder: ./Puerto_Rico/
 ```
 
-[name-en::Puerto Rico] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Puerto Rico] 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent = `=this.dv_Continent`

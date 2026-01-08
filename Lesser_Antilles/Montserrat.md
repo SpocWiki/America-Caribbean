@@ -37,15 +37,13 @@ dv_ISO4217-currency_country_name: MONTSERRAT
 dv_Telephone: 1-664
 dv_Global: true
 dv_Global_Name: World
-dv_name: Montserrat
-dv_name-en:
-  - Montserrat
-  - Montserrat
-dv_name-es: Montserrat
-dv_name-fr: Montserrat
-dv_name-cn: 蒙特塞拉特
-dv_name-ar: مونتسيرات
-dv_name-ru: Монтсеррат
+dv_has_name_: Montserrat
+dv_has_name_en: Montserrat
+dv_has_name_es: Montserrat
+dv_has_name_fr: Montserrat
+dv_has_name_cn: 蒙特塞拉特
+dv_has_name_ar: مونتسيرات
+dv_has_name_ru: Монтсеррат
 dv_CLDR_display_name: Montserrat
 dv_Region_Name: "[[Americas]]"
 dv_Intermediate_Region_Name: "[[Caribbean]]"
@@ -70,7 +68,7 @@ dv_Small_Island_Developing_States: x
 dv_ISO3166-1-numeric: 500
 dv_ISO2: MS
 dv_ISO3: MSR
-dv_name-de: Montserrat
+dv_has_name_de: Montserrat
 dv_Area-Total: 0
 dv_Area-Land: 0
 dv_Continent: "[[South-America]]"
@@ -111,12 +109,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Montserrat ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Montserrat ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -175,8 +173,8 @@ geojsonFolder: ./Montserrat//
 markerFolder: ./Montserrat/
 ```
 
-[name-en::Montserrat] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Montserrat] 
+has_name_de = `=this.dv_has_name_de` 
 
 ![[Mexico/Coat_of_arms_of_Mexico.svg|350]] 
 

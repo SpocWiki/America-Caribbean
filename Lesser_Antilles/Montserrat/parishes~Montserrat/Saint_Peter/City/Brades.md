@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -62.2
 dv_has_place_latitude: 16.75
-dv_name: Brades
+dv_has_name_: Brades
 dv_Country: "[[../../../../Montserrat]]"
 dv_is_:
   same_as:

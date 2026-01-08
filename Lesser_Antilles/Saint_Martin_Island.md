@@ -12,8 +12,8 @@ tags:
 SpocWebEntityId: 76731
 isDeleted: false
 confidential: public
-dv_name-en: Saint Martin
-dv_name-de: St. Martin (Insel)
+dv_has_name_en: Saint Martin
+dv_has_name_de: St. Martin (Insel)
 dv_Continent: "[[South-America]]"
 dv_is_a_: "[[../../../Geography/Place]]"
 dv_is_:
@@ -51,8 +51,8 @@ geojsonFolder: ./Saint_Martin/
 markerFolder: ./Saint_Martin/
 ```
 
-name-en = `=this.dv_name-en` 
-name-de = `=this.dv_name-de` 
+has_name_en = `=this.dv_has_name_en` 
+has_name_de = `=this.dv_has_name_de` 
 [Area-Total::] 
 [Area-Land::] 
 Continent = `=this.dv_Continent`

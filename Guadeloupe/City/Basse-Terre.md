@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../Geography/Place]]"
 dv_has_place_longitude: -61.73333
 dv_has_place_latitude: 16
-dv_name: Basse-Terre
+dv_has_name_: Basse-Terre
 dv_Country: "[[../../Guadeloupe]]"
 dv_is_:
   same_as:

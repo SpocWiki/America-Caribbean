@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: -66.1
 dv_has_place_latitude: 18.45
-dv_name: San Juan
+dv_has_name_: San Juan
 dv_Country: "[[../../Puerto_Rico]]"
 dv_Unknown: 32
 dv_is_:

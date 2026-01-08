@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: -82.37
 dv_has_place_latitude: 22.13
-dv_name: Havana
+dv_has_name_: Havana
 dv_is_:
   same_as:
     - "[[../../../../../../WikiData/WD~Havana,1563|WD~Havana,1563]]"

@@ -26,6 +26,7 @@ tags:
 title: Serranilla_Bank
 type: geo-Region
 dv_has_:
+  name_:
   url_for_:
     code_repository: https://github.com/SpocWiki/America-Serranilla_Bank
 dv_is_:

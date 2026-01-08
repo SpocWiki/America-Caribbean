@@ -34,7 +34,7 @@ expiryDate: ""
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: -76.8
 dv_has_place_latitude: 17.98333
-dv_name: Kingston
+dv_has_name_: Kingston
 dv_Country: "[[../../Jamaica]]"
 dv_Unknown: 32
 dv_is_:

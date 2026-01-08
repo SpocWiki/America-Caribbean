@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -61.23333
 dv_has_place_latitude: 13.16667
-dv_name: Kingstown
+dv_has_name_: Kingstown
 dv_Country: "[[../../Saint_Vincent_and_Grenadines]]"
 dv_is_:
   same_as:

@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: -72.33334
 dv_has_place_latitude: 18.53333
-dv_name: Port-au-Prince
+dv_has_name_: Port-au-Prince
 dv_Unknown: 32
 dv_is_:
   same_as:

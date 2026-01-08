@@ -20,7 +20,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -61.85
 dv_has_place_latitude: 17.11667
-dv_name: Saint John’s
+dv_has_name_: Saint John’s
 dv_Country: "[[../../../../Antigua_and_Barbuda|Antigua_and_Barbuda]]"
 dv_is_:
   same_as:

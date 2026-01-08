@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -62.73333
 dv_has_place_latitude: 17.3
-dv_name: Basseterre
+dv_has_name_: Basseterre
 dv_Country: "[[../../Saint_Kitts_and_Nevis~Islands]]"
 dv_is_:
   same_as:

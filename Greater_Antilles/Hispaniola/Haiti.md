@@ -11,15 +11,13 @@ dv_ISO4217-currency_country_name: HAITI
 dv_Telephone: 509
 dv_Global: true
 dv_Global_Name: World
-dv_name: Haiti
-dv_name-en:
-  - Haiti
-  - Haiti
-dv_name-es: Haití
-dv_name-fr: Haïti
-dv_name-cn: 海地
-dv_name-ar: هايتي
-dv_name-ru: Гаити
+dv_has_name_: Haiti
+dv_has_name_en: Haiti
+dv_has_name_es: Haití
+dv_has_name_fr: Haïti
+dv_has_name_cn: 海地
+dv_has_name_ar: هايتي
+dv_has_name_ru: Гаити
 dv_CLDR_display_name: Haiti
 dv_UNTERM_English: Haiti
 dv_UNTERM_English_Formal: the Republic of Haiti
@@ -69,7 +67,7 @@ dv_is_:
     - "[Haiti.private](/_private/Earth/Continent/America~Caribbean/Haiti.private.md)"
     - "[Haiti.personal](/_personal/Earth/Continent/America~Caribbean/Haiti.personal.md)"
     - "[Haiti.secret](/_secret/Earth/Continent/America~Caribbean/Haiti.secret.md)"
-dv_name-de: Haiti
+dv_has_name_de: Haiti
 dv_Area-Total: 27750
 dv_Area-Land: 27560
 dv_VehicleCode: RH
@@ -427,12 +425,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Haiti ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Haiti ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -494,8 +492,8 @@ geojsonFolder: ./Haiti//
 markerFolder: ./Haiti/
 ```
 
-[name-en::Haiti] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Haiti] 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent :: [[South-America]]  

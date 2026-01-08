@@ -38,15 +38,13 @@ dv_ISO4217-currency_country_name: GUADELOUPE
 dv_Telephone: 590
 dv_Global: true
 dv_Global_Name: World
-dv_name: Guadeloupe
-dv_name-en:
-  - Guadeloupe
-  - Guadeloupe
-dv_name-es: Guadalupe
-dv_name-fr: Guadeloupe
-dv_name-cn: 瓜德罗普
-dv_name-ar: غواديلوب
-dv_name-ru: Гваделупа
+dv_has_name_: Guadeloupe
+dv_has_name_en: Guadeloupe
+dv_has_name_es: Guadalupe
+dv_has_name_fr: Guadeloupe
+dv_has_name_cn: 瓜德罗普
+dv_has_name_ar: غواديلوب
+dv_has_name_ru: Гваделупа
 dv_CLDR_display_name: Guadeloupe
 dv_Region_Name: "[[Americas]]"
 dv_Intermediate_Region_Name: "[[Caribbean]]"
@@ -72,7 +70,7 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 312
 dv_ISO2: GP
 dv_ISO3: GLP
-dv_name-de: Guadeloupe
+dv_has_name_de: Guadeloupe
 dv_Area-Total: 0
 dv_Area-Land: 0
 dv_Continent: "[[South-America]]"
@@ -112,12 +110,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Guadeloupe ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Guadeloupe ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -176,8 +174,8 @@ geojsonFolder: ./Guadeloupe/
 markerFolder: ./Guadeloupe/
 ```
 
-[name-en::Guadeloupe] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Guadeloupe] 
+has_name_de = `=this.dv_has_name_de` 
 
 ![[Guatemala/Coat_of_arms_of_Guatemala.svg|350]] 
 

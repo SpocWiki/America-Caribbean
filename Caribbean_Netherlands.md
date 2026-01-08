@@ -43,15 +43,15 @@ dv_ISO4217-currency_country_name: BONAIRE, SINT EUSTATIUS AND SABA
 dv_Telephone: 599
 dv_Global: true
 dv_Global_Name: World
-dv_name: Caribbean Netherlands
-dv_name-en:
+dv_has_name_: Caribbean Netherlands
+dv_has_name_en:
   - Bonaire, Sint Eustatius and Saba
   - Netherlands Antilles
-dv_name-es: Bonaire, San Eustaquio y Saba
-dv_name-fr: Bonaire, Saint-Eustache et Saba
-dv_name-cn: 博纳尔,圣俄斯塔休斯和萨巴
-dv_name-ar: بونير وسان يوستاتيوس وسابا
-dv_name-ru: Бонайре, Саба и Синт-Эстатиус
+dv_has_name_es: Bonaire, San Eustaquio y Saba
+dv_has_name_fr: Bonaire, Saint-Eustache et Saba
+dv_has_name_cn: 博纳尔,圣俄斯塔休斯和萨巴
+dv_has_name_ar: بونير وسان يوستاتيوس وسابا
+dv_has_name_ru: Бонайре, Саба и Синт-Эстатиус
 dv_CLDR_display_name: Caribbean Netherlands
 dv_Region_Name: "[[Americas]]"
 dv_Intermediate_Region_Name: "[[Caribbean]]"
@@ -77,7 +77,7 @@ dv_Small_Island_Developing_States: x
 dv_ISO3166-1-numeric: 535
 dv_ISO2: AN
 dv_ISO3: ANT
-dv_name-de: Niederländische Antillen
+dv_has_name_de: Niederländische Antillen
 dv_Area-Total: 0
 dv_Area-Land: 0
 dv_Continent: "[[South-America]]"
@@ -118,12 +118,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Bonaire, Sint Eustatius and Saba ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Bonaire, Sint Eustatius and Saba ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -182,8 +182,8 @@ geojsonFolder: ./Caribbean_Netherlands/
 markerFolder: ./Caribbean_Netherlands/
 ```
 
-[name-en::Netherlands Antilles] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Netherlands Antilles] 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent = `=this.dv_Continent`

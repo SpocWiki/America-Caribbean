@@ -19,7 +19,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -60.98333
 dv_has_place_latitude: 14.03333
-dv_name: Castries
+dv_has_name_: Castries
 dv_Country: "[[../../../../Saint_Lucia]]"
 dv_is_:
   same_as:

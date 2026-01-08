@@ -1,8 +1,8 @@
 ---
 dv_ISO2: VC
 dv_ISO3: VCT
-dv_name-en: Saint Vincent And The Grenadines
-dv_name-de: Saint Vincent und die Grenadinen
+dv_has_name_en: Saint Vincent And The Grenadines
+dv_has_name_de: Saint Vincent und die Grenadinen
 dv_Area-Total: 389
 dv_Area-Land: 12
 dv_VehicleCode: WV
@@ -284,8 +284,8 @@ geojsonFolder: ./Saint_Vincent_and_Grenadines//
 markerFolder: ./Saint_Vincent_and_Grenadines/
 ```
 
-name-en = `=this.dv_name-en` 
-name-de = `=this.dv_name-de` 
+has_name_en = `=this.dv_has_name_en` 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent :: [[South-America]]  

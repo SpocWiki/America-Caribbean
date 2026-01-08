@@ -38,15 +38,13 @@ dv_ISO4217-currency_country_name: MARTINIQUE
 dv_Telephone: 596
 dv_Global: true
 dv_Global_Name: World
-dv_name: Martinique
-dv_name-en:
-  - Martinique
-  - Martinique
-dv_name-es: Martinica
-dv_name-fr: Martinique
-dv_name-cn: 马提尼克
-dv_name-ar: مارتينيك
-dv_name-ru: Мартиника
+dv_has_name_: Martinique
+dv_has_name_en: Martinique
+dv_has_name_es: Martinica
+dv_has_name_fr: Martinique
+dv_has_name_cn: 马提尼克
+dv_has_name_ar: مارتينيك
+dv_has_name_ru: Мартиника
 dv_CLDR_display_name: Martinique
 dv_Region_Name: "[[Americas]]"
 dv_Intermediate_Region_Name: "[[Caribbean]]"
@@ -72,7 +70,7 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 474
 dv_ISO2: MQ
 dv_ISO3: MTQ
-dv_name-de: Martinique
+dv_has_name_de: Martinique
 dv_Area-Total: 0
 dv_Area-Land: 0
 dv_Continent: "[[South-America]]"
@@ -113,12 +111,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Martinique ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Martinique ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -177,8 +175,8 @@ geojsonFolder: ./Martinique/
 markerFolder: ./Martinique/
 ```
 
-[name-en::Martinique] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Martinique] 
+has_name_de = `=this.dv_has_name_de` 
 
 ![[Mexico/Coat_of_arms_of_Mexico.svg|350]] 
 

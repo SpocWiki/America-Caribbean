@@ -41,15 +41,15 @@ dv_ISO4217-currency_country_name: VIRGIN ISLANDS (BRITISH)
 dv_Telephone: 1-284
 dv_Global: true
 dv_Global_Name: World
-dv_name: British Virgin Islands
-dv_name-en:
+dv_has_name_: British Virgin Islands
+dv_has_name_en:
   - British Virgin Islands
   - British Virgin Islands
-dv_name-es: Islas Vírgenes Británicas
-dv_name-fr: Îles Vierges britanniques
-dv_name-cn: 英属维尔京群岛
-dv_name-ar: جزر فرجن البريطانية
-dv_name-ru: Британские Виргинские острова
+dv_has_name_es: Islas Vírgenes Británicas
+dv_has_name_fr: Îles Vierges britanniques
+dv_has_name_cn: 英属维尔京群岛
+dv_has_name_ar: جزر فرجن البريطانية
+dv_has_name_ru: Британские Виргинские острова
 dv_CLDR_display_name: British Virgin Islands
 dv_Region_Name: "[[Americas]]"
 dv_Intermediate_Region_Name: "[[Caribbean]]"
@@ -75,7 +75,7 @@ dv_Small_Island_Developing_States: x
 dv_ISO3166-1-numeric: 92
 dv_ISO2: VG
 dv_ISO3: VGB
-dv_name-de: brit. Jungfraueninseln
+dv_has_name_de: brit. Jungfraueninseln
 dv_Area-Total: 0
 dv_Area-Land: 0
 dv_Continent: "[[South-America]]"
@@ -115,12 +115,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: British Virgin Islands ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: British Virgin Islands ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -183,8 +183,8 @@ geojsonFolder: ./British_Virgin-Islands/
 markerFolder: ./British_Virgin-Islands/
 ```
 
-[name-en::British Virgin Islands] 
-name-de = `=this.dv_name-de` 
+[has_name_en::British Virgin Islands] 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent = `=this.dv_Continent`

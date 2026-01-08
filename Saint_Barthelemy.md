@@ -23,8 +23,8 @@ dv_is_:
     - "[Saint_Barthelemy.private](/_private/Earth/Continent/America~Caribbean/Saint_Barthelemy.private.md)"
     - "[Saint_Barthelemy.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Barthelemy.personal.md)"
     - "[Saint_Barthelemy.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Barthelemy.secret.md)"
-dv_name-en: Saint Barthélemy
-dv_name-de: St. Barts
+dv_has_name_en: Saint Barthélemy
+dv_has_name_de: St. Barts
 dv_Continent: "[[South-America]]"
 dv_is_a_: "[[../../Geography/Place]]"
 dv_is_same_as:
@@ -56,8 +56,8 @@ geojsonFolder: ./Saint_Barthelemy/
 markerFolder: ./Saint_Barthelemy/
 ```
 
-name-en = `=this.dv_name-en` 
-name-de = `=this.dv_name-de` 
+has_name_en = `=this.dv_has_name_en` 
+has_name_de = `=this.dv_has_name_de` 
 [Area-Total::] 
 [Area-Land::] 
 Continent = `=this.dv_Continent`

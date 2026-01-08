@@ -7,15 +7,13 @@ dv_ISO4217-currency_country_name: BERMUDA
 dv_Telephone: 1-441
 dv_Global: true
 dv_Global_Name: World
-dv_name: Bermuda
-dv_name-en:
-  - Bermuda
-  - Bermuda
-dv_name-es: Bermuda
-dv_name-fr: Bermudes
-dv_name-cn: 百慕大
-dv_name-ar: برمودا
-dv_name-ru: Бермудские острова
+dv_has_name_: Bermuda
+dv_has_name_en: Bermuda
+dv_has_name_es: Bermuda
+dv_has_name_fr: Bermudes
+dv_has_name_cn: 百慕大
+dv_has_name_ar: برمودا
+dv_has_name_ru: Бермудские острова
 dv_CLDR_display_name: Bermuda
 dv_Region_Name: "[[Americas]]"
 dv_Intermediate_Region_Name: "[[Bermuda]]"
@@ -50,7 +48,7 @@ dv_is_:
     - "[Bermuda.private](/_private/Earth/Continent/America~Caribbean/Bermuda.private.md)"
     - "[Bermuda.personal](/_personal/Earth/Continent/America~Caribbean/Bermuda.personal.md)"
     - "[Bermuda.secret](/_secret/Earth/Continent/America~Caribbean/Bermuda.secret.md)"
-dv_name-de: Bermuda
+dv_has_name_de: Bermuda
 dv_Area-Total: 0
 dv_Area-Land: 0
 dv_is_a_: "[[../../Geography/Place]]"
@@ -250,12 +248,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Bermuda ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Bermuda ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -317,8 +315,8 @@ geojsonFolder: ./Bermuda//
 markerFolder: ./Bermuda/
 ```
 
-[name-en::Bermuda] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Bermuda] 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent :: [[North-America]]  

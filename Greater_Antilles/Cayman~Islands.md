@@ -40,15 +40,15 @@ dv_ISO4217-currency_country_name: CAYMAN ISLANDS
 dv_Telephone: 1-345
 dv_Global: true
 dv_Global_Name: World
-dv_name: Cayman Islands
-dv_name-en:
+dv_has_name_: Cayman Islands
+dv_has_name_en:
   - Cayman Islands
   - Cayman Islands
-dv_name-es: Islas Caimán
-dv_name-fr: Îles Caïmanes
-dv_name-cn: 开曼群岛
-dv_name-ar: جزر كايمان
-dv_name-ru: Кайман острова
+dv_has_name_es: Islas Caimán
+dv_has_name_fr: Îles Caïmanes
+dv_has_name_cn: 开曼群岛
+dv_has_name_ar: جزر كايمان
+dv_has_name_ru: Кайман острова
 dv_CLDR_display_name: Cayman Islands
 dv_Region_Name: "[[Americas]]"
 dv_Intermediate_Region_Name: "[[Caribbean]]"
@@ -74,7 +74,7 @@ dv_Developed_:
 dv_ISO3166-1-numeric: 136
 dv_ISO2: KY
 dv_ISO3: CYM
-dv_name-de: Cayman Inseln
+dv_has_name_de: Cayman Inseln
 dv_Area-Total: 0
 dv_Area-Land: 0
 dv_Continent: "[[South-America]]"
@@ -115,12 +115,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Cayman Islands ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Cayman Islands ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -180,8 +180,8 @@ geojsonFolder: ./Cayman~Islands/
 markerFolder: ./Cayman~Islands/
 ```
 
-[name-en::Cayman Islands] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Cayman Islands] 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent = `=this.dv_Continent`

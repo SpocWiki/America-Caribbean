@@ -53,7 +53,7 @@ UN_LOCODE: DMRSU
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -61.38334
 dv_has_place_latitude: 15.3
-dv_name: Roseau
+dv_has_name_: Roseau
 dv_Unknown: 32
 dv_is_:
   same_as:

@@ -1,8 +1,8 @@
 ---
 dv_ISO2: KN
 dv_ISO3: KNA
-dv_name-en: Saint Kitts And Nevis
-dv_name-de: Saint Kitts und Nevis
+dv_has_name_en: Saint Kitts And Nevis
+dv_has_name_de: Saint Kitts und Nevis
 dv_Area-Total: 262
 dv_Area-Land: 360
 dv_VehicleCode: KAN
@@ -271,8 +271,8 @@ geojsonFolder: ./Saint_Kitts_and_Nevis~Islands//
 markerFolder: ./Saint_Kitts_and_Nevis~Islands/
 ```
 
-name-en = `=this.dv_name-en` 
-name-de = `=this.dv_name-de` 
+has_name_en = `=this.dv_has_name_en` 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent :: [[South-America]]  

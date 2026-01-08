@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: -81.36667
 dv_has_place_latitude: 19.28333
-dv_name: George Town
+dv_has_name_: George Town
 dv_Country: "[[../../../Cayman~Islands]]"
 dv_is_:
   same_as:

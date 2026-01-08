@@ -33,7 +33,7 @@ expiryDate: ""
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: -63.04899
 dv_has_place_latitude: 18.22723
-dv_name: The Valley
+dv_has_name_: The Valley
 dv_Country: "[[../../../../Anguilla]] ]"
 dv_Unknown: 32
 dv_is_:

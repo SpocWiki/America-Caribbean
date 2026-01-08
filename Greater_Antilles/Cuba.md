@@ -11,15 +11,13 @@ dv_ISO4217-currency_country_name: CUBA
 dv_Telephone: 53
 dv_Global: true
 dv_Global_Name: World
-dv_name: Cuba
-dv_name-en:
-  - Cuba
-  - Cuba
-dv_name-es: Cuba
-dv_name-fr: Cuba
-dv_name-cn: 古巴
-dv_name-ar: كوبا
-dv_name-ru: Куба
+dv_has_name_: Cuba
+dv_has_name_en: Cuba
+dv_has_name_es: Cuba
+dv_has_name_fr: Cuba
+dv_has_name_cn: 古巴
+dv_has_name_ar: كوبا
+dv_has_name_ru: Куба
 dv_CLDR_display_name: Cuba
 dv_UNTERM_English: Cuba
 dv_UNTERM_English_Formal: the Republic of Cuba
@@ -68,7 +66,7 @@ dv_is_:
     - "[Cuba.private](/_private/Earth/Continent/America~Caribbean/Cuba.private.md)"
     - "[Cuba.personal](/_personal/Earth/Continent/America~Caribbean/Cuba.personal.md)"
     - "[Cuba.secret](/_secret/Earth/Continent/America~Caribbean/Cuba.secret.md)"
-dv_name-de: Kuba
+dv_has_name_de: Kuba
 dv_Area-Total: 110860
 dv_Area-Land: 109820
 dv_VehicleCode: C
@@ -473,12 +471,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Cuba ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Cuba ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -540,8 +538,8 @@ geojsonFolder: ./Cuba//
 markerFolder: ./Cuba/
 ```
 
-[name-en::Cuba] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Cuba] 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent :: [[South-America]]  

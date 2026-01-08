@@ -7,15 +7,13 @@ dv_ISO4217-currency_country_name: GRENADA
 dv_Telephone: 1-473
 dv_Global: true
 dv_Global_Name: World
-dv_name: Grenada
-dv_name-en:
-  - Grenada
-  - Grenada
-dv_name-es: Granada
-dv_name-fr: Grenade
-dv_name-cn: 格林纳达
-dv_name-ar: غرينادا
-dv_name-ru: Гренада
+dv_has_name_: Grenada
+dv_has_name_en: Grenada
+dv_has_name_es: Granada
+dv_has_name_fr: Grenade
+dv_has_name_cn: 格林纳达
+dv_has_name_ar: غرينادا
+dv_has_name_ru: Гренада
 dv_CLDR_display_name: Grenada
 dv_UNTERM_English: Grenada
 dv_UNTERM_English_Formal: Grenada
@@ -64,7 +62,7 @@ dv_is_:
     - "[Grenada.private](/_private/Earth/Continent/America~Caribbean/Grenada.private.md)"
     - "[Grenada.personal](/_personal/Earth/Continent/America~Caribbean/Grenada.personal.md)"
     - "[Grenada.secret](/_secret/Earth/Continent/America~Caribbean/Grenada.secret.md)"
-dv_name-de: Grenada
+dv_has_name_de: Grenada
 dv_Area-Total: 344
 dv_Area-Land: 340
 dv_VehicleCode: WG
@@ -373,12 +371,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Grenada ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Grenada ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -440,8 +438,8 @@ geojsonFolder: ./Grenada//
 markerFolder: ./Grenada/
 ```
 
-[name-en::Grenada] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Grenada] 
+has_name_de = `=this.dv_has_name_de` 
 
 ![[Grenada/Coat_of_arms_of_Grenada.svg|450]] 
 

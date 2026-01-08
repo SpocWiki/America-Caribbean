@@ -41,15 +41,13 @@ dv_ISO4217-currency_country_name: ARUBA
 dv_Telephone: 297
 dv_Global: true
 dv_Global_Name: World
-dv_name: Aruba
-dv_name-en:
-  - Aruba
-  - Aruba
-dv_name-es: Aruba
-dv_name-fr: Aruba
-dv_name-cn: 阿鲁巴
-dv_name-ar: أروبا
-dv_name-ru: Аруба
+dv_has_name_: Aruba
+dv_has_name_en: Aruba
+dv_has_name_es: Aruba
+dv_has_name_fr: Aruba
+dv_has_name_cn: 阿鲁巴
+dv_has_name_ar: أروبا
+dv_has_name_ru: Аруба
 dv_CLDR_display_name: Aruba
 dv_Region_Name: "[[Americas]]"
 dv_Intermediate_Region_Name: "[[Caribbean]]"
@@ -76,7 +74,7 @@ dv_Small_Island_Developing_States: x
 dv_ISO3166-1-numeric: 533
 dv_ISO2: AW
 dv_ISO3: ABW
-dv_name-de: Aruba
+dv_has_name_de: Aruba
 dv_Area-Total: 0
 dv_Area-Land: 0
 dv_Continent: "[[South-America]]"
@@ -121,12 +119,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Aruba ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Aruba ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -184,8 +182,8 @@ geojsonFolder: ./Aruba/
 markerFolder: ./Aruba/
 ```
 
-[name-en::Aruba] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Aruba] 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent = `=this.dv_Continent`

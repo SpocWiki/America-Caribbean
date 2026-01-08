@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: -61.75
 dv_has_place_latitude: 12.05
-dv_name: St. George’s
+dv_has_name_: St. George’s
 dv_Unknown: 32
 dv_is_:
   same_as:

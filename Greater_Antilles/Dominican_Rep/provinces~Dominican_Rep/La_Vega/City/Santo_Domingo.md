@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -70.66666
 dv_has_place_latitude: 19
-dv_name: Santo Domingo
+dv_has_name_: Santo Domingo
 dv_Country: Dominican_Rep.]
 dv_Unknown: 32
 dv_is_:

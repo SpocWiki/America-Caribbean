@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: -59.53333
 dv_has_place_latitude: 13
-dv_name: Bridgetown
+dv_has_name_: Bridgetown
 dv_Unknown: 32
 dv_is_:
   same_as:

@@ -41,15 +41,13 @@ dv_ISO4217-currency_country_name: BAHAMAS
 dv_Telephone: 1-242
 dv_Global: true
 dv_Global_Name: World
-dv_name: Bahamas
-dv_name-en:
-  - Bahamas
-  - Bahamas
-dv_name-es: Bahamas
-dv_name-fr: Bahamas
-dv_name-cn: 巴哈马
-dv_name-ar: جزر البهاما
-dv_name-ru: Багамские Острова
+dv_has_name_: Bahamas
+dv_has_name_en: Bahamas
+dv_has_name_es: Bahamas
+dv_has_name_fr: Bahamas
+dv_has_name_cn: 巴哈马
+dv_has_name_ar: جزر البهاما
+dv_has_name_ru: Багамские Острова
 dv_CLDR_display_name: Bahamas
 dv_UNTERM_English: Bahamas (the)
 dv_UNTERM_English_Formal: the Commonwealth of the Bahamas
@@ -98,7 +96,7 @@ dv_is_:
     - "[Bahamas.private](/_private/Earth/Continent/America~Caribbean/Bahamas.private.md)"
     - "[Bahamas.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas.personal.md)"
     - "[Bahamas.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas.secret.md)"
-dv_name-de: Bahamas
+dv_has_name_de: Bahamas
 dv_Area-Total: 13939
 dv_Area-Land: 10010
 dv_Continent: "[[South-America]]"
@@ -135,12 +133,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Bahamas ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Bahamas ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -202,8 +200,8 @@ geojsonFolder: ./Bahamas//
 markerFolder: ./Bahamas/
 ```
 
-[name-en::Bahamas] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Bahamas] 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent = `=this.dv_Continent`
