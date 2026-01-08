@@ -21,11 +21,28 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as:
+    - "[Saint_Paul](/_Standards/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Paul.md)"
+    - "[Saint_Paul.public](/_public/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Paul.public.md)"
+    - "[Saint_Paul.internal](/_internal/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Paul.internal.md)"
+    - "[Saint_Paul.protect](/_protect/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Paul.protect.md)"
+    - "[Saint_Paul.private](/_private/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Paul.private.md)"
+    - "[Saint_Paul.personal](/_personal/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Paul.personal.md)"
+    - "[Saint_Paul.secret](/_secret/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Paul.secret.md)"
+dv_is_same_as:
+  - "[Saint_Paul](/_Standards/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Paul.md)"
+  - "[Saint_Paul.public](/_public/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Paul.public.md)"
+  - "[Saint_Paul.internal](/_internal/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Paul.internal.md)"
+  - "[Saint_Paul.protect](/_protect/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Paul.protect.md)"
+  - "[Saint_Paul.private](/_private/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Paul.private.md)"
+  - "[Saint_Paul.personal](/_personal/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Paul.personal.md)"
+  - "[Saint_Paul.secret](/_secret/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Paul.secret.md)"
 ---
 
 # [[Saint_Paul,Dominica]]
@@ -42,17 +59,17 @@ markerFolder: ./Saint_Paul/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Saint_Paul](/_Standards/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Paul.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Lesser_Antilles/Dominica/parishes~Dominica/Saint_Paul,Dominica|Saint_Paul,Dominica]] 
 
-### #is_/same_as :: [Saint_Paul.public](/_public/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Paul.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Lesser_Antilles/Dominica/parishes~Dominica/Saint_Paul,Dominica.public|Saint_Paul,Dominica.public]] 
 
-### #is_/same_as :: [Saint_Paul.internal](/_internal/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Paul.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Lesser_Antilles/Dominica/parishes~Dominica/Saint_Paul,Dominica.internal|Saint_Paul,Dominica.internal]] 
 
-### #is_/same_as :: [Saint_Paul.protect](/_protect/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Paul.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Lesser_Antilles/Dominica/parishes~Dominica/Saint_Paul,Dominica.protect|Saint_Paul,Dominica.protect]] 
 
-### #is_/same_as :: [Saint_Paul.private](/_private/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Paul.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Lesser_Antilles/Dominica/parishes~Dominica/Saint_Paul,Dominica.private|Saint_Paul,Dominica.private]] 
 
-### #is_/same_as :: [Saint_Paul.personal](/_personal/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Paul.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Lesser_Antilles/Dominica/parishes~Dominica/Saint_Paul,Dominica.personal|Saint_Paul,Dominica.personal]] 
 
-### #is_/same_as :: [Saint_Paul.secret](/_secret/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_Paul.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Lesser_Antilles/Dominica/parishes~Dominica/Saint_Paul,Dominica.secret|Saint_Paul,Dominica.secret]] 
 

@@ -29,11 +29,14 @@ Dewey_Decimal_Classification:
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cocoa%20beans%20in%20cocoa%20pod%20at%20El%20Trapiche%2C%20Costa%20Rica.jpg
 Common_Procurement_Vocabulary_code: "03131400"
 UNII: D9108TZ9KG
+dv_is_:
+  same_as: "[[_Standards/WikiData/WD~cocoa_bean,208008]]"
+dv_is_same_as: "[[_Standards/WikiData/WD~cocoa_bean,208008]]"
 ---
 
 # [[Cocoa_Bean]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~cocoa_bean,208008]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -84,4 +87,20 @@ UNII: D9108TZ9KG
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cocoa%20bean) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Lesser_Antilles/Grenada/parishes~Grenada/Saint_George_Parish/Cocoa_Bean|Cocoa_Bean]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Lesser_Antilles/Grenada/parishes~Grenada/Saint_George_Parish/Cocoa_Bean.public|Cocoa_Bean.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Lesser_Antilles/Grenada/parishes~Grenada/Saint_George_Parish/Cocoa_Bean.internal|Cocoa_Bean.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Lesser_Antilles/Grenada/parishes~Grenada/Saint_George_Parish/Cocoa_Bean.protect|Cocoa_Bean.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Lesser_Antilles/Grenada/parishes~Grenada/Saint_George_Parish/Cocoa_Bean.private|Cocoa_Bean.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Lesser_Antilles/Grenada/parishes~Grenada/Saint_George_Parish/Cocoa_Bean.personal|Cocoa_Bean.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Lesser_Antilles/Grenada/parishes~Grenada/Saint_George_Parish/Cocoa_Bean.secret|Cocoa_Bean.secret]] 
 

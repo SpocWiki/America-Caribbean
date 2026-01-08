@@ -1,4 +1,29 @@
-﻿---
+---
+dv_is_a_: "[[../../../../../../Geography/Place]]"
+dv_has_place_longitude: -61.75
+dv_has_place_latitude: 12.05
+dv_name: St. George’s
+dv_Unknown: 32
+dv_is_:
+  same_as:
+    - "[[../../../../../../../WikiData/WD~St._George's,41547|WD~St._George's,41547]]"
+    - "[St._George’s](/_Standards/Earth/Continent/America~Caribbean/Grenada/City/St._George’s.md)"
+    - "[St._George’s.public](/_public/Earth/Continent/America~Caribbean/Grenada/City/St._George’s.public.md)"
+    - "[St._George’s.internal](/_internal/Earth/Continent/America~Caribbean/Grenada/City/St._George’s.internal.md)"
+    - "[St._George’s.protect](/_protect/Earth/Continent/America~Caribbean/Grenada/City/St._George’s.protect.md)"
+    - "[St._George’s.private](/_private/Earth/Continent/America~Caribbean/Grenada/City/St._George’s.private.md)"
+    - "[St._George’s.personal](/_personal/Earth/Continent/America~Caribbean/Grenada/City/St._George’s.personal.md)"
+    - "[St._George’s.secret](/_secret/Earth/Continent/America~Caribbean/Grenada/City/St._George’s.secret.md)"
+dv_is_same_as:
+  - "[[../../../../../../../WikiData/WD~St._George's,41547|WD~St._George's,41547]]"
+  - "[St._George’s](/_Standards/Earth/Continent/America~Caribbean/Grenada/City/St._George’s.md)"
+  - "[St._George’s.public](/_public/Earth/Continent/America~Caribbean/Grenada/City/St._George’s.public.md)"
+  - "[St._George’s.internal](/_internal/Earth/Continent/America~Caribbean/Grenada/City/St._George’s.internal.md)"
+  - "[St._George’s.protect](/_protect/Earth/Continent/America~Caribbean/Grenada/City/St._George’s.protect.md)"
+  - "[St._George’s.private](/_private/Earth/Continent/America~Caribbean/Grenada/City/St._George’s.private.md)"
+  - "[St._George’s.personal](/_personal/Earth/Continent/America~Caribbean/Grenada/City/St._George’s.personal.md)"
+  - "[St._George’s.secret](/_secret/Earth/Continent/America~Caribbean/Grenada/City/St._George’s.secret.md)"
+
 has_time_started: 1650-01-01 
 aliases:
   - St. George's
@@ -59,16 +84,16 @@ inception: 1650-01-01T00:00:00Z
 # [[St._George’s,Grenada]] 
 
 #is_a_/Place  
-#is_a_ :: [[../../../../../../Geography/Place]] 
-[has_place_longitude::-61.75] 
-[has_place_latitude::12.05] 
-[name::St. George’s] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
 Country :: [[../../../Grenada]]  
 [StateId::] 
 [Population::] 
-[Unknown::32] 
-#is_/same_as :: [[../../../../../../../WikiData/WD~St._George's,41547|WD~St._George's,41547]] 
+Unknown = `=this.dv_Unknown` 
+is_a_ = `=this.dv_is_a_`
 
 ## #has_/map 
 
@@ -106,19 +131,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/St.%20George's,%20Grenada) 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [St._George’s](/_Standards/Earth/Continent/America~Caribbean/Grenada/City/St._George’s.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Lesser_Antilles/Grenada/parishes~Grenada/Saint_George_Parish/St._George’s,Grenada|St._George’s,Grenada]] 
 
-### #is_/same_as :: [St._George’s.public](/_public/Earth/Continent/America~Caribbean/Grenada/City/St._George’s.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Lesser_Antilles/Grenada/parishes~Grenada/Saint_George_Parish/St._George’s,Grenada.public|St._George’s,Grenada.public]] 
 
-### #is_/same_as :: [St._George’s.internal](/_internal/Earth/Continent/America~Caribbean/Grenada/City/St._George’s.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Lesser_Antilles/Grenada/parishes~Grenada/Saint_George_Parish/St._George’s,Grenada.internal|St._George’s,Grenada.internal]] 
 
-### #is_/same_as :: [St._George’s.protect](/_protect/Earth/Continent/America~Caribbean/Grenada/City/St._George’s.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Lesser_Antilles/Grenada/parishes~Grenada/Saint_George_Parish/St._George’s,Grenada.protect|St._George’s,Grenada.protect]] 
 
-### #is_/same_as :: [St._George’s.private](/_private/Earth/Continent/America~Caribbean/Grenada/City/St._George’s.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Lesser_Antilles/Grenada/parishes~Grenada/Saint_George_Parish/St._George’s,Grenada.private|St._George’s,Grenada.private]] 
 
-### #is_/same_as :: [St._George’s.personal](/_personal/Earth/Continent/America~Caribbean/Grenada/City/St._George’s.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Lesser_Antilles/Grenada/parishes~Grenada/Saint_George_Parish/St._George’s,Grenada.personal|St._George’s,Grenada.personal]] 
 
-### #is_/same_as :: [St._George’s.secret](/_secret/Earth/Continent/America~Caribbean/Grenada/City/St._George’s.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Lesser_Antilles/Grenada/parishes~Grenada/Saint_George_Parish/St._George’s,Grenada.secret|St._George’s,Grenada.secret]] 
 

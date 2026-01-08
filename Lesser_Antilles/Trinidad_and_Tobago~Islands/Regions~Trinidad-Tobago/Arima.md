@@ -19,11 +19,28 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as:
+    - "[Arima](/_Standards/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Arima.md)"
+    - "[Arima.public](/_public/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Arima.public.md)"
+    - "[Arima.internal](/_internal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Arima.internal.md)"
+    - "[Arima.protect](/_protect/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Arima.protect.md)"
+    - "[Arima.private](/_private/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Arima.private.md)"
+    - "[Arima.personal](/_personal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Arima.personal.md)"
+    - "[Arima.secret](/_secret/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Arima.secret.md)"
+dv_is_same_as:
+  - "[Arima](/_Standards/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Arima.md)"
+  - "[Arima.public](/_public/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Arima.public.md)"
+  - "[Arima.internal](/_internal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Arima.internal.md)"
+  - "[Arima.protect](/_protect/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Arima.protect.md)"
+  - "[Arima.private](/_private/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Arima.private.md)"
+  - "[Arima.personal](/_personal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Arima.personal.md)"
+  - "[Arima.secret](/_secret/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Arima.secret.md)"
 ---
 
 # Arima
@@ -40,17 +57,17 @@ markerFolder: ./Arima/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Arima](/_Standards/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Arima.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Lesser_Antilles/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Arima|Arima]] 
 
-### #is_/same_as :: [Arima.public](/_public/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Arima.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Lesser_Antilles/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Arima.public|Arima.public]] 
 
-### #is_/same_as :: [Arima.internal](/_internal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Arima.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Lesser_Antilles/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Arima.internal|Arima.internal]] 
 
-### #is_/same_as :: [Arima.protect](/_protect/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Arima.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Lesser_Antilles/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Arima.protect|Arima.protect]] 
 
-### #is_/same_as :: [Arima.private](/_private/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Arima.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Lesser_Antilles/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Arima.private|Arima.private]] 
 
-### #is_/same_as :: [Arima.personal](/_personal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Arima.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Lesser_Antilles/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Arima.personal|Arima.personal]] 
 
-### #is_/same_as :: [Arima.secret](/_secret/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Arima.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Lesser_Antilles/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Arima.secret|Arima.secret]] 
 

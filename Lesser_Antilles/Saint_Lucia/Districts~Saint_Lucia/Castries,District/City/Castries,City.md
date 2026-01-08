@@ -16,22 +16,46 @@ tags:
 SpocWebEntityId: 36647
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -60.98333
+dv_has_place_latitude: 14.03333
+dv_name: Castries
+dv_Country: "[[../../../../Saint_Lucia]]"
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../WikiData/WD~Castries,41699|WD~Castries,41699]]"
+    - "[Castries](/_Standards/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Castries/City/Castries.md)"
+    - "[Castries.public](/_public/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Castries/City/Castries.public.md)"
+    - "[Castries.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Castries/City/Castries.internal.md)"
+    - "[Castries.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Castries/City/Castries.protect.md)"
+    - "[Castries.private](/_private/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Castries/City/Castries.private.md)"
+    - "[Castries.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Castries/City/Castries.personal.md)"
+    - "[Castries.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Castries/City/Castries.secret.md)"
+dv_is_same_as:
+  - "[[../../../../../../../../WikiData/WD~Castries,41699|WD~Castries,41699]]"
+  - "[Castries](/_Standards/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Castries/City/Castries.md)"
+  - "[Castries.public](/_public/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Castries/City/Castries.public.md)"
+  - "[Castries.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Castries/City/Castries.internal.md)"
+  - "[Castries.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Castries/City/Castries.protect.md)"
+  - "[Castries.private](/_private/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Castries/City/Castries.private.md)"
+  - "[Castries.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Castries/City/Castries.personal.md)"
+  - "[Castries.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Castries/City/Castries.secret.md)"
 ---
 
 # [[Castries,City]] 
 
 #is_a_/Place  
-#is_a_ :: [[../../../../../../../Geography/Place]] 
-[has_place_longitude::-60.98333] 
-[has_place_latitude::14.03333] 
-[name::Castries] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../Saint_Lucia]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Castries,41699|WD~Castries,41699]] 
+is_a_ = `=this.dv_is_a_`
 
 ## #has_/map 
 
@@ -64,20 +88,19 @@ maxZoom: 18
 > [Wikipedia](https://en.wikipedia.org/wiki/Castries  
 
 
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Castries](/_Standards/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Castries/City/Castries.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Lesser_Antilles/Saint_Lucia/Districts~Saint_Lucia/Castries,District/City/Castries,City|Castries,City]] 
 
-### #is_/same_as :: [Castries.public](/_public/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Castries/City/Castries.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Lesser_Antilles/Saint_Lucia/Districts~Saint_Lucia/Castries,District/City/Castries,City.public|Castries,City.public]] 
 
-### #is_/same_as :: [Castries.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Castries/City/Castries.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Lesser_Antilles/Saint_Lucia/Districts~Saint_Lucia/Castries,District/City/Castries,City.internal|Castries,City.internal]] 
 
-### #is_/same_as :: [Castries.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Castries/City/Castries.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Lesser_Antilles/Saint_Lucia/Districts~Saint_Lucia/Castries,District/City/Castries,City.protect|Castries,City.protect]] 
 
-### #is_/same_as :: [Castries.private](/_private/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Castries/City/Castries.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Lesser_Antilles/Saint_Lucia/Districts~Saint_Lucia/Castries,District/City/Castries,City.private|Castries,City.private]] 
 
-### #is_/same_as :: [Castries.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Castries/City/Castries.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Lesser_Antilles/Saint_Lucia/Districts~Saint_Lucia/Castries,District/City/Castries,City.personal|Castries,City.personal]] 
 
-### #is_/same_as :: [Castries.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Lucia/Districts~Saint_Lucia/Castries/City/Castries.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Lesser_Antilles/Saint_Lucia/Districts~Saint_Lucia/Castries,District/City/Castries,City.secret|Castries,City.secret]] 
 

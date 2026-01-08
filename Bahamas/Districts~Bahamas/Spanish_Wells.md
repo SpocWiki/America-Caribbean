@@ -20,11 +20,28 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as:
+    - "[Spanish_Wells](/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Spanish_Wells.md)"
+    - "[Spanish_Wells.public](/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Spanish_Wells.public.md)"
+    - "[Spanish_Wells.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Spanish_Wells.internal.md)"
+    - "[Spanish_Wells.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Spanish_Wells.protect.md)"
+    - "[Spanish_Wells.private](/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Spanish_Wells.private.md)"
+    - "[Spanish_Wells.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Spanish_Wells.personal.md)"
+    - "[Spanish_Wells.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Spanish_Wells.secret.md)"
+dv_is_same_as:
+  - "[Spanish_Wells](/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Spanish_Wells.md)"
+  - "[Spanish_Wells.public](/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Spanish_Wells.public.md)"
+  - "[Spanish_Wells.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Spanish_Wells.internal.md)"
+  - "[Spanish_Wells.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Spanish_Wells.protect.md)"
+  - "[Spanish_Wells.private](/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Spanish_Wells.private.md)"
+  - "[Spanish_Wells.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Spanish_Wells.personal.md)"
+  - "[Spanish_Wells.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Spanish_Wells.secret.md)"
 ---
 
 # Spanish_Wells
@@ -41,17 +58,17 @@ markerFolder: ./Spanish_Wells/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Spanish_Wells](/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Spanish_Wells.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Spanish_Wells|Spanish_Wells]] 
 
-### #is_/same_as :: [Spanish_Wells.public](/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Spanish_Wells.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Spanish_Wells.public|Spanish_Wells.public]] 
 
-### #is_/same_as :: [Spanish_Wells.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Spanish_Wells.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Spanish_Wells.internal|Spanish_Wells.internal]] 
 
-### #is_/same_as :: [Spanish_Wells.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Spanish_Wells.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Spanish_Wells.protect|Spanish_Wells.protect]] 
 
-### #is_/same_as :: [Spanish_Wells.private](/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Spanish_Wells.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Spanish_Wells.private|Spanish_Wells.private]] 
 
-### #is_/same_as :: [Spanish_Wells.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Spanish_Wells.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Spanish_Wells.personal|Spanish_Wells.personal]] 
 
-### #is_/same_as :: [Spanish_Wells.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Spanish_Wells.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Spanish_Wells.secret|Spanish_Wells.secret]] 
 

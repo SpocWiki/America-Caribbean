@@ -20,11 +20,28 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as:
+    - "[The_Farrington](/_Standards/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/The_Farrington.md)"
+    - "[The_Farrington.public](/_public/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/The_Farrington.public.md)"
+    - "[The_Farrington.internal](/_internal/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/The_Farrington.internal.md)"
+    - "[The_Farrington.protect](/_protect/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/The_Farrington.protect.md)"
+    - "[The_Farrington.private](/_private/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/The_Farrington.private.md)"
+    - "[The_Farrington.personal](/_personal/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/The_Farrington.personal.md)"
+    - "[The_Farrington.secret](/_secret/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/The_Farrington.secret.md)"
+dv_is_same_as:
+  - "[The_Farrington](/_Standards/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/The_Farrington.md)"
+  - "[The_Farrington.public](/_public/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/The_Farrington.public.md)"
+  - "[The_Farrington.internal](/_internal/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/The_Farrington.internal.md)"
+  - "[The_Farrington.protect](/_protect/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/The_Farrington.protect.md)"
+  - "[The_Farrington.private](/_private/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/The_Farrington.private.md)"
+  - "[The_Farrington.personal](/_personal/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/The_Farrington.personal.md)"
+  - "[The_Farrington.secret](/_secret/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/The_Farrington.secret.md)"
 ---
 
 # The_Farrington
@@ -41,17 +58,17 @@ markerFolder: ./The_Farrington/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [The_Farrington](/_Standards/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/The_Farrington.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Lesser_Antilles/Anguilla/Counties~Anguilla/The_Farrington|The_Farrington]] 
 
-### #is_/same_as :: [The_Farrington.public](/_public/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/The_Farrington.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Lesser_Antilles/Anguilla/Counties~Anguilla/The_Farrington.public|The_Farrington.public]] 
 
-### #is_/same_as :: [The_Farrington.internal](/_internal/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/The_Farrington.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Lesser_Antilles/Anguilla/Counties~Anguilla/The_Farrington.internal|The_Farrington.internal]] 
 
-### #is_/same_as :: [The_Farrington.protect](/_protect/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/The_Farrington.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Lesser_Antilles/Anguilla/Counties~Anguilla/The_Farrington.protect|The_Farrington.protect]] 
 
-### #is_/same_as :: [The_Farrington.private](/_private/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/The_Farrington.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Lesser_Antilles/Anguilla/Counties~Anguilla/The_Farrington.private|The_Farrington.private]] 
 
-### #is_/same_as :: [The_Farrington.personal](/_personal/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/The_Farrington.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Lesser_Antilles/Anguilla/Counties~Anguilla/The_Farrington.personal|The_Farrington.personal]] 
 
-### #is_/same_as :: [The_Farrington.secret](/_secret/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/The_Farrington.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Lesser_Antilles/Anguilla/Counties~Anguilla/The_Farrington.secret|The_Farrington.secret]] 
 

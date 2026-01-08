@@ -19,11 +19,28 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as:
+    - "[Samaná](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Samaná.md)"
+    - "[Samaná.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Samaná.public.md)"
+    - "[Samaná.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Samaná.internal.md)"
+    - "[Samaná.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Samaná.protect.md)"
+    - "[Samaná.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Samaná.private.md)"
+    - "[Samaná.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Samaná.personal.md)"
+    - "[Samaná.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Samaná.secret.md)"
+dv_is_same_as:
+  - "[Samaná](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Samaná.md)"
+  - "[Samaná.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Samaná.public.md)"
+  - "[Samaná.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Samaná.internal.md)"
+  - "[Samaná.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Samaná.protect.md)"
+  - "[Samaná.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Samaná.private.md)"
+  - "[Samaná.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Samaná.personal.md)"
+  - "[Samaná.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Samaná.secret.md)"
 ---
 
 # Samaná
@@ -40,17 +57,17 @@ markerFolder: ./Samaná/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Samaná](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Samaná.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Greater_Antilles/Dominican_Rep/provinces~Dominican_Rep/Samaná|Samaná]] 
 
-### #is_/same_as :: [Samaná.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Samaná.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Greater_Antilles/Dominican_Rep/provinces~Dominican_Rep/Samaná.public|Samaná.public]] 
 
-### #is_/same_as :: [Samaná.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Samaná.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Greater_Antilles/Dominican_Rep/provinces~Dominican_Rep/Samaná.internal|Samaná.internal]] 
 
-### #is_/same_as :: [Samaná.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Samaná.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Greater_Antilles/Dominican_Rep/provinces~Dominican_Rep/Samaná.protect|Samaná.protect]] 
 
-### #is_/same_as :: [Samaná.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Samaná.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Greater_Antilles/Dominican_Rep/provinces~Dominican_Rep/Samaná.private|Samaná.private]] 
 
-### #is_/same_as :: [Samaná.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Samaná.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Greater_Antilles/Dominican_Rep/provinces~Dominican_Rep/Samaná.personal|Samaná.personal]] 
 
-### #is_/same_as :: [Samaná.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Samaná.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Greater_Antilles/Dominican_Rep/provinces~Dominican_Rep/Samaná.secret|Samaná.secret]] 
 

@@ -14,14 +14,36 @@ tags:
 SpocWebEntityId: 36646
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -62.2
+dv_has_place_latitude: 16.75
+dv_name: Brades
+dv_Country: "[[../../../../Montserrat]]"
+dv_is_:
+  same_as:
+    - "[Brades](/_Standards/Earth/Continent/America~Caribbean/Montserrat/parishes~Montserrat/Saint_Peter/City/Brades.md)"
+    - "[Brades.public](/_public/Earth/Continent/America~Caribbean/Montserrat/parishes~Montserrat/Saint_Peter/City/Brades.public.md)"
+    - "[Brades.internal](/_internal/Earth/Continent/America~Caribbean/Montserrat/parishes~Montserrat/Saint_Peter/City/Brades.internal.md)"
+    - "[Brades.protect](/_protect/Earth/Continent/America~Caribbean/Montserrat/parishes~Montserrat/Saint_Peter/City/Brades.protect.md)"
+    - "[Brades.private](/_private/Earth/Continent/America~Caribbean/Montserrat/parishes~Montserrat/Saint_Peter/City/Brades.private.md)"
+    - "[Brades.personal](/_personal/Earth/Continent/America~Caribbean/Montserrat/parishes~Montserrat/Saint_Peter/City/Brades.personal.md)"
+    - "[Brades.secret](/_secret/Earth/Continent/America~Caribbean/Montserrat/parishes~Montserrat/Saint_Peter/City/Brades.secret.md)"
+dv_is_same_as:
+  - "[Brades](/_Standards/Earth/Continent/America~Caribbean/Montserrat/parishes~Montserrat/Saint_Peter/City/Brades.md)"
+  - "[Brades.public](/_public/Earth/Continent/America~Caribbean/Montserrat/parishes~Montserrat/Saint_Peter/City/Brades.public.md)"
+  - "[Brades.internal](/_internal/Earth/Continent/America~Caribbean/Montserrat/parishes~Montserrat/Saint_Peter/City/Brades.internal.md)"
+  - "[Brades.protect](/_protect/Earth/Continent/America~Caribbean/Montserrat/parishes~Montserrat/Saint_Peter/City/Brades.protect.md)"
+  - "[Brades.private](/_private/Earth/Continent/America~Caribbean/Montserrat/parishes~Montserrat/Saint_Peter/City/Brades.private.md)"
+  - "[Brades.personal](/_personal/Earth/Continent/America~Caribbean/Montserrat/parishes~Montserrat/Saint_Peter/City/Brades.personal.md)"
+  - "[Brades.secret](/_secret/Earth/Continent/America~Caribbean/Montserrat/parishes~Montserrat/Saint_Peter/City/Brades.secret.md)"
 ---
 #is_a_/Place  
-#is_a_ :: [[../../../../../../../Geography/Place]] 
-[has_place_longitude::-62.2] 
-[has_place_latitude::16.75] 
-[name::Brades] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../Montserrat]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
 
@@ -38,17 +60,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Brades](/_Standards/Earth/Continent/America~Caribbean/Montserrat/parishes~Montserrat/Saint_Peter/City/Brades.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Lesser_Antilles/Montserrat/parishes~Montserrat/Saint_Peter/City/Brades|Brades]] 
 
-### #is_/same_as :: [Brades.public](/_public/Earth/Continent/America~Caribbean/Montserrat/parishes~Montserrat/Saint_Peter/City/Brades.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Lesser_Antilles/Montserrat/parishes~Montserrat/Saint_Peter/City/Brades.public|Brades.public]] 
 
-### #is_/same_as :: [Brades.internal](/_internal/Earth/Continent/America~Caribbean/Montserrat/parishes~Montserrat/Saint_Peter/City/Brades.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Lesser_Antilles/Montserrat/parishes~Montserrat/Saint_Peter/City/Brades.internal|Brades.internal]] 
 
-### #is_/same_as :: [Brades.protect](/_protect/Earth/Continent/America~Caribbean/Montserrat/parishes~Montserrat/Saint_Peter/City/Brades.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Lesser_Antilles/Montserrat/parishes~Montserrat/Saint_Peter/City/Brades.protect|Brades.protect]] 
 
-### #is_/same_as :: [Brades.private](/_private/Earth/Continent/America~Caribbean/Montserrat/parishes~Montserrat/Saint_Peter/City/Brades.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Lesser_Antilles/Montserrat/parishes~Montserrat/Saint_Peter/City/Brades.private|Brades.private]] 
 
-### #is_/same_as :: [Brades.personal](/_personal/Earth/Continent/America~Caribbean/Montserrat/parishes~Montserrat/Saint_Peter/City/Brades.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Lesser_Antilles/Montserrat/parishes~Montserrat/Saint_Peter/City/Brades.personal|Brades.personal]] 
 
-### #is_/same_as :: [Brades.secret](/_secret/Earth/Continent/America~Caribbean/Montserrat/parishes~Montserrat/Saint_Peter/City/Brades.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Lesser_Antilles/Montserrat/parishes~Montserrat/Saint_Peter/City/Brades.secret|Brades.secret]] 
 

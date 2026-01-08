@@ -20,11 +20,28 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as:
+    - "[Hamilton-City](/_Standards/Earth/Continent/America~Caribbean/Bermuda/Counties/Hamilton-City.md)"
+    - "[Hamilton-City.public](/_public/Earth/Continent/America~Caribbean/Bermuda/Counties/Hamilton-City.public.md)"
+    - "[Hamilton-City.internal](/_internal/Earth/Continent/America~Caribbean/Bermuda/Counties/Hamilton-City.internal.md)"
+    - "[Hamilton-City.protect](/_protect/Earth/Continent/America~Caribbean/Bermuda/Counties/Hamilton-City.protect.md)"
+    - "[Hamilton-City.private](/_private/Earth/Continent/America~Caribbean/Bermuda/Counties/Hamilton-City.private.md)"
+    - "[Hamilton-City.personal](/_personal/Earth/Continent/America~Caribbean/Bermuda/Counties/Hamilton-City.personal.md)"
+    - "[Hamilton-City.secret](/_secret/Earth/Continent/America~Caribbean/Bermuda/Counties/Hamilton-City.secret.md)"
+dv_is_same_as:
+  - "[Hamilton-City](/_Standards/Earth/Continent/America~Caribbean/Bermuda/Counties/Hamilton-City.md)"
+  - "[Hamilton-City.public](/_public/Earth/Continent/America~Caribbean/Bermuda/Counties/Hamilton-City.public.md)"
+  - "[Hamilton-City.internal](/_internal/Earth/Continent/America~Caribbean/Bermuda/Counties/Hamilton-City.internal.md)"
+  - "[Hamilton-City.protect](/_protect/Earth/Continent/America~Caribbean/Bermuda/Counties/Hamilton-City.protect.md)"
+  - "[Hamilton-City.private](/_private/Earth/Continent/America~Caribbean/Bermuda/Counties/Hamilton-City.private.md)"
+  - "[Hamilton-City.personal](/_personal/Earth/Continent/America~Caribbean/Bermuda/Counties/Hamilton-City.personal.md)"
+  - "[Hamilton-City.secret](/_secret/Earth/Continent/America~Caribbean/Bermuda/Counties/Hamilton-City.secret.md)"
 ---
 
 # City_of_Hamilton
@@ -41,17 +58,17 @@ markerFolder: ./City_of_Hamilton/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Hamilton-City](/_Standards/Earth/Continent/America~Caribbean/Bermuda/Counties/Hamilton-City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Bermuda/Counties/Hamilton-City|Hamilton-City]] 
 
-### #is_/same_as :: [Hamilton-City.public](/_public/Earth/Continent/America~Caribbean/Bermuda/Counties/Hamilton-City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Bermuda/Counties/Hamilton-City.public|Hamilton-City.public]] 
 
-### #is_/same_as :: [Hamilton-City.internal](/_internal/Earth/Continent/America~Caribbean/Bermuda/Counties/Hamilton-City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Bermuda/Counties/Hamilton-City.internal|Hamilton-City.internal]] 
 
-### #is_/same_as :: [Hamilton-City.protect](/_protect/Earth/Continent/America~Caribbean/Bermuda/Counties/Hamilton-City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Bermuda/Counties/Hamilton-City.protect|Hamilton-City.protect]] 
 
-### #is_/same_as :: [Hamilton-City.private](/_private/Earth/Continent/America~Caribbean/Bermuda/Counties/Hamilton-City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Bermuda/Counties/Hamilton-City.private|Hamilton-City.private]] 
 
-### #is_/same_as :: [Hamilton-City.personal](/_personal/Earth/Continent/America~Caribbean/Bermuda/Counties/Hamilton-City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Bermuda/Counties/Hamilton-City.personal|Hamilton-City.personal]] 
 
-### #is_/same_as :: [Hamilton-City.secret](/_secret/Earth/Continent/America~Caribbean/Bermuda/Counties/Hamilton-City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Bermuda/Counties/Hamilton-City.secret|Hamilton-City.secret]] 
 

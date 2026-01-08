@@ -21,11 +21,28 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as:
+    - "[Saint_James](/_Standards/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_James.md)"
+    - "[Saint_James.public](/_public/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_James.public.md)"
+    - "[Saint_James.internal](/_internal/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_James.internal.md)"
+    - "[Saint_James.protect](/_protect/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_James.protect.md)"
+    - "[Saint_James.private](/_private/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_James.private.md)"
+    - "[Saint_James.personal](/_personal/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_James.personal.md)"
+    - "[Saint_James.secret](/_secret/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_James.secret.md)"
+dv_is_same_as:
+  - "[Saint_James](/_Standards/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_James.md)"
+  - "[Saint_James.public](/_public/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_James.public.md)"
+  - "[Saint_James.internal](/_internal/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_James.internal.md)"
+  - "[Saint_James.protect](/_protect/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_James.protect.md)"
+  - "[Saint_James.private](/_private/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_James.private.md)"
+  - "[Saint_James.personal](/_personal/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_James.personal.md)"
+  - "[Saint_James.secret](/_secret/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_James.secret.md)"
 ---
 
 # [[Saint_James,Barbados]]
@@ -42,17 +59,17 @@ markerFolder: ./Saint_James/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Saint_James](/_Standards/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_James.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Lesser_Antilles/Barbados/Provinces~Barbados/Saint_James,Barbados|Saint_James,Barbados]] 
 
-### #is_/same_as :: [Saint_James.public](/_public/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_James.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Lesser_Antilles/Barbados/Provinces~Barbados/Saint_James,Barbados.public|Saint_James,Barbados.public]] 
 
-### #is_/same_as :: [Saint_James.internal](/_internal/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_James.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Lesser_Antilles/Barbados/Provinces~Barbados/Saint_James,Barbados.internal|Saint_James,Barbados.internal]] 
 
-### #is_/same_as :: [Saint_James.protect](/_protect/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_James.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Lesser_Antilles/Barbados/Provinces~Barbados/Saint_James,Barbados.protect|Saint_James,Barbados.protect]] 
 
-### #is_/same_as :: [Saint_James.private](/_private/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_James.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Lesser_Antilles/Barbados/Provinces~Barbados/Saint_James,Barbados.private|Saint_James,Barbados.private]] 
 
-### #is_/same_as :: [Saint_James.personal](/_personal/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_James.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Lesser_Antilles/Barbados/Provinces~Barbados/Saint_James,Barbados.personal|Saint_James,Barbados.personal]] 
 
-### #is_/same_as :: [Saint_James.secret](/_secret/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_James.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Lesser_Antilles/Barbados/Provinces~Barbados/Saint_James,Barbados.secret|Saint_James,Barbados.secret]] 
 

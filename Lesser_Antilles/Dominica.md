@@ -1,4 +1,89 @@
-﻿---
+---
+dv_ISO4217-currency_alphabetic: XCD
+dv_ISO4217-currency_name: East Caribbean Dollar
+dv_ISO4217-currency_numeric: 951
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: DOMINICA
+dv_Telephone: 1-767
+dv_Global: true
+dv_Global_Name: World
+dv_name: Dominica
+dv_name-en:
+  - Dominica
+  - Dominica
+dv_name-es: Dominica
+dv_name-fr: Dominique
+dv_name-cn: 多米尼克
+dv_name-ar: دومينيكا
+dv_name-ru: Доминика
+dv_CLDR_display_name: Dominica
+dv_UNTERM_English: Dominica
+dv_UNTERM_English_Formal: the Commonwealth of Dominica
+dv_UNTERM_Spanish_Formal: el Commonwealth de Dominica
+dv_UNTERM_Spanish: Dominica
+dv_UNTERM_French: Dominique (la)
+dv_UNTERM_Arabic: دومينيكا
+dv_UNTERM_Arabic_Formal: كمنولث دومينيكا
+dv_UNTERM_Chinese: 多米尼克
+dv_UNTERM_Chinese_Formal: 多米尼克国
+dv_UNTERM_French_Formal: le Commonwealth de Dominique
+dv_UNTERM_Russian: Доминика
+dv_UNTERM_Russian_Formal: Содружество Доминики
+dv_Region_Name: "[[Americas]]"
+dv_Intermediate_Region_Name: "[[Caribbean]]"
+dv_Sub-region_Name: "[[Latin America and the Caribbean]]"
+dv_Region: 19
+dv_Intermediate_Region: 29
+dv_Sub-region: 419
+dv_Geoname-ID: 3575830
+dv_FIPS: DO
+dv_FIFA: DMA
+dv_IOC: DMA
+dv_MARC: dq
+dv_GAUL: 71
+dv_WMO: DO
+dv_ITU: DMA
+dv_DS: WD
+dv_TLD: .dm
+dv_EDGAR: G9
+dv_M49: 212
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_Small_Island_Developing_States: x
+dv_ISO3166-1-numeric: 212
+dv_ISO2: DM
+dv_ISO3: DMA
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Dominica,784|WD~Dominica,784]]"
+    - "[Dominica](/_Standards/Earth/Continent/America~Caribbean/Dominica.md)"
+    - "[Dominica.public](/_public/Earth/Continent/America~Caribbean/Dominica.public.md)"
+    - "[Dominica.internal](/_internal/Earth/Continent/America~Caribbean/Dominica.internal.md)"
+    - "[Dominica.protect](/_protect/Earth/Continent/America~Caribbean/Dominica.protect.md)"
+    - "[Dominica.private](/_private/Earth/Continent/America~Caribbean/Dominica.private.md)"
+    - "[Dominica.personal](/_personal/Earth/Continent/America~Caribbean/Dominica.personal.md)"
+    - "[Dominica.secret](/_secret/Earth/Continent/America~Caribbean/Dominica.secret.md)"
+dv_name-de: Dominica
+dv_Area-Total: 750
+dv_Area-Land: 750
+dv_VehicleCode: WD
+dv_Alcohol-l: 7.8
+dv_Language-Id: 499
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: -61.3833
+dv_has_place_latitude: 15.3
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Dominica,784|WD~Dominica,784]]"
+  - "[Dominica](/_Standards/Earth/Continent/America~Caribbean/Dominica.md)"
+  - "[Dominica.public](/_public/Earth/Continent/America~Caribbean/Dominica.public.md)"
+  - "[Dominica.internal](/_internal/Earth/Continent/America~Caribbean/Dominica.internal.md)"
+  - "[Dominica.protect](/_protect/Earth/Continent/America~Caribbean/Dominica.protect.md)"
+  - "[Dominica.private](/_private/Earth/Continent/America~Caribbean/Dominica.private.md)"
+  - "[Dominica.personal](/_personal/Earth/Continent/America~Caribbean/Dominica.personal.md)"
+  - "[Dominica.secret](/_secret/Earth/Continent/America~Caribbean/Dominica.secret.md)"
+
 has_time_started: 1978 
 aliases:
   - Dominica
@@ -264,73 +349,73 @@ coordinate_location: Point(-61.333333 15.416667)
 
 # [[Dominica]] 
 
-[	ISO4217-currency_alphabetic	 :: XCD ] 
-[	ISO4217-currency_name	 :: East Caribbean Dollar ] 
-[	ISO4217-currency_numeric	 :: 951 ] 
-[	ISO4217-currency_minor_unit	 :: 2 ] 
-[	ISO4217-currency_country_name	 :: DOMINICA ] 
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric` 
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit` 
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name` 
 
-[	Telephone	 :: 1-767 ] 
+Telephone = `=this.dv_Telephone` 
 
-[	Global	 :: True ] 
-[	Global_Name	 :: World ] 
+Global = `=this.dv_Global` 
+Global_Name = `=this.dv_Global_Name` 
 
-[	name	 :: Dominica ] 
+name = `=this.dv_name` 
 [	name-en	 :: Dominica ] 
-[	name-es	 :: Dominica ] 
-[	name-fr	 :: Dominique ] 
-[	name-cn	 :: 多米尼克 ] 
-[	name-ar	 :: دومينيكا ] 
-[	name-ru	 :: Доминика ] 
+name-es = `=this.dv_name-es` 
+name-fr = `=this.dv_name-fr` 
+name-cn = `=this.dv_name-cn` 
+name-ar = `=this.dv_name-ar` 
+name-ru = `=this.dv_name-ru` 
 
-[	CLDR_display_name	 :: Dominica ] 
+CLDR_display_name = `=this.dv_CLDR_display_name` 
 
-[	UNTERM_English	 :: Dominica ] 
-[	UNTERM_English_Formal	 :: the Commonwealth of Dominica ] 
-[	UNTERM_Spanish_Formal	 :: el Commonwealth de Dominica ] 
-[	UNTERM_Spanish	 :: Dominica ] 
-[	UNTERM_French	 :: Dominique (la) ] 
-[	UNTERM_Arabic	 :: دومينيكا ] 
-[	UNTERM_Arabic_Formal	 :: كمنولث دومينيكا ] 
-[	UNTERM_Chinese	 :: 多米尼克 ] 
-[	UNTERM_Chinese_Formal	 :: 多米尼克国 ] 
-[	UNTERM_French_Formal	 :: le Commonwealth de Dominique ] 
-[	UNTERM_Russian	 :: Доминика ] 
-[	UNTERM_Russian_Formal	 :: Содружество Доминики ] 
+UNTERM_English = `=this.dv_UNTERM_English` 
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal` 
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal` 
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish` 
+UNTERM_French = `=this.dv_UNTERM_French` 
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic` 
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal` 
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese` 
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal` 
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal` 
+UNTERM_Russian = `=this.dv_UNTERM_Russian` 
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal` 
 
-Region_Name ::  [[Americas]]  
-Intermediate_Region_Name ::  [[Caribbean]]  
-Sub-region_Name ::  [[Latin America and the Caribbean]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 19 ] 
-[	Intermediate_Region	 :: 29 ] 
-[	Sub-region	 :: 419 ] 
+Region = `=this.dv_Region` 
+Intermediate_Region = `=this.dv_Intermediate_Region` 
+Sub-region = `=this.dv_Sub-region` 
 
-[	Geoname-ID	 :: 3575830 ] 
-[	FIPS	 :: DO ] 
-[	FIFA	 :: DMA ] 
-[	IOC	 :: DMA ] 
-[	MARC	 :: dq ] 
-[	GAUL	 :: 71 ] 
-[	WMO	 :: DO ] 
-[	ITU	 :: DMA ] 
-[	DS	 :: WD ] 
-[	TLD	 :: .dm ] 
-[	EDGAR	 :: G9 ] 
-[	M49	 :: 212 ] 
+Geoname-ID = `=this.dv_Geoname-ID` 
+FIPS = `=this.dv_FIPS` 
+FIFA = `=this.dv_FIFA` 
+IOC = `=this.dv_IOC` 
+MARC = `=this.dv_MARC` 
+GAUL = `=this.dv_GAUL` 
+WMO = `=this.dv_WMO` 
+ITU = `=this.dv_ITU` 
+DS = `=this.dv_DS` 
+TLD = `=this.dv_TLD` 
+EDGAR = `=this.dv_EDGAR` 
+M49 = `=this.dv_M49` 
 
-[	is_independent	 :: Yes ] 
-[	Developed_/Developing_Countries	 :: Developing ] 
+is_independent = `=this.dv_is_independent` 
+developed_developing_countries = `=this.dv_developed_developing_countries` 
 [	Land_Locked_Developing_Countries	 ::  ] 
 [	Least_Developed_Countries	 ::  ] 
-[	Small_Island_Developing_States	 :: x ] 
+Small_Island_Developing_States = `=this.dv_Small_Island_Developing_States` 
 
-[	ISO3166-1-numeric	 :: 212 ] 
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric` 
 
-[ISO2::DM] 
-[ISO3::DMA] 
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../../WikiData/WD~Dominica,784|WD~Dominica,784]] 
+is_a_ = `=this.dv_is_a_`
 
 ## #has_/map 
 
@@ -344,11 +429,11 @@ markerFolder: ./Dominica/
 ```
 
 [name-en::Dominica] 
-[name-de::Dominica] 
-[Area-Total::750] 
-[Area-Land::750] 
+name-de = `=this.dv_name-de` 
+Area-Total = `=this.dv_Area-Total` 
+Area-Land = `=this.dv_Area-Land` 
 Continent :: [[South-America]]  
-[VehicleCode::WD] 
+VehicleCode = `=this.dv_VehicleCode` 
 Capital :: [[Dominica/Counties/Saint_George/City/Roseau]]  
 
 ![[Dominica/Coat_of_arms_of_Dominica.svg|350]] 
@@ -357,12 +442,12 @@ Capital :: [[Dominica/Counties/Saint_George/City/Roseau]]
 
 ![[Dominica/Flag_of_Dominica.svg|350]] 
 
-[Alcohol-l::7.8] 
-[Language-Id::499] 
+Alcohol-l = `=this.dv_Alcohol-l` 
+Language-Id = `=this.dv_Language-Id` 
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::-61.3833] 
-[has_place_latitude::15.3] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 
 
 ## #has_/text_of_/abstract 
@@ -378,17 +463,17 @@ Capital :: [[Dominica/Counties/Saint_George/City/Roseau]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dominica](/_Standards/Earth/Continent/America~Caribbean/Dominica.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Lesser_Antilles/Dominica|Dominica]] 
 
-### #is_/same_as :: [Dominica.public](/_public/Earth/Continent/America~Caribbean/Dominica.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Lesser_Antilles/Dominica.public|Dominica.public]] 
 
-### #is_/same_as :: [Dominica.internal](/_internal/Earth/Continent/America~Caribbean/Dominica.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Lesser_Antilles/Dominica.internal|Dominica.internal]] 
 
-### #is_/same_as :: [Dominica.protect](/_protect/Earth/Continent/America~Caribbean/Dominica.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Lesser_Antilles/Dominica.protect|Dominica.protect]] 
 
-### #is_/same_as :: [Dominica.private](/_private/Earth/Continent/America~Caribbean/Dominica.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Lesser_Antilles/Dominica.private|Dominica.private]] 
 
-### #is_/same_as :: [Dominica.personal](/_personal/Earth/Continent/America~Caribbean/Dominica.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Lesser_Antilles/Dominica.personal|Dominica.personal]] 
 
-### #is_/same_as :: [Dominica.secret](/_secret/Earth/Continent/America~Caribbean/Dominica.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Lesser_Antilles/Dominica.secret|Dominica.secret]] 
 

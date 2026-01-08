@@ -37,11 +37,14 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Caribbean%
 detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Hispaniola.png
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Hispaniola%20banner%20Satellite%20view.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/ISS-20%20Caribbean%20island%20of%20Hispaniola%20from%20the%20ISS.jpg
+dv_is_:
+  same_as: "[[../../../../WikiData/WD~Hispaniola,25277|WD~Hispaniola,25277]]"
+dv_is_same_as: "[[../../../../WikiData/WD~Hispaniola,25277|WD~Hispaniola,25277]]"
 ---
 
 # [[Hispaniola]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Hispaniola,25277|WD~Hispaniola,25277]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -63,4 +66,21 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/ISS-20%20Caribbean%20i
 > The Spanish controlled the entire island of Hispaniola from 1492 until the 17th century, when French pirates began establishing bases on the western side of the island, which resulted in the creation of the Saint-Domingue colony under the French Empire by 1659. The most commonly used name for the island is Española ("little Spain"), whose Latinized form is Hispaniola. The name of Santo Domingo, after Saint Dominic de Guzmán, the Castilian Catholic priest founder of the Dominican Order, is also widely used.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hispaniola) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Greater_Antilles/Hispaniola|Hispaniola]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Greater_Antilles/Hispaniola.public|Hispaniola.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Greater_Antilles/Hispaniola.internal|Hispaniola.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Greater_Antilles/Hispaniola.protect|Hispaniola.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Greater_Antilles/Hispaniola.private|Hispaniola.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Greater_Antilles/Hispaniola.personal|Hispaniola.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Greater_Antilles/Hispaniola.secret|Hispaniola.secret]] 
 

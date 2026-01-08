@@ -1,4 +1,36 @@
-﻿---
+---
+dv_ISO2: VC
+dv_ISO3: VCT
+dv_name-en: Saint Vincent And The Grenadines
+dv_name-de: Saint Vincent und die Grenadinen
+dv_Area-Total: 389
+dv_Area-Land: 12
+dv_VehicleCode: WV
+dv_Alcohol-l: 5.4
+dv_Language-Id: 499
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: -61.2333
+dv_has_place_latitude: 13.1667
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Saint_Vincent_and_the_Grenadines,757|WD~Saint_Vincent_and_the_Grenadines,757]]"
+    - "[Saint_Vincent_and_Grenadines](/_Standards/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines.md)"
+    - "[Saint_Vincent_and_Grenadines.public](/_public/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines.public.md)"
+    - "[Saint_Vincent_and_Grenadines.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines.internal.md)"
+    - "[Saint_Vincent_and_Grenadines.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines.protect.md)"
+    - "[Saint_Vincent_and_Grenadines.private](/_private/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines.private.md)"
+    - "[Saint_Vincent_and_Grenadines.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines.personal.md)"
+    - "[Saint_Vincent_and_Grenadines.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines.secret.md)"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Saint_Vincent_and_the_Grenadines,757|WD~Saint_Vincent_and_the_Grenadines,757]]"
+  - "[Saint_Vincent_and_Grenadines](/_Standards/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines.md)"
+  - "[Saint_Vincent_and_Grenadines.public](/_public/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines.public.md)"
+  - "[Saint_Vincent_and_Grenadines.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines.internal.md)"
+  - "[Saint_Vincent_and_Grenadines.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines.protect.md)"
+  - "[Saint_Vincent_and_Grenadines.private](/_private/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines.private.md)"
+  - "[Saint_Vincent_and_Grenadines.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines.personal.md)"
+  - "[Saint_Vincent_and_Grenadines.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines.secret.md)"
+
 has_time_started: 1979-01-01 
 aliases:
   - Saint Vincent and the Grenadines
@@ -240,8 +272,8 @@ geoshape: http://commons.wikimedia.org/data/main/Data:Saint+Vincent.map
 
 # [[Saint_Vincent_and_Grenadines]] 
 
-[ISO2::VC] 
-[ISO3::VCT] 
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3` 
 
 ```leaflet
 id: Saint Vincent And The Grenadines
@@ -252,20 +284,20 @@ geojsonFolder: ./Saint_Vincent_and_Grenadines//
 markerFolder: ./Saint_Vincent_and_Grenadines/
 ```
 
-[name-en::Saint Vincent And The Grenadines] 
-[name-de::Saint Vincent und die Grenadinen] 
-[Area-Total::389] 
-[Area-Land::12] 
+name-en = `=this.dv_name-en` 
+name-de = `=this.dv_name-de` 
+Area-Total = `=this.dv_Area-Total` 
+Area-Land = `=this.dv_Area-Land` 
 Continent :: [[South-America]]  
-[VehicleCode::WV] 
+VehicleCode = `=this.dv_VehicleCode` 
 Capital :: [[Saint_Vincent_and_Grenadines/Counties/Saint_George,Vincent/City/Kingstown]]  
-[Alcohol-l::5.4] 
-[Language-Id::499] 
+Alcohol-l = `=this.dv_Alcohol-l` 
+Language-Id = `=this.dv_Language-Id` 
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::-61.2333] 
-[has_place_latitude::13.1667] 
-#is_/same_as :: [[../../../../WikiData/WD~Saint_Vincent_and_the_Grenadines,757|WD~Saint_Vincent_and_the_Grenadines,757]] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+is_a_ = `=this.dv_is_a_`
 
 ## #has_/text_of_/abstract 
 
@@ -287,19 +319,20 @@ Capital :: [[Saint_Vincent_and_Grenadines/Counties/Saint_George,Vincent/City/Kin
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Saint%20Vincent%20and%20the%20Grenadines) 
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Saint_Vincent_and_Grenadines](/_Standards/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Lesser_Antilles/Saint_Vincent_and_Grenadines|Saint_Vincent_and_Grenadines]] 
 
-### #is_/same_as :: [Saint_Vincent_and_Grenadines.public](/_public/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Lesser_Antilles/Saint_Vincent_and_Grenadines.public|Saint_Vincent_and_Grenadines.public]] 
 
-### #is_/same_as :: [Saint_Vincent_and_Grenadines.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Lesser_Antilles/Saint_Vincent_and_Grenadines.internal|Saint_Vincent_and_Grenadines.internal]] 
 
-### #is_/same_as :: [Saint_Vincent_and_Grenadines.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Lesser_Antilles/Saint_Vincent_and_Grenadines.protect|Saint_Vincent_and_Grenadines.protect]] 
 
-### #is_/same_as :: [Saint_Vincent_and_Grenadines.private](/_private/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Lesser_Antilles/Saint_Vincent_and_Grenadines.private|Saint_Vincent_and_Grenadines.private]] 
 
-### #is_/same_as :: [Saint_Vincent_and_Grenadines.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Lesser_Antilles/Saint_Vincent_and_Grenadines.personal|Saint_Vincent_and_Grenadines.personal]] 
 
-### #is_/same_as :: [Saint_Vincent_and_Grenadines.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Lesser_Antilles/Saint_Vincent_and_Grenadines.secret|Saint_Vincent_and_Grenadines.secret]] 
 

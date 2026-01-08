@@ -21,11 +21,28 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as:
+    - "[Saint_George](/_Standards/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_George.md)"
+    - "[Saint_George.public](/_public/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_George.public.md)"
+    - "[Saint_George.internal](/_internal/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_George.internal.md)"
+    - "[Saint_George.protect](/_protect/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_George.protect.md)"
+    - "[Saint_George.private](/_private/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_George.private.md)"
+    - "[Saint_George.personal](/_personal/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_George.personal.md)"
+    - "[Saint_George.secret](/_secret/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_George.secret.md)"
+dv_is_same_as:
+  - "[Saint_George](/_Standards/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_George.md)"
+  - "[Saint_George.public](/_public/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_George.public.md)"
+  - "[Saint_George.internal](/_internal/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_George.internal.md)"
+  - "[Saint_George.protect](/_protect/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_George.protect.md)"
+  - "[Saint_George.private](/_private/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_George.private.md)"
+  - "[Saint_George.personal](/_personal/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_George.personal.md)"
+  - "[Saint_George.secret](/_secret/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_George.secret.md)"
 ---
 
 # [[Saint_George,Dominica]]
@@ -42,17 +59,17 @@ markerFolder: ./Saint_George/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Saint_George](/_Standards/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_George.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Lesser_Antilles/Dominica/parishes~Dominica/Saint_George,Dominica|Saint_George,Dominica]] 
 
-### #is_/same_as :: [Saint_George.public](/_public/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_George.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Lesser_Antilles/Dominica/parishes~Dominica/Saint_George,Dominica.public|Saint_George,Dominica.public]] 
 
-### #is_/same_as :: [Saint_George.internal](/_internal/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_George.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Lesser_Antilles/Dominica/parishes~Dominica/Saint_George,Dominica.internal|Saint_George,Dominica.internal]] 
 
-### #is_/same_as :: [Saint_George.protect](/_protect/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_George.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Lesser_Antilles/Dominica/parishes~Dominica/Saint_George,Dominica.protect|Saint_George,Dominica.protect]] 
 
-### #is_/same_as :: [Saint_George.private](/_private/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_George.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Lesser_Antilles/Dominica/parishes~Dominica/Saint_George,Dominica.private|Saint_George,Dominica.private]] 
 
-### #is_/same_as :: [Saint_George.personal](/_personal/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_George.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Lesser_Antilles/Dominica/parishes~Dominica/Saint_George,Dominica.personal|Saint_George,Dominica.personal]] 
 
-### #is_/same_as :: [Saint_George.secret](/_secret/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_George.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Lesser_Antilles/Dominica/parishes~Dominica/Saint_George,Dominica.secret|Saint_George,Dominica.secret]] 
 

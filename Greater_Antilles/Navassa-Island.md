@@ -21,16 +21,19 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as: "[[WD~Navassa_Island,]]"
+dv_is_same_as: "[[WD~Navassa_Island,]]"
 ---
 
 # [[Navassa-Island]] 
 
-#is_/same_as :: [[WD~Navassa_Island,]]
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/map 
 
@@ -46,17 +49,17 @@ markerFolder: ./Navassa-Island/
 
 ## Confidential Links & Embeds: 
 
-### [Navassa-Island](/_Standards/Earth/Continent/America~North/USA/USA~Islands/Counties/Navassa-Island.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Greater_Antilles/Navassa-Island|Navassa-Island]] 
 
-### [Navassa-Island.public](/_public/Earth/Continent/America~North/USA/USA~Islands/Counties/Navassa-Island.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Greater_Antilles/Navassa-Island.public|Navassa-Island.public]] 
 
-### [Navassa-Island.internal](/_internal/Earth/Continent/America~North/USA/USA~Islands/Counties/Navassa-Island.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Greater_Antilles/Navassa-Island.internal|Navassa-Island.internal]] 
 
-### [Navassa-Island.protect](/_protect/Earth/Continent/America~North/USA/USA~Islands/Counties/Navassa-Island.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Greater_Antilles/Navassa-Island.protect|Navassa-Island.protect]] 
 
-### [Navassa-Island.private](/_private/Earth/Continent/America~North/USA/USA~Islands/Counties/Navassa-Island.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Greater_Antilles/Navassa-Island.private|Navassa-Island.private]] 
 
-### [Navassa-Island.personal](/_personal/Earth/Continent/America~North/USA/USA~Islands/Counties/Navassa-Island.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Greater_Antilles/Navassa-Island.personal|Navassa-Island.personal]] 
 
-### [Navassa-Island.secret](/_secret/Earth/Continent/America~North/USA/USA~Islands/Counties/Navassa-Island.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Greater_Antilles/Navassa-Island.secret|Navassa-Island.secret]] 
 

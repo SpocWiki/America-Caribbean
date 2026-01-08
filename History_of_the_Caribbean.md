@@ -4,16 +4,19 @@ aliases:
   - History_of_the_Caribbean
   - History of the Caribbean
 has_id_wikidata: Q457898
-facet_of: '[[_Standards/WikiData/WD~Caribbean,664609]]'
-part_of: '[[_Standards/WikiData/WD~history_of_the_Americas,690256]]'
-subclass_of: '[[_Standards/WikiData/WD~history_of_the_Americas,690256]]'
-instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
+facet_of: "[[_Standards/WikiData/WD~Caribbean,664609]]"
+part_of: "[[_Standards/WikiData/WD~history_of_the_Americas,690256]]"
+subclass_of: "[[_Standards/WikiData/WD~history_of_the_Americas,690256]]"
+instance_of: "[[_Standards/WikiData/WD~aspect_of_history,17524420]]"
 Commons_category: History of the Caribbean
+dv_is_:
+  same_as: "[[../../../WikiData/WD~History_of_the_Caribbean,457898|WD~History_of_the_Caribbean,457898]]"
+dv_is_same_as: "[[../../../WikiData/WD~History_of_the_Caribbean,457898|WD~History_of_the_Caribbean,457898]]"
 ---
 
 # [[History_of_the_Caribbean]] 
 
-#is_/same_as :: [[../../../WikiData/WD~History_of_the_Caribbean,457898|WD~History_of_the_Caribbean,457898]]  
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -62,4 +65,21 @@ Commons_category: History of the Caribbean
 > and world economic system continues to impact the modern Caribbean region.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20the%20Caribbean)  
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/History_of_the_Caribbean|History_of_the_Caribbean]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/History_of_the_Caribbean.public|History_of_the_Caribbean.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/History_of_the_Caribbean.internal|History_of_the_Caribbean.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/History_of_the_Caribbean.protect|History_of_the_Caribbean.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/History_of_the_Caribbean.private|History_of_the_Caribbean.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/History_of_the_Caribbean.personal|History_of_the_Caribbean.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/History_of_the_Caribbean.secret|History_of_the_Caribbean.secret]] 
 

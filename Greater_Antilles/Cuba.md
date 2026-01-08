@@ -1,4 +1,93 @@
-﻿---
+---
+dv_ISO4217-currency_alphabetic: CUP,CUC
+dv_ISO4217-currency_name: Cuban Peso,Peso Convertible
+dv_ISO4217-currency_numeric:
+  - 192
+  - 931
+dv_ISO4217-currency_minor_unit:
+  - 2
+  - 2
+dv_ISO4217-currency_country_name: CUBA
+dv_Telephone: 53
+dv_Global: true
+dv_Global_Name: World
+dv_name: Cuba
+dv_name-en:
+  - Cuba
+  - Cuba
+dv_name-es: Cuba
+dv_name-fr: Cuba
+dv_name-cn: 古巴
+dv_name-ar: كوبا
+dv_name-ru: Куба
+dv_CLDR_display_name: Cuba
+dv_UNTERM_English: Cuba
+dv_UNTERM_English_Formal: the Republic of Cuba
+dv_UNTERM_Spanish_Formal: la República de Cuba
+dv_UNTERM_Spanish: Cuba
+dv_UNTERM_French: Cuba [fém.]
+dv_UNTERM_Arabic: كوبا
+dv_UNTERM_Arabic_Formal: جمهورية كوبا
+dv_UNTERM_Chinese: 古巴
+dv_UNTERM_Chinese_Formal: 古巴共和国
+dv_UNTERM_French_Formal: la République de Cuba
+dv_UNTERM_Russian: Куба
+dv_UNTERM_Russian_Formal: Республика Куба
+dv_Region_Name: "[[Americas]]"
+dv_Intermediate_Region_Name: "[[Caribbean]]"
+dv_Sub-region_Name: "[[Latin America and the Caribbean]]"
+dv_Region: 19
+dv_Intermediate_Region: 29
+dv_Sub-region: 419
+dv_Geoname-ID: 3562981
+dv_FIPS: CU
+dv_FIFA: CUB
+dv_IOC: CUB
+dv_MARC: cu
+dv_GAUL: 63
+dv_WMO: CU
+dv_ITU: CUB
+dv_DS: C
+dv_TLD: .cu
+dv_EDGAR: G3
+dv_M49: 192
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_Small_Island_Developing_States: x
+dv_ISO3166-1-numeric: 192
+dv_ISO2: CU
+dv_ISO3: CUB
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Cuba,241|WD~Cuba,241]]"
+    - "[Cuba](/_Standards/Earth/Continent/America~Caribbean/Cuba.md)"
+    - "[Cuba.public](/_public/Earth/Continent/America~Caribbean/Cuba.public.md)"
+    - "[Cuba.internal](/_internal/Earth/Continent/America~Caribbean/Cuba.internal.md)"
+    - "[Cuba.protect](/_protect/Earth/Continent/America~Caribbean/Cuba.protect.md)"
+    - "[Cuba.private](/_private/Earth/Continent/America~Caribbean/Cuba.private.md)"
+    - "[Cuba.personal](/_personal/Earth/Continent/America~Caribbean/Cuba.personal.md)"
+    - "[Cuba.secret](/_secret/Earth/Continent/America~Caribbean/Cuba.secret.md)"
+dv_name-de: Kuba
+dv_Area-Total: 110860
+dv_Area-Land: 109820
+dv_VehicleCode: C
+dv_Alcohol-l: 5.5
+dv_Language-Id: 492
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: -82.37
+dv_has_place_latitude: 22.13
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Cuba,241|WD~Cuba,241]]"
+  - "[Cuba](/_Standards/Earth/Continent/America~Caribbean/Cuba.md)"
+  - "[Cuba.public](/_public/Earth/Continent/America~Caribbean/Cuba.public.md)"
+  - "[Cuba.internal](/_internal/Earth/Continent/America~Caribbean/Cuba.internal.md)"
+  - "[Cuba.protect](/_protect/Earth/Continent/America~Caribbean/Cuba.protect.md)"
+  - "[Cuba.private](/_private/Earth/Continent/America~Caribbean/Cuba.private.md)"
+  - "[Cuba.personal](/_personal/Earth/Continent/America~Caribbean/Cuba.personal.md)"
+  - "[Cuba.secret](/_secret/Earth/Continent/America~Caribbean/Cuba.secret.md)"
+
 has_time_started: 1898-12-10 
 aliases:
   - Cuba
@@ -372,73 +461,73 @@ Krugosvet_article: strany-mira/kuba
 
 # [[Cuba]] 
 
-[	ISO4217-currency_alphabetic	 :: CUP,CUC ] 
-[	ISO4217-currency_name	 :: Cuban Peso,Peso Convertible ] 
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 
 [	ISO4217-currency_numeric	 :: 192,931 ] 
 [	ISO4217-currency_minor_unit	 :: 2,2 ] 
-[	ISO4217-currency_country_name	 :: CUBA ] 
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name` 
 
-[	Telephone	 :: 53 ] 
+Telephone = `=this.dv_Telephone` 
 
-[	Global	 :: True ] 
-[	Global_Name	 :: World ] 
+Global = `=this.dv_Global` 
+Global_Name = `=this.dv_Global_Name` 
 
-[	name	 :: Cuba ] 
+name = `=this.dv_name` 
 [	name-en	 :: Cuba ] 
-[	name-es	 :: Cuba ] 
-[	name-fr	 :: Cuba ] 
-[	name-cn	 :: 古巴 ] 
-[	name-ar	 :: كوبا ] 
-[	name-ru	 :: Куба ] 
+name-es = `=this.dv_name-es` 
+name-fr = `=this.dv_name-fr` 
+name-cn = `=this.dv_name-cn` 
+name-ar = `=this.dv_name-ar` 
+name-ru = `=this.dv_name-ru` 
 
-[	CLDR_display_name	 :: Cuba ] 
+CLDR_display_name = `=this.dv_CLDR_display_name` 
 
-[	UNTERM_English	 :: Cuba ] 
-[	UNTERM_English_Formal	 :: the Republic of Cuba ] 
-[	UNTERM_Spanish_Formal	 :: la República de Cuba ] 
-[	UNTERM_Spanish	 :: Cuba ] 
-[	UNTERM_French	 :: Cuba [fém.] ] 
-[	UNTERM_Arabic	 :: كوبا ] 
-[	UNTERM_Arabic_Formal	 :: جمهورية كوبا ] 
-[	UNTERM_Chinese	 :: 古巴 ] 
-[	UNTERM_Chinese_Formal	 :: 古巴共和国 ] 
-[	UNTERM_French_Formal	 :: la République de Cuba ] 
-[	UNTERM_Russian	 :: Куба ] 
-[	UNTERM_Russian_Formal	 :: Республика Куба ] 
+UNTERM_English = `=this.dv_UNTERM_English` 
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal` 
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal` 
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish` 
+UNTERM_French = `=this.dv_UNTERM_French` ] 
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic` 
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal` 
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese` 
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal` 
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal` 
+UNTERM_Russian = `=this.dv_UNTERM_Russian` 
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal` 
 
-Region_Name ::  [[Americas]]  
-Intermediate_Region_Name ::  [[Caribbean]]  
-Sub-region_Name ::  [[Latin America and the Caribbean]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 19 ] 
-[	Intermediate_Region	 :: 29 ] 
-[	Sub-region	 :: 419 ] 
+Region = `=this.dv_Region` 
+Intermediate_Region = `=this.dv_Intermediate_Region` 
+Sub-region = `=this.dv_Sub-region` 
 
-[	Geoname-ID	 :: 3562981 ] 
-[	FIPS	 :: CU ] 
-[	FIFA	 :: CUB ] 
-[	IOC	 :: CUB ] 
-[	MARC	 :: cu ] 
-[	GAUL	 :: 63 ] 
-[	WMO	 :: CU ] 
-[	ITU	 :: CUB ] 
-[	DS	 :: C ] 
-[	TLD	 :: .cu ] 
-[	EDGAR	 :: G3 ] 
-[	M49	 :: 192 ] 
+Geoname-ID = `=this.dv_Geoname-ID` 
+FIPS = `=this.dv_FIPS` 
+FIFA = `=this.dv_FIFA` 
+IOC = `=this.dv_IOC` 
+MARC = `=this.dv_MARC` 
+GAUL = `=this.dv_GAUL` 
+WMO = `=this.dv_WMO` 
+ITU = `=this.dv_ITU` 
+DS = `=this.dv_DS` 
+TLD = `=this.dv_TLD` 
+EDGAR = `=this.dv_EDGAR` 
+M49 = `=this.dv_M49` 
 
-[	is_independent	 :: Yes ] 
-[	Developed_/Developing_Countries	 :: Developing ] 
+is_independent = `=this.dv_is_independent` 
+developed_developing_countries = `=this.dv_developed_developing_countries` 
 [	Land_Locked_Developing_Countries	 ::  ] 
 [	Least_Developed_Countries	 ::  ] 
-[	Small_Island_Developing_States	 :: x ] 
+Small_Island_Developing_States = `=this.dv_Small_Island_Developing_States` 
 
-[	ISO3166-1-numeric	 :: 192 ] 
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric` 
 
-[ISO2::CU] 
-[ISO3::CUB] 
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../../WikiData/WD~Cuba,241|WD~Cuba,241]] 
+is_a_ = `=this.dv_is_a_`
 
 ## #has_/map 
 
@@ -452,11 +541,11 @@ markerFolder: ./Cuba/
 ```
 
 [name-en::Cuba] 
-[name-de::Kuba] 
-[Area-Total::110860] 
-[Area-Land::109820] 
+name-de = `=this.dv_name-de` 
+Area-Total = `=this.dv_Area-Total` 
+Area-Land = `=this.dv_Area-Land` 
 Continent :: [[South-America]]  
-[VehicleCode::C] 
+VehicleCode = `=this.dv_VehicleCode` 
 Capital :: [[Cuba/City/Havana]]  
 
 ![[Cuba/Coat_of_arms_of_Cuba.svg|350]] 
@@ -465,12 +554,12 @@ Capital :: [[Cuba/City/Havana]]
 
 ![[Cuba/Flag_of_Cuba.svg|350]] 
 
-[Alcohol-l::5.5] 
-[Language-Id::492] 
+Alcohol-l = `=this.dv_Alcohol-l` 
+Language-Id = `=this.dv_Language-Id` 
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::-82.37] 
-[has_place_latitude::22.13] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 
 
 ## #has_/text_of_/abstract 
@@ -486,17 +575,17 @@ Capital :: [[Cuba/City/Havana]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Cuba](/_Standards/Earth/Continent/America~Caribbean/Cuba.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Greater_Antilles/Cuba|Cuba]] 
 
-### #is_/same_as :: [Cuba.public](/_public/Earth/Continent/America~Caribbean/Cuba.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Greater_Antilles/Cuba.public|Cuba.public]] 
 
-### #is_/same_as :: [Cuba.internal](/_internal/Earth/Continent/America~Caribbean/Cuba.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Greater_Antilles/Cuba.internal|Cuba.internal]] 
 
-### #is_/same_as :: [Cuba.protect](/_protect/Earth/Continent/America~Caribbean/Cuba.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Greater_Antilles/Cuba.protect|Cuba.protect]] 
 
-### #is_/same_as :: [Cuba.private](/_private/Earth/Continent/America~Caribbean/Cuba.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Greater_Antilles/Cuba.private|Cuba.private]] 
 
-### #is_/same_as :: [Cuba.personal](/_personal/Earth/Continent/America~Caribbean/Cuba.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Greater_Antilles/Cuba.personal|Cuba.personal]] 
 
-### #is_/same_as :: [Cuba.secret](/_secret/Earth/Continent/America~Caribbean/Cuba.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Greater_Antilles/Cuba.secret|Cuba.secret]] 
 

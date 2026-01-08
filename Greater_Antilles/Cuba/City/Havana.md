@@ -1,4 +1,28 @@
-﻿---
+---
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: -82.37
+dv_has_place_latitude: 22.13
+dv_name: Havana
+dv_is_:
+  same_as:
+    - "[[../../../../../../WikiData/WD~Havana,1563|WD~Havana,1563]]"
+    - "[Habana=Havana=Havanna](/_Standards/Earth/Continent/America~Caribbean/Cuba/City/Habana=Havana=Havanna.md)"
+    - "[Habana=Havana=Havanna.public](/_public/Earth/Continent/America~Caribbean/Cuba/City/Habana=Havana=Havanna.public.md)"
+    - "[Habana=Havana=Havanna.internal](/_internal/Earth/Continent/America~Caribbean/Cuba/City/Habana=Havana=Havanna.internal.md)"
+    - "[Habana=Havana=Havanna.protect](/_protect/Earth/Continent/America~Caribbean/Cuba/City/Habana=Havana=Havanna.protect.md)"
+    - "[Habana=Havana=Havanna.private](/_private/Earth/Continent/America~Caribbean/Cuba/City/Habana=Havana=Havanna.private.md)"
+    - "[Habana=Havana=Havanna.personal](/_personal/Earth/Continent/America~Caribbean/Cuba/City/Habana=Havana=Havanna.personal.md)"
+    - "[Habana=Havana=Havanna.secret](/_secret/Earth/Continent/America~Caribbean/Cuba/City/Habana=Havana=Havanna.secret.md)"
+dv_is_same_as:
+  - "[[../../../../../../WikiData/WD~Havana,1563|WD~Havana,1563]]"
+  - "[Habana=Havana=Havanna](/_Standards/Earth/Continent/America~Caribbean/Cuba/City/Habana=Havana=Havanna.md)"
+  - "[Habana=Havana=Havanna.public](/_public/Earth/Continent/America~Caribbean/Cuba/City/Habana=Havana=Havanna.public.md)"
+  - "[Habana=Havana=Havanna.internal](/_internal/Earth/Continent/America~Caribbean/Cuba/City/Habana=Havana=Havanna.internal.md)"
+  - "[Habana=Havana=Havanna.protect](/_protect/Earth/Continent/America~Caribbean/Cuba/City/Habana=Havana=Havanna.protect.md)"
+  - "[Habana=Havana=Havanna.private](/_private/Earth/Continent/America~Caribbean/Cuba/City/Habana=Havana=Havanna.private.md)"
+  - "[Habana=Havana=Havanna.personal](/_personal/Earth/Continent/America~Caribbean/Cuba/City/Habana=Havana=Havanna.personal.md)"
+  - "[Habana=Havana=Havanna.secret](/_secret/Earth/Continent/America~Caribbean/Cuba/City/Habana=Havana=Havanna.secret.md)"
+
 has_time_started: 1515-01-01 
 aliases:
   - Habana
@@ -133,17 +157,17 @@ inception: 1515-01-01T00:00:00Z
 # [[Havana]] 
 
 #is_a_/Place  
-#is_a_ :: [[../../../../../Geography/Place]] 
-[has_place_longitude::-82.37] 
-[has_place_latitude::22.13] 
-[name:: Havana] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
 Country :: [[../../Cuba]] 
 [StateId::] 
 [Population::] 
 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Havana,1563|WD~Havana,1563]] 
+is_a_ = `=this.dv_is_a_`
 
 ## #has_/map 
 
@@ -178,17 +202,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Habana=Havana=Havanna](/_Standards/Earth/Continent/America~Caribbean/Cuba/City/Habana=Havana=Havanna.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Greater_Antilles/Cuba/City/Havana|Havana]] 
 
-### #is_/same_as :: [Habana=Havana=Havanna.public](/_public/Earth/Continent/America~Caribbean/Cuba/City/Habana=Havana=Havanna.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Greater_Antilles/Cuba/City/Havana.public|Havana.public]] 
 
-### #is_/same_as :: [Habana=Havana=Havanna.internal](/_internal/Earth/Continent/America~Caribbean/Cuba/City/Habana=Havana=Havanna.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Greater_Antilles/Cuba/City/Havana.internal|Havana.internal]] 
 
-### #is_/same_as :: [Habana=Havana=Havanna.protect](/_protect/Earth/Continent/America~Caribbean/Cuba/City/Habana=Havana=Havanna.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Greater_Antilles/Cuba/City/Havana.protect|Havana.protect]] 
 
-### #is_/same_as :: [Habana=Havana=Havanna.private](/_private/Earth/Continent/America~Caribbean/Cuba/City/Habana=Havana=Havanna.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Greater_Antilles/Cuba/City/Havana.private|Havana.private]] 
 
-### #is_/same_as :: [Habana=Havana=Havanna.personal](/_personal/Earth/Continent/America~Caribbean/Cuba/City/Habana=Havana=Havanna.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Greater_Antilles/Cuba/City/Havana.personal|Havana.personal]] 
 
-### #is_/same_as :: [Habana=Havana=Havanna.secret](/_secret/Earth/Continent/America~Caribbean/Cuba/City/Habana=Havana=Havanna.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Greater_Antilles/Cuba/City/Havana.secret|Havana.secret]] 
 

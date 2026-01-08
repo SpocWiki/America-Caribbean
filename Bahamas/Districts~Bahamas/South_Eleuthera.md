@@ -20,11 +20,28 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as:
+    - "[South_Eleuthera](/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/South_Eleuthera.md)"
+    - "[South_Eleuthera.public](/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/South_Eleuthera.public.md)"
+    - "[South_Eleuthera.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/South_Eleuthera.internal.md)"
+    - "[South_Eleuthera.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/South_Eleuthera.protect.md)"
+    - "[South_Eleuthera.private](/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/South_Eleuthera.private.md)"
+    - "[South_Eleuthera.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/South_Eleuthera.personal.md)"
+    - "[South_Eleuthera.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/South_Eleuthera.secret.md)"
+dv_is_same_as:
+  - "[South_Eleuthera](/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/South_Eleuthera.md)"
+  - "[South_Eleuthera.public](/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/South_Eleuthera.public.md)"
+  - "[South_Eleuthera.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/South_Eleuthera.internal.md)"
+  - "[South_Eleuthera.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/South_Eleuthera.protect.md)"
+  - "[South_Eleuthera.private](/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/South_Eleuthera.private.md)"
+  - "[South_Eleuthera.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/South_Eleuthera.personal.md)"
+  - "[South_Eleuthera.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/South_Eleuthera.secret.md)"
 ---
 
 # South_Eleuthera
@@ -41,17 +58,17 @@ markerFolder: ./South_Eleuthera/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [South_Eleuthera](/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/South_Eleuthera.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/South_Eleuthera|South_Eleuthera]] 
 
-### #is_/same_as :: [South_Eleuthera.public](/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/South_Eleuthera.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/South_Eleuthera.public|South_Eleuthera.public]] 
 
-### #is_/same_as :: [South_Eleuthera.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/South_Eleuthera.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/South_Eleuthera.internal|South_Eleuthera.internal]] 
 
-### #is_/same_as :: [South_Eleuthera.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/South_Eleuthera.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/South_Eleuthera.protect|South_Eleuthera.protect]] 
 
-### #is_/same_as :: [South_Eleuthera.private](/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/South_Eleuthera.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/South_Eleuthera.private|South_Eleuthera.private]] 
 
-### #is_/same_as :: [South_Eleuthera.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/South_Eleuthera.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/South_Eleuthera.personal|South_Eleuthera.personal]] 
 
-### #is_/same_as :: [South_Eleuthera.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/South_Eleuthera.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/South_Eleuthera.secret|South_Eleuthera.secret]] 
 

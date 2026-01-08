@@ -4,7 +4,7 @@ aliases:
   - أروبا
   - 阿鲁巴
   - Аруба
-  - ''
+  - ""
 has_id_wikidata: Q21203
 location:
   - 12.5083
@@ -22,45 +22,117 @@ cssclasses:
   - Country
 publish: true
 title: Aruba
-linkTitle: ''
-keywords: ''
-layout: ''
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate: ''
-expiryDate: ''
+publishDate: ""
+expiryDate: ""
 Languages:
   - nl-AW
   - pap
   - es
   - en
+dv_ISO4217-currency_alphabetic: AWG
+dv_ISO4217-currency_name: Aruban Florin
+dv_ISO4217-currency_numeric: 533
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: ARUBA
+dv_Telephone: 297
+dv_Global: true
+dv_Global_Name: World
+dv_name: Aruba
+dv_name-en:
+  - Aruba
+  - Aruba
+dv_name-es: Aruba
+dv_name-fr: Aruba
+dv_name-cn: 阿鲁巴
+dv_name-ar: أروبا
+dv_name-ru: Аруба
+dv_CLDR_display_name: Aruba
+dv_Region_Name: "[[Americas]]"
+dv_Intermediate_Region_Name: "[[Caribbean]]"
+dv_Sub-region_Name: "[[Latin America and the Caribbean]]"
+dv_Region: 19
+dv_Intermediate_Region: 29
+dv_Sub-region: 419
+dv_Geoname-ID: 3577279
+dv_FIPS: AA
+dv_FIFA: ARU
+dv_IOC: ARU
+dv_MARC: aw
+dv_GAUL: 14
+dv_WMO: NU
+dv_ITU: ABW
+dv_DS: AW
+dv_TLD: .aw
+dv_EDGAR: 1C
+dv_M49: 533
+dv_is_independent: Part of NL
+dv_Developed_:
+  Developing_Countries: Developing
+dv_Small_Island_Developing_States: x
+dv_ISO3166-1-numeric: 533
+dv_ISO2: AW
+dv_ISO3: ABW
+dv_name-de: Aruba
+dv_Area-Total: 0
+dv_Area-Land: 0
+dv_Continent: "[[South-America]]"
+dv_VehicleCode: ARU
+dv_Capital: "[[Aruba/City/Oranjestad]]"
+dv_is_a_: "[[../../Geography/Place]]"
+dv_has_place_longitude: -69.9933
+dv_has_place_latitude: 12.5083
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Aruba,21203|WD~Aruba,21203]]"
+    - "[Aruba](/_Standards/Earth/Continent/America~Caribbean/Aruba.md)"
+    - "[Aruba.public](/_public/Earth/Continent/America~Caribbean/Aruba.public.md)"
+    - "[Aruba.internal](/_internal/Earth/Continent/America~Caribbean/Aruba.internal.md)"
+    - "[Aruba.protect](/_protect/Earth/Continent/America~Caribbean/Aruba.protect.md)"
+    - "[Aruba.private](/_private/Earth/Continent/America~Caribbean/Aruba.private.md)"
+    - "[Aruba.personal](/_personal/Earth/Continent/America~Caribbean/Aruba.personal.md)"
+    - "[Aruba.secret](/_secret/Earth/Continent/America~Caribbean/Aruba.secret.md)"
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Aruba,21203|WD~Aruba,21203]]"
+  - "[Aruba](/_Standards/Earth/Continent/America~Caribbean/Aruba.md)"
+  - "[Aruba.public](/_public/Earth/Continent/America~Caribbean/Aruba.public.md)"
+  - "[Aruba.internal](/_internal/Earth/Continent/America~Caribbean/Aruba.internal.md)"
+  - "[Aruba.protect](/_protect/Earth/Continent/America~Caribbean/Aruba.protect.md)"
+  - "[Aruba.private](/_private/Earth/Continent/America~Caribbean/Aruba.private.md)"
+  - "[Aruba.personal](/_personal/Earth/Continent/America~Caribbean/Aruba.personal.md)"
+  - "[Aruba.secret](/_secret/Earth/Continent/America~Caribbean/Aruba.secret.md)"
 ---
 
 # [[Aruba]] 
 
-[	ISO4217-currency_alphabetic	 :: AWG ] 
-[	ISO4217-currency_name	 :: Aruban Florin ] 
-[	ISO4217-currency_numeric	 :: 533 ] 
-[	ISO4217-currency_minor_unit	 :: 2 ] 
-[	ISO4217-currency_country_name	 :: ARUBA ] 
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric` 
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit` 
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name` 
 
-[	Telephone	 :: 297 ] 
+Telephone = `=this.dv_Telephone` 
 
-[	Global	 :: True ] 
-[	Global_Name	 :: World ] 
+Global = `=this.dv_Global` 
+Global_Name = `=this.dv_Global_Name` 
 
-[	name	 :: Aruba ] 
+name = `=this.dv_name` 
 [	name-en	 :: Aruba ] 
-[	name-es	 :: Aruba ] 
-[	name-fr	 :: Aruba ] 
-[	name-cn	 :: 阿鲁巴 ] 
-[	name-ar	 :: أروبا ] 
-[	name-ru	 :: Аруба ] 
+name-es = `=this.dv_name-es` 
+name-fr = `=this.dv_name-fr` 
+name-cn = `=this.dv_name-cn` 
+name-ar = `=this.dv_name-ar` 
+name-ru = `=this.dv_name-ru` 
 
-[	CLDR_display_name	 :: Aruba ] 
+CLDR_display_name = `=this.dv_CLDR_display_name` 
 
 [	UNTERM_English	 ::  ] 
-[	UNTERM_English_Formal	 ::  ] 
-[	UNTERM_Spanish_Formal	 ::  ] 
+[	UNTERM_Englis_a_ = `=this.dv_is_a_`
+[	UNTERM_Spanis_a_ = `=this.dv_is_a_`
 [	UNTERM_Spanish	 ::  ] 
 [	UNTERM_French	 ::  ] 
 [	UNTERM_Arabic	 ::  ] 
@@ -71,37 +143,37 @@ Languages:
 [	UNTERM_Russian	 ::  ] 
 [	UNTERM_Russian_Formal	 ::  ] 
 
-Region_Name ::  [[Americas]]  
-Intermediate_Region_Name ::  [[Caribbean]]  
-Sub-region_Name ::  [[Latin America and the Caribbean]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 19 ] 
-[	Intermediate_Region	 :: 29 ] 
-[	Sub-region	 :: 419 ] 
+Region = `=this.dv_Region` 
+Intermediate_Region = `=this.dv_Intermediate_Region` 
+Sub-region = `=this.dv_Sub-region` 
 
-[	Geoname-ID	 :: 3577279 ] 
-[	FIPS	 :: AA ] 
-[	FIFA	 :: ARU ] 
-[	IOC	 :: ARU ] 
-[	MARC	 :: aw ] 
-[	GAUL	 :: 14 ] 
-[	WMO	 :: NU ] 
-[	ITU	 :: ABW ] 
-[	DS	 :: AW ] 
-[	TLD	 :: .aw ] 
-[	EDGAR	 :: 1C ] 
-[	M49	 :: 533 ] 
+Geoname-ID = `=this.dv_Geoname-ID` 
+FIPS = `=this.dv_FIPS` 
+FIFA = `=this.dv_FIFA` 
+IOC = `=this.dv_IOC` 
+MARC = `=this.dv_MARC` 
+GAUL = `=this.dv_GAUL` 
+WMO = `=this.dv_WMO` 
+ITU = `=this.dv_ITU` 
+DS = `=this.dv_DS` 
+TLD = `=this.dv_TLD` 
+EDGAR = `=this.dv_EDGAR` 
+M49 = `=this.dv_M49` 
 
-[	is_independent	 :: Part of NL ] 
-[	Developed_/Developing_Countries	 :: Developing ] 
+is_independent = `=this.dv_is_independent` 
+developed_developing_countries = `=this.dv_developed_developing_countries` 
 [	Land_Locked_Developing_Countries	 ::  ] 
 [	Least_Developed_Countries	 ::  ] 
-[	Small_Island_Developing_States	 :: x ] 
+Small_Island_Developing_States = `=this.dv_Small_Island_Developing_States` 
 
-[	ISO3166-1-numeric	 :: 533 ] 
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric` 
 
-[ISO2::AW] 
-[ISO3::ABW] 
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3` 
 
 ```leaflet
 id: Aruba
@@ -113,12 +185,12 @@ markerFolder: ./Aruba/
 ```
 
 [name-en::Aruba] 
-[name-de::Aruba] 
-[Area-Total::0] 
-[Area-Land::0] 
-Continent :: [[South-America]]  
-[VehicleCode::ARU] 
-Capital :: [[Aruba/City/Oranjestad]]  
+name-de = `=this.dv_name-de` 
+Area-Total = `=this.dv_Area-Total` 
+Area-Land = `=this.dv_Area-Land` 
+Continent = `=this.dv_Continent`
+VehicleCode = `=this.dv_VehicleCode` 
+Capital = `=this.dv_Capital`
 
 ![[Aruba/Coat_of_arms_of_Aruba.svg|350]] 
 
@@ -129,9 +201,9 @@ Capital :: [[Aruba/City/Oranjestad]]
 [Alcohol-l::] 
 [Language-Id::] 
 #is_a_/Place  
-#is_a_ :: [[../../Geography/Place]] 
-[has_place_longitude::-69.9933] 
-[has_place_latitude::12.5083] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 
 ```leaflet
 id: Aruba
@@ -157,17 +229,17 @@ markerFolder: ./Aruba/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Aruba](/_Standards/Earth/Continent/America~Caribbean/Aruba.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Aruba|Aruba]] 
 
-### #is_/same_as :: [Aruba.public](/_public/Earth/Continent/America~Caribbean/Aruba.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Aruba.public|Aruba.public]] 
 
-### #is_/same_as :: [Aruba.internal](/_internal/Earth/Continent/America~Caribbean/Aruba.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Aruba.internal|Aruba.internal]] 
 
-### #is_/same_as :: [Aruba.protect](/_protect/Earth/Continent/America~Caribbean/Aruba.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Aruba.protect|Aruba.protect]] 
 
-### #is_/same_as :: [Aruba.private](/_private/Earth/Continent/America~Caribbean/Aruba.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Aruba.private|Aruba.private]] 
 
-### #is_/same_as :: [Aruba.personal](/_personal/Earth/Continent/America~Caribbean/Aruba.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Aruba.personal|Aruba.personal]] 
 
-### #is_/same_as :: [Aruba.secret](/_secret/Earth/Continent/America~Caribbean/Aruba.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Aruba.secret|Aruba.secret]] 
 

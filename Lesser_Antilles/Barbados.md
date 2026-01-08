@@ -1,4 +1,89 @@
-﻿---
+---
+dv_ISO4217-currency_alphabetic: BBD
+dv_ISO4217-currency_name: Barbados Dollar
+dv_ISO4217-currency_numeric: 52
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: BARBADOS
+dv_Telephone: 1-246
+dv_Global: true
+dv_Global_Name: World
+dv_name: Barbados
+dv_name-en:
+  - Barbados
+  - Barbados
+dv_name-es: Barbados
+dv_name-fr: Barbade
+dv_name-cn: 巴巴多斯
+dv_name-ar: بربادوس
+dv_name-ru: Барбадос
+dv_CLDR_display_name: Barbados
+dv_UNTERM_English: Barbados
+dv_UNTERM_English_Formal: Barbados
+dv_UNTERM_Spanish_Formal: Barbados
+dv_UNTERM_Spanish: Barbados
+dv_UNTERM_French: Barbade (la)
+dv_UNTERM_Arabic: بربادوس
+dv_UNTERM_Arabic_Formal: بربادوس
+dv_UNTERM_Chinese: 巴巴多斯
+dv_UNTERM_Chinese_Formal: 巴巴多斯
+dv_UNTERM_French_Formal: la Barbade
+dv_UNTERM_Russian: Барбадос
+dv_UNTERM_Russian_Formal: Барбадос
+dv_Region_Name: "[[Americas]]"
+dv_Intermediate_Region_Name: "[[Caribbean]]"
+dv_Sub-region_Name: "[[Latin America and the Caribbean]]"
+dv_Region: 19
+dv_Intermediate_Region: 29
+dv_Sub-region: 419
+dv_Geoname-ID: 3374084
+dv_FIPS: BB
+dv_FIFA: BRB
+dv_IOC: BAR
+dv_MARC: bb
+dv_GAUL: 24
+dv_WMO: BR
+dv_ITU: BRB
+dv_DS: BDS
+dv_TLD: .bb
+dv_EDGAR: C8
+dv_M49: 52
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_Small_Island_Developing_States: x
+dv_ISO3166-1-numeric: 52
+dv_ISO2: BB
+dv_ISO3: BRB
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Barbados,244|WD~Barbados,244]]"
+    - "[Barbados](/_Standards/Earth/Continent/America~Caribbean/Barbados.md)"
+    - "[Barbados.public](/_public/Earth/Continent/America~Caribbean/Barbados.public.md)"
+    - "[Barbados.internal](/_internal/Earth/Continent/America~Caribbean/Barbados.internal.md)"
+    - "[Barbados.protect](/_protect/Earth/Continent/America~Caribbean/Barbados.protect.md)"
+    - "[Barbados.private](/_private/Earth/Continent/America~Caribbean/Barbados.private.md)"
+    - "[Barbados.personal](/_personal/Earth/Continent/America~Caribbean/Barbados.personal.md)"
+    - "[Barbados.secret](/_secret/Earth/Continent/America~Caribbean/Barbados.secret.md)"
+dv_name-de: Barbados
+dv_Area-Total: 430
+dv_Area-Land: 430
+dv_VehicleCode: BDS
+dv_Alcohol-l: 6.9
+dv_Language-Id: 499
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: -59.5333
+dv_has_place_latitude: 13
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Barbados,244|WD~Barbados,244]]"
+  - "[Barbados](/_Standards/Earth/Continent/America~Caribbean/Barbados.md)"
+  - "[Barbados.public](/_public/Earth/Continent/America~Caribbean/Barbados.public.md)"
+  - "[Barbados.internal](/_internal/Earth/Continent/America~Caribbean/Barbados.internal.md)"
+  - "[Barbados.protect](/_protect/Earth/Continent/America~Caribbean/Barbados.protect.md)"
+  - "[Barbados.private](/_private/Earth/Continent/America~Caribbean/Barbados.private.md)"
+  - "[Barbados.personal](/_personal/Earth/Continent/America~Caribbean/Barbados.personal.md)"
+  - "[Barbados.secret](/_secret/Earth/Continent/America~Caribbean/Barbados.secret.md)"
+
 has_time_started: 1966-11-30 
 aliases:
   - Barbados
@@ -304,73 +389,73 @@ Dewey_Decimal_Classification: 2--72981
 
 # [[Barbados]] 
 
-[	ISO4217-currency_alphabetic	 :: BBD ] 
-[	ISO4217-currency_name	 :: Barbados Dollar ] 
-[	ISO4217-currency_numeric	 :: 052 ] 
-[	ISO4217-currency_minor_unit	 :: 2 ] 
-[	ISO4217-currency_country_name	 :: BARBADOS ] 
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric` 
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit` 
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name` 
 
-[	Telephone	 :: 1-246 ] 
+Telephone = `=this.dv_Telephone` 
 
-[	Global	 :: True ] 
-[	Global_Name	 :: World ] 
+Global = `=this.dv_Global` 
+Global_Name = `=this.dv_Global_Name` 
 
-[	name	 :: Barbados ] 
+name = `=this.dv_name` 
 [	name-en	 :: Barbados ] 
-[	name-es	 :: Barbados ] 
-[	name-fr	 :: Barbade ] 
-[	name-cn	 :: 巴巴多斯 ] 
-[	name-ar	 :: بربادوس ] 
-[	name-ru	 :: Барбадос ] 
+name-es = `=this.dv_name-es` 
+name-fr = `=this.dv_name-fr` 
+name-cn = `=this.dv_name-cn` 
+name-ar = `=this.dv_name-ar` 
+name-ru = `=this.dv_name-ru` 
 
-[	CLDR_display_name	 :: Barbados ] 
+CLDR_display_name = `=this.dv_CLDR_display_name` 
 
-[	UNTERM_English	 :: Barbados ] 
-[	UNTERM_English_Formal	 :: Barbados ] 
-[	UNTERM_Spanish_Formal	 :: Barbados ] 
-[	UNTERM_Spanish	 :: Barbados ] 
-[	UNTERM_French	 :: Barbade (la) ] 
-[	UNTERM_Arabic	 :: بربادوس ] 
-[	UNTERM_Arabic_Formal	 :: بربادوس ] 
-[	UNTERM_Chinese	 :: 巴巴多斯 ] 
-[	UNTERM_Chinese_Formal	 :: 巴巴多斯 ] 
-[	UNTERM_French_Formal	 :: la Barbade ] 
-[	UNTERM_Russian	 :: Барбадос ] 
-[	UNTERM_Russian_Formal	 :: Барбадос ] 
+UNTERM_English = `=this.dv_UNTERM_English` 
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal` 
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal` 
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish` 
+UNTERM_French = `=this.dv_UNTERM_French` 
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic` 
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal` 
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese` 
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal` 
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal` 
+UNTERM_Russian = `=this.dv_UNTERM_Russian` 
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal` 
 
-Region_Name ::  [[Americas]]  
-Intermediate_Region_Name ::  [[Caribbean]]  
-Sub-region_Name ::  [[Latin America and the Caribbean]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 19 ] 
-[	Intermediate_Region	 :: 29 ] 
-[	Sub-region	 :: 419 ] 
+Region = `=this.dv_Region` 
+Intermediate_Region = `=this.dv_Intermediate_Region` 
+Sub-region = `=this.dv_Sub-region` 
 
-[	Geoname-ID	 :: 3374084 ] 
-[	FIPS	 :: BB ] 
-[	FIFA	 :: BRB ] 
-[	IOC	 :: BAR ] 
-[	MARC	 :: bb ] 
-[	GAUL	 :: 24 ] 
-[	WMO	 :: BR ] 
-[	ITU	 :: BRB ] 
-[	DS	 :: BDS ] 
-[	TLD	 :: .bb ] 
-[	EDGAR	 :: C8 ] 
-[	M49	 :: 52 ] 
+Geoname-ID = `=this.dv_Geoname-ID` 
+FIPS = `=this.dv_FIPS` 
+FIFA = `=this.dv_FIFA` 
+IOC = `=this.dv_IOC` 
+MARC = `=this.dv_MARC` 
+GAUL = `=this.dv_GAUL` 
+WMO = `=this.dv_WMO` 
+ITU = `=this.dv_ITU` 
+DS = `=this.dv_DS` 
+TLD = `=this.dv_TLD` 
+EDGAR = `=this.dv_EDGAR` 
+M49 = `=this.dv_M49` 
 
-[	is_independent	 :: Yes ] 
-[	Developed_/Developing_Countries	 :: Developing ] 
+is_independent = `=this.dv_is_independent` 
+developed_developing_countries = `=this.dv_developed_developing_countries` 
 [	Land_Locked_Developing_Countries	 ::  ] 
 [	Least_Developed_Countries	 ::  ] 
-[	Small_Island_Developing_States	 :: x ] 
+Small_Island_Developing_States = `=this.dv_Small_Island_Developing_States` 
 
-[	ISO3166-1-numeric	 :: 052 ] 
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric` 
 
-[ISO2::BB] 
-[ISO3::BRB] 
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../../WikiData/WD~Barbados,244|WD~Barbados,244]] 
+is_a_ = `=this.dv_is_a_`
 
 ```leaflet
 id: Barbados
@@ -382,11 +467,11 @@ markerFolder: ./Barbados/
 ```
 
 [name-en::Barbados] 
-[name-de::Barbados] 
-[Area-Total::430] 
-[Area-Land::430] 
+name-de = `=this.dv_name-de` 
+Area-Total = `=this.dv_Area-Total` 
+Area-Land = `=this.dv_Area-Land` 
 Continent :: [[South-America]]  
-[VehicleCode::BDS] 
+VehicleCode = `=this.dv_VehicleCode` 
 Capital :: [[Barbados/City/Bridgetown]]  
 
 ![[Barbados/Coat_of_arms_of_Barbados.svg|550]] 
@@ -395,12 +480,12 @@ Capital :: [[Barbados/City/Bridgetown]]
 
 ![[Barbados/Flag_of_Barbados.svg|350]] 
 
-[Alcohol-l::6.9] 
-[Language-Id::499] 
+Alcohol-l = `=this.dv_Alcohol-l` 
+Language-Id = `=this.dv_Language-Id` 
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::-59.5333] 
-[has_place_latitude::13] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 
 
 ## #has_/text_of_/abstract 
@@ -418,17 +503,17 @@ Capital :: [[Barbados/City/Bridgetown]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Barbados](/_Standards/Earth/Continent/America~Caribbean/Barbados.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Lesser_Antilles/Barbados|Barbados]] 
 
-### #is_/same_as :: [Barbados.public](/_public/Earth/Continent/America~Caribbean/Barbados.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Lesser_Antilles/Barbados.public|Barbados.public]] 
 
-### #is_/same_as :: [Barbados.internal](/_internal/Earth/Continent/America~Caribbean/Barbados.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Lesser_Antilles/Barbados.internal|Barbados.internal]] 
 
-### #is_/same_as :: [Barbados.protect](/_protect/Earth/Continent/America~Caribbean/Barbados.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Lesser_Antilles/Barbados.protect|Barbados.protect]] 
 
-### #is_/same_as :: [Barbados.private](/_private/Earth/Continent/America~Caribbean/Barbados.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Lesser_Antilles/Barbados.private|Barbados.private]] 
 
-### #is_/same_as :: [Barbados.personal](/_personal/Earth/Continent/America~Caribbean/Barbados.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Lesser_Antilles/Barbados.personal|Barbados.personal]] 
 
-### #is_/same_as :: [Barbados.secret](/_secret/Earth/Continent/America~Caribbean/Barbados.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Lesser_Antilles/Barbados.secret|Barbados.secret]] 
 

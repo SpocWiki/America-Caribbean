@@ -19,11 +19,28 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as:
+    - "[Ouest](/_Standards/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest.md)"
+    - "[Ouest.public](/_public/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest.public.md)"
+    - "[Ouest.internal](/_internal/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest.internal.md)"
+    - "[Ouest.protect](/_protect/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest.protect.md)"
+    - "[Ouest.private](/_private/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest.private.md)"
+    - "[Ouest.personal](/_personal/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest.personal.md)"
+    - "[Ouest.secret](/_secret/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest.secret.md)"
+dv_is_same_as:
+  - "[Ouest](/_Standards/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest.md)"
+  - "[Ouest.public](/_public/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest.public.md)"
+  - "[Ouest.internal](/_internal/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest.internal.md)"
+  - "[Ouest.protect](/_protect/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest.protect.md)"
+  - "[Ouest.private](/_private/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest.private.md)"
+  - "[Ouest.personal](/_personal/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest.personal.md)"
+  - "[Ouest.secret](/_secret/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest.secret.md)"
 ---
 
 # Ouest
@@ -40,17 +57,17 @@ markerFolder: ./Ouest/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ouest](/_Standards/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Greater_Antilles/Hispaniola/Haiti/Departments~Haiti/Ouest|Ouest]] 
 
-### #is_/same_as :: [Ouest.public](/_public/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Greater_Antilles/Hispaniola/Haiti/Departments~Haiti/Ouest.public|Ouest.public]] 
 
-### #is_/same_as :: [Ouest.internal](/_internal/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Greater_Antilles/Hispaniola/Haiti/Departments~Haiti/Ouest.internal|Ouest.internal]] 
 
-### #is_/same_as :: [Ouest.protect](/_protect/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Greater_Antilles/Hispaniola/Haiti/Departments~Haiti/Ouest.protect|Ouest.protect]] 
 
-### #is_/same_as :: [Ouest.private](/_private/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Greater_Antilles/Hispaniola/Haiti/Departments~Haiti/Ouest.private|Ouest.private]] 
 
-### #is_/same_as :: [Ouest.personal](/_personal/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Greater_Antilles/Hispaniola/Haiti/Departments~Haiti/Ouest.personal|Ouest.personal]] 
 
-### #is_/same_as :: [Ouest.secret](/_secret/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Greater_Antilles/Hispaniola/Haiti/Departments~Haiti/Ouest.secret|Ouest.secret]] 
 

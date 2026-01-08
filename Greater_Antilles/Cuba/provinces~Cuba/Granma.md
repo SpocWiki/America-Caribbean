@@ -19,11 +19,28 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as:
+    - "[Granma](/_Standards/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Granma.md)"
+    - "[Granma.public](/_public/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Granma.public.md)"
+    - "[Granma.internal](/_internal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Granma.internal.md)"
+    - "[Granma.protect](/_protect/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Granma.protect.md)"
+    - "[Granma.private](/_private/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Granma.private.md)"
+    - "[Granma.personal](/_personal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Granma.personal.md)"
+    - "[Granma.secret](/_secret/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Granma.secret.md)"
+dv_is_same_as:
+  - "[Granma](/_Standards/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Granma.md)"
+  - "[Granma.public](/_public/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Granma.public.md)"
+  - "[Granma.internal](/_internal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Granma.internal.md)"
+  - "[Granma.protect](/_protect/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Granma.protect.md)"
+  - "[Granma.private](/_private/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Granma.private.md)"
+  - "[Granma.personal](/_personal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Granma.personal.md)"
+  - "[Granma.secret](/_secret/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Granma.secret.md)"
 ---
 
 # Granma
@@ -40,17 +57,17 @@ markerFolder: ./Granma/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Granma](/_Standards/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Granma.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Greater_Antilles/Cuba/provinces~Cuba/Granma|Granma]] 
 
-### #is_/same_as :: [Granma.public](/_public/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Granma.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Greater_Antilles/Cuba/provinces~Cuba/Granma.public|Granma.public]] 
 
-### #is_/same_as :: [Granma.internal](/_internal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Granma.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Greater_Antilles/Cuba/provinces~Cuba/Granma.internal|Granma.internal]] 
 
-### #is_/same_as :: [Granma.protect](/_protect/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Granma.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Greater_Antilles/Cuba/provinces~Cuba/Granma.protect|Granma.protect]] 
 
-### #is_/same_as :: [Granma.private](/_private/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Granma.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Greater_Antilles/Cuba/provinces~Cuba/Granma.private|Granma.private]] 
 
-### #is_/same_as :: [Granma.personal](/_personal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Granma.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Greater_Antilles/Cuba/provinces~Cuba/Granma.personal|Granma.personal]] 
 
-### #is_/same_as :: [Granma.secret](/_secret/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Granma.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Greater_Antilles/Cuba/provinces~Cuba/Granma.secret|Granma.secret]] 
 

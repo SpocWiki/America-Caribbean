@@ -19,11 +19,28 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as:
+    - "[Artemisa](/_Standards/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Artemisa.md)"
+    - "[Artemisa.public](/_public/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Artemisa.public.md)"
+    - "[Artemisa.internal](/_internal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Artemisa.internal.md)"
+    - "[Artemisa.protect](/_protect/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Artemisa.protect.md)"
+    - "[Artemisa.private](/_private/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Artemisa.private.md)"
+    - "[Artemisa.personal](/_personal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Artemisa.personal.md)"
+    - "[Artemisa.secret](/_secret/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Artemisa.secret.md)"
+dv_is_same_as:
+  - "[Artemisa](/_Standards/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Artemisa.md)"
+  - "[Artemisa.public](/_public/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Artemisa.public.md)"
+  - "[Artemisa.internal](/_internal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Artemisa.internal.md)"
+  - "[Artemisa.protect](/_protect/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Artemisa.protect.md)"
+  - "[Artemisa.private](/_private/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Artemisa.private.md)"
+  - "[Artemisa.personal](/_personal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Artemisa.personal.md)"
+  - "[Artemisa.secret](/_secret/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Artemisa.secret.md)"
 ---
 
 # Artemisa
@@ -40,17 +57,17 @@ markerFolder: ./Artemisa/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Artemisa](/_Standards/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Artemisa.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Greater_Antilles/Cuba/provinces~Cuba/Artemisa|Artemisa]] 
 
-### #is_/same_as :: [Artemisa.public](/_public/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Artemisa.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Greater_Antilles/Cuba/provinces~Cuba/Artemisa.public|Artemisa.public]] 
 
-### #is_/same_as :: [Artemisa.internal](/_internal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Artemisa.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Greater_Antilles/Cuba/provinces~Cuba/Artemisa.internal|Artemisa.internal]] 
 
-### #is_/same_as :: [Artemisa.protect](/_protect/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Artemisa.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Greater_Antilles/Cuba/provinces~Cuba/Artemisa.protect|Artemisa.protect]] 
 
-### #is_/same_as :: [Artemisa.private](/_private/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Artemisa.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Greater_Antilles/Cuba/provinces~Cuba/Artemisa.private|Artemisa.private]] 
 
-### #is_/same_as :: [Artemisa.personal](/_personal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Artemisa.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Greater_Antilles/Cuba/provinces~Cuba/Artemisa.personal|Artemisa.personal]] 
 
-### #is_/same_as :: [Artemisa.secret](/_secret/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Artemisa.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Greater_Antilles/Cuba/provinces~Cuba/Artemisa.secret|Artemisa.secret]] 
 

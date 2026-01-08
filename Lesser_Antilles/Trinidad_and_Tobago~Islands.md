@@ -1,4 +1,36 @@
-﻿---
+---
+dv_ISO2: TT
+dv_ISO3: TTO
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Trinidad_and_Tobago,754|WD~Trinidad_and_Tobago,754]]"
+    - "[Trinidad_and_Tobago~Islands](/_Standards/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands.md)"
+    - "[Trinidad_and_Tobago~Islands.public](/_public/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands.public.md)"
+    - "[Trinidad_and_Tobago~Islands.internal](/_internal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands.internal.md)"
+    - "[Trinidad_and_Tobago~Islands.protect](/_protect/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands.protect.md)"
+    - "[Trinidad_and_Tobago~Islands.private](/_private/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands.private.md)"
+    - "[Trinidad_and_Tobago~Islands.personal](/_personal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands.personal.md)"
+    - "[Trinidad_and_Tobago~Islands.secret](/_secret/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands.secret.md)"
+dv_name-en: Trinidad And Tobago
+dv_name-de: Trinidad und Tobago
+dv_Area-Total: 5128
+dv_Area-Land: 5130
+dv_VehicleCode: TT
+dv_Alcohol-l: 6.3
+dv_Language-Id: 499
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: -61.5167
+dv_has_place_latitude: 10.6667
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Trinidad_and_Tobago,754|WD~Trinidad_and_Tobago,754]]"
+  - "[Trinidad_and_Tobago~Islands](/_Standards/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands.md)"
+  - "[Trinidad_and_Tobago~Islands.public](/_public/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands.public.md)"
+  - "[Trinidad_and_Tobago~Islands.internal](/_internal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands.internal.md)"
+  - "[Trinidad_and_Tobago~Islands.protect](/_protect/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands.protect.md)"
+  - "[Trinidad_and_Tobago~Islands.private](/_private/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands.private.md)"
+  - "[Trinidad_and_Tobago~Islands.personal](/_personal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands.personal.md)"
+  - "[Trinidad_and_Tobago~Islands.secret](/_secret/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands.secret.md)"
+
 has_time_started: 1976-08-01 
 aliases:
   - Trinidad_and_Tobago
@@ -284,10 +316,10 @@ Dewey_Decimal_Classification: 2--72983
 
 # [[Trinidad_and_Tobago~Islands]] 
 
-[ISO2::TT] 
-[ISO3::TTO] 
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../../WikiData/WD~Trinidad_and_Tobago,754|WD~Trinidad_and_Tobago,754]] 
+is_a_ = `=this.dv_is_a_`
 
 ## #has_/map 
 
@@ -303,22 +335,22 @@ coordinates: [[Trinidad_and_Tobago~Islands]]
 markerFile: [[Trinidad_and_Tobago~Islands]] 
 ```
 
-[name-en::Trinidad And Tobago] 
-[name-de::Trinidad und Tobago] 
-[Area-Total::5128] 
-[Area-Land::5130] 
+name-en = `=this.dv_name-en` 
+name-de = `=this.dv_name-de` 
+Area-Total = `=this.dv_Area-Total` 
+Area-Land = `=this.dv_Area-Land` 
 Continent :: [[South-America]]  
-[VehicleCode::TT] 
+VehicleCode = `=this.dv_VehicleCode` 
 Capital :: [[Trinidad_and_Tobago~Islands/Counties/Port_of_Spain/City/Port_of_Spain]]  
 ![[Coat_of_arms_of_Trinidad-and-tobago.svg|350]] 
 ![[Anthem-Trinidad-and-tobago.mp3]] 
 ![[Flag_of_Trinidad-and-tobago.svg|350]] 
-[Alcohol-l::6.3] 
-[Language-Id::499] 
+Alcohol-l = `=this.dv_Alcohol-l` 
+Language-Id = `=this.dv_Language-Id` 
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::-61.5167] 
-[has_place_latitude::10.6667] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 
 
 ## #has_/text_of_/abstract 
@@ -336,17 +368,17 @@ Capital :: [[Trinidad_and_Tobago~Islands/Counties/Port_of_Spain/City/Port_of_Spa
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Trinidad_and_Tobago~Islands](/_Standards/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Lesser_Antilles/Trinidad_and_Tobago~Islands|Trinidad_and_Tobago~Islands]] 
 
-### #is_/same_as :: [Trinidad_and_Tobago~Islands.public](/_public/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Lesser_Antilles/Trinidad_and_Tobago~Islands.public|Trinidad_and_Tobago~Islands.public]] 
 
-### #is_/same_as :: [Trinidad_and_Tobago~Islands.internal](/_internal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Lesser_Antilles/Trinidad_and_Tobago~Islands.internal|Trinidad_and_Tobago~Islands.internal]] 
 
-### #is_/same_as :: [Trinidad_and_Tobago~Islands.protect](/_protect/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Lesser_Antilles/Trinidad_and_Tobago~Islands.protect|Trinidad_and_Tobago~Islands.protect]] 
 
-### #is_/same_as :: [Trinidad_and_Tobago~Islands.private](/_private/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Lesser_Antilles/Trinidad_and_Tobago~Islands.private|Trinidad_and_Tobago~Islands.private]] 
 
-### #is_/same_as :: [Trinidad_and_Tobago~Islands.personal](/_personal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Lesser_Antilles/Trinidad_and_Tobago~Islands.personal|Trinidad_and_Tobago~Islands.personal]] 
 
-### #is_/same_as :: [Trinidad_and_Tobago~Islands.secret](/_secret/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Lesser_Antilles/Trinidad_and_Tobago~Islands.secret|Trinidad_and_Tobago~Islands.secret]] 
 

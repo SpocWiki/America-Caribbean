@@ -4,14 +4,17 @@ aliases:
   - History_of_Haiti
   - History of Haiti
 has_id_wikidata: Q846445
-instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
-facet_of: '[[_Standards/WikiData/WD~Haiti,790]]'
+instance_of: "[[_Standards/WikiData/WD~aspect_of_history,17524420]]"
+facet_of: "[[_Standards/WikiData/WD~Haiti,790]]"
 Commons_category: History of Haiti
+dv_is_:
+  same_as: "[[../../../../../../WikiData/WD~History_of_Haiti,846445]]"
+dv_is_same_as: "[[../../../../../../WikiData/WD~History_of_Haiti,846445]]"
 ---
 
 # [[History_of_Haiti]] 
 
-#is_/same_as :: [[WD~History_of_Haiti,846445]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -42,4 +45,21 @@ Commons_category: History of Haiti
 > Haiti was occupied by the United States from 1915 to 1934. After the occupation, President Sténio Vincent forced through a new constitution that allowed for sweeping powers for the executive branch. The first civilian president, Dumarsais Estimé, ruled for five years until 1950. After a brief period of instability, François Duvalier rose to prominence and painted himself as the legitimate heir to Estimé. His regime is regarded as one of the most repressive and corrupt of modern times; his son, Jean-Claude, saw Haiti's economic and political condition continue to decline, although some of the more fearsome elements of his father's regime were abolished. The period after Duvalier was dominated by the presidency of Jean-Bertrand Aristide until his downfall in the controversial 2004 coup d'état. A major 7.0 magnitude earthquake hit the country in 2010 and caused widespread devastation.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Haiti) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Greater_Antilles/Hispaniola/Haiti/History_of_Haiti|History_of_Haiti]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Greater_Antilles/Hispaniola/Haiti/History_of_Haiti.public|History_of_Haiti.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Greater_Antilles/Hispaniola/Haiti/History_of_Haiti.internal|History_of_Haiti.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Greater_Antilles/Hispaniola/Haiti/History_of_Haiti.protect|History_of_Haiti.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Greater_Antilles/Hispaniola/Haiti/History_of_Haiti.private|History_of_Haiti.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Greater_Antilles/Hispaniola/Haiti/History_of_Haiti.personal|History_of_Haiti.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Greater_Antilles/Hispaniola/Haiti/History_of_Haiti.secret|History_of_Haiti.secret]] 
 

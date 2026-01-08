@@ -1,4 +1,36 @@
-﻿---
+---
+dv_ISO2: KN
+dv_ISO3: KNA
+dv_name-en: Saint Kitts And Nevis
+dv_name-de: Saint Kitts und Nevis
+dv_Area-Total: 262
+dv_Area-Land: 360
+dv_VehicleCode: KAN
+dv_Alcohol-l: 9.4
+dv_Language-Id: 499
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: -62.7333
+dv_has_place_latitude: 17.3
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Saint_Kitts_and_Nevis,763|WD~Saint_Kitts_and_Nevis,763]]"
+    - "[Saint_Kitts_and_Nevis~Islands](/_Standards/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands.md)"
+    - "[Saint_Kitts_and_Nevis~Islands.public](/_public/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands.public.md)"
+    - "[Saint_Kitts_and_Nevis~Islands.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands.internal.md)"
+    - "[Saint_Kitts_and_Nevis~Islands.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands.protect.md)"
+    - "[Saint_Kitts_and_Nevis~Islands.private](/_private/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands.private.md)"
+    - "[Saint_Kitts_and_Nevis~Islands.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands.personal.md)"
+    - "[Saint_Kitts_and_Nevis~Islands.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands.secret.md)"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Saint_Kitts_and_Nevis,763|WD~Saint_Kitts_and_Nevis,763]]"
+  - "[Saint_Kitts_and_Nevis~Islands](/_Standards/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands.md)"
+  - "[Saint_Kitts_and_Nevis~Islands.public](/_public/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands.public.md)"
+  - "[Saint_Kitts_and_Nevis~Islands.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands.internal.md)"
+  - "[Saint_Kitts_and_Nevis~Islands.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands.protect.md)"
+  - "[Saint_Kitts_and_Nevis~Islands.private](/_private/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands.private.md)"
+  - "[Saint_Kitts_and_Nevis~Islands.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands.personal.md)"
+  - "[Saint_Kitts_and_Nevis~Islands.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands.secret.md)"
+
 has_time_started: 1967-02-27 
 aliases:
   - St._Kitts-Nevis-Anguilla
@@ -227,8 +259,8 @@ telephone_country_code: 1869
 
 # [[Saint_Kitts_and_Nevis~Islands]] 
 
-[ISO2::KN] 
-[ISO3::KNA] 
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3` 
 
 ```leaflet
 id: Saint Kitts And Nevis
@@ -239,20 +271,20 @@ geojsonFolder: ./Saint_Kitts_and_Nevis~Islands//
 markerFolder: ./Saint_Kitts_and_Nevis~Islands/
 ```
 
-[name-en::Saint Kitts And Nevis] 
-[name-de::Saint Kitts und Nevis] 
-[Area-Total::262] 
-[Area-Land::360] 
+name-en = `=this.dv_name-en` 
+name-de = `=this.dv_name-de` 
+Area-Total = `=this.dv_Area-Total` 
+Area-Land = `=this.dv_Area-Land` 
 Continent :: [[South-America]]  
-[VehicleCode::KAN] 
+VehicleCode = `=this.dv_VehicleCode` 
 [Capital-Id::] 
-[Alcohol-l::9.4] 
-[Language-Id::499] 
+Alcohol-l = `=this.dv_Alcohol-l` 
+Language-Id = `=this.dv_Language-Id` 
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::-62.7333] 
-[has_place_latitude::17.3] 
-#is_/same_as :: [[../../../../WikiData/WD~Saint_Kitts_and_Nevis,763|WD~Saint_Kitts_and_Nevis,763]] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+is_a_ = `=this.dv_is_a_`
 
 ## #has_/text_of_/abstract 
 
@@ -276,17 +308,17 @@ Continent :: [[South-America]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Saint_Kitts_and_Nevis~Islands](/_Standards/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Lesser_Antilles/Saint_Kitts_and_Nevis~Islands|Saint_Kitts_and_Nevis~Islands]] 
 
-### #is_/same_as :: [Saint_Kitts_and_Nevis~Islands.public](/_public/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Lesser_Antilles/Saint_Kitts_and_Nevis~Islands.public|Saint_Kitts_and_Nevis~Islands.public]] 
 
-### #is_/same_as :: [Saint_Kitts_and_Nevis~Islands.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Lesser_Antilles/Saint_Kitts_and_Nevis~Islands.internal|Saint_Kitts_and_Nevis~Islands.internal]] 
 
-### #is_/same_as :: [Saint_Kitts_and_Nevis~Islands.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Lesser_Antilles/Saint_Kitts_and_Nevis~Islands.protect|Saint_Kitts_and_Nevis~Islands.protect]] 
 
-### #is_/same_as :: [Saint_Kitts_and_Nevis~Islands.private](/_private/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Lesser_Antilles/Saint_Kitts_and_Nevis~Islands.private|Saint_Kitts_and_Nevis~Islands.private]] 
 
-### #is_/same_as :: [Saint_Kitts_and_Nevis~Islands.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Lesser_Antilles/Saint_Kitts_and_Nevis~Islands.personal|Saint_Kitts_and_Nevis~Islands.personal]] 
 
-### #is_/same_as :: [Saint_Kitts_and_Nevis~Islands.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Lesser_Antilles/Saint_Kitts_and_Nevis~Islands.secret|Saint_Kitts_and_Nevis~Islands.secret]] 
 

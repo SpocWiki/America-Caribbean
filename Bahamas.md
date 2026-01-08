@@ -25,85 +25,171 @@ cssclasses:
   - Country
 publish: true
 title: Bahamas
-linkTitle: ''
-keywords: ''
-layout: ''
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate: ''
-expiryDate: ''
+publishDate: ""
+expiryDate: ""
 Languages:
   - en-BS
+dv_ISO4217-currency_alphabetic: BSD
+dv_ISO4217-currency_name: Bahamian Dollar
+dv_ISO4217-currency_numeric: 44
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: BAHAMAS
+dv_Telephone: 1-242
+dv_Global: true
+dv_Global_Name: World
+dv_name: Bahamas
+dv_name-en:
+  - Bahamas
+  - Bahamas
+dv_name-es: Bahamas
+dv_name-fr: Bahamas
+dv_name-cn: 巴哈马
+dv_name-ar: جزر البهاما
+dv_name-ru: Багамские Острова
+dv_CLDR_display_name: Bahamas
+dv_UNTERM_English: Bahamas (the)
+dv_UNTERM_English_Formal: the Commonwealth of the Bahamas
+dv_UNTERM_Spanish_Formal: el Commonwealth de las Bahamas
+dv_UNTERM_Spanish: Bahamas (las)
+dv_UNTERM_French: Bahamas (les) [fém.]
+dv_UNTERM_Arabic: جزر البهاما
+dv_UNTERM_Arabic_Formal: كمنولث جزر البهاما
+dv_UNTERM_Chinese: 巴哈马
+dv_UNTERM_Chinese_Formal: 巴哈马国
+dv_UNTERM_French_Formal: le Commonwealth des Bahamas
+dv_UNTERM_Russian: Багамские Острова
+dv_UNTERM_Russian_Formal: Содружество Багамских Островов
+dv_Region_Name: "[[Americas]]"
+dv_Intermediate_Region_Name: "[[Caribbean]]"
+dv_Sub-region_Name: "[[Latin America and the Caribbean]]"
+dv_Region: 19
+dv_Intermediate_Region: 29
+dv_Sub-region: 419
+dv_Geoname-ID: 3572887
+dv_FIPS: BF
+dv_FIFA: BAH
+dv_IOC: BAH
+dv_MARC: bf
+dv_GAUL: 20
+dv_WMO: BA
+dv_ITU: BAH
+dv_DS: BS
+dv_TLD: .bs
+dv_EDGAR: C5
+dv_M49: 44
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_Small_Island_Developing_States: x
+dv_ISO3166-1-numeric: 44
+dv_ISO2: BS
+dv_ISO3: BHS
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~The_Bahamas,778|WD~The_Bahamas,778]]"
+    - "[Bahamas](/_Standards/Earth/Continent/America~Caribbean/Bahamas.md)"
+    - "[Bahamas.public](/_public/Earth/Continent/America~Caribbean/Bahamas.public.md)"
+    - "[Bahamas.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas.internal.md)"
+    - "[Bahamas.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas.protect.md)"
+    - "[Bahamas.private](/_private/Earth/Continent/America~Caribbean/Bahamas.private.md)"
+    - "[Bahamas.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas.personal.md)"
+    - "[Bahamas.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas.secret.md)"
+dv_name-de: Bahamas
+dv_Area-Total: 13939
+dv_Area-Land: 10010
+dv_Continent: "[[South-America]]"
+dv_VehicleCode: BS
+dv_Capital: "[[Bahamas/Counties/New_Providence/City/Nassau]]"
+dv_Alcohol-l: 8.8
+dv_Language-Id: 499
+dv_is_a_: "[[../../Geography/Place]]"
+dv_has_place_longitude: -77.33
+dv_has_place_latitude: 25.05
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../WikiData/WD~The_Bahamas,778|WD~The_Bahamas,778]]"
+  - "[Bahamas](/_Standards/Earth/Continent/America~Caribbean/Bahamas.md)"
+  - "[Bahamas.public](/_public/Earth/Continent/America~Caribbean/Bahamas.public.md)"
+  - "[Bahamas.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas.internal.md)"
+  - "[Bahamas.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas.protect.md)"
+  - "[Bahamas.private](/_private/Earth/Continent/America~Caribbean/Bahamas.private.md)"
+  - "[Bahamas.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas.personal.md)"
+  - "[Bahamas.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas.secret.md)"
 ---
 
 # [[Bahamas]] 
 
-[	ISO4217-currency_alphabetic	 :: BSD ] 
-[	ISO4217-currency_name	 :: Bahamian Dollar ] 
-[	ISO4217-currency_numeric	 :: 044 ] 
-[	ISO4217-currency_minor_unit	 :: 2 ] 
-[	ISO4217-currency_country_name	 :: BAHAMAS ] 
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric` 
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit` 
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name` 
 
-[	Telephone	 :: 1-242 ] 
+Telephone = `=this.dv_Telephone` 
 
-[	Global	 :: True ] 
-[	Global_Name	 :: World ] 
+Global = `=this.dv_Global` 
+Global_Name = `=this.dv_Global_Name` 
 
-[	name	 :: Bahamas ] 
+name = `=this.dv_name` 
 [	name-en	 :: Bahamas ] 
-[	name-es	 :: Bahamas ] 
-[	name-fr	 :: Bahamas ] 
-[	name-cn	 :: 巴哈马 ] 
-[	name-ar	 :: جزر البهاما ] 
-[	name-ru	 :: Багамские Острова ] 
+name-es = `=this.dv_name-es` 
+name-fr = `=this.dv_name-fr` 
+name-cn = `=this.dv_name-cn` 
+name-ar = `=this.dv_name-ar` 
+name-ru = `=this.dv_name-ru` 
 
-[	CLDR_display_name	 :: Bahamas ] 
+CLDR_display_name = `=this.dv_CLDR_display_name` 
 
-[	UNTERM_English	 :: Bahamas (the) ] 
-[	UNTERM_English_Formal	 :: the Commonwealth of the Bahamas ] 
-[	UNTERM_Spanish_Formal	 :: el Commonwealth de las Bahamas ] 
-[	UNTERM_Spanish	 :: Bahamas (las) ] 
-[	UNTERM_French	 :: Bahamas (les) [fém.] ] 
-[	UNTERM_Arabic	 :: جزر البهاما ] 
-[	UNTERM_Arabic_Formal	 :: كمنولث جزر البهاما ] 
-[	UNTERM_Chinese	 :: 巴哈马 ] 
-[	UNTERM_Chinese_Formal	 :: 巴哈马国 ] 
-[	UNTERM_French_Formal	 :: le Commonwealth des Bahamas ] 
-[	UNTERM_Russian	 :: Багамские Острова ] 
-[	UNTERM_Russian_Formal	 :: Содружество Багамских Островов ] 
+UNTERM_English = `=this.dv_UNTERM_English` 
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal` 
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal` 
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish` 
+UNTERM_French = `=this.dv_UNTERM_French` ] 
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic` 
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal` 
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese` 
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal` 
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal` 
+UNTERM_Russian = `=this.dv_UNTERM_Russian` 
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal` 
 
-Region_Name ::  [[Americas]]  
-Intermediate_Region_Name ::  [[Caribbean]]  
-Sub-region_Name ::  [[Latin America and the Caribbean]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 19 ] 
-[	Intermediate_Region	 :: 29 ] 
-[	Sub-region	 :: 419 ] 
+Region = `=this.dv_Region` 
+Intermediate_Region = `=this.dv_Intermediate_Region` 
+Sub-region = `=this.dv_Sub-region` 
 
-[	Geoname-ID	 :: 3572887 ] 
-[	FIPS	 :: BF ] 
-[	FIFA	 :: BAH ] 
-[	IOC	 :: BAH ] 
-[	MARC	 :: bf ] 
-[	GAUL	 :: 20 ] 
-[	WMO	 :: BA ] 
-[	ITU	 :: BAH ] 
-[	DS	 :: BS ] 
-[	TLD	 :: .bs ] 
-[	EDGAR	 :: C5 ] 
-[	M49	 :: 44 ] 
+Geoname-ID = `=this.dv_Geoname-ID` 
+FIPS = `=this.dv_FIPS` 
+FIFA = `=this.dv_FIFA` 
+IOC = `=this.dv_IOC` 
+MARC = `=this.dv_MARC` 
+GAUL = `=this.dv_GAUL` 
+WMO = `=this.dv_WMO` 
+ITU = `=this.dv_ITU` 
+DS = `=this.dv_DS` 
+TLD = `=this.dv_TLD` 
+EDGAR = `=this.dv_EDGAR` 
+M49 = `=this.dv_M49` 
 
-[	is_independent	 :: Yes ] 
-[	Developed_/Developing_Countries	 :: Developing ] 
+is_independent = `=this.dv_is_independent` 
+developed_developing_countries = `=this.dv_developed_developing_countries` 
 [	Land_Locked_Developing_Countries	 ::  ] 
 [	Least_Developed_Countries	 ::  ] 
-[	Small_Island_Developing_States	 :: x ] 
+Small_Island_Developing_States = `=this.dv_Small_Island_Developing_States` 
 
-[	ISO3166-1-numeric	 :: 044 ] 
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric` 
 
-[ISO2::BS] 
-[ISO3::BHS] 
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../WikiData/WD~The_Bahamas,778|WD~The_Bahamas,778]] 
+is_a_ = `=this.dv_is_a_`
 
 ## #has_/map 
 
@@ -117,21 +203,21 @@ markerFolder: ./Bahamas/
 ```
 
 [name-en::Bahamas] 
-[name-de::Bahamas] 
-[Area-Total::13939] 
-[Area-Land::10010] 
-Continent :: [[South-America]]  
-[VehicleCode::BS] 
-Capital :: [[Bahamas/Counties/New_Providence/City/Nassau]]  
+name-de = `=this.dv_name-de` 
+Area-Total = `=this.dv_Area-Total` 
+Area-Land = `=this.dv_Area-Land` 
+Continent = `=this.dv_Continent`
+VehicleCode = `=this.dv_VehicleCode` 
+Capital = `=this.dv_Capital`
 ![[Coat_of_arms_of_Bahamas.svg|350]] 
 ![[Anthem-Bahamas.mp3]] 
 ![[Flag_of_Bahamas.svg|350]] 
-[Alcohol-l::8.8] 
-[Language-Id::499] 
+Alcohol-l = `=this.dv_Alcohol-l` 
+Language-Id = `=this.dv_Language-Id` 
 #is_a_/Place  
-#is_a_ :: [[../../Geography/Place]] 
-[has_place_longitude::-77.33] 
-[has_place_latitude::25.05] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 
 
 ## #has_/text_of_/abstract 
@@ -149,17 +235,17 @@ Capital :: [[Bahamas/Counties/New_Providence/City/Nassau]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bahamas](/_Standards/Earth/Continent/America~Caribbean/Bahamas.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Bahamas|Bahamas]] 
 
-### #is_/same_as :: [Bahamas.public](/_public/Earth/Continent/America~Caribbean/Bahamas.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Bahamas.public|Bahamas.public]] 
 
-### #is_/same_as :: [Bahamas.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Bahamas.internal|Bahamas.internal]] 
 
-### #is_/same_as :: [Bahamas.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Bahamas.protect|Bahamas.protect]] 
 
-### #is_/same_as :: [Bahamas.private](/_private/Earth/Continent/America~Caribbean/Bahamas.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Bahamas.private|Bahamas.private]] 
 
-### #is_/same_as :: [Bahamas.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Bahamas.personal|Bahamas.personal]] 
 
-### #is_/same_as :: [Bahamas.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Bahamas.secret|Bahamas.secret]] 
 

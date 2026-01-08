@@ -21,11 +21,28 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as:
+    - "[Saint_George-City](/_Standards/Earth/Continent/America~Caribbean/Bermuda/Counties/Saint_George-City.md)"
+    - "[Saint_George-City.public](/_public/Earth/Continent/America~Caribbean/Bermuda/Counties/Saint_George-City.public.md)"
+    - "[Saint_George-City.internal](/_internal/Earth/Continent/America~Caribbean/Bermuda/Counties/Saint_George-City.internal.md)"
+    - "[Saint_George-City.protect](/_protect/Earth/Continent/America~Caribbean/Bermuda/Counties/Saint_George-City.protect.md)"
+    - "[Saint_George-City.private](/_private/Earth/Continent/America~Caribbean/Bermuda/Counties/Saint_George-City.private.md)"
+    - "[Saint_George-City.personal](/_personal/Earth/Continent/America~Caribbean/Bermuda/Counties/Saint_George-City.personal.md)"
+    - "[Saint_George-City.secret](/_secret/Earth/Continent/America~Caribbean/Bermuda/Counties/Saint_George-City.secret.md)"
+dv_is_same_as:
+  - "[Saint_George-City](/_Standards/Earth/Continent/America~Caribbean/Bermuda/Counties/Saint_George-City.md)"
+  - "[Saint_George-City.public](/_public/Earth/Continent/America~Caribbean/Bermuda/Counties/Saint_George-City.public.md)"
+  - "[Saint_George-City.internal](/_internal/Earth/Continent/America~Caribbean/Bermuda/Counties/Saint_George-City.internal.md)"
+  - "[Saint_George-City.protect](/_protect/Earth/Continent/America~Caribbean/Bermuda/Counties/Saint_George-City.protect.md)"
+  - "[Saint_George-City.private](/_private/Earth/Continent/America~Caribbean/Bermuda/Counties/Saint_George-City.private.md)"
+  - "[Saint_George-City.personal](/_personal/Earth/Continent/America~Caribbean/Bermuda/Counties/Saint_George-City.personal.md)"
+  - "[Saint_George-City.secret](/_secret/Earth/Continent/America~Caribbean/Bermuda/Counties/Saint_George-City.secret.md)"
 ---
 
 # City_of_Saint_George
@@ -42,17 +59,17 @@ markerFolder: ./City_of_Saint_George/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Saint_George-City](/_Standards/Earth/Continent/America~Caribbean/Bermuda/Counties/Saint_George-City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Bermuda/Counties/Saint_George-City|Saint_George-City]] 
 
-### #is_/same_as :: [Saint_George-City.public](/_public/Earth/Continent/America~Caribbean/Bermuda/Counties/Saint_George-City.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Bermuda/Counties/Saint_George-City.public|Saint_George-City.public]] 
 
-### #is_/same_as :: [Saint_George-City.internal](/_internal/Earth/Continent/America~Caribbean/Bermuda/Counties/Saint_George-City.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Bermuda/Counties/Saint_George-City.internal|Saint_George-City.internal]] 
 
-### #is_/same_as :: [Saint_George-City.protect](/_protect/Earth/Continent/America~Caribbean/Bermuda/Counties/Saint_George-City.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Bermuda/Counties/Saint_George-City.protect|Saint_George-City.protect]] 
 
-### #is_/same_as :: [Saint_George-City.private](/_private/Earth/Continent/America~Caribbean/Bermuda/Counties/Saint_George-City.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Bermuda/Counties/Saint_George-City.private|Saint_George-City.private]] 
 
-### #is_/same_as :: [Saint_George-City.personal](/_personal/Earth/Continent/America~Caribbean/Bermuda/Counties/Saint_George-City.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Bermuda/Counties/Saint_George-City.personal|Saint_George-City.personal]] 
 
-### #is_/same_as :: [Saint_George-City.secret](/_secret/Earth/Continent/America~Caribbean/Bermuda/Counties/Saint_George-City.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Bermuda/Counties/Saint_George-City.secret|Saint_George-City.secret]] 
 

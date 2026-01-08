@@ -21,11 +21,28 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as:
+    - "[Saint_Philip](/_Standards/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Philip.md)"
+    - "[Saint_Philip.public](/_public/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Philip.public.md)"
+    - "[Saint_Philip.internal](/_internal/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Philip.internal.md)"
+    - "[Saint_Philip.protect](/_protect/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Philip.protect.md)"
+    - "[Saint_Philip.private](/_private/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Philip.private.md)"
+    - "[Saint_Philip.personal](/_personal/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Philip.personal.md)"
+    - "[Saint_Philip.secret](/_secret/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Philip.secret.md)"
+dv_is_same_as:
+  - "[Saint_Philip](/_Standards/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Philip.md)"
+  - "[Saint_Philip.public](/_public/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Philip.public.md)"
+  - "[Saint_Philip.internal](/_internal/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Philip.internal.md)"
+  - "[Saint_Philip.protect](/_protect/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Philip.protect.md)"
+  - "[Saint_Philip.private](/_private/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Philip.private.md)"
+  - "[Saint_Philip.personal](/_personal/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Philip.personal.md)"
+  - "[Saint_Philip.secret](/_secret/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Philip.secret.md)"
 ---
 
 # [[Saint_Philip,Barbados]]
@@ -42,17 +59,17 @@ markerFolder: ./Saint_Philip/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Saint_Philip](/_Standards/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Philip.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Lesser_Antilles/Barbados/Provinces~Barbados/Saint_Philip,Barbados|Saint_Philip,Barbados]] 
 
-### #is_/same_as :: [Saint_Philip.public](/_public/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Philip.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Lesser_Antilles/Barbados/Provinces~Barbados/Saint_Philip,Barbados.public|Saint_Philip,Barbados.public]] 
 
-### #is_/same_as :: [Saint_Philip.internal](/_internal/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Philip.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Lesser_Antilles/Barbados/Provinces~Barbados/Saint_Philip,Barbados.internal|Saint_Philip,Barbados.internal]] 
 
-### #is_/same_as :: [Saint_Philip.protect](/_protect/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Philip.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Lesser_Antilles/Barbados/Provinces~Barbados/Saint_Philip,Barbados.protect|Saint_Philip,Barbados.protect]] 
 
-### #is_/same_as :: [Saint_Philip.private](/_private/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Philip.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Lesser_Antilles/Barbados/Provinces~Barbados/Saint_Philip,Barbados.private|Saint_Philip,Barbados.private]] 
 
-### #is_/same_as :: [Saint_Philip.personal](/_personal/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Philip.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Lesser_Antilles/Barbados/Provinces~Barbados/Saint_Philip,Barbados.personal|Saint_Philip,Barbados.personal]] 
 
-### #is_/same_as :: [Saint_Philip.secret](/_secret/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Philip.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Lesser_Antilles/Barbados/Provinces~Barbados/Saint_Philip,Barbados.secret|Saint_Philip,Barbados.secret]] 
 

@@ -1,4 +1,29 @@
-﻿---
+---
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: -59.53333
+dv_has_place_latitude: 13
+dv_name: Bridgetown
+dv_Unknown: 32
+dv_is_:
+  same_as:
+    - "[[../../../../../../WikiData/WD~Bridgetown,36168|WD~Bridgetown,36168]]"
+    - "[Bridgetown](/_Standards/Earth/Continent/America~Caribbean/Barbados/City/Bridgetown.md)"
+    - "[Bridgetown.public](/_public/Earth/Continent/America~Caribbean/Barbados/City/Bridgetown.public.md)"
+    - "[Bridgetown.internal](/_internal/Earth/Continent/America~Caribbean/Barbados/City/Bridgetown.internal.md)"
+    - "[Bridgetown.protect](/_protect/Earth/Continent/America~Caribbean/Barbados/City/Bridgetown.protect.md)"
+    - "[Bridgetown.private](/_private/Earth/Continent/America~Caribbean/Barbados/City/Bridgetown.private.md)"
+    - "[Bridgetown.personal](/_personal/Earth/Continent/America~Caribbean/Barbados/City/Bridgetown.personal.md)"
+    - "[Bridgetown.secret](/_secret/Earth/Continent/America~Caribbean/Barbados/City/Bridgetown.secret.md)"
+dv_is_same_as:
+  - "[[../../../../../../WikiData/WD~Bridgetown,36168|WD~Bridgetown,36168]]"
+  - "[Bridgetown](/_Standards/Earth/Continent/America~Caribbean/Barbados/City/Bridgetown.md)"
+  - "[Bridgetown.public](/_public/Earth/Continent/America~Caribbean/Barbados/City/Bridgetown.public.md)"
+  - "[Bridgetown.internal](/_internal/Earth/Continent/America~Caribbean/Barbados/City/Bridgetown.internal.md)"
+  - "[Bridgetown.protect](/_protect/Earth/Continent/America~Caribbean/Barbados/City/Bridgetown.protect.md)"
+  - "[Bridgetown.private](/_private/Earth/Continent/America~Caribbean/Barbados/City/Bridgetown.private.md)"
+  - "[Bridgetown.personal](/_personal/Earth/Continent/America~Caribbean/Barbados/City/Bridgetown.personal.md)"
+  - "[Bridgetown.secret](/_secret/Earth/Continent/America~Caribbean/Barbados/City/Bridgetown.secret.md)"
+
 has_time_started: 1628-01-01 
 aliases:
   - Bridgetown
@@ -68,17 +93,17 @@ area: 38849821
 # [[Bridgetown]] 
 
 #is_a_/Place  
-#is_a_ :: [[../../../../../Geography/Place]] 
-[has_place_longitude::-59.53333] 
-[has_place_latitude::13] 
-[name::Bridgetown] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
 Country :: [[../../Barbados]] 
 [StateId::] 
 [Population::] 
-[Unknown::32] 
+Unknown = `=this.dv_Unknown` 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Bridgetown,36168|WD~Bridgetown,36168]] 
+is_a_ = `=this.dv_is_a_`
 
 ## #has_/map 
 
@@ -93,17 +118,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bridgetown](/_Standards/Earth/Continent/America~Caribbean/Barbados/City/Bridgetown.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Lesser_Antilles/Barbados/City/Bridgetown|Bridgetown]] 
 
-### #is_/same_as :: [Bridgetown.public](/_public/Earth/Continent/America~Caribbean/Barbados/City/Bridgetown.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Lesser_Antilles/Barbados/City/Bridgetown.public|Bridgetown.public]] 
 
-### #is_/same_as :: [Bridgetown.internal](/_internal/Earth/Continent/America~Caribbean/Barbados/City/Bridgetown.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Lesser_Antilles/Barbados/City/Bridgetown.internal|Bridgetown.internal]] 
 
-### #is_/same_as :: [Bridgetown.protect](/_protect/Earth/Continent/America~Caribbean/Barbados/City/Bridgetown.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Lesser_Antilles/Barbados/City/Bridgetown.protect|Bridgetown.protect]] 
 
-### #is_/same_as :: [Bridgetown.private](/_private/Earth/Continent/America~Caribbean/Barbados/City/Bridgetown.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Lesser_Antilles/Barbados/City/Bridgetown.private|Bridgetown.private]] 
 
-### #is_/same_as :: [Bridgetown.personal](/_personal/Earth/Continent/America~Caribbean/Barbados/City/Bridgetown.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Lesser_Antilles/Barbados/City/Bridgetown.personal|Bridgetown.personal]] 
 
-### #is_/same_as :: [Bridgetown.secret](/_secret/Earth/Continent/America~Caribbean/Barbados/City/Bridgetown.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Lesser_Antilles/Barbados/City/Bridgetown.secret|Bridgetown.secret]] 
 

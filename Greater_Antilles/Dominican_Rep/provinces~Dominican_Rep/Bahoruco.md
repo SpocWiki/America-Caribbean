@@ -19,11 +19,28 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as:
+    - "[Bahoruco](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Bahoruco.md)"
+    - "[Bahoruco.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Bahoruco.public.md)"
+    - "[Bahoruco.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Bahoruco.internal.md)"
+    - "[Bahoruco.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Bahoruco.protect.md)"
+    - "[Bahoruco.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Bahoruco.private.md)"
+    - "[Bahoruco.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Bahoruco.personal.md)"
+    - "[Bahoruco.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Bahoruco.secret.md)"
+dv_is_same_as:
+  - "[Bahoruco](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Bahoruco.md)"
+  - "[Bahoruco.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Bahoruco.public.md)"
+  - "[Bahoruco.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Bahoruco.internal.md)"
+  - "[Bahoruco.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Bahoruco.protect.md)"
+  - "[Bahoruco.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Bahoruco.private.md)"
+  - "[Bahoruco.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Bahoruco.personal.md)"
+  - "[Bahoruco.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Bahoruco.secret.md)"
 ---
 
 # Bahoruco
@@ -40,17 +57,17 @@ markerFolder: ./Bahoruco/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bahoruco](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Bahoruco.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Greater_Antilles/Dominican_Rep/provinces~Dominican_Rep/Bahoruco|Bahoruco]] 
 
-### #is_/same_as :: [Bahoruco.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Bahoruco.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Greater_Antilles/Dominican_Rep/provinces~Dominican_Rep/Bahoruco.public|Bahoruco.public]] 
 
-### #is_/same_as :: [Bahoruco.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Bahoruco.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Greater_Antilles/Dominican_Rep/provinces~Dominican_Rep/Bahoruco.internal|Bahoruco.internal]] 
 
-### #is_/same_as :: [Bahoruco.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Bahoruco.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Greater_Antilles/Dominican_Rep/provinces~Dominican_Rep/Bahoruco.protect|Bahoruco.protect]] 
 
-### #is_/same_as :: [Bahoruco.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Bahoruco.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Greater_Antilles/Dominican_Rep/provinces~Dominican_Rep/Bahoruco.private|Bahoruco.private]] 
 
-### #is_/same_as :: [Bahoruco.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Bahoruco.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Greater_Antilles/Dominican_Rep/provinces~Dominican_Rep/Bahoruco.personal|Bahoruco.personal]] 
 
-### #is_/same_as :: [Bahoruco.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Bahoruco.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Greater_Antilles/Dominican_Rep/provinces~Dominican_Rep/Bahoruco.secret|Bahoruco.secret]] 
 

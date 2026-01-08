@@ -20,11 +20,28 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as:
+    - "[Saint_Thomas_Middle_Island](/_Standards/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_Thomas_Middle_Island.md)"
+    - "[Saint_Thomas_Middle_Island.public](/_public/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_Thomas_Middle_Island.public.md)"
+    - "[Saint_Thomas_Middle_Island.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_Thomas_Middle_Island.internal.md)"
+    - "[Saint_Thomas_Middle_Island.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_Thomas_Middle_Island.protect.md)"
+    - "[Saint_Thomas_Middle_Island.private](/_private/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_Thomas_Middle_Island.private.md)"
+    - "[Saint_Thomas_Middle_Island.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_Thomas_Middle_Island.personal.md)"
+    - "[Saint_Thomas_Middle_Island.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_Thomas_Middle_Island.secret.md)"
+dv_is_same_as:
+  - "[Saint_Thomas_Middle_Island](/_Standards/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_Thomas_Middle_Island.md)"
+  - "[Saint_Thomas_Middle_Island.public](/_public/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_Thomas_Middle_Island.public.md)"
+  - "[Saint_Thomas_Middle_Island.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_Thomas_Middle_Island.internal.md)"
+  - "[Saint_Thomas_Middle_Island.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_Thomas_Middle_Island.protect.md)"
+  - "[Saint_Thomas_Middle_Island.private](/_private/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_Thomas_Middle_Island.private.md)"
+  - "[Saint_Thomas_Middle_Island.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_Thomas_Middle_Island.personal.md)"
+  - "[Saint_Thomas_Middle_Island.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_Thomas_Middle_Island.secret.md)"
 ---
 
 # Saint_Thomas_Middle_Island
@@ -41,17 +58,17 @@ markerFolder: ./Saint_Thomas_Middle_Island/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Saint_Thomas_Middle_Island](/_Standards/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_Thomas_Middle_Island.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Lesser_Antilles/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_Thomas_Middle_Island|Saint_Thomas_Middle_Island]] 
 
-### #is_/same_as :: [Saint_Thomas_Middle_Island.public](/_public/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_Thomas_Middle_Island.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Lesser_Antilles/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_Thomas_Middle_Island.public|Saint_Thomas_Middle_Island.public]] 
 
-### #is_/same_as :: [Saint_Thomas_Middle_Island.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_Thomas_Middle_Island.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Lesser_Antilles/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_Thomas_Middle_Island.internal|Saint_Thomas_Middle_Island.internal]] 
 
-### #is_/same_as :: [Saint_Thomas_Middle_Island.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_Thomas_Middle_Island.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Lesser_Antilles/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_Thomas_Middle_Island.protect|Saint_Thomas_Middle_Island.protect]] 
 
-### #is_/same_as :: [Saint_Thomas_Middle_Island.private](/_private/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_Thomas_Middle_Island.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Lesser_Antilles/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_Thomas_Middle_Island.private|Saint_Thomas_Middle_Island.private]] 
 
-### #is_/same_as :: [Saint_Thomas_Middle_Island.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_Thomas_Middle_Island.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Lesser_Antilles/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_Thomas_Middle_Island.personal|Saint_Thomas_Middle_Island.personal]] 
 
-### #is_/same_as :: [Saint_Thomas_Middle_Island.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_Thomas_Middle_Island.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Lesser_Antilles/Saint_Kitts_and_Nevis~Islands/parishes~Saint_Kitts_and_Nevis/Saint_Thomas_Middle_Island.secret|Saint_Thomas_Middle_Island.secret]] 
 

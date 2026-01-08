@@ -1,4 +1,36 @@
-﻿---
+---
+dv_ISO2: DO
+dv_ISO3: DOM
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Dominican_Republic,786|WD~Dominican_Republic,786]]"
+    - "[Dominican_Rep](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep.md)"
+    - "[Dominican_Rep.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep.public.md)"
+    - "[Dominican_Rep.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep.internal.md)"
+    - "[Dominican_Rep.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep.protect.md)"
+    - "[Dominican_Rep.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep.private.md)"
+    - "[Dominican_Rep.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep.personal.md)"
+    - "[Dominican_Rep.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep.secret.md)"
+dv_name-en: Dominican Rep.
+dv_name-de: Dominikanische Republik
+dv_Area-Total: 48422
+dv_Area-Land: 48380
+dv_VehicleCode: DOM
+dv_Alcohol-l: 6.4
+dv_Language-Id: 492
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: -70.6667
+dv_has_place_latitude: 19
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Dominican_Republic,786|WD~Dominican_Republic,786]]"
+  - "[Dominican_Rep](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep.md)"
+  - "[Dominican_Rep.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep.public.md)"
+  - "[Dominican_Rep.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep.internal.md)"
+  - "[Dominican_Rep.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep.protect.md)"
+  - "[Dominican_Rep.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep.private.md)"
+  - "[Dominican_Rep.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep.personal.md)"
+  - "[Dominican_Rep.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep.secret.md)"
+
 has_time_started: 1844-01-01 
 aliases:
   - Dominican Republic
@@ -298,10 +330,10 @@ ISNI: 123700622
 
 # [[Dominican_Rep]] 
 
-[ISO2::DO] 
-[ISO3::DOM] 
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../../WikiData/WD~Dominican_Republic,786|WD~Dominican_Republic,786]] 
+is_a_ = `=this.dv_is_a_`
 
 ## #has_/map  
 
@@ -314,22 +346,22 @@ geojsonFolder: ./Dominican_Rep///
 markerFolder: ./Dominican_Rep/
 ```
 
-[name-en::Dominican Rep.] 
-[name-de::Dominikanische Republik] 
-[Area-Total::48422] 
-[Area-Land::48380] 
+name-en = `=this.dv_name-en` 
+name-de = `=this.dv_name-de` 
+Area-Total = `=this.dv_Area-Total` 
+Area-Land = `=this.dv_Area-Land` 
 Continent :: [[South-America]]  
-[VehicleCode::DOM] 
+VehicleCode = `=this.dv_VehicleCode` 
 Capital :: [[Dominican_Rep/Counties/La_Vega/City/Santo_Domingo]]  
 ![[Coat_of_arms_of_Dominican-republic.svg|350]] 
 ![[Anthem-Dominican-republic.mp3]] 
 ![[Flag_of_Dominican-republic.svg|350]] 
-[Alcohol-l::6.4] 
-[Language-Id::492] 
+Alcohol-l = `=this.dv_Alcohol-l` 
+Language-Id = `=this.dv_Language-Id` 
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::-70.6667] 
-[has_place_latitude::19] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 
 
 ## #has_/text_of_/abstract 
@@ -347,17 +379,17 @@ Capital :: [[Dominican_Rep/Counties/La_Vega/City/Santo_Domingo]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Dominican_Rep](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Greater_Antilles/Dominican_Rep|Dominican_Rep]] 
 
-### #is_/same_as :: [Dominican_Rep.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Greater_Antilles/Dominican_Rep.public|Dominican_Rep.public]] 
 
-### #is_/same_as :: [Dominican_Rep.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Greater_Antilles/Dominican_Rep.internal|Dominican_Rep.internal]] 
 
-### #is_/same_as :: [Dominican_Rep.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Greater_Antilles/Dominican_Rep.protect|Dominican_Rep.protect]] 
 
-### #is_/same_as :: [Dominican_Rep.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Greater_Antilles/Dominican_Rep.private|Dominican_Rep.private]] 
 
-### #is_/same_as :: [Dominican_Rep.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Greater_Antilles/Dominican_Rep.personal|Dominican_Rep.personal]] 
 
-### #is_/same_as :: [Dominican_Rep.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Greater_Antilles/Dominican_Rep.secret|Dominican_Rep.secret]] 
 

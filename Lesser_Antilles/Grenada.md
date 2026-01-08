@@ -1,4 +1,89 @@
-﻿---
+---
+dv_ISO4217-currency_alphabetic: XCD
+dv_ISO4217-currency_name: East Caribbean Dollar
+dv_ISO4217-currency_numeric: 951
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: GRENADA
+dv_Telephone: 1-473
+dv_Global: true
+dv_Global_Name: World
+dv_name: Grenada
+dv_name-en:
+  - Grenada
+  - Grenada
+dv_name-es: Granada
+dv_name-fr: Grenade
+dv_name-cn: 格林纳达
+dv_name-ar: غرينادا
+dv_name-ru: Гренада
+dv_CLDR_display_name: Grenada
+dv_UNTERM_English: Grenada
+dv_UNTERM_English_Formal: Grenada
+dv_UNTERM_Spanish_Formal: Granada
+dv_UNTERM_Spanish: Granada
+dv_UNTERM_French: Grenade (la)
+dv_UNTERM_Arabic: غرينادا
+dv_UNTERM_Arabic_Formal: غرينادا
+dv_UNTERM_Chinese: 格林纳达
+dv_UNTERM_Chinese_Formal: 格林纳达
+dv_UNTERM_French_Formal: la Grenade
+dv_UNTERM_Russian: Гренада
+dv_UNTERM_Russian_Formal: Гренада
+dv_Region_Name: "[[Americas]]"
+dv_Intermediate_Region_Name: "[[Caribbean]]"
+dv_Sub-region_Name: "[[Latin America and the Caribbean]]"
+dv_Region: 19
+dv_Intermediate_Region: 29
+dv_Sub-region: 419
+dv_Geoname-ID: 3580239
+dv_FIPS: GJ
+dv_FIFA: GRN
+dv_IOC: GRN
+dv_MARC: gd
+dv_GAUL: 99
+dv_WMO: GD
+dv_ITU: GRD
+dv_DS: WG
+dv_TLD: .gd
+dv_EDGAR: J5
+dv_M49: 308
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_Small_Island_Developing_States: x
+dv_ISO3166-1-numeric: 308
+dv_ISO2: GD
+dv_ISO3: GRD
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Grenada,769|WD~Grenada,769]]"
+    - "[Grenada](/_Standards/Earth/Continent/America~Caribbean/Grenada.md)"
+    - "[Grenada.public](/_public/Earth/Continent/America~Caribbean/Grenada.public.md)"
+    - "[Grenada.internal](/_internal/Earth/Continent/America~Caribbean/Grenada.internal.md)"
+    - "[Grenada.protect](/_protect/Earth/Continent/America~Caribbean/Grenada.protect.md)"
+    - "[Grenada.private](/_private/Earth/Continent/America~Caribbean/Grenada.private.md)"
+    - "[Grenada.personal](/_personal/Earth/Continent/America~Caribbean/Grenada.personal.md)"
+    - "[Grenada.secret](/_secret/Earth/Continent/America~Caribbean/Grenada.secret.md)"
+dv_name-de: Grenada
+dv_Area-Total: 344
+dv_Area-Land: 340
+dv_VehicleCode: WG
+dv_Alcohol-l: 10.4
+dv_Language-Id: 499
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: -61.75
+dv_has_place_latitude: 12.05
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Grenada,769|WD~Grenada,769]]"
+  - "[Grenada](/_Standards/Earth/Continent/America~Caribbean/Grenada.md)"
+  - "[Grenada.public](/_public/Earth/Continent/America~Caribbean/Grenada.public.md)"
+  - "[Grenada.internal](/_internal/Earth/Continent/America~Caribbean/Grenada.internal.md)"
+  - "[Grenada.protect](/_protect/Earth/Continent/America~Caribbean/Grenada.protect.md)"
+  - "[Grenada.private](/_private/Earth/Continent/America~Caribbean/Grenada.private.md)"
+  - "[Grenada.personal](/_personal/Earth/Continent/America~Caribbean/Grenada.personal.md)"
+  - "[Grenada.secret](/_secret/Earth/Continent/America~Caribbean/Grenada.secret.md)"
+
 has_time_started: 1974 
 aliases:
   - Grenada
@@ -276,73 +361,73 @@ Krugosvet_article: strany_mira/GRENADA.html
 
 # [[Grenada]] 
 
-[	ISO4217-currency_alphabetic	 :: XCD ] 
-[	ISO4217-currency_name	 :: East Caribbean Dollar ] 
-[	ISO4217-currency_numeric	 :: 951 ] 
-[	ISO4217-currency_minor_unit	 :: 2 ] 
-[	ISO4217-currency_country_name	 :: GRENADA ] 
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric` 
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit` 
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name` 
 
-[	Telephone	 :: 1-473 ] 
+Telephone = `=this.dv_Telephone` 
 
-[	Global	 :: True ] 
-[	Global_Name	 :: World ] 
+Global = `=this.dv_Global` 
+Global_Name = `=this.dv_Global_Name` 
 
-[	name	 :: Grenada ] 
+name = `=this.dv_name` 
 [	name-en	 :: Grenada ] 
-[	name-es	 :: Granada ] 
-[	name-fr	 :: Grenade ] 
-[	name-cn	 :: 格林纳达 ] 
-[	name-ar	 :: غرينادا ] 
-[	name-ru	 :: Гренада ] 
+name-es = `=this.dv_name-es` 
+name-fr = `=this.dv_name-fr` 
+name-cn = `=this.dv_name-cn` 
+name-ar = `=this.dv_name-ar` 
+name-ru = `=this.dv_name-ru` 
 
-[	CLDR_display_name	 :: Grenada ] 
+CLDR_display_name = `=this.dv_CLDR_display_name` 
 
-[	UNTERM_English	 :: Grenada ] 
-[	UNTERM_English_Formal	 :: Grenada ] 
-[	UNTERM_Spanish_Formal	 :: Granada ] 
-[	UNTERM_Spanish	 :: Granada ] 
-[	UNTERM_French	 :: Grenade (la) ] 
-[	UNTERM_Arabic	 :: غرينادا ] 
-[	UNTERM_Arabic_Formal	 :: غرينادا ] 
-[	UNTERM_Chinese	 :: 格林纳达 ] 
-[	UNTERM_Chinese_Formal	 :: 格林纳达 ] 
-[	UNTERM_French_Formal	 :: la Grenade ] 
-[	UNTERM_Russian	 :: Гренада ] 
-[	UNTERM_Russian_Formal	 :: Гренада ] 
+UNTERM_English = `=this.dv_UNTERM_English` 
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal` 
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal` 
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish` 
+UNTERM_French = `=this.dv_UNTERM_French` 
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic` 
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal` 
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese` 
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal` 
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal` 
+UNTERM_Russian = `=this.dv_UNTERM_Russian` 
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal` 
 
-Region_Name ::  [[Americas]]  
-Intermediate_Region_Name ::  [[Caribbean]]  
-Sub-region_Name ::  [[Latin America and the Caribbean]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 19 ] 
-[	Intermediate_Region	 :: 29 ] 
-[	Sub-region	 :: 419 ] 
+Region = `=this.dv_Region` 
+Intermediate_Region = `=this.dv_Intermediate_Region` 
+Sub-region = `=this.dv_Sub-region` 
 
-[	Geoname-ID	 :: 3580239 ] 
-[	FIPS	 :: GJ ] 
-[	FIFA	 :: GRN ] 
-[	IOC	 :: GRN ] 
-[	MARC	 :: gd ] 
-[	GAUL	 :: 99 ] 
-[	WMO	 :: GD ] 
-[	ITU	 :: GRD ] 
-[	DS	 :: WG ] 
-[	TLD	 :: .gd ] 
-[	EDGAR	 :: J5 ] 
-[	M49	 :: 308 ] 
+Geoname-ID = `=this.dv_Geoname-ID` 
+FIPS = `=this.dv_FIPS` 
+FIFA = `=this.dv_FIFA` 
+IOC = `=this.dv_IOC` 
+MARC = `=this.dv_MARC` 
+GAUL = `=this.dv_GAUL` 
+WMO = `=this.dv_WMO` 
+ITU = `=this.dv_ITU` 
+DS = `=this.dv_DS` 
+TLD = `=this.dv_TLD` 
+EDGAR = `=this.dv_EDGAR` 
+M49 = `=this.dv_M49` 
 
-[	is_independent	 :: Yes ] 
-[	Developed_/Developing_Countries	 :: Developing ] 
+is_independent = `=this.dv_is_independent` 
+developed_developing_countries = `=this.dv_developed_developing_countries` 
 [	Land_Locked_Developing_Countries	 ::  ] 
 [	Least_Developed_Countries	 ::  ] 
-[	Small_Island_Developing_States	 :: x ] 
+Small_Island_Developing_States = `=this.dv_Small_Island_Developing_States` 
 
-[	ISO3166-1-numeric	 :: 308 ] 
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric` 
 
-[ISO2::GD] 
-[ISO3::GRD] 
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../../WikiData/WD~Grenada,769|WD~Grenada,769]] 
+is_a_ = `=this.dv_is_a_`
 
 ## #has_/text_of_/abstract  
 
@@ -356,7 +441,7 @@ markerFolder: ./Grenada/
 ```
 
 [name-en::Grenada] 
-[name-de::Grenada] 
+name-de = `=this.dv_name-de` 
 
 ![[Grenada/Coat_of_arms_of_Grenada.svg|450]] 
 
@@ -364,17 +449,17 @@ markerFolder: ./Grenada/
 
 ![[Grenada/Flag_of_Grenada.svg|350]] 
 
-[Area-Total::344] 
-[Area-Land::340] 
+Area-Total = `=this.dv_Area-Total` 
+Area-Land = `=this.dv_Area-Land` 
 Continent :: [[South-America]]  
-[VehicleCode::WG] 
+VehicleCode = `=this.dv_VehicleCode` 
 Capital :: [[Grenada/parishes~Grenada/Saint_George_Parish/St._George’s,Grenada]]  
-[Alcohol-l::10.4] 
-[Language-Id::499] 
+Alcohol-l = `=this.dv_Alcohol-l` 
+Language-Id = `=this.dv_Language-Id` 
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::-61.75] 
-[has_place_latitude::12.05] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 
 
 ## #has_/text_of_/abstract 
@@ -434,17 +519,17 @@ Capital :: [[Grenada/parishes~Grenada/Saint_George_Parish/St._George’s,Grenada
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Grenada](/_Standards/Earth/Continent/America~Caribbean/Grenada.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Lesser_Antilles/Grenada|Grenada]] 
 
-### #is_/same_as :: [Grenada.public](/_public/Earth/Continent/America~Caribbean/Grenada.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Lesser_Antilles/Grenada.public|Grenada.public]] 
 
-### #is_/same_as :: [Grenada.internal](/_internal/Earth/Continent/America~Caribbean/Grenada.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Lesser_Antilles/Grenada.internal|Grenada.internal]] 
 
-### #is_/same_as :: [Grenada.protect](/_protect/Earth/Continent/America~Caribbean/Grenada.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Lesser_Antilles/Grenada.protect|Grenada.protect]] 
 
-### #is_/same_as :: [Grenada.private](/_private/Earth/Continent/America~Caribbean/Grenada.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Lesser_Antilles/Grenada.private|Grenada.private]] 
 
-### #is_/same_as :: [Grenada.personal](/_personal/Earth/Continent/America~Caribbean/Grenada.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Lesser_Antilles/Grenada.personal|Grenada.personal]] 
 
-### #is_/same_as :: [Grenada.secret](/_secret/Earth/Continent/America~Caribbean/Grenada.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Lesser_Antilles/Grenada.secret|Grenada.secret]] 
 

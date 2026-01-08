@@ -12,12 +12,44 @@ tags:
 SpocWebEntityId: 26828
 isDeleted: false
 confidential: public
+dv_ISO2: AG
+dv_ISO3: ATG
+dv_name-en: Antigua And Barbuda
+dv_name-de: Antigua und Barbuda
+dv_Area-Total: 441
+dv_Area-Land: 440
+dv_Continent: "[[South-America]]"
+dv_VehicleCode: AG
+dv_Capital: "[[Antigua_and_Barbuda/Counties/Saint_John,Barbados/City/Saint_John's]]"
+dv_Alcohol-l: 7.2
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: -61.85
+dv_has_place_latitude: 17.1167
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Antigua_and_Barbuda,781|WD~Antigua_and_Barbuda,781]]"
+    - "[Antigua_and_Barbuda](/_Standards/Earth/Continent/America~Caribbean/Antigua_and_Barbuda.md)"
+    - "[Antigua_and_Barbuda.public](/_public/Earth/Continent/America~Caribbean/Antigua_and_Barbuda.public.md)"
+    - "[Antigua_and_Barbuda.internal](/_internal/Earth/Continent/America~Caribbean/Antigua_and_Barbuda.internal.md)"
+    - "[Antigua_and_Barbuda.protect](/_protect/Earth/Continent/America~Caribbean/Antigua_and_Barbuda.protect.md)"
+    - "[Antigua_and_Barbuda.private](/_private/Earth/Continent/America~Caribbean/Antigua_and_Barbuda.private.md)"
+    - "[Antigua_and_Barbuda.personal](/_personal/Earth/Continent/America~Caribbean/Antigua_and_Barbuda.personal.md)"
+    - "[Antigua_and_Barbuda.secret](/_secret/Earth/Continent/America~Caribbean/Antigua_and_Barbuda.secret.md)"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Antigua_and_Barbuda,781|WD~Antigua_and_Barbuda,781]]"
+  - "[Antigua_and_Barbuda](/_Standards/Earth/Continent/America~Caribbean/Antigua_and_Barbuda.md)"
+  - "[Antigua_and_Barbuda.public](/_public/Earth/Continent/America~Caribbean/Antigua_and_Barbuda.public.md)"
+  - "[Antigua_and_Barbuda.internal](/_internal/Earth/Continent/America~Caribbean/Antigua_and_Barbuda.internal.md)"
+  - "[Antigua_and_Barbuda.protect](/_protect/Earth/Continent/America~Caribbean/Antigua_and_Barbuda.protect.md)"
+  - "[Antigua_and_Barbuda.private](/_private/Earth/Continent/America~Caribbean/Antigua_and_Barbuda.private.md)"
+  - "[Antigua_and_Barbuda.personal](/_personal/Earth/Continent/America~Caribbean/Antigua_and_Barbuda.personal.md)"
+  - "[Antigua_and_Barbuda.secret](/_secret/Earth/Continent/America~Caribbean/Antigua_and_Barbuda.secret.md)"
 ---
 
 # [[Antigua_and_Barbuda]] 
 
-[ISO2::AG] 
-[ISO3::ATG] 
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3` 
 
 ```leaflet
 id: Antigua And Barbuda
@@ -28,21 +60,21 @@ geojsonFolder: ./Antigua_and_Barbuda//
 markerFolder: ./Antigua_and_Barbuda/
 ```
 
-[name-en::Antigua And Barbuda] 
-[name-de::Antigua und Barbuda] 
-[Area-Total::441] 
-[Area-Land::440] 
-Continent :: [[South-America]]  
-[VehicleCode::AG] 
-Capital :: [[Antigua_and_Barbuda/Counties/Saint_John,Barbados/City/Saint_John's]]  
-[Alcohol-l::7.2] 
+name-en = `=this.dv_name-en` 
+name-de = `=this.dv_name-de` 
+Area-Total = `=this.dv_Area-Total` 
+Area-Land = `=this.dv_Area-Land` 
+Continent = `=this.dv_Continent`
+VehicleCode = `=this.dv_VehicleCode` 
+Capital = `=this.dv_Capital`
+Alcohol-l = `=this.dv_Alcohol-l` 
 [Language-Id::] 
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::-61.85] 
-[has_place_latitude::17.1167] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 
-#is_/same_as :: [[../../../../WikiData/WD~Antigua_and_Barbuda,781|WD~Antigua_and_Barbuda,781]]  
+is_a_ = `=this.dv_is_a_`
 
 ## #has_/text_of_/abstract 
 
@@ -59,17 +91,17 @@ Capital :: [[Antigua_and_Barbuda/Counties/Saint_John,Barbados/City/Saint_John's]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Antigua_and_Barbuda](/_Standards/Earth/Continent/America~Caribbean/Antigua_and_Barbuda.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Lesser_Antilles/Antigua_and_Barbuda|Antigua_and_Barbuda]] 
 
-### #is_/same_as :: [Antigua_and_Barbuda.public](/_public/Earth/Continent/America~Caribbean/Antigua_and_Barbuda.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Lesser_Antilles/Antigua_and_Barbuda.public|Antigua_and_Barbuda.public]] 
 
-### #is_/same_as :: [Antigua_and_Barbuda.internal](/_internal/Earth/Continent/America~Caribbean/Antigua_and_Barbuda.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Lesser_Antilles/Antigua_and_Barbuda.internal|Antigua_and_Barbuda.internal]] 
 
-### #is_/same_as :: [Antigua_and_Barbuda.protect](/_protect/Earth/Continent/America~Caribbean/Antigua_and_Barbuda.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Lesser_Antilles/Antigua_and_Barbuda.protect|Antigua_and_Barbuda.protect]] 
 
-### #is_/same_as :: [Antigua_and_Barbuda.private](/_private/Earth/Continent/America~Caribbean/Antigua_and_Barbuda.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Lesser_Antilles/Antigua_and_Barbuda.private|Antigua_and_Barbuda.private]] 
 
-### #is_/same_as :: [Antigua_and_Barbuda.personal](/_personal/Earth/Continent/America~Caribbean/Antigua_and_Barbuda.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Lesser_Antilles/Antigua_and_Barbuda.personal|Antigua_and_Barbuda.personal]] 
 
-### #is_/same_as :: [Antigua_and_Barbuda.secret](/_secret/Earth/Continent/America~Caribbean/Antigua_and_Barbuda.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Lesser_Antilles/Antigua_and_Barbuda.secret|Antigua_and_Barbuda.secret]] 
 

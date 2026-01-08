@@ -19,11 +19,28 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as:
+    - "[Peravia](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Peravia.md)"
+    - "[Peravia.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Peravia.public.md)"
+    - "[Peravia.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Peravia.internal.md)"
+    - "[Peravia.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Peravia.protect.md)"
+    - "[Peravia.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Peravia.private.md)"
+    - "[Peravia.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Peravia.personal.md)"
+    - "[Peravia.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Peravia.secret.md)"
+dv_is_same_as:
+  - "[Peravia](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Peravia.md)"
+  - "[Peravia.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Peravia.public.md)"
+  - "[Peravia.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Peravia.internal.md)"
+  - "[Peravia.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Peravia.protect.md)"
+  - "[Peravia.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Peravia.private.md)"
+  - "[Peravia.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Peravia.personal.md)"
+  - "[Peravia.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Peravia.secret.md)"
 ---
 
 # Peravia
@@ -40,17 +57,17 @@ markerFolder: ./Peravia/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Peravia](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Peravia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Greater_Antilles/Dominican_Rep/provinces~Dominican_Rep/Peravia|Peravia]] 
 
-### #is_/same_as :: [Peravia.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Peravia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Greater_Antilles/Dominican_Rep/provinces~Dominican_Rep/Peravia.public|Peravia.public]] 
 
-### #is_/same_as :: [Peravia.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Peravia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Greater_Antilles/Dominican_Rep/provinces~Dominican_Rep/Peravia.internal|Peravia.internal]] 
 
-### #is_/same_as :: [Peravia.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Peravia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Greater_Antilles/Dominican_Rep/provinces~Dominican_Rep/Peravia.protect|Peravia.protect]] 
 
-### #is_/same_as :: [Peravia.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Peravia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Greater_Antilles/Dominican_Rep/provinces~Dominican_Rep/Peravia.private|Peravia.private]] 
 
-### #is_/same_as :: [Peravia.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Peravia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Greater_Antilles/Dominican_Rep/provinces~Dominican_Rep/Peravia.personal|Peravia.personal]] 
 
-### #is_/same_as :: [Peravia.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Peravia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Greater_Antilles/Dominican_Rep/provinces~Dominican_Rep/Peravia.secret|Peravia.secret]] 
 

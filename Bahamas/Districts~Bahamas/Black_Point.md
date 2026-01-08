@@ -20,11 +20,28 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as:
+    - "[Black_Point](/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Black_Point.md)"
+    - "[Black_Point.public](/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Black_Point.public.md)"
+    - "[Black_Point.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Black_Point.internal.md)"
+    - "[Black_Point.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Black_Point.protect.md)"
+    - "[Black_Point.private](/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Black_Point.private.md)"
+    - "[Black_Point.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Black_Point.personal.md)"
+    - "[Black_Point.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Black_Point.secret.md)"
+dv_is_same_as:
+  - "[Black_Point](/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Black_Point.md)"
+  - "[Black_Point.public](/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Black_Point.public.md)"
+  - "[Black_Point.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Black_Point.internal.md)"
+  - "[Black_Point.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Black_Point.protect.md)"
+  - "[Black_Point.private](/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Black_Point.private.md)"
+  - "[Black_Point.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Black_Point.personal.md)"
+  - "[Black_Point.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Black_Point.secret.md)"
 ---
 
 # Black_Point
@@ -41,17 +58,17 @@ markerFolder: ./Black_Point/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Black_Point](/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Black_Point.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Black_Point|Black_Point]] 
 
-### #is_/same_as :: [Black_Point.public](/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Black_Point.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Black_Point.public|Black_Point.public]] 
 
-### #is_/same_as :: [Black_Point.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Black_Point.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Black_Point.internal|Black_Point.internal]] 
 
-### #is_/same_as :: [Black_Point.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Black_Point.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Black_Point.protect|Black_Point.protect]] 
 
-### #is_/same_as :: [Black_Point.private](/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Black_Point.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Black_Point.private|Black_Point.private]] 
 
-### #is_/same_as :: [Black_Point.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Black_Point.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Black_Point.personal|Black_Point.personal]] 
 
-### #is_/same_as :: [Black_Point.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Black_Point.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Black_Point.secret|Black_Point.secret]] 
 

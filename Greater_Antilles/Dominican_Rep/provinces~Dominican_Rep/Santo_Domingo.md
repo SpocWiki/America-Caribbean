@@ -20,11 +20,30 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as:
+    - "[[../../../../../../WikiData/WD~Santo_Domingo,34820|WD~Santo_Domingo,34820]]"
+    - "[Santo_Domingo](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Santo_Domingo.md)"
+    - "[Santo_Domingo.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Santo_Domingo.public.md)"
+    - "[Santo_Domingo.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Santo_Domingo.internal.md)"
+    - "[Santo_Domingo.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Santo_Domingo.protect.md)"
+    - "[Santo_Domingo.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Santo_Domingo.private.md)"
+    - "[Santo_Domingo.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Santo_Domingo.personal.md)"
+    - "[Santo_Domingo.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Santo_Domingo.secret.md)"
+dv_is_same_as:
+  - "[[../../../../../../WikiData/WD~Santo_Domingo,34820|WD~Santo_Domingo,34820]]"
+  - "[Santo_Domingo](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Santo_Domingo.md)"
+  - "[Santo_Domingo.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Santo_Domingo.public.md)"
+  - "[Santo_Domingo.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Santo_Domingo.internal.md)"
+  - "[Santo_Domingo.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Santo_Domingo.protect.md)"
+  - "[Santo_Domingo.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Santo_Domingo.private.md)"
+  - "[Santo_Domingo.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Santo_Domingo.personal.md)"
+  - "[Santo_Domingo.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Santo_Domingo.secret.md)"
 ---
 
 # [[Santo_Domingo]] 
@@ -51,19 +70,20 @@ markerFolder: ./Santo_Domingo/
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Santo%20Domingo)
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Santo_Domingo](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Santo_Domingo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Greater_Antilles/Dominican_Rep/provinces~Dominican_Rep/Santo_Domingo|Santo_Domingo]] 
 
-### #is_/same_as :: [Santo_Domingo.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Santo_Domingo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Greater_Antilles/Dominican_Rep/provinces~Dominican_Rep/Santo_Domingo.public|Santo_Domingo.public]] 
 
-### #is_/same_as :: [Santo_Domingo.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Santo_Domingo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Greater_Antilles/Dominican_Rep/provinces~Dominican_Rep/Santo_Domingo.internal|Santo_Domingo.internal]] 
 
-### #is_/same_as :: [Santo_Domingo.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Santo_Domingo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Greater_Antilles/Dominican_Rep/provinces~Dominican_Rep/Santo_Domingo.protect|Santo_Domingo.protect]] 
 
-### #is_/same_as :: [Santo_Domingo.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Santo_Domingo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Greater_Antilles/Dominican_Rep/provinces~Dominican_Rep/Santo_Domingo.private|Santo_Domingo.private]] 
 
-### #is_/same_as :: [Santo_Domingo.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Santo_Domingo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Greater_Antilles/Dominican_Rep/provinces~Dominican_Rep/Santo_Domingo.personal|Santo_Domingo.personal]] 
 
-### #is_/same_as :: [Santo_Domingo.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Santo_Domingo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Greater_Antilles/Dominican_Rep/provinces~Dominican_Rep/Santo_Domingo.secret|Santo_Domingo.secret]] 
 

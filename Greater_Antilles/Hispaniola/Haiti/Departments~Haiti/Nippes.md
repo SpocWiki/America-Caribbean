@@ -19,11 +19,28 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as:
+    - "[Nippes](/_Standards/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Nippes.md)"
+    - "[Nippes.public](/_public/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Nippes.public.md)"
+    - "[Nippes.internal](/_internal/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Nippes.internal.md)"
+    - "[Nippes.protect](/_protect/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Nippes.protect.md)"
+    - "[Nippes.private](/_private/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Nippes.private.md)"
+    - "[Nippes.personal](/_personal/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Nippes.personal.md)"
+    - "[Nippes.secret](/_secret/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Nippes.secret.md)"
+dv_is_same_as:
+  - "[Nippes](/_Standards/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Nippes.md)"
+  - "[Nippes.public](/_public/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Nippes.public.md)"
+  - "[Nippes.internal](/_internal/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Nippes.internal.md)"
+  - "[Nippes.protect](/_protect/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Nippes.protect.md)"
+  - "[Nippes.private](/_private/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Nippes.private.md)"
+  - "[Nippes.personal](/_personal/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Nippes.personal.md)"
+  - "[Nippes.secret](/_secret/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Nippes.secret.md)"
 ---
 
 # Nippes
@@ -40,17 +57,17 @@ markerFolder: ./Nippes/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nippes](/_Standards/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Nippes.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Greater_Antilles/Hispaniola/Haiti/Departments~Haiti/Nippes|Nippes]] 
 
-### #is_/same_as :: [Nippes.public](/_public/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Nippes.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Greater_Antilles/Hispaniola/Haiti/Departments~Haiti/Nippes.public|Nippes.public]] 
 
-### #is_/same_as :: [Nippes.internal](/_internal/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Nippes.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Greater_Antilles/Hispaniola/Haiti/Departments~Haiti/Nippes.internal|Nippes.internal]] 
 
-### #is_/same_as :: [Nippes.protect](/_protect/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Nippes.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Greater_Antilles/Hispaniola/Haiti/Departments~Haiti/Nippes.protect|Nippes.protect]] 
 
-### #is_/same_as :: [Nippes.private](/_private/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Nippes.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Greater_Antilles/Hispaniola/Haiti/Departments~Haiti/Nippes.private|Nippes.private]] 
 
-### #is_/same_as :: [Nippes.personal](/_personal/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Nippes.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Greater_Antilles/Hispaniola/Haiti/Departments~Haiti/Nippes.personal|Nippes.personal]] 
 
-### #is_/same_as :: [Nippes.secret](/_secret/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Nippes.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Greater_Antilles/Hispaniola/Haiti/Departments~Haiti/Nippes.secret|Nippes.secret]] 
 

@@ -19,11 +19,28 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as:
+    - "[Saba](/_Standards/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saba.md)"
+    - "[Saba.public](/_public/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saba.public.md)"
+    - "[Saba.internal](/_internal/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saba.internal.md)"
+    - "[Saba.protect](/_protect/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saba.protect.md)"
+    - "[Saba.private](/_private/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saba.private.md)"
+    - "[Saba.personal](/_personal/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saba.personal.md)"
+    - "[Saba.secret](/_secret/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saba.secret.md)"
+dv_is_same_as:
+  - "[Saba](/_Standards/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saba.md)"
+  - "[Saba.public](/_public/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saba.public.md)"
+  - "[Saba.internal](/_internal/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saba.internal.md)"
+  - "[Saba.protect](/_protect/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saba.protect.md)"
+  - "[Saba.private](/_private/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saba.private.md)"
+  - "[Saba.personal](/_personal/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saba.personal.md)"
+  - "[Saba.secret](/_secret/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saba.secret.md)"
 ---
 
 # Saba
@@ -40,17 +57,17 @@ markerFolder: ./Saba/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Saba](/_Standards/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saba.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saba|Saba]] 
 
-### #is_/same_as :: [Saba.public](/_public/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saba.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saba.public|Saba.public]] 
 
-### #is_/same_as :: [Saba.internal](/_internal/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saba.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saba.internal|Saba.internal]] 
 
-### #is_/same_as :: [Saba.protect](/_protect/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saba.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saba.protect|Saba.protect]] 
 
-### #is_/same_as :: [Saba.private](/_private/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saba.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saba.private|Saba.private]] 
 
-### #is_/same_as :: [Saba.personal](/_personal/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saba.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saba.personal|Saba.personal]] 
 
-### #is_/same_as :: [Saba.secret](/_secret/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saba.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saba.secret|Saba.secret]] 
 

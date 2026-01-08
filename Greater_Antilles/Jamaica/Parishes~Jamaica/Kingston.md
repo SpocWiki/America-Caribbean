@@ -26,26 +26,51 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_a_: "[[../../../../../Geography/Place]]"
+dv_has_place_longitude: -76.8
+dv_has_place_latitude: 17.98333
+dv_name: Kingston
+dv_Country: "[[../../Jamaica]]"
+dv_Unknown: 32
+dv_is_:
+  same_as:
+    - "[[../../../../../../WikiData/WD~Kingston,34692|WD~Kingston,34692]]"
+    - "[Kingston](/_Standards/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Kingston.md)"
+    - "[Kingston.public](/_public/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Kingston.public.md)"
+    - "[Kingston.internal](/_internal/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Kingston.internal.md)"
+    - "[Kingston.protect](/_protect/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Kingston.protect.md)"
+    - "[Kingston.private](/_private/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Kingston.private.md)"
+    - "[Kingston.personal](/_personal/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Kingston.personal.md)"
+    - "[Kingston.secret](/_secret/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Kingston.secret.md)"
+dv_is_same_as:
+  - "[[../../../../../../WikiData/WD~Kingston,34692|WD~Kingston,34692]]"
+  - "[Kingston](/_Standards/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Kingston.md)"
+  - "[Kingston.public](/_public/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Kingston.public.md)"
+  - "[Kingston.internal](/_internal/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Kingston.internal.md)"
+  - "[Kingston.protect](/_protect/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Kingston.protect.md)"
+  - "[Kingston.private](/_private/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Kingston.private.md)"
+  - "[Kingston.personal](/_personal/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Kingston.personal.md)"
+  - "[Kingston.secret](/_secret/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Kingston.secret.md)"
 ---
 # [[Kingston]]
 
 #is_a_/Place  
-#is_a_ :: [[../../../../../Geography/Place]] 
-[has_place_longitude::-76.8] 
-[has_place_latitude::17.98333] 
-[name::Kingston] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../Jamaica]]  
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
-[Unknown::32] 
+Unknown = `=this.dv_Unknown` 
 
-#is_/same_as :: [[../../../../../../WikiData/WD~Kingston,34692|WD~Kingston,34692]]
+is_a_ = `=this.dv_is_a_`
 
 ## #has_/map  
 
@@ -83,20 +108,19 @@ markerFolder: ./Kingston/
 > [Wikipedia](https://en.wikipedia.org/wiki/Kingston,%20Jamaica) 
 
 
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Kingston](/_Standards/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Kingston.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Greater_Antilles/Jamaica/Parishes~Jamaica/Kingston|Kingston]] 
 
-### #is_/same_as :: [Kingston.public](/_public/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Kingston.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Greater_Antilles/Jamaica/Parishes~Jamaica/Kingston.public|Kingston.public]] 
 
-### #is_/same_as :: [Kingston.internal](/_internal/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Kingston.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Greater_Antilles/Jamaica/Parishes~Jamaica/Kingston.internal|Kingston.internal]] 
 
-### #is_/same_as :: [Kingston.protect](/_protect/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Kingston.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Greater_Antilles/Jamaica/Parishes~Jamaica/Kingston.protect|Kingston.protect]] 
 
-### #is_/same_as :: [Kingston.private](/_private/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Kingston.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Greater_Antilles/Jamaica/Parishes~Jamaica/Kingston.private|Kingston.private]] 
 
-### #is_/same_as :: [Kingston.personal](/_personal/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Kingston.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Greater_Antilles/Jamaica/Parishes~Jamaica/Kingston.personal|Kingston.personal]] 
 
-### #is_/same_as :: [Kingston.secret](/_secret/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Kingston.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Greater_Antilles/Jamaica/Parishes~Jamaica/Kingston.secret|Kingston.secret]] 
 

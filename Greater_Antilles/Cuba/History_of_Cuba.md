@@ -7,11 +7,14 @@ instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
 facet_of: "[[_Standards/WikiData/WD~Cuba,241]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/%28Map%20of%20the%20complete%20island%20of%20Cuba%29.%20LOC%202003623399.jpg
 Commons_category: History of Cuba
+dv_is_:
+  same_as: "[[../../../../../WikiData/WD~History_of_Cuba,473130]]"
+dv_is_same_as: "[[../../../../../WikiData/WD~History_of_Cuba,473130]]"
 ---
 
 # [[History_of_Cuba]] 
 
-#is_/same_as :: [[WD~History_of_Cuba,473130]] 
+is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
@@ -29,4 +32,21 @@ Commons_category: History of Cuba
 > With the dissolution of the USSR in 1991 Cuba was plunged into a severe economic crisis known as the Special Period that ended in 2000 when Venezuela began providing Cuba with subsidized oil. The country has been politically and economically isolated by the United States since the Revolution, but has gradually gained access to foreign commerce and travel as efforts to normalise diplomatic relations have progressed. Domestic economic reforms are also beginning to tackle existing economic problems which arose in the aftermath of the special period (i.e. the introduction of the dual currency system).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Cuba)  
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Greater_Antilles/Cuba/History_of_Cuba|History_of_Cuba]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Greater_Antilles/Cuba/History_of_Cuba.public|History_of_Cuba.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Greater_Antilles/Cuba/History_of_Cuba.internal|History_of_Cuba.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Greater_Antilles/Cuba/History_of_Cuba.protect|History_of_Cuba.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Greater_Antilles/Cuba/History_of_Cuba.private|History_of_Cuba.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Greater_Antilles/Cuba/History_of_Cuba.personal|History_of_Cuba.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Greater_Antilles/Cuba/History_of_Cuba.secret|History_of_Cuba.secret]] 
 

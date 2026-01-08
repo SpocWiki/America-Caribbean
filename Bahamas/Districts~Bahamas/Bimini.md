@@ -19,11 +19,28 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as:
+    - "[Bimini](/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Bimini.md)"
+    - "[Bimini.public](/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Bimini.public.md)"
+    - "[Bimini.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Bimini.internal.md)"
+    - "[Bimini.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Bimini.protect.md)"
+    - "[Bimini.private](/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Bimini.private.md)"
+    - "[Bimini.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Bimini.personal.md)"
+    - "[Bimini.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Bimini.secret.md)"
+dv_is_same_as:
+  - "[Bimini](/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Bimini.md)"
+  - "[Bimini.public](/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Bimini.public.md)"
+  - "[Bimini.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Bimini.internal.md)"
+  - "[Bimini.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Bimini.protect.md)"
+  - "[Bimini.private](/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Bimini.private.md)"
+  - "[Bimini.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Bimini.personal.md)"
+  - "[Bimini.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Bimini.secret.md)"
 ---
 
 # Bimini
@@ -40,17 +57,17 @@ markerFolder: ./Bimini/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bimini](/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Bimini.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Bimini|Bimini]] 
 
-### #is_/same_as :: [Bimini.public](/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Bimini.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Bimini.public|Bimini.public]] 
 
-### #is_/same_as :: [Bimini.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Bimini.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Bimini.internal|Bimini.internal]] 
 
-### #is_/same_as :: [Bimini.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Bimini.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Bimini.protect|Bimini.protect]] 
 
-### #is_/same_as :: [Bimini.private](/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Bimini.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Bimini.private|Bimini.private]] 
 
-### #is_/same_as :: [Bimini.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Bimini.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Bimini.personal|Bimini.personal]] 
 
-### #is_/same_as :: [Bimini.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Bimini.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/Bimini.secret|Bimini.secret]] 
 

@@ -233,12 +233,43 @@ pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-St.%20Lucia.ogg
   - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Sf%C3%A2nta%20Lucia.wav
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Lucia.png
+dv_ISO2: LC
+dv_ISO3: LCA
+dv_name-en: Saint Lucia
+dv_name-de: Saint Lucia
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Saint_Lucia,760|WD~Saint_Lucia,760]]"
+    - "[Saint_Lucia](/_Standards/Earth/Continent/America~Caribbean/Saint_Lucia.md)"
+    - "[Saint_Lucia.public](/_public/Earth/Continent/America~Caribbean/Saint_Lucia.public.md)"
+    - "[Saint_Lucia.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Lucia.internal.md)"
+    - "[Saint_Lucia.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Lucia.protect.md)"
+    - "[Saint_Lucia.private](/_private/Earth/Continent/America~Caribbean/Saint_Lucia.private.md)"
+    - "[Saint_Lucia.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Lucia.personal.md)"
+    - "[Saint_Lucia.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Lucia.secret.md)"
+dv_Area-Total: 616
+dv_Area-Land: 0
+dv_VehicleCode: WL
+dv_Alcohol-l: 11.9
+dv_Language-Id: 499
+dv_is_a_: "[[../../../Geography/Place]]"
+dv_has_place_longitude: -60.9833
+dv_has_place_latitude: 14.0333
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Saint_Lucia,760|WD~Saint_Lucia,760]]"
+  - "[Saint_Lucia](/_Standards/Earth/Continent/America~Caribbean/Saint_Lucia.md)"
+  - "[Saint_Lucia.public](/_public/Earth/Continent/America~Caribbean/Saint_Lucia.public.md)"
+  - "[Saint_Lucia.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Lucia.internal.md)"
+  - "[Saint_Lucia.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Lucia.protect.md)"
+  - "[Saint_Lucia.private](/_private/Earth/Continent/America~Caribbean/Saint_Lucia.private.md)"
+  - "[Saint_Lucia.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Lucia.personal.md)"
+  - "[Saint_Lucia.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Lucia.secret.md)"
 ---
 
 # [[Saint_Lucia]] 
 
-[ISO2::LC] 
-[ISO3::LCA] 
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3` 
 ```leaflet
 id: Saint Lucia
 zoomFeatures: true 
@@ -248,9 +279,9 @@ geojsonFolder: ./Saint_Lucia//
 markerFolder: ./Saint_Lucia/
 ```
 
-[name-en::Saint Lucia] 
-[name-de::Saint Lucia] 
-#is_/same_as :: [[../../../../WikiData/WD~Saint_Lucia,760|WD~Saint_Lucia,760]] 
+name-en = `=this.dv_name-en` 
+name-de = `=this.dv_name-de` 
+is_a_ = `=this.dv_is_a_`
 
 ![[Mexico/Coat_of_arms_of_Mexico.svg|350]] 
 
@@ -258,17 +289,17 @@ markerFolder: ./Saint_Lucia/
 
 ![[Mexico/Flag_of_Mexico.svg|350]] 
 
-[Area-Total::616] 
-[Area-Land::0] 
+Area-Total = `=this.dv_Area-Total` 
+Area-Land = `=this.dv_Area-Land` 
 Continent :: [[South-America]]  
-[VehicleCode::WL] 
+VehicleCode = `=this.dv_VehicleCode` 
 Capital :: [[Saint_Lucia/Counties/Castries/City/Castries]]  
-[Alcohol-l::11.9] 
-[Language-Id::499] 
+Alcohol-l = `=this.dv_Alcohol-l` 
+Language-Id = `=this.dv_Language-Id` 
 #is_a_/Place  
-#is_a_ :: [[../../../Geography/Place]] 
-[has_place_longitude::-60.9833] 
-[has_place_latitude::14.0333] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 
 
 ## #has_/text_of_/abstract 
@@ -286,17 +317,17 @@ Capital :: [[Saint_Lucia/Counties/Castries/City/Castries]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Saint_Lucia](/_Standards/Earth/Continent/America~Caribbean/Saint_Lucia.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Lesser_Antilles/Saint_Lucia|Saint_Lucia]] 
 
-### #is_/same_as :: [Saint_Lucia.public](/_public/Earth/Continent/America~Caribbean/Saint_Lucia.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Lesser_Antilles/Saint_Lucia.public|Saint_Lucia.public]] 
 
-### #is_/same_as :: [Saint_Lucia.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Lucia.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Lesser_Antilles/Saint_Lucia.internal|Saint_Lucia.internal]] 
 
-### #is_/same_as :: [Saint_Lucia.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Lucia.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Lesser_Antilles/Saint_Lucia.protect|Saint_Lucia.protect]] 
 
-### #is_/same_as :: [Saint_Lucia.private](/_private/Earth/Continent/America~Caribbean/Saint_Lucia.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Lesser_Antilles/Saint_Lucia.private|Saint_Lucia.private]] 
 
-### #is_/same_as :: [Saint_Lucia.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Lucia.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Lesser_Antilles/Saint_Lucia.personal|Saint_Lucia.personal]] 
 
-### #is_/same_as :: [Saint_Lucia.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Lucia.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Lesser_Antilles/Saint_Lucia.secret|Saint_Lucia.secret]] 
 

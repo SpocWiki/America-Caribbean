@@ -20,11 +20,28 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as:
+    - "[Bajo_Nuevo_Bank](/_Standards/Earth/Continent/America~Caribbean/Bajo_Nuevo_Bank.md)"
+    - "[Bajo_Nuevo_Bank.public](/_public/Earth/Continent/America~Caribbean/Bajo_Nuevo_Bank.public.md)"
+    - "[Bajo_Nuevo_Bank.internal](/_internal/Earth/Continent/America~Caribbean/Bajo_Nuevo_Bank.internal.md)"
+    - "[Bajo_Nuevo_Bank.protect](/_protect/Earth/Continent/America~Caribbean/Bajo_Nuevo_Bank.protect.md)"
+    - "[Bajo_Nuevo_Bank.private](/_private/Earth/Continent/America~Caribbean/Bajo_Nuevo_Bank.private.md)"
+    - "[Bajo_Nuevo_Bank.personal](/_personal/Earth/Continent/America~Caribbean/Bajo_Nuevo_Bank.personal.md)"
+    - "[Bajo_Nuevo_Bank.secret](/_secret/Earth/Continent/America~Caribbean/Bajo_Nuevo_Bank.secret.md)"
+dv_is_same_as:
+  - "[Bajo_Nuevo_Bank](/_Standards/Earth/Continent/America~Caribbean/Bajo_Nuevo_Bank.md)"
+  - "[Bajo_Nuevo_Bank.public](/_public/Earth/Continent/America~Caribbean/Bajo_Nuevo_Bank.public.md)"
+  - "[Bajo_Nuevo_Bank.internal](/_internal/Earth/Continent/America~Caribbean/Bajo_Nuevo_Bank.internal.md)"
+  - "[Bajo_Nuevo_Bank.protect](/_protect/Earth/Continent/America~Caribbean/Bajo_Nuevo_Bank.protect.md)"
+  - "[Bajo_Nuevo_Bank.private](/_private/Earth/Continent/America~Caribbean/Bajo_Nuevo_Bank.private.md)"
+  - "[Bajo_Nuevo_Bank.personal](/_personal/Earth/Continent/America~Caribbean/Bajo_Nuevo_Bank.personal.md)"
+  - "[Bajo_Nuevo_Bank.secret](/_secret/Earth/Continent/America~Caribbean/Bajo_Nuevo_Bank.secret.md)"
 ---
 
 # Bajo_Nuevo_Bank
@@ -41,17 +58,17 @@ markerFolder: ./Bajo_Nuevo_Bank/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bajo_Nuevo_Bank](/_Standards/Earth/Continent/America~Caribbean/Bajo_Nuevo_Bank.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Bajo_Nuevo_Bank|Bajo_Nuevo_Bank]] 
 
-### #is_/same_as :: [Bajo_Nuevo_Bank.public](/_public/Earth/Continent/America~Caribbean/Bajo_Nuevo_Bank.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Bajo_Nuevo_Bank.public|Bajo_Nuevo_Bank.public]] 
 
-### #is_/same_as :: [Bajo_Nuevo_Bank.internal](/_internal/Earth/Continent/America~Caribbean/Bajo_Nuevo_Bank.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Bajo_Nuevo_Bank.internal|Bajo_Nuevo_Bank.internal]] 
 
-### #is_/same_as :: [Bajo_Nuevo_Bank.protect](/_protect/Earth/Continent/America~Caribbean/Bajo_Nuevo_Bank.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Bajo_Nuevo_Bank.protect|Bajo_Nuevo_Bank.protect]] 
 
-### #is_/same_as :: [Bajo_Nuevo_Bank.private](/_private/Earth/Continent/America~Caribbean/Bajo_Nuevo_Bank.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Bajo_Nuevo_Bank.private|Bajo_Nuevo_Bank.private]] 
 
-### #is_/same_as :: [Bajo_Nuevo_Bank.personal](/_personal/Earth/Continent/America~Caribbean/Bajo_Nuevo_Bank.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Bajo_Nuevo_Bank.personal|Bajo_Nuevo_Bank.personal]] 
 
-### #is_/same_as :: [Bajo_Nuevo_Bank.secret](/_secret/Earth/Continent/America~Caribbean/Bajo_Nuevo_Bank.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Bajo_Nuevo_Bank.secret|Bajo_Nuevo_Bank.secret]] 
 

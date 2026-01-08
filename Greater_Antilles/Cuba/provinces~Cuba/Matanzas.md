@@ -19,11 +19,28 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as:
+    - "[Matanzas](/_Standards/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Matanzas.md)"
+    - "[Matanzas.public](/_public/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Matanzas.public.md)"
+    - "[Matanzas.internal](/_internal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Matanzas.internal.md)"
+    - "[Matanzas.protect](/_protect/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Matanzas.protect.md)"
+    - "[Matanzas.private](/_private/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Matanzas.private.md)"
+    - "[Matanzas.personal](/_personal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Matanzas.personal.md)"
+    - "[Matanzas.secret](/_secret/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Matanzas.secret.md)"
+dv_is_same_as:
+  - "[Matanzas](/_Standards/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Matanzas.md)"
+  - "[Matanzas.public](/_public/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Matanzas.public.md)"
+  - "[Matanzas.internal](/_internal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Matanzas.internal.md)"
+  - "[Matanzas.protect](/_protect/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Matanzas.protect.md)"
+  - "[Matanzas.private](/_private/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Matanzas.private.md)"
+  - "[Matanzas.personal](/_personal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Matanzas.personal.md)"
+  - "[Matanzas.secret](/_secret/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Matanzas.secret.md)"
 ---
 
 # Matanzas
@@ -40,17 +57,17 @@ markerFolder: ./Matanzas/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Matanzas](/_Standards/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Matanzas.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Greater_Antilles/Cuba/provinces~Cuba/Matanzas|Matanzas]] 
 
-### #is_/same_as :: [Matanzas.public](/_public/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Matanzas.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Greater_Antilles/Cuba/provinces~Cuba/Matanzas.public|Matanzas.public]] 
 
-### #is_/same_as :: [Matanzas.internal](/_internal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Matanzas.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Greater_Antilles/Cuba/provinces~Cuba/Matanzas.internal|Matanzas.internal]] 
 
-### #is_/same_as :: [Matanzas.protect](/_protect/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Matanzas.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Greater_Antilles/Cuba/provinces~Cuba/Matanzas.protect|Matanzas.protect]] 
 
-### #is_/same_as :: [Matanzas.private](/_private/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Matanzas.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Greater_Antilles/Cuba/provinces~Cuba/Matanzas.private|Matanzas.private]] 
 
-### #is_/same_as :: [Matanzas.personal](/_personal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Matanzas.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Greater_Antilles/Cuba/provinces~Cuba/Matanzas.personal|Matanzas.personal]] 
 
-### #is_/same_as :: [Matanzas.secret](/_secret/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Matanzas.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Greater_Antilles/Cuba/provinces~Cuba/Matanzas.secret|Matanzas.secret]] 
 

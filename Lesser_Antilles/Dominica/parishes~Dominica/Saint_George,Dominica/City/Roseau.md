@@ -16,20 +16,20 @@ tags:
 SpocWebEntityId: 35923
 isDeleted: false
 confidential: public
-different_from: '[[_Standards/WikiData/WD~Roseau,406753]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Saint_George_Parish,617801]]'
-named_after: '[[_Standards/WikiData/WD~reed,2734060]]'
+different_from: "[[_Standards/WikiData/WD~Roseau,406753]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Saint_George_Parish,617801]]"
+named_after: "[[_Standards/WikiData/WD~reed,2734060]]"
 located_in_or_next_to_body_of_water:
-  - '[[_Standards/WikiData/WD~Roseau_River,3018552]]'
-  - '[[_Standards/WikiData/WD~Caribbean_Sea,1247]]'
-category_for_people_born_here: '[[_Standards/WikiData/WD~Q18753342,18753342]]'
-category_for_people_who_died_here: '[[_Standards/WikiData/WD~Q32411404,32411404]]'
-head_of_government: '[[_Standards/WikiData/WD~Q134823114,134823114]]'
-instance_of: '[[_Standards/WikiData/WD~city,515]]'
-capital_of: '[[_Standards/WikiData/WD~Dominica,784]]'
-country: '[[_Standards/WikiData/WD~Dominica,784]]'
-official_language: '[[_Standards/WikiData/WD~English,1860]]'
-located_in_time_zone: '[[_Standards/WikiData/WD~UTC_04_00,5762]]'
+  - "[[_Standards/WikiData/WD~Roseau_River,3018552]]"
+  - "[[_Standards/WikiData/WD~Caribbean_Sea,1247]]"
+category_for_people_born_here: "[[_Standards/WikiData/WD~Q18753342,18753342]]"
+category_for_people_who_died_here: "[[_Standards/WikiData/WD~Q32411404,32411404]]"
+head_of_government: "[[_Standards/WikiData/WD~Q134823114,134823114]]"
+instance_of: "[[_Standards/WikiData/WD~city,515]]"
+capital_of: "[[_Standards/WikiData/WD~Dominica,784]]"
+country: "[[_Standards/WikiData/WD~Dominica,784]]"
+official_language: "[[_Standards/WikiData/WD~English,1860]]"
+located_in_time_zone: "[[_Standards/WikiData/WD~UTC_04_00,5762]]"
 elevation_above_sea_level: 43
 area: 5.4
 local_dialing_code: 767
@@ -50,21 +50,45 @@ aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20view%20
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Roseau%20banner.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/RoseauWide..jpg
 UN_LOCODE: DMRSU
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -61.38334
+dv_has_place_latitude: 15.3
+dv_name: Roseau
+dv_Unknown: 32
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../WikiData/WD~Roseau,36281|WD~Roseau,36281]]"
+    - "[Roseau](/_Standards/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_George/City/Roseau.md)"
+    - "[Roseau.public](/_public/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_George/City/Roseau.public.md)"
+    - "[Roseau.internal](/_internal/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_George/City/Roseau.internal.md)"
+    - "[Roseau.protect](/_protect/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_George/City/Roseau.protect.md)"
+    - "[Roseau.private](/_private/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_George/City/Roseau.private.md)"
+    - "[Roseau.personal](/_personal/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_George/City/Roseau.personal.md)"
+    - "[Roseau.secret](/_secret/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_George/City/Roseau.secret.md)"
+dv_is_same_as:
+  - "[[../../../../../../../../WikiData/WD~Roseau,36281|WD~Roseau,36281]]"
+  - "[Roseau](/_Standards/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_George/City/Roseau.md)"
+  - "[Roseau.public](/_public/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_George/City/Roseau.public.md)"
+  - "[Roseau.internal](/_internal/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_George/City/Roseau.internal.md)"
+  - "[Roseau.protect](/_protect/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_George/City/Roseau.protect.md)"
+  - "[Roseau.private](/_private/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_George/City/Roseau.private.md)"
+  - "[Roseau.personal](/_personal/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_George/City/Roseau.personal.md)"
+  - "[Roseau.secret](/_secret/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_George/City/Roseau.secret.md)"
 ---
 
 # [[Roseau]] 
 
 #is_a_/Place  
-#is_a_ :: [[../../../../../../../Geography/Place]] 
-[has_place_longitude::-61.38334] 
-[has_place_latitude::15.3] 
-[name::Roseau] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
 Country :: [[../../../../Dominica]] 
 [StateId::] 
 [Population::] 
-[Unknown::32] 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Roseau,36281|WD~Roseau,36281]] 
+Unknown = `=this.dv_Unknown` 
+is_a_ = `=this.dv_is_a_`
 
 ## #has_/map 
 
@@ -91,19 +115,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Roseau)
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Roseau](/_Standards/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_George/City/Roseau.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Lesser_Antilles/Dominica/parishes~Dominica/Saint_George,Dominica/City/Roseau|Roseau]] 
 
-### #is_/same_as :: [Roseau.public](/_public/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_George/City/Roseau.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Lesser_Antilles/Dominica/parishes~Dominica/Saint_George,Dominica/City/Roseau.public|Roseau.public]] 
 
-### #is_/same_as :: [Roseau.internal](/_internal/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_George/City/Roseau.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Lesser_Antilles/Dominica/parishes~Dominica/Saint_George,Dominica/City/Roseau.internal|Roseau.internal]] 
 
-### #is_/same_as :: [Roseau.protect](/_protect/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_George/City/Roseau.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Lesser_Antilles/Dominica/parishes~Dominica/Saint_George,Dominica/City/Roseau.protect|Roseau.protect]] 
 
-### #is_/same_as :: [Roseau.private](/_private/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_George/City/Roseau.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Lesser_Antilles/Dominica/parishes~Dominica/Saint_George,Dominica/City/Roseau.private|Roseau.private]] 
 
-### #is_/same_as :: [Roseau.personal](/_personal/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_George/City/Roseau.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Lesser_Antilles/Dominica/parishes~Dominica/Saint_George,Dominica/City/Roseau.personal|Roseau.personal]] 
 
-### #is_/same_as :: [Roseau.secret](/_secret/Earth/Continent/America~Caribbean/Dominica/parishes~Dominica/Saint_George/City/Roseau.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Lesser_Antilles/Dominica/parishes~Dominica/Saint_George,Dominica/City/Roseau.secret|Roseau.secret]] 
 

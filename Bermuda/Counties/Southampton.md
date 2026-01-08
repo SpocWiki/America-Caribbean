@@ -19,11 +19,28 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as:
+    - "[Southampton](/_Standards/Earth/Continent/America~Caribbean/Bermuda/Counties/Southampton.md)"
+    - "[Southampton.public](/_public/Earth/Continent/America~Caribbean/Bermuda/Counties/Southampton.public.md)"
+    - "[Southampton.internal](/_internal/Earth/Continent/America~Caribbean/Bermuda/Counties/Southampton.internal.md)"
+    - "[Southampton.protect](/_protect/Earth/Continent/America~Caribbean/Bermuda/Counties/Southampton.protect.md)"
+    - "[Southampton.private](/_private/Earth/Continent/America~Caribbean/Bermuda/Counties/Southampton.private.md)"
+    - "[Southampton.personal](/_personal/Earth/Continent/America~Caribbean/Bermuda/Counties/Southampton.personal.md)"
+    - "[Southampton.secret](/_secret/Earth/Continent/America~Caribbean/Bermuda/Counties/Southampton.secret.md)"
+dv_is_same_as:
+  - "[Southampton](/_Standards/Earth/Continent/America~Caribbean/Bermuda/Counties/Southampton.md)"
+  - "[Southampton.public](/_public/Earth/Continent/America~Caribbean/Bermuda/Counties/Southampton.public.md)"
+  - "[Southampton.internal](/_internal/Earth/Continent/America~Caribbean/Bermuda/Counties/Southampton.internal.md)"
+  - "[Southampton.protect](/_protect/Earth/Continent/America~Caribbean/Bermuda/Counties/Southampton.protect.md)"
+  - "[Southampton.private](/_private/Earth/Continent/America~Caribbean/Bermuda/Counties/Southampton.private.md)"
+  - "[Southampton.personal](/_personal/Earth/Continent/America~Caribbean/Bermuda/Counties/Southampton.personal.md)"
+  - "[Southampton.secret](/_secret/Earth/Continent/America~Caribbean/Bermuda/Counties/Southampton.secret.md)"
 ---
 
 # Southampton
@@ -40,17 +57,17 @@ markerFolder: ./Southampton/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Southampton](/_Standards/Earth/Continent/America~Caribbean/Bermuda/Counties/Southampton.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Bermuda/Counties/Southampton|Southampton]] 
 
-### #is_/same_as :: [Southampton.public](/_public/Earth/Continent/America~Caribbean/Bermuda/Counties/Southampton.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Bermuda/Counties/Southampton.public|Southampton.public]] 
 
-### #is_/same_as :: [Southampton.internal](/_internal/Earth/Continent/America~Caribbean/Bermuda/Counties/Southampton.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Bermuda/Counties/Southampton.internal|Southampton.internal]] 
 
-### #is_/same_as :: [Southampton.protect](/_protect/Earth/Continent/America~Caribbean/Bermuda/Counties/Southampton.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Bermuda/Counties/Southampton.protect|Southampton.protect]] 
 
-### #is_/same_as :: [Southampton.private](/_private/Earth/Continent/America~Caribbean/Bermuda/Counties/Southampton.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Bermuda/Counties/Southampton.private|Southampton.private]] 
 
-### #is_/same_as :: [Southampton.personal](/_personal/Earth/Continent/America~Caribbean/Bermuda/Counties/Southampton.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Bermuda/Counties/Southampton.personal|Southampton.personal]] 
 
-### #is_/same_as :: [Southampton.secret](/_secret/Earth/Continent/America~Caribbean/Bermuda/Counties/Southampton.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Bermuda/Counties/Southampton.secret|Southampton.secret]] 
 

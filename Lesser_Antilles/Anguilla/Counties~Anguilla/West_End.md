@@ -20,11 +20,28 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as:
+    - "[West_End](/_Standards/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/West_End.md)"
+    - "[West_End.public](/_public/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/West_End.public.md)"
+    - "[West_End.internal](/_internal/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/West_End.internal.md)"
+    - "[West_End.protect](/_protect/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/West_End.protect.md)"
+    - "[West_End.private](/_private/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/West_End.private.md)"
+    - "[West_End.personal](/_personal/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/West_End.personal.md)"
+    - "[West_End.secret](/_secret/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/West_End.secret.md)"
+dv_is_same_as:
+  - "[West_End](/_Standards/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/West_End.md)"
+  - "[West_End.public](/_public/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/West_End.public.md)"
+  - "[West_End.internal](/_internal/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/West_End.internal.md)"
+  - "[West_End.protect](/_protect/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/West_End.protect.md)"
+  - "[West_End.private](/_private/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/West_End.private.md)"
+  - "[West_End.personal](/_personal/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/West_End.personal.md)"
+  - "[West_End.secret](/_secret/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/West_End.secret.md)"
 ---
 
 # West_End
@@ -41,17 +58,17 @@ markerFolder: ./West_End/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [West_End](/_Standards/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/West_End.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Lesser_Antilles/Anguilla/Counties~Anguilla/West_End|West_End]] 
 
-### #is_/same_as :: [West_End.public](/_public/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/West_End.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Lesser_Antilles/Anguilla/Counties~Anguilla/West_End.public|West_End.public]] 
 
-### #is_/same_as :: [West_End.internal](/_internal/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/West_End.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Lesser_Antilles/Anguilla/Counties~Anguilla/West_End.internal|West_End.internal]] 
 
-### #is_/same_as :: [West_End.protect](/_protect/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/West_End.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Lesser_Antilles/Anguilla/Counties~Anguilla/West_End.protect|West_End.protect]] 
 
-### #is_/same_as :: [West_End.private](/_private/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/West_End.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Lesser_Antilles/Anguilla/Counties~Anguilla/West_End.private|West_End.private]] 
 
-### #is_/same_as :: [West_End.personal](/_personal/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/West_End.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Lesser_Antilles/Anguilla/Counties~Anguilla/West_End.personal|West_End.personal]] 
 
-### #is_/same_as :: [West_End.secret](/_secret/Earth/Continent/America~Caribbean/Anguilla/Counties~Anguilla/West_End.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Lesser_Antilles/Anguilla/Counties~Anguilla/West_End.secret|West_End.secret]] 
 

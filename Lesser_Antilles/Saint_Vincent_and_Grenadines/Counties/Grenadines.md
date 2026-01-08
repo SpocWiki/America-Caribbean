@@ -1,4 +1,22 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[Grenadines](/_Standards/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines.md)"
+    - "[Grenadines.public](/_public/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines.public.md)"
+    - "[Grenadines.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines.internal.md)"
+    - "[Grenadines.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines.protect.md)"
+    - "[Grenadines.private](/_private/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines.private.md)"
+    - "[Grenadines.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines.personal.md)"
+    - "[Grenadines.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines.secret.md)"
+dv_is_same_as:
+  - "[Grenadines](/_Standards/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines.md)"
+  - "[Grenadines.public](/_public/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines.public.md)"
+  - "[Grenadines.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines.internal.md)"
+  - "[Grenadines.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines.protect.md)"
+  - "[Grenadines.private](/_private/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines.private.md)"
+  - "[Grenadines.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines.personal.md)"
+  - "[Grenadines.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines.secret.md)"
+
 has_time_started: 1979 
 aliases:
   - Grenadines
@@ -282,17 +300,17 @@ markerFolder: ./Grenadines/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Grenadines](/_Standards/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Lesser_Antilles/Saint_Vincent_and_Grenadines/Counties/Grenadines|Grenadines]] 
 
-### #is_/same_as :: [Grenadines.public](/_public/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Lesser_Antilles/Saint_Vincent_and_Grenadines/Counties/Grenadines.public|Grenadines.public]] 
 
-### #is_/same_as :: [Grenadines.internal](/_internal/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Lesser_Antilles/Saint_Vincent_and_Grenadines/Counties/Grenadines.internal|Grenadines.internal]] 
 
-### #is_/same_as :: [Grenadines.protect](/_protect/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Lesser_Antilles/Saint_Vincent_and_Grenadines/Counties/Grenadines.protect|Grenadines.protect]] 
 
-### #is_/same_as :: [Grenadines.private](/_private/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Lesser_Antilles/Saint_Vincent_and_Grenadines/Counties/Grenadines.private|Grenadines.private]] 
 
-### #is_/same_as :: [Grenadines.personal](/_personal/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Lesser_Antilles/Saint_Vincent_and_Grenadines/Counties/Grenadines.personal|Grenadines.personal]] 
 
-### #is_/same_as :: [Grenadines.secret](/_secret/Earth/Continent/America~Caribbean/Saint_Vincent_and_Grenadines/Counties/Grenadines.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Lesser_Antilles/Saint_Vincent_and_Grenadines/Counties/Grenadines.secret|Grenadines.secret]] 
 

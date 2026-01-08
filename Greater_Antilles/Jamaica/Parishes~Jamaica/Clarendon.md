@@ -19,11 +19,28 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as:
+    - "[Clarendon](/_Standards/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Clarendon.md)"
+    - "[Clarendon.public](/_public/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Clarendon.public.md)"
+    - "[Clarendon.internal](/_internal/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Clarendon.internal.md)"
+    - "[Clarendon.protect](/_protect/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Clarendon.protect.md)"
+    - "[Clarendon.private](/_private/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Clarendon.private.md)"
+    - "[Clarendon.personal](/_personal/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Clarendon.personal.md)"
+    - "[Clarendon.secret](/_secret/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Clarendon.secret.md)"
+dv_is_same_as:
+  - "[Clarendon](/_Standards/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Clarendon.md)"
+  - "[Clarendon.public](/_public/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Clarendon.public.md)"
+  - "[Clarendon.internal](/_internal/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Clarendon.internal.md)"
+  - "[Clarendon.protect](/_protect/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Clarendon.protect.md)"
+  - "[Clarendon.private](/_private/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Clarendon.private.md)"
+  - "[Clarendon.personal](/_personal/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Clarendon.personal.md)"
+  - "[Clarendon.secret](/_secret/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Clarendon.secret.md)"
 ---
 
 # Clarendon
@@ -40,17 +57,17 @@ markerFolder: ./Clarendon/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Clarendon](/_Standards/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Clarendon.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Greater_Antilles/Jamaica/Parishes~Jamaica/Clarendon|Clarendon]] 
 
-### #is_/same_as :: [Clarendon.public](/_public/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Clarendon.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Greater_Antilles/Jamaica/Parishes~Jamaica/Clarendon.public|Clarendon.public]] 
 
-### #is_/same_as :: [Clarendon.internal](/_internal/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Clarendon.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Greater_Antilles/Jamaica/Parishes~Jamaica/Clarendon.internal|Clarendon.internal]] 
 
-### #is_/same_as :: [Clarendon.protect](/_protect/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Clarendon.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Greater_Antilles/Jamaica/Parishes~Jamaica/Clarendon.protect|Clarendon.protect]] 
 
-### #is_/same_as :: [Clarendon.private](/_private/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Clarendon.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Greater_Antilles/Jamaica/Parishes~Jamaica/Clarendon.private|Clarendon.private]] 
 
-### #is_/same_as :: [Clarendon.personal](/_personal/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Clarendon.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Greater_Antilles/Jamaica/Parishes~Jamaica/Clarendon.personal|Clarendon.personal]] 
 
-### #is_/same_as :: [Clarendon.secret](/_secret/Earth/Continent/America~Caribbean/Jamaica/Parishes~Jamaica/Clarendon.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Greater_Antilles/Jamaica/Parishes~Jamaica/Clarendon.secret|Clarendon.secret]] 
 

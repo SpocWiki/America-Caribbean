@@ -22,11 +22,28 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as:
+    - "[Saint_Eustatius](/_Standards/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saint_Eustatius.md)"
+    - "[Saint_Eustatius.public](/_public/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saint_Eustatius.public.md)"
+    - "[Saint_Eustatius.internal](/_internal/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saint_Eustatius.internal.md)"
+    - "[Saint_Eustatius.protect](/_protect/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saint_Eustatius.protect.md)"
+    - "[Saint_Eustatius.private](/_private/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saint_Eustatius.private.md)"
+    - "[Saint_Eustatius.personal](/_personal/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saint_Eustatius.personal.md)"
+    - "[Saint_Eustatius.secret](/_secret/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saint_Eustatius.secret.md)"
+dv_is_same_as:
+  - "[Saint_Eustatius](/_Standards/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saint_Eustatius.md)"
+  - "[Saint_Eustatius.public](/_public/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saint_Eustatius.public.md)"
+  - "[Saint_Eustatius.internal](/_internal/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saint_Eustatius.internal.md)"
+  - "[Saint_Eustatius.protect](/_protect/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saint_Eustatius.protect.md)"
+  - "[Saint_Eustatius.private](/_private/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saint_Eustatius.private.md)"
+  - "[Saint_Eustatius.personal](/_personal/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saint_Eustatius.personal.md)"
+  - "[Saint_Eustatius.secret](/_secret/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saint_Eustatius.secret.md)"
 ---
 
 # St._Eustatius
@@ -43,17 +60,17 @@ markerFolder: ./St._Eustatius/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Saint_Eustatius](/_Standards/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saint_Eustatius.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saint_Eustatius|Saint_Eustatius]] 
 
-### #is_/same_as :: [Saint_Eustatius.public](/_public/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saint_Eustatius.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saint_Eustatius.public|Saint_Eustatius.public]] 
 
-### #is_/same_as :: [Saint_Eustatius.internal](/_internal/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saint_Eustatius.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saint_Eustatius.internal|Saint_Eustatius.internal]] 
 
-### #is_/same_as :: [Saint_Eustatius.protect](/_protect/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saint_Eustatius.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saint_Eustatius.protect|Saint_Eustatius.protect]] 
 
-### #is_/same_as :: [Saint_Eustatius.private](/_private/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saint_Eustatius.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saint_Eustatius.private|Saint_Eustatius.private]] 
 
-### #is_/same_as :: [Saint_Eustatius.personal](/_personal/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saint_Eustatius.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saint_Eustatius.personal|Saint_Eustatius.personal]] 
 
-### #is_/same_as :: [Saint_Eustatius.secret](/_secret/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saint_Eustatius.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Caribbean_Netherlands/Saint_Eustatius.secret|Saint_Eustatius.secret]] 
 

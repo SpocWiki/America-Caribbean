@@ -4,19 +4,19 @@ aliases:
   - Greater_Antilles
 has_id_wikidata: Q128011
 located_in_on_physical_feature:
-  - '[[_Standards/WikiData/WD~Antilles,166131]]'
-  - '[[_Standards/WikiData/WD~Caribbean,664609]]'
-part_of: '[[_Standards/WikiData/WD~Antilles,166131]]'
+  - "[[_Standards/WikiData/WD~Antilles,166131]]"
+  - "[[_Standards/WikiData/WD~Caribbean,664609]]"
+part_of: "[[_Standards/WikiData/WD~Antilles,166131]]"
 has_part_s_:
-  - '[[_Standards/WikiData/WD~Cuba,586657]]'
-  - '[[_Standards/WikiData/WD~Puerto_Rico,2076337]]'
-  - '[[_Standards/WikiData/WD~Jamaica,27119301]]'
-  - '[[_Standards/WikiData/WD~Hispaniola,25277]]'
-  - '[[_Standards/WikiData/WD~Navassa_Island,25359]]'
-instance_of: '[[_Standards/WikiData/WD~island_group,1402592]]'
-described_by_source: '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+  - "[[_Standards/WikiData/WD~Cuba,586657]]"
+  - "[[_Standards/WikiData/WD~Puerto_Rico,2076337]]"
+  - "[[_Standards/WikiData/WD~Jamaica,27119301]]"
+  - "[[_Standards/WikiData/WD~Hispaniola,25277]]"
+  - "[[_Standards/WikiData/WD~Navassa_Island,25359]]"
+instance_of: "[[_Standards/WikiData/WD~island_group,1402592]]"
+described_by_source: "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
 coordinate_location: Point(-79.033333333 21.983333333)
-located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
+located_in_or_next_to_body_of_water: "[[_Standards/WikiData/WD~Atlantic_Ocean,97]]"
 elevation_above_sea_level: 3087
 area: 207411
 population: 37862400
@@ -25,11 +25,14 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%2
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Meerenge%20NASA%20World%20Wind%20Globe%201.jpg
 Libris_URI: 42gjjq7n2hjmxjp
 Commons_category: Greater Antilles
+dv_is_:
+  same_as: "[[../../../WikiData/WD~Greater_Antilles,128011|WD~Greater_Antilles,128011]]"
+dv_is_same_as: "[[../../../WikiData/WD~Greater_Antilles,128011|WD~Greater_Antilles,128011]]"
 ---
 
 # [[Greater_Antilles]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Greater_Antilles,128011|WD~Greater_Antilles,128011]] 
+is_same_as = `=this.dv_is_same_as`
 
 
 ## #has_/text_of_/abstract 
@@ -58,4 +61,21 @@ Commons_category: Greater Antilles
 > while the Florida Keys, though not part of the Greater Antilles, is an island group north of Cuba.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Greater%20Antilles) 
+
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Greater_Antilles|Greater_Antilles]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Greater_Antilles.public|Greater_Antilles.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Greater_Antilles.internal|Greater_Antilles.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Greater_Antilles.protect|Greater_Antilles.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Greater_Antilles.private|Greater_Antilles.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Greater_Antilles.personal|Greater_Antilles.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Greater_Antilles.secret|Greater_Antilles.secret]] 
 

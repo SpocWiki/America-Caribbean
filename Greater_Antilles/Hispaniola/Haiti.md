@@ -1,4 +1,94 @@
-﻿---
+---
+dv_ISO4217-currency_alphabetic: HTG,USD
+dv_ISO4217-currency_name: Gourde,US Dollar
+dv_ISO4217-currency_numeric:
+  - 332
+  - 840
+dv_ISO4217-currency_minor_unit:
+  - 2
+  - 2
+dv_ISO4217-currency_country_name: HAITI
+dv_Telephone: 509
+dv_Global: true
+dv_Global_Name: World
+dv_name: Haiti
+dv_name-en:
+  - Haiti
+  - Haiti
+dv_name-es: Haití
+dv_name-fr: Haïti
+dv_name-cn: 海地
+dv_name-ar: هايتي
+dv_name-ru: Гаити
+dv_CLDR_display_name: Haiti
+dv_UNTERM_English: Haiti
+dv_UNTERM_English_Formal: the Republic of Haiti
+dv_UNTERM_Spanish_Formal: la República de Haití
+dv_UNTERM_Spanish: Haití
+dv_UNTERM_French: Haïti [masc.]
+dv_UNTERM_Arabic: هايتي
+dv_UNTERM_Arabic_Formal: جمهورية هايتي
+dv_UNTERM_Chinese: 海地
+dv_UNTERM_Chinese_Formal: 海地共和国
+dv_UNTERM_French_Formal: la République d'Haïti
+dv_UNTERM_Russian: Гаити
+dv_UNTERM_Russian_Formal: Республика Гаити
+dv_Region_Name: "[[Americas]]"
+dv_Intermediate_Region_Name: "[[Caribbean]]"
+dv_Sub-region_Name: "[[Latin America and the Caribbean]]"
+dv_Region: 19
+dv_Intermediate_Region: 29
+dv_Sub-region: 419
+dv_Geoname-ID: 3723988
+dv_FIPS: HA
+dv_FIFA: HAI
+dv_IOC: HAI
+dv_MARC: ht
+dv_GAUL: 108
+dv_WMO: HA
+dv_ITU: HTI
+dv_DS: RH
+dv_TLD: .ht
+dv_EDGAR: K1
+dv_M49: 332
+dv_is_independent: Yes
+dv_Developed_:
+  Developing_Countries: Developing
+dv_Least_Developed_Countries: x
+dv_Small_Island_Developing_States: x
+dv_ISO3166-1-numeric: 332
+dv_ISO2: HT
+dv_ISO3: HTI
+dv_is_:
+  same_as:
+    - "[[../../../../../WikiData/WD~Haiti,790|WD~Haiti,790]]"
+    - "[Haiti](/_Standards/Earth/Continent/America~Caribbean/Haiti.md)"
+    - "[Haiti.public](/_public/Earth/Continent/America~Caribbean/Haiti.public.md)"
+    - "[Haiti.internal](/_internal/Earth/Continent/America~Caribbean/Haiti.internal.md)"
+    - "[Haiti.protect](/_protect/Earth/Continent/America~Caribbean/Haiti.protect.md)"
+    - "[Haiti.private](/_private/Earth/Continent/America~Caribbean/Haiti.private.md)"
+    - "[Haiti.personal](/_personal/Earth/Continent/America~Caribbean/Haiti.personal.md)"
+    - "[Haiti.secret](/_secret/Earth/Continent/America~Caribbean/Haiti.secret.md)"
+dv_name-de: Haiti
+dv_Area-Total: 27750
+dv_Area-Land: 27560
+dv_VehicleCode: RH
+dv_Alcohol-l: 6.6
+dv_Language-Id: 496
+dv_is_a_: "[[../../../../Geography/Place]]"
+dv_has_place_longitude: -72.3333
+dv_has_place_latitude: 18.5333
+dv_developed_developing_countries: Developing
+dv_is_same_as:
+  - "[[../../../../../WikiData/WD~Haiti,790|WD~Haiti,790]]"
+  - "[Haiti](/_Standards/Earth/Continent/America~Caribbean/Haiti.md)"
+  - "[Haiti.public](/_public/Earth/Continent/America~Caribbean/Haiti.public.md)"
+  - "[Haiti.internal](/_internal/Earth/Continent/America~Caribbean/Haiti.internal.md)"
+  - "[Haiti.protect](/_protect/Earth/Continent/America~Caribbean/Haiti.protect.md)"
+  - "[Haiti.private](/_private/Earth/Continent/America~Caribbean/Haiti.private.md)"
+  - "[Haiti.personal](/_personal/Earth/Continent/America~Caribbean/Haiti.personal.md)"
+  - "[Haiti.secret](/_secret/Earth/Continent/America~Caribbean/Haiti.secret.md)"
+
 has_time_started: 1804 
 aliases:
   - Haiti
@@ -325,73 +415,73 @@ inception: 1804
 
 # [[Haiti]] 
 
-[	ISO4217-currency_alphabetic	 :: HTG,USD ] 
-[	ISO4217-currency_name	 :: Gourde,US Dollar ] 
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 
 [	ISO4217-currency_numeric	 :: 332,840 ] 
 [	ISO4217-currency_minor_unit	 :: 2,2 ] 
-[	ISO4217-currency_country_name	 :: HAITI ] 
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name` 
 
-[	Telephone	 :: 509 ] 
+Telephone = `=this.dv_Telephone` 
 
-[	Global	 :: True ] 
-[	Global_Name	 :: World ] 
+Global = `=this.dv_Global` 
+Global_Name = `=this.dv_Global_Name` 
 
-[	name	 :: Haiti ] 
+name = `=this.dv_name` 
 [	name-en	 :: Haiti ] 
-[	name-es	 :: Haití ] 
-[	name-fr	 :: Haïti ] 
-[	name-cn	 :: 海地 ] 
-[	name-ar	 :: هايتي ] 
-[	name-ru	 :: Гаити ] 
+name-es = `=this.dv_name-es` 
+name-fr = `=this.dv_name-fr` 
+name-cn = `=this.dv_name-cn` 
+name-ar = `=this.dv_name-ar` 
+name-ru = `=this.dv_name-ru` 
 
-[	CLDR_display_name	 :: Haiti ] 
+CLDR_display_name = `=this.dv_CLDR_display_name` 
 
-[	UNTERM_English	 :: Haiti ] 
-[	UNTERM_English_Formal	 :: the Republic of Haiti ] 
-[	UNTERM_Spanish_Formal	 :: la República de Haití ] 
-[	UNTERM_Spanish	 :: Haití ] 
-[	UNTERM_French	 :: Haïti [masc.] ] 
-[	UNTERM_Arabic	 :: هايتي ] 
-[	UNTERM_Arabic_Formal	 :: جمهورية هايتي ] 
-[	UNTERM_Chinese	 :: 海地 ] 
-[	UNTERM_Chinese_Formal	 :: 海地共和国 ] 
-[	UNTERM_French_Formal	 :: la République d'Haïti ] 
-[	UNTERM_Russian	 :: Гаити ] 
-[	UNTERM_Russian_Formal	 :: Республика Гаити ] 
+UNTERM_English = `=this.dv_UNTERM_English` 
+UNTERM_English_Formal = `=this.dv_UNTERM_English_Formal` 
+UNTERM_Spanish_Formal = `=this.dv_UNTERM_Spanish_Formal` 
+UNTERM_Spanish = `=this.dv_UNTERM_Spanish` 
+UNTERM_French = `=this.dv_UNTERM_French` ] 
+UNTERM_Arabic = `=this.dv_UNTERM_Arabic` 
+UNTERM_Arabic_Formal = `=this.dv_UNTERM_Arabic_Formal` 
+UNTERM_Chinese = `=this.dv_UNTERM_Chinese` 
+UNTERM_Chinese_Formal = `=this.dv_UNTERM_Chinese_Formal` 
+UNTERM_French_Formal = `=this.dv_UNTERM_French_Formal` 
+UNTERM_Russian = `=this.dv_UNTERM_Russian` 
+UNTERM_Russian_Formal = `=this.dv_UNTERM_Russian_Formal` 
 
-Region_Name ::  [[Americas]]  
-Intermediate_Region_Name ::  [[Caribbean]]  
-Sub-region_Name ::  [[Latin America and the Caribbean]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 19 ] 
-[	Intermediate_Region	 :: 29 ] 
-[	Sub-region	 :: 419 ] 
+Region = `=this.dv_Region` 
+Intermediate_Region = `=this.dv_Intermediate_Region` 
+Sub-region = `=this.dv_Sub-region` 
 
-[	Geoname-ID	 :: 3723988 ] 
-[	FIPS	 :: HA ] 
-[	FIFA	 :: HAI ] 
-[	IOC	 :: HAI ] 
-[	MARC	 :: ht ] 
-[	GAUL	 :: 108 ] 
-[	WMO	 :: HA ] 
-[	ITU	 :: HTI ] 
-[	DS	 :: RH ] 
-[	TLD	 :: .ht ] 
-[	EDGAR	 :: K1 ] 
-[	M49	 :: 332 ] 
+Geoname-ID = `=this.dv_Geoname-ID` 
+FIPS = `=this.dv_FIPS` 
+FIFA = `=this.dv_FIFA` 
+IOC = `=this.dv_IOC` 
+MARC = `=this.dv_MARC` 
+GAUL = `=this.dv_GAUL` 
+WMO = `=this.dv_WMO` 
+ITU = `=this.dv_ITU` 
+DS = `=this.dv_DS` 
+TLD = `=this.dv_TLD` 
+EDGAR = `=this.dv_EDGAR` 
+M49 = `=this.dv_M49` 
 
-[	is_independent	 :: Yes ] 
-[	Developed_/Developing_Countries	 :: Developing ] 
+is_independent = `=this.dv_is_independent` 
+developed_developing_countries = `=this.dv_developed_developing_countries` 
 [	Land_Locked_Developing_Countries	 ::  ] 
-[	Least_Developed_Countries	 :: x ] 
-[	Small_Island_Developing_States	 :: x ] 
+Least_Developed_Countries = `=this.dv_Least_Developed_Countries` 
+Small_Island_Developing_States = `=this.dv_Small_Island_Developing_States` 
 
-[	ISO3166-1-numeric	 :: 332 ] 
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric` 
 
-[ISO2::HT] 
-[ISO3::HTI] 
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Haiti,790|WD~Haiti,790]] 
+is_a_ = `=this.dv_is_a_`
 
 ## #has_/map  
 
@@ -405,11 +495,11 @@ markerFolder: ./Haiti/
 ```
 
 [name-en::Haiti] 
-[name-de::Haiti] 
-[Area-Total::27750] 
-[Area-Land::27560] 
+name-de = `=this.dv_name-de` 
+Area-Total = `=this.dv_Area-Total` 
+Area-Land = `=this.dv_Area-Land` 
 Continent :: [[South-America]]  
-[VehicleCode::RH] 
+VehicleCode = `=this.dv_VehicleCode` 
 Capital :: [[Haiti/Counties/Ouest/City/Port-au-Prince]]  
 
 ![[Haiti/Coat_of_arms_of_Haiti.svg|450]] 
@@ -418,12 +508,12 @@ Capital :: [[Haiti/Counties/Ouest/City/Port-au-Prince]]
 
 ![[Haiti/Flag_of_Haiti.svg|350]] 
 
-[Alcohol-l::6.6] 
-[Language-Id::496] 
+Alcohol-l = `=this.dv_Alcohol-l` 
+Language-Id = `=this.dv_Language-Id` 
 #is_a_/Place  
-#is_a_ :: [[../../../../Geography/Place]] 
-[has_place_longitude::-72.3333] 
-[has_place_latitude::18.5333] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 
 
 ## #has_/text_of_/abstract 
@@ -467,17 +557,17 @@ Capital :: [[Haiti/Counties/Ouest/City/Port-au-Prince]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Haiti](/_Standards/Earth/Continent/America~Caribbean/Haiti.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Greater_Antilles/Hispaniola/Haiti|Haiti]] 
 
-### #is_/same_as :: [Haiti.public](/_public/Earth/Continent/America~Caribbean/Haiti.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Greater_Antilles/Hispaniola/Haiti.public|Haiti.public]] 
 
-### #is_/same_as :: [Haiti.internal](/_internal/Earth/Continent/America~Caribbean/Haiti.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Greater_Antilles/Hispaniola/Haiti.internal|Haiti.internal]] 
 
-### #is_/same_as :: [Haiti.protect](/_protect/Earth/Continent/America~Caribbean/Haiti.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Greater_Antilles/Hispaniola/Haiti.protect|Haiti.protect]] 
 
-### #is_/same_as :: [Haiti.private](/_private/Earth/Continent/America~Caribbean/Haiti.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Greater_Antilles/Hispaniola/Haiti.private|Haiti.private]] 
 
-### #is_/same_as :: [Haiti.personal](/_personal/Earth/Continent/America~Caribbean/Haiti.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Greater_Antilles/Hispaniola/Haiti.personal|Haiti.personal]] 
 
-### #is_/same_as :: [Haiti.secret](/_secret/Earth/Continent/America~Caribbean/Haiti.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Greater_Antilles/Hispaniola/Haiti.secret|Haiti.secret]] 
 

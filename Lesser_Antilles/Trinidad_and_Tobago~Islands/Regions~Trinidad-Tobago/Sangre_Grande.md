@@ -20,11 +20,28 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as:
+    - "[Sangre_Grande](/_Standards/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Sangre_Grande.md)"
+    - "[Sangre_Grande.public](/_public/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Sangre_Grande.public.md)"
+    - "[Sangre_Grande.internal](/_internal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Sangre_Grande.internal.md)"
+    - "[Sangre_Grande.protect](/_protect/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Sangre_Grande.protect.md)"
+    - "[Sangre_Grande.private](/_private/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Sangre_Grande.private.md)"
+    - "[Sangre_Grande.personal](/_personal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Sangre_Grande.personal.md)"
+    - "[Sangre_Grande.secret](/_secret/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Sangre_Grande.secret.md)"
+dv_is_same_as:
+  - "[Sangre_Grande](/_Standards/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Sangre_Grande.md)"
+  - "[Sangre_Grande.public](/_public/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Sangre_Grande.public.md)"
+  - "[Sangre_Grande.internal](/_internal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Sangre_Grande.internal.md)"
+  - "[Sangre_Grande.protect](/_protect/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Sangre_Grande.protect.md)"
+  - "[Sangre_Grande.private](/_private/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Sangre_Grande.private.md)"
+  - "[Sangre_Grande.personal](/_personal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Sangre_Grande.personal.md)"
+  - "[Sangre_Grande.secret](/_secret/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Sangre_Grande.secret.md)"
 ---
 
 # Sangre_Grande
@@ -41,17 +58,17 @@ markerFolder: ./Sangre_Grande/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sangre_Grande](/_Standards/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Sangre_Grande.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Lesser_Antilles/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Sangre_Grande|Sangre_Grande]] 
 
-### #is_/same_as :: [Sangre_Grande.public](/_public/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Sangre_Grande.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Lesser_Antilles/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Sangre_Grande.public|Sangre_Grande.public]] 
 
-### #is_/same_as :: [Sangre_Grande.internal](/_internal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Sangre_Grande.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Lesser_Antilles/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Sangre_Grande.internal|Sangre_Grande.internal]] 
 
-### #is_/same_as :: [Sangre_Grande.protect](/_protect/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Sangre_Grande.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Lesser_Antilles/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Sangre_Grande.protect|Sangre_Grande.protect]] 
 
-### #is_/same_as :: [Sangre_Grande.private](/_private/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Sangre_Grande.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Lesser_Antilles/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Sangre_Grande.private|Sangre_Grande.private]] 
 
-### #is_/same_as :: [Sangre_Grande.personal](/_personal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Sangre_Grande.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Lesser_Antilles/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Sangre_Grande.personal|Sangre_Grande.personal]] 
 
-### #is_/same_as :: [Sangre_Grande.secret](/_secret/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Sangre_Grande.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Lesser_Antilles/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Sangre_Grande.secret|Sangre_Grande.secret]] 
 

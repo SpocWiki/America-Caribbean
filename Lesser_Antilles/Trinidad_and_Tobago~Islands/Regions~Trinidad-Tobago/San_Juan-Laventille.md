@@ -20,11 +20,28 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as:
+    - "[San_Juan-Laventille](/_Standards/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/San_Juan-Laventille.md)"
+    - "[San_Juan-Laventille.public](/_public/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/San_Juan-Laventille.public.md)"
+    - "[San_Juan-Laventille.internal](/_internal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/San_Juan-Laventille.internal.md)"
+    - "[San_Juan-Laventille.protect](/_protect/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/San_Juan-Laventille.protect.md)"
+    - "[San_Juan-Laventille.private](/_private/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/San_Juan-Laventille.private.md)"
+    - "[San_Juan-Laventille.personal](/_personal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/San_Juan-Laventille.personal.md)"
+    - "[San_Juan-Laventille.secret](/_secret/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/San_Juan-Laventille.secret.md)"
+dv_is_same_as:
+  - "[San_Juan-Laventille](/_Standards/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/San_Juan-Laventille.md)"
+  - "[San_Juan-Laventille.public](/_public/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/San_Juan-Laventille.public.md)"
+  - "[San_Juan-Laventille.internal](/_internal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/San_Juan-Laventille.internal.md)"
+  - "[San_Juan-Laventille.protect](/_protect/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/San_Juan-Laventille.protect.md)"
+  - "[San_Juan-Laventille.private](/_private/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/San_Juan-Laventille.private.md)"
+  - "[San_Juan-Laventille.personal](/_personal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/San_Juan-Laventille.personal.md)"
+  - "[San_Juan-Laventille.secret](/_secret/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/San_Juan-Laventille.secret.md)"
 ---
 
 # San_Juan-Laventille
@@ -41,17 +58,17 @@ markerFolder: ./San_Juan-Laventille/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [San_Juan-Laventille](/_Standards/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/San_Juan-Laventille.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Lesser_Antilles/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/San_Juan-Laventille|San_Juan-Laventille]] 
 
-### #is_/same_as :: [San_Juan-Laventille.public](/_public/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/San_Juan-Laventille.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Lesser_Antilles/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/San_Juan-Laventille.public|San_Juan-Laventille.public]] 
 
-### #is_/same_as :: [San_Juan-Laventille.internal](/_internal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/San_Juan-Laventille.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Lesser_Antilles/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/San_Juan-Laventille.internal|San_Juan-Laventille.internal]] 
 
-### #is_/same_as :: [San_Juan-Laventille.protect](/_protect/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/San_Juan-Laventille.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Lesser_Antilles/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/San_Juan-Laventille.protect|San_Juan-Laventille.protect]] 
 
-### #is_/same_as :: [San_Juan-Laventille.private](/_private/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/San_Juan-Laventille.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Lesser_Antilles/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/San_Juan-Laventille.private|San_Juan-Laventille.private]] 
 
-### #is_/same_as :: [San_Juan-Laventille.personal](/_personal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/San_Juan-Laventille.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Lesser_Antilles/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/San_Juan-Laventille.personal|San_Juan-Laventille.personal]] 
 
-### #is_/same_as :: [San_Juan-Laventille.secret](/_secret/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/San_Juan-Laventille.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Lesser_Antilles/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/San_Juan-Laventille.secret|San_Juan-Laventille.secret]] 
 

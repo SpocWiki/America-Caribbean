@@ -21,11 +21,28 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as:
+    - "[Santiago](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Santiago.md)"
+    - "[Santiago.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Santiago.public.md)"
+    - "[Santiago.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Santiago.internal.md)"
+    - "[Santiago.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Santiago.protect.md)"
+    - "[Santiago.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Santiago.private.md)"
+    - "[Santiago.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Santiago.personal.md)"
+    - "[Santiago.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Santiago.secret.md)"
+dv_is_same_as:
+  - "[Santiago](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Santiago.md)"
+  - "[Santiago.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Santiago.public.md)"
+  - "[Santiago.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Santiago.internal.md)"
+  - "[Santiago.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Santiago.protect.md)"
+  - "[Santiago.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Santiago.private.md)"
+  - "[Santiago.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Santiago.personal.md)"
+  - "[Santiago.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Santiago.secret.md)"
 ---
 
 # [[Santiago,Dom_Rep]]
@@ -42,17 +59,17 @@ markerFolder: ./Santiago/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Santiago](/_Standards/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Santiago.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Greater_Antilles/Dominican_Rep/provinces~Dominican_Rep/Santiago,Dom_Rep|Santiago,Dom_Rep]] 
 
-### #is_/same_as :: [Santiago.public](/_public/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Santiago.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Greater_Antilles/Dominican_Rep/provinces~Dominican_Rep/Santiago,Dom_Rep.public|Santiago,Dom_Rep.public]] 
 
-### #is_/same_as :: [Santiago.internal](/_internal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Santiago.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Greater_Antilles/Dominican_Rep/provinces~Dominican_Rep/Santiago,Dom_Rep.internal|Santiago,Dom_Rep.internal]] 
 
-### #is_/same_as :: [Santiago.protect](/_protect/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Santiago.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Greater_Antilles/Dominican_Rep/provinces~Dominican_Rep/Santiago,Dom_Rep.protect|Santiago,Dom_Rep.protect]] 
 
-### #is_/same_as :: [Santiago.private](/_private/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Santiago.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Greater_Antilles/Dominican_Rep/provinces~Dominican_Rep/Santiago,Dom_Rep.private|Santiago,Dom_Rep.private]] 
 
-### #is_/same_as :: [Santiago.personal](/_personal/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Santiago.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Greater_Antilles/Dominican_Rep/provinces~Dominican_Rep/Santiago,Dom_Rep.personal|Santiago,Dom_Rep.personal]] 
 
-### #is_/same_as :: [Santiago.secret](/_secret/Earth/Continent/America~Caribbean/Dominican_Rep/provinces~Dominican_Rep/Santiago.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Greater_Antilles/Dominican_Rep/provinces~Dominican_Rep/Santiago,Dom_Rep.secret|Santiago,Dom_Rep.secret]] 
 

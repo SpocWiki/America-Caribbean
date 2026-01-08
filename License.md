@@ -1,3 +1,22 @@
+---
+dv_is_:
+  same_as:
+    - "[License](/_Standards/Earth/Continent/America~Caribbean/License.md)"
+    - "[License.public](/_public/Earth/Continent/America~Caribbean/License.public.md)"
+    - "[License.internal](/_internal/Earth/Continent/America~Caribbean/License.internal.md)"
+    - "[License.protect](/_protect/Earth/Continent/America~Caribbean/License.protect.md)"
+    - "[License.private](/_private/Earth/Continent/America~Caribbean/License.private.md)"
+    - "[License.personal](/_personal/Earth/Continent/America~Caribbean/License.personal.md)"
+    - "[License.secret](/_secret/Earth/Continent/America~Caribbean/License.secret.md)"
+dv_is_same_as:
+  - "[License](/_Standards/Earth/Continent/America~Caribbean/License.md)"
+  - "[License.public](/_public/Earth/Continent/America~Caribbean/License.public.md)"
+  - "[License.internal](/_internal/Earth/Continent/America~Caribbean/License.internal.md)"
+  - "[License.protect](/_protect/Earth/Continent/America~Caribbean/License.protect.md)"
+  - "[License.private](/_private/Earth/Continent/America~Caribbean/License.private.md)"
+  - "[License.personal](/_personal/Earth/Continent/America~Caribbean/License.personal.md)"
+  - "[License.secret](/_secret/Earth/Continent/America~Caribbean/License.secret.md)"
+---
 # Creative Commons Legal Code
 
 [![License: CC BY-SA 3.0](https://img.shields.io/badge/License-CC%20BY--SA%203.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/3.0/)
@@ -113,17 +132,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [License](/_Standards/Earth/Continent/America~Caribbean/License.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/License|License]] 
 
-### #is_/same_as :: [License.public](/_public/Earth/Continent/America~Caribbean/License.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/License.public|License.public]] 
 
-### #is_/same_as :: [License.internal](/_internal/Earth/Continent/America~Caribbean/License.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/License.internal|License.internal]] 
 
-### #is_/same_as :: [License.protect](/_protect/Earth/Continent/America~Caribbean/License.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/License.protect|License.protect]] 
 
-### #is_/same_as :: [License.private](/_private/Earth/Continent/America~Caribbean/License.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/License.private|License.private]] 
 
-### #is_/same_as :: [License.personal](/_personal/Earth/Continent/America~Caribbean/License.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/License.personal|License.personal]] 
 
-### #is_/same_as :: [License.secret](/_secret/Earth/Continent/America~Caribbean/License.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/License.secret|License.secret]] 
 

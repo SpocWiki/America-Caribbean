@@ -20,11 +20,28 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as:
+    - "[East_Grand_Bahama](/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/East_Grand_Bahama.md)"
+    - "[East_Grand_Bahama.public](/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/East_Grand_Bahama.public.md)"
+    - "[East_Grand_Bahama.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/East_Grand_Bahama.internal.md)"
+    - "[East_Grand_Bahama.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/East_Grand_Bahama.protect.md)"
+    - "[East_Grand_Bahama.private](/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/East_Grand_Bahama.private.md)"
+    - "[East_Grand_Bahama.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/East_Grand_Bahama.personal.md)"
+    - "[East_Grand_Bahama.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/East_Grand_Bahama.secret.md)"
+dv_is_same_as:
+  - "[East_Grand_Bahama](/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/East_Grand_Bahama.md)"
+  - "[East_Grand_Bahama.public](/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/East_Grand_Bahama.public.md)"
+  - "[East_Grand_Bahama.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/East_Grand_Bahama.internal.md)"
+  - "[East_Grand_Bahama.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/East_Grand_Bahama.protect.md)"
+  - "[East_Grand_Bahama.private](/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/East_Grand_Bahama.private.md)"
+  - "[East_Grand_Bahama.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/East_Grand_Bahama.personal.md)"
+  - "[East_Grand_Bahama.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/East_Grand_Bahama.secret.md)"
 ---
 
 # East_Grand_Bahama
@@ -41,17 +58,17 @@ markerFolder: ./East_Grand_Bahama/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [East_Grand_Bahama](/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/East_Grand_Bahama.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/East_Grand_Bahama|East_Grand_Bahama]] 
 
-### #is_/same_as :: [East_Grand_Bahama.public](/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/East_Grand_Bahama.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/East_Grand_Bahama.public|East_Grand_Bahama.public]] 
 
-### #is_/same_as :: [East_Grand_Bahama.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/East_Grand_Bahama.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/East_Grand_Bahama.internal|East_Grand_Bahama.internal]] 
 
-### #is_/same_as :: [East_Grand_Bahama.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/East_Grand_Bahama.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/East_Grand_Bahama.protect|East_Grand_Bahama.protect]] 
 
-### #is_/same_as :: [East_Grand_Bahama.private](/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/East_Grand_Bahama.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/East_Grand_Bahama.private|East_Grand_Bahama.private]] 
 
-### #is_/same_as :: [East_Grand_Bahama.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/East_Grand_Bahama.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/East_Grand_Bahama.personal|East_Grand_Bahama.personal]] 
 
-### #is_/same_as :: [East_Grand_Bahama.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/East_Grand_Bahama.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/East_Grand_Bahama.secret|East_Grand_Bahama.secret]] 
 

@@ -1,7 +1,7 @@
 ---
 aliases:
   - _Rivers
-  - ' Rivers'
+  - " Rivers"
 location:
   - 20.083807684369035
   - -75.73029537668707
@@ -20,11 +20,28 @@ Languages:
 cssclasses:
   - geo-Region
 publish: true
-linkTitle: ''
-keywords: ''
-layout: ''
-publishDate: ''
-expiryDate: ''
+linkTitle: ""
+keywords: ""
+layout: ""
+publishDate: ""
+expiryDate: ""
+dv_is_:
+  same_as:
+    - "[_Rivers](/_Standards/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Santiago_de_Cuba/_Rivers.md)"
+    - "[_Rivers.public](/_public/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Santiago_de_Cuba/_Rivers.public.md)"
+    - "[_Rivers.internal](/_internal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Santiago_de_Cuba/_Rivers.internal.md)"
+    - "[_Rivers.protect](/_protect/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Santiago_de_Cuba/_Rivers.protect.md)"
+    - "[_Rivers.private](/_private/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Santiago_de_Cuba/_Rivers.private.md)"
+    - "[_Rivers.personal](/_personal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Santiago_de_Cuba/_Rivers.personal.md)"
+    - "[_Rivers.secret](/_secret/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Santiago_de_Cuba/_Rivers.secret.md)"
+dv_is_same_as:
+  - "[_Rivers](/_Standards/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Santiago_de_Cuba/_Rivers.md)"
+  - "[_Rivers.public](/_public/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Santiago_de_Cuba/_Rivers.public.md)"
+  - "[_Rivers.internal](/_internal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Santiago_de_Cuba/_Rivers.internal.md)"
+  - "[_Rivers.protect](/_protect/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Santiago_de_Cuba/_Rivers.protect.md)"
+  - "[_Rivers.private](/_private/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Santiago_de_Cuba/_Rivers.private.md)"
+  - "[_Rivers.personal](/_personal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Santiago_de_Cuba/_Rivers.personal.md)"
+  - "[_Rivers.secret](/_secret/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Santiago_de_Cuba/_Rivers.secret.md)"
 ---
 
 # _Rivers
@@ -41,17 +58,17 @@ markerFolder: ./_Rivers/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [_Rivers](/_Standards/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Santiago_de_Cuba/_Rivers.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Greater_Antilles/Cuba/provinces~Cuba/Santiago_de_Cuba/_Rivers|_Rivers]] 
 
-### #is_/same_as :: [_Rivers.public](/_public/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Santiago_de_Cuba/_Rivers.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Greater_Antilles/Cuba/provinces~Cuba/Santiago_de_Cuba/_Rivers.public|_Rivers.public]] 
 
-### #is_/same_as :: [_Rivers.internal](/_internal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Santiago_de_Cuba/_Rivers.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Greater_Antilles/Cuba/provinces~Cuba/Santiago_de_Cuba/_Rivers.internal|_Rivers.internal]] 
 
-### #is_/same_as :: [_Rivers.protect](/_protect/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Santiago_de_Cuba/_Rivers.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Greater_Antilles/Cuba/provinces~Cuba/Santiago_de_Cuba/_Rivers.protect|_Rivers.protect]] 
 
-### #is_/same_as :: [_Rivers.private](/_private/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Santiago_de_Cuba/_Rivers.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Greater_Antilles/Cuba/provinces~Cuba/Santiago_de_Cuba/_Rivers.private|_Rivers.private]] 
 
-### #is_/same_as :: [_Rivers.personal](/_personal/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Santiago_de_Cuba/_Rivers.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Greater_Antilles/Cuba/provinces~Cuba/Santiago_de_Cuba/_Rivers.personal|_Rivers.personal]] 
 
-### #is_/same_as :: [_Rivers.secret](/_secret/Earth/Continent/America~Caribbean/Cuba/provinces~Cuba/Santiago_de_Cuba/_Rivers.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Greater_Antilles/Cuba/provinces~Cuba/Santiago_de_Cuba/_Rivers.secret|_Rivers.secret]] 
 

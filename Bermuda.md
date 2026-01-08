@@ -1,4 +1,72 @@
-﻿---
+---
+dv_ISO4217-currency_alphabetic: BMD
+dv_ISO4217-currency_name: Bermudian Dollar
+dv_ISO4217-currency_numeric: 60
+dv_ISO4217-currency_minor_unit: 2
+dv_ISO4217-currency_country_name: BERMUDA
+dv_Telephone: 1-441
+dv_Global: true
+dv_Global_Name: World
+dv_name: Bermuda
+dv_name-en:
+  - Bermuda
+  - Bermuda
+dv_name-es: Bermuda
+dv_name-fr: Bermudes
+dv_name-cn: 百慕大
+dv_name-ar: برمودا
+dv_name-ru: Бермудские острова
+dv_CLDR_display_name: Bermuda
+dv_Region_Name: "[[Americas]]"
+dv_Intermediate_Region_Name: "[[Bermuda]]"
+dv_Sub-region_Name: "[[Northern America]]"
+dv_Region: 19
+dv_Sub-region: 21
+dv_Geoname-ID: 3573345
+dv_FIPS: BD
+dv_FIFA: BER
+dv_IOC: BER
+dv_MARC: bm
+dv_GAUL: 30
+dv_WMO: BE
+dv_ITU: BER
+dv_DS: BM
+dv_TLD: .bm
+dv_EDGAR: D0
+dv_M49: 60
+dv_is_independent: Territory of GB
+dv_Developed_:
+  Developing_Countries: Developed
+dv_ISO3166-1-numeric: 60
+dv_ISO2: BM
+dv_ISO3: BMU
+dv_is_:
+  same_as:
+    - "[[../../../WikiData/WD~Bermuda,23635|WD~Bermuda,23635]]"
+    - "[Bermuda](/_Standards/Earth/Continent/America~Caribbean/Bermuda.md)"
+    - "[Bermuda.public](/_public/Earth/Continent/America~Caribbean/Bermuda.public.md)"
+    - "[Bermuda.internal](/_internal/Earth/Continent/America~Caribbean/Bermuda.internal.md)"
+    - "[Bermuda.protect](/_protect/Earth/Continent/America~Caribbean/Bermuda.protect.md)"
+    - "[Bermuda.private](/_private/Earth/Continent/America~Caribbean/Bermuda.private.md)"
+    - "[Bermuda.personal](/_personal/Earth/Continent/America~Caribbean/Bermuda.personal.md)"
+    - "[Bermuda.secret](/_secret/Earth/Continent/America~Caribbean/Bermuda.secret.md)"
+dv_name-de: Bermuda
+dv_Area-Total: 0
+dv_Area-Land: 0
+dv_is_a_: "[[../../Geography/Place]]"
+dv_has_place_longitude: -64.74
+dv_has_place_latitude: 32.32
+dv_developed_developing_countries: Developed
+dv_is_same_as:
+  - "[[../../../WikiData/WD~Bermuda,23635|WD~Bermuda,23635]]"
+  - "[Bermuda](/_Standards/Earth/Continent/America~Caribbean/Bermuda.md)"
+  - "[Bermuda.public](/_public/Earth/Continent/America~Caribbean/Bermuda.public.md)"
+  - "[Bermuda.internal](/_internal/Earth/Continent/America~Caribbean/Bermuda.internal.md)"
+  - "[Bermuda.protect](/_protect/Earth/Continent/America~Caribbean/Bermuda.protect.md)"
+  - "[Bermuda.private](/_private/Earth/Continent/America~Caribbean/Bermuda.private.md)"
+  - "[Bermuda.personal](/_personal/Earth/Continent/America~Caribbean/Bermuda.personal.md)"
+  - "[Bermuda.secret](/_secret/Earth/Continent/America~Caribbean/Bermuda.secret.md)"
+
 has_time_started: 1612 
 aliases:
   - Bermuda
@@ -170,30 +238,30 @@ UMLS_CUI: C0005126
 
 # [[Bermuda]] 
 
-[	ISO4217-currency_alphabetic	 :: BMD ] 
-[	ISO4217-currency_name	 :: Bermudian Dollar ] 
-[	ISO4217-currency_numeric	 :: 060 ] 
-[	ISO4217-currency_minor_unit	 :: 2 ] 
-[	ISO4217-currency_country_name	 :: BERMUDA ] 
+ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
+ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 
+ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric` 
+ISO4217-currency_minor_unit = `=this.dv_ISO4217-currency_minor_unit` 
+ISO4217-currency_country_name = `=this.dv_ISO4217-currency_country_name` 
 
-[	Telephone	 :: 1-441 ] 
+Telephone = `=this.dv_Telephone` 
 
-[	Global	 :: True ] 
-[	Global_Name	 :: World ] 
+Global = `=this.dv_Global` 
+Global_Name = `=this.dv_Global_Name` 
 
-[	name	 :: Bermuda ] 
+name = `=this.dv_name` 
 [	name-en	 :: Bermuda ] 
-[	name-es	 :: Bermuda ] 
-[	name-fr	 :: Bermudes ] 
-[	name-cn	 :: 百慕大 ] 
-[	name-ar	 :: برمودا ] 
-[	name-ru	 :: Бермудские острова ] 
+name-es = `=this.dv_name-es` 
+name-fr = `=this.dv_name-fr` 
+name-cn = `=this.dv_name-cn` 
+name-ar = `=this.dv_name-ar` 
+name-ru = `=this.dv_name-ru` 
 
-[	CLDR_display_name	 :: Bermuda ] 
+CLDR_display_name = `=this.dv_CLDR_display_name` 
 
 [	UNTERM_English	 ::  ] 
-[	UNTERM_English_Formal	 ::  ] 
-[	UNTERM_Spanish_Formal	 ::  ] 
+[	UNTERM_Englis_a_ = `=this.dv_is_a_`
+[	UNTERM_Spanis_a_ = `=this.dv_is_a_`
 [	UNTERM_Spanish	 ::  ] 
 [	UNTERM_French	 ::  ] 
 [	UNTERM_Arabic	 ::  ] 
@@ -204,39 +272,39 @@ UMLS_CUI: C0005126
 [	UNTERM_Russian	 ::  ] 
 [	UNTERM_Russian_Formal	 ::  ] 
 
-Region_Name ::  [[Americas]]  
-Intermediate_Region_Name ::  [[]] 
-Sub-region_Name ::  [[Northern America]] 
+Region_Name = `=this.dv_Region_Name`
+Intermediate_Region_Name = `=this.dv_Intermediate_Region_Name`
+Sub-region_Name = `=this.dv_Sub-region_Name`
 
-[	Region	 :: 19 ] 
-[	Intermediate_Region	 ::  ] 
-[	Sub-region	 :: 21 ] 
+Region = `=this.dv_Region` 
+[	Intermediate_Region = `=this.dv_Region`
+Sub-region = `=this.dv_Sub-region` 
 
-[	Geoname-ID	 :: 3573345 ] 
-[	FIPS	 :: BD ] 
-[	FIFA	 :: BER ] 
-[	IOC	 :: BER ] 
-[	MARC	 :: bm ] 
-[	GAUL	 :: 30 ] 
-[	WMO	 :: BE ] 
-[	ITU	 :: BER ] 
-[	DS	 :: BM ] 
-[	TLD	 :: .bm ] 
-[	EDGAR	 :: D0 ] 
-[	M49	 :: 60 ] 
+Geoname-ID = `=this.dv_Geoname-ID` 
+FIPS = `=this.dv_FIPS` 
+FIFA = `=this.dv_FIFA` 
+IOC = `=this.dv_IOC` 
+MARC = `=this.dv_MARC` 
+GAUL = `=this.dv_GAUL` 
+WMO = `=this.dv_WMO` 
+ITU = `=this.dv_ITU` 
+DS = `=this.dv_DS` 
+TLD = `=this.dv_TLD` 
+EDGAR = `=this.dv_EDGAR` 
+M49 = `=this.dv_M49` 
 
-[	is_independent	 :: Territory of GB ] 
-[	Developed_/Developing_Countries	 :: Developed ] 
+is_independent = `=this.dv_is_independent` 
+developed_developing_countries = `=this.dv_developed_developing_countries` 
 [	Land_Locked_Developing_Countries	 ::  ] 
 [	Least_Developed_Countries	 ::  ] 
-[	Small_Island_Developing_States	 ::  ] 
+[	Small_is_a_ = `=this.dv_is_a_`
 
-[	ISO3166-1-numeric	 :: 060 ] 
+ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric` 
 
-[ISO2::BM] 
-[ISO3::BMU] 
+ISO2 = `=this.dv_ISO2` 
+ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../WikiData/WD~Bermuda,23635|WD~Bermuda,23635]] 
+is_a_ = `=this.dv_is_a_`
 
 ## #has_/map 
 
@@ -250,18 +318,18 @@ markerFolder: ./Bermuda/
 ```
 
 [name-en::Bermuda] 
-[name-de::Bermuda] 
-[Area-Total::0] 
-[Area-Land::0] 
+name-de = `=this.dv_name-de` 
+Area-Total = `=this.dv_Area-Total` 
+Area-Land = `=this.dv_Area-Land` 
 Continent :: [[North-America]]  
 [VehicleCode::] 
 Capital :: [[Bermuda/Counties/Pembroke/City/Hamilton]]  
 [Alcohol-l::] 
 [Language-Id::] 
 #is_a_/Place  
-#is_a_ :: [[../../Geography/Place]] 
-[has_place_longitude::-64.74] 
-[has_place_latitude::32.32] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
 
 
 ## #has_/text_of_/abstract 
@@ -282,17 +350,17 @@ Capital :: [[Bermuda/Counties/Pembroke/City/Hamilton]]
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Bermuda](/_Standards/Earth/Continent/America~Caribbean/Bermuda.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Bermuda|Bermuda]] 
 
-### #is_/same_as :: [Bermuda.public](/_public/Earth/Continent/America~Caribbean/Bermuda.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Bermuda.public|Bermuda.public]] 
 
-### #is_/same_as :: [Bermuda.internal](/_internal/Earth/Continent/America~Caribbean/Bermuda.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Bermuda.internal|Bermuda.internal]] 
 
-### #is_/same_as :: [Bermuda.protect](/_protect/Earth/Continent/America~Caribbean/Bermuda.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Bermuda.protect|Bermuda.protect]] 
 
-### #is_/same_as :: [Bermuda.private](/_private/Earth/Continent/America~Caribbean/Bermuda.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Bermuda.private|Bermuda.private]] 
 
-### #is_/same_as :: [Bermuda.personal](/_personal/Earth/Continent/America~Caribbean/Bermuda.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Bermuda.personal|Bermuda.personal]] 
 
-### #is_/same_as :: [Bermuda.secret](/_secret/Earth/Continent/America~Caribbean/Bermuda.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Bermuda.secret|Bermuda.secret]] 
 

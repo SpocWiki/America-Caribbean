@@ -1,4 +1,24 @@
-﻿---
+---
+dv_is_:
+  same_as:
+    - "[[../../../../WikiData/WD~Jamaica,766|WD~Jamaica,766]]"
+    - "[Jamaica](/_Standards/Earth/Continent/America~Caribbean/Jamaica.md)"
+    - "[Jamaica.public](/_public/Earth/Continent/America~Caribbean/Jamaica.public.md)"
+    - "[Jamaica.internal](/_internal/Earth/Continent/America~Caribbean/Jamaica.internal.md)"
+    - "[Jamaica.protect](/_protect/Earth/Continent/America~Caribbean/Jamaica.protect.md)"
+    - "[Jamaica.private](/_private/Earth/Continent/America~Caribbean/Jamaica.private.md)"
+    - "[Jamaica.personal](/_personal/Earth/Continent/America~Caribbean/Jamaica.personal.md)"
+    - "[Jamaica.secret](/_secret/Earth/Continent/America~Caribbean/Jamaica.secret.md)"
+dv_is_same_as:
+  - "[[../../../../WikiData/WD~Jamaica,766|WD~Jamaica,766]]"
+  - "[Jamaica](/_Standards/Earth/Continent/America~Caribbean/Jamaica.md)"
+  - "[Jamaica.public](/_public/Earth/Continent/America~Caribbean/Jamaica.public.md)"
+  - "[Jamaica.internal](/_internal/Earth/Continent/America~Caribbean/Jamaica.internal.md)"
+  - "[Jamaica.protect](/_protect/Earth/Continent/America~Caribbean/Jamaica.protect.md)"
+  - "[Jamaica.private](/_private/Earth/Continent/America~Caribbean/Jamaica.private.md)"
+  - "[Jamaica.personal](/_personal/Earth/Continent/America~Caribbean/Jamaica.personal.md)"
+  - "[Jamaica.secret](/_secret/Earth/Continent/America~Caribbean/Jamaica.secret.md)"
+
 has_time_started: 1962 
 aliases:
   - Jamaika
@@ -363,17 +383,17 @@ U_S_National_Archives_Identifier: 10044630
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Jamaica](/_Standards/Earth/Continent/America~Caribbean/Jamaica.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Greater_Antilles/Jamaica|Jamaica]] 
 
-### #is_/same_as :: [Jamaica.public](/_public/Earth/Continent/America~Caribbean/Jamaica.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Greater_Antilles/Jamaica.public|Jamaica.public]] 
 
-### #is_/same_as :: [Jamaica.internal](/_internal/Earth/Continent/America~Caribbean/Jamaica.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Greater_Antilles/Jamaica.internal|Jamaica.internal]] 
 
-### #is_/same_as :: [Jamaica.protect](/_protect/Earth/Continent/America~Caribbean/Jamaica.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Greater_Antilles/Jamaica.protect|Jamaica.protect]] 
 
-### #is_/same_as :: [Jamaica.private](/_private/Earth/Continent/America~Caribbean/Jamaica.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Greater_Antilles/Jamaica.private|Jamaica.private]] 
 
-### #is_/same_as :: [Jamaica.personal](/_personal/Earth/Continent/America~Caribbean/Jamaica.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Greater_Antilles/Jamaica.personal|Jamaica.personal]] 
 
-### #is_/same_as :: [Jamaica.secret](/_secret/Earth/Continent/America~Caribbean/Jamaica.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Greater_Antilles/Jamaica.secret|Jamaica.secret]] 
 

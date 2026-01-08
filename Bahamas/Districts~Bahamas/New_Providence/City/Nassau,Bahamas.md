@@ -1,4 +1,28 @@
-﻿---
+---
+dv_is_a_: "[[../../../../../../Geography/Place]]"
+dv_has_place_longitude: -77.33
+dv_has_place_latitude: 25.05
+dv_name: Nassau
+dv_is_:
+  same_as:
+    - "[[../../../../../../../WikiData/WD~Nassau,2467|WD~Nassau,2467]]"
+    - "[Nassau](/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/New_Providence/City/Nassau.md)"
+    - "[Nassau.public](/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/New_Providence/City/Nassau.public.md)"
+    - "[Nassau.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/New_Providence/City/Nassau.internal.md)"
+    - "[Nassau.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/New_Providence/City/Nassau.protect.md)"
+    - "[Nassau.private](/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/New_Providence/City/Nassau.private.md)"
+    - "[Nassau.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/New_Providence/City/Nassau.personal.md)"
+    - "[Nassau.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/New_Providence/City/Nassau.secret.md)"
+dv_is_same_as:
+  - "[[../../../../../../../WikiData/WD~Nassau,2467|WD~Nassau,2467]]"
+  - "[Nassau](/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/New_Providence/City/Nassau.md)"
+  - "[Nassau.public](/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/New_Providence/City/Nassau.public.md)"
+  - "[Nassau.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/New_Providence/City/Nassau.internal.md)"
+  - "[Nassau.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/New_Providence/City/Nassau.protect.md)"
+  - "[Nassau.private](/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/New_Providence/City/Nassau.private.md)"
+  - "[Nassau.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/New_Providence/City/Nassau.personal.md)"
+  - "[Nassau.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/New_Providence/City/Nassau.secret.md)"
+
 has_time_started: 1695-01-01 
 aliases:
   - Nassau
@@ -62,16 +86,16 @@ demonym:
 # [[Nassau,Bahamas]] 
 
 #is_a_/Place  
-#is_a_ :: [[../../../../../../Geography/Place]] 
-[has_place_longitude::-77.33] 
-[has_place_latitude::25.05] 
-[name::Nassau] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
 Country :: [[../../../../Bahamas]] 
 [StateId::] 
 [Population::] 
 
-#is_/same_as  :: [[../../../../../../../WikiData/WD~Nassau,2467|WD~Nassau,2467]]
+is_a_ = `=this.dv_is_a_`
 
 ## #has_/map 
 
@@ -135,17 +159,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nassau](/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/New_Providence/City/Nassau.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/New_Providence/City/Nassau,Bahamas|Nassau,Bahamas]] 
 
-### #is_/same_as :: [Nassau.public](/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/New_Providence/City/Nassau.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/New_Providence/City/Nassau,Bahamas.public|Nassau,Bahamas.public]] 
 
-### #is_/same_as :: [Nassau.internal](/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/New_Providence/City/Nassau.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/New_Providence/City/Nassau,Bahamas.internal|Nassau,Bahamas.internal]] 
 
-### #is_/same_as :: [Nassau.protect](/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/New_Providence/City/Nassau.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/New_Providence/City/Nassau,Bahamas.protect|Nassau,Bahamas.protect]] 
 
-### #is_/same_as :: [Nassau.private](/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/New_Providence/City/Nassau.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/New_Providence/City/Nassau,Bahamas.private|Nassau,Bahamas.private]] 
 
-### #is_/same_as :: [Nassau.personal](/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/New_Providence/City/Nassau.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/New_Providence/City/Nassau,Bahamas.personal|Nassau,Bahamas.personal]] 
 
-### #is_/same_as :: [Nassau.secret](/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/New_Providence/City/Nassau.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Bahamas/Districts~Bahamas/New_Providence/City/Nassau,Bahamas.secret|Nassau,Bahamas.secret]] 
 

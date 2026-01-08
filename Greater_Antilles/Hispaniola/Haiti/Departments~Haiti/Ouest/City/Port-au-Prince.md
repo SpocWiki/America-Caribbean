@@ -1,4 +1,29 @@
-﻿---
+---
+dv_is_a_: "[[../../../../../../Geography/Place]]"
+dv_has_place_longitude: -72.33334
+dv_has_place_latitude: 18.53333
+dv_name: Port-au-Prince
+dv_Unknown: 32
+dv_is_:
+  same_as:
+    - "[[../../../../../../../../../WikiData/WD~Port-au-Prince,34261|WD~Port-au-Prince,34261]]"
+    - "[Port-au-Prince](/_Standards/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest/City/Port-au-Prince.md)"
+    - "[Port-au-Prince.public](/_public/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest/City/Port-au-Prince.public.md)"
+    - "[Port-au-Prince.internal](/_internal/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest/City/Port-au-Prince.internal.md)"
+    - "[Port-au-Prince.protect](/_protect/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest/City/Port-au-Prince.protect.md)"
+    - "[Port-au-Prince.private](/_private/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest/City/Port-au-Prince.private.md)"
+    - "[Port-au-Prince.personal](/_personal/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest/City/Port-au-Prince.personal.md)"
+    - "[Port-au-Prince.secret](/_secret/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest/City/Port-au-Prince.secret.md)"
+dv_is_same_as:
+  - "[[../../../../../../../../../WikiData/WD~Port-au-Prince,34261|WD~Port-au-Prince,34261]]"
+  - "[Port-au-Prince](/_Standards/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest/City/Port-au-Prince.md)"
+  - "[Port-au-Prince.public](/_public/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest/City/Port-au-Prince.public.md)"
+  - "[Port-au-Prince.internal](/_internal/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest/City/Port-au-Prince.internal.md)"
+  - "[Port-au-Prince.protect](/_protect/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest/City/Port-au-Prince.protect.md)"
+  - "[Port-au-Prince.private](/_private/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest/City/Port-au-Prince.private.md)"
+  - "[Port-au-Prince.personal](/_personal/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest/City/Port-au-Prince.personal.md)"
+  - "[Port-au-Prince.secret](/_secret/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest/City/Port-au-Prince.secret.md)"
+
 has_time_started: 1749-01-01 
 aliases:
   - Port-au-Prince
@@ -85,16 +110,16 @@ X_Twitter_username: mairiepaup
 # [[Port-au-Prince]] 
 
 #is_a_/Place  
-#is_a_ :: [[../../../../../../Geography/Place]] 
-[has_place_longitude::-72.33334] 
-[has_place_latitude::18.53333] 
-[name::Port-au-Prince] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
 Country :: [[../../../../Haiti]]  
 [StateId::] 
 [Population::] 
-[Unknown::32] 
-#is_/same_as :: [[../../../../../../../../../WikiData/WD~Port-au-Prince,34261|WD~Port-au-Prince,34261]] 
+Unknown = `=this.dv_Unknown` 
+is_a_ = `=this.dv_is_a_`
 
 ## #has_/map 
 
@@ -118,20 +143,19 @@ maxZoom: 18
 > [Wikipedia](https://en.wikipedia.org/wiki/Port-au-Prince)  
 
 
-
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Port-au-Prince](/_Standards/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest/City/Port-au-Prince.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Caribbean/Greater_Antilles/Hispaniola/Haiti/Departments~Haiti/Ouest/City/Port-au-Prince|Port-au-Prince]] 
 
-### #is_/same_as :: [Port-au-Prince.public](/_public/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest/City/Port-au-Prince.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Caribbean/Greater_Antilles/Hispaniola/Haiti/Departments~Haiti/Ouest/City/Port-au-Prince.public|Port-au-Prince.public]] 
 
-### #is_/same_as :: [Port-au-Prince.internal](/_internal/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest/City/Port-au-Prince.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Caribbean/Greater_Antilles/Hispaniola/Haiti/Departments~Haiti/Ouest/City/Port-au-Prince.internal|Port-au-Prince.internal]] 
 
-### #is_/same_as :: [Port-au-Prince.protect](/_protect/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest/City/Port-au-Prince.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Caribbean/Greater_Antilles/Hispaniola/Haiti/Departments~Haiti/Ouest/City/Port-au-Prince.protect|Port-au-Prince.protect]] 
 
-### #is_/same_as :: [Port-au-Prince.private](/_private/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest/City/Port-au-Prince.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Caribbean/Greater_Antilles/Hispaniola/Haiti/Departments~Haiti/Ouest/City/Port-au-Prince.private|Port-au-Prince.private]] 
 
-### #is_/same_as :: [Port-au-Prince.personal](/_personal/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest/City/Port-au-Prince.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Caribbean/Greater_Antilles/Hispaniola/Haiti/Departments~Haiti/Ouest/City/Port-au-Prince.personal|Port-au-Prince.personal]] 
 
-### #is_/same_as :: [Port-au-Prince.secret](/_secret/Earth/Continent/America~Caribbean/Haiti/Departments~Haiti/Ouest/City/Port-au-Prince.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Caribbean/Greater_Antilles/Hispaniola/Haiti/Departments~Haiti/Ouest/City/Port-au-Prince.secret|Port-au-Prince.secret]] 
 
