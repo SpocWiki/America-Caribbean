@@ -129,7 +129,7 @@ Unknown = `=this.dv_Unknown`
 
 ```leaflet
 id: Port_of_Spain
-zoomFeatures: true 
+zoomFeatures: false 
 minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Port_of_Spain/
