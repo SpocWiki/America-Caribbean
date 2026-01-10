@@ -6,7 +6,12 @@ has_id_wikidata: Q39178
 location:
   - 10.66
   - -61.51
-type: geo-Region
+mapzoom:
+  - 7
+  - 12
+mapmarker: city
+type: City
+SpocWebEntityId: 35953
 title: Port_of_Spain
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
@@ -15,7 +20,7 @@ isReadOnly: false
 draft: false
 confidential: public
 tags:
-  - geo/Country/Region
+  - geo/City
 Languages:
   - de
 cssclasses:
@@ -50,6 +55,12 @@ head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Trinidad_and_Tob
 located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Trinidad_and_Tobago,754]]"
 country: "[[_Standards/WikiData/WD~Trinidad_and_Tobago,754]]"
 located_in_time_zone: "[[_Standards/WikiData/WD~UTC_04_00,5762]]"
+dv_is_a_: "[[../../../../../../../Geography/Place]]"
+dv_has_place_longitude: -61.51667
+dv_has_place_latitude: 10.66667
+dv_has_name: Port of Spain
+dv_Country: "[[../../Trinidad_and_Tobago~Islands]]"
+dv_Unknown: 32
 named_after:
   - "[[_Standards/WikiData/WD~Spain,29]]"
   - "[[_Standards/WikiData/WD~port,44782]]"
@@ -99,6 +110,16 @@ dv_is_same_as:
   - "[Port_of_Spain.personal](/_personal/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Port_of_Spain.personal.md)"
   - "[Port_of_Spain.secret](/_secret/Earth/Continent/America~Caribbean/Trinidad_and_Tobago~Islands/Regions~Trinidad-Tobago/Port_of_Spain.secret.md)"
 ---
+#is_a_/Place  
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_has_name` 
+State ::  
+Country = `=this.dv_Country`
+[StateId::] 
+[Population::] 
+Unknown = `=this.dv_Unknown` 
 
 # [[Port_of_Spain]]
 
