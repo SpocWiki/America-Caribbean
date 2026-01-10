@@ -18,7 +18,7 @@ confidential: public
 dv_is_a_: "[[../../../../../Geography/Place]]"
 dv_has_place_longitude: 18.4314
 dv_has_place_latitude: -64.62305
-dv_has_name_: Road Town
+dv_has_name: Road Town
 dv_Country: "[[../../../British_Virgin~Islands]]"
 dv_is_:
   same_as:
@@ -42,7 +42,7 @@ dv_is_same_as:
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country = `=this.dv_Country`
 [StateId::] 

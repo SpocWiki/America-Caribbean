@@ -53,7 +53,7 @@ UN_LOCODE: DMRSU
 dv_is_a_: "[[../../../../../../../Geography/Place]]"
 dv_has_place_longitude: -61.38334
 dv_has_place_latitude: 15.3
-dv_has_name_: Roseau
+dv_has_name: Roseau
 dv_Unknown: 32
 dv_is_:
   same_as:
@@ -82,7 +82,7 @@ dv_is_same_as:
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country :: [[../../../../Dominica]] 
 [StateId::] 

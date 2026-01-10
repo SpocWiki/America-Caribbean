@@ -41,7 +41,7 @@ dv_ISO4217-currency_country_name: VIRGIN ISLANDS (BRITISH)
 dv_Telephone: 1-284
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: British Virgin Islands
+dv_has_name: British Virgin Islands
 dv_has_name_en:
   - British Virgin Islands
   - British Virgin Islands
@@ -114,7 +114,7 @@ Telephone = `=this.dv_Telephone`
 Global = `=this.dv_Global` 
 Global_Name = `=this.dv_Global_Name` 
 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 [	has_name_en	 :: British Virgin Islands ] 
 has_name_es = `=this.dv_has_name_es` 
 has_name_fr = `=this.dv_has_name_fr` 

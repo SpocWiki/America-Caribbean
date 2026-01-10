@@ -41,7 +41,7 @@ dv_ISO4217-currency_country_name: ARUBA
 dv_Telephone: 297
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: Aruba
+dv_has_name: Aruba
 dv_has_name_en: Aruba
 dv_has_name_es: Aruba
 dv_has_name_fr: Aruba
@@ -118,7 +118,7 @@ Telephone = `=this.dv_Telephone`
 Global = `=this.dv_Global` 
 Global_Name = `=this.dv_Global_Name` 
 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 [	has_name_en	 :: Aruba ] 
 has_name_es = `=this.dv_has_name_es` 
 has_name_fr = `=this.dv_has_name_fr` 

@@ -44,7 +44,7 @@ dv_ISO4217-currency_country_name: CURAÇAO
 dv_Telephone: 599
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: Curaçao
+dv_has_name: Curaçao
 dv_has_name_en: Curaçao
 dv_has_name_es: Curaçao
 dv_has_name_fr: Curaçao
@@ -108,7 +108,7 @@ geojsonFolder: ./Curacao//
 markerFolder: ./Curacao/
 ```
 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 has_name_en = `=this.dv_has_name_en` 
 has_name_es = `=this.dv_has_name_es` 
 has_name_fr = `=this.dv_has_name_fr` 

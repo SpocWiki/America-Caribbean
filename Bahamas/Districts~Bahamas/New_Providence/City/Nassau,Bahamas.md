@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: -77.33
 dv_has_place_latitude: 25.05
-dv_has_name_: Nassau
+dv_has_name: Nassau
 dv_is_:
   same_as:
     - "[[../../../../../../../WikiData/WD~Nassau,2467|WD~Nassau,2467]]"
@@ -89,7 +89,7 @@ demonym:
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country :: [[../../../../Bahamas]] 
 [StateId::] 

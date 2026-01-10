@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: -72.33334
 dv_has_place_latitude: 18.53333
-dv_has_name_: Port-au-Prince
+dv_has_name: Port-au-Prince
 dv_Unknown: 32
 dv_is_:
   same_as:
@@ -113,7 +113,7 @@ X_Twitter_username: mairiepaup
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country :: [[../../../../Haiti]]  
 [StateId::] 

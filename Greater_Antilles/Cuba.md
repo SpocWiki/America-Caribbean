@@ -11,7 +11,7 @@ dv_ISO4217-currency_country_name: CUBA
 dv_Telephone: 53
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: Cuba
+dv_has_name: Cuba
 dv_has_name_en: Cuba
 dv_has_name_es: Cuba
 dv_has_name_fr: Cuba
@@ -470,7 +470,7 @@ Telephone = `=this.dv_Telephone`
 Global = `=this.dv_Global` 
 Global_Name = `=this.dv_Global_Name` 
 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 [	has_name_en	 :: Cuba ] 
 has_name_es = `=this.dv_has_name_es` 
 has_name_fr = `=this.dv_has_name_fr` 

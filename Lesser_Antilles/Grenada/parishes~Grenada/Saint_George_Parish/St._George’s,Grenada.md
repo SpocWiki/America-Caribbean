@@ -2,7 +2,7 @@
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: -61.75
 dv_has_place_latitude: 12.05
-dv_has_name_: St. George’s
+dv_has_name: St. George’s
 dv_Unknown: 32
 dv_is_:
   same_as:
@@ -87,7 +87,7 @@ inception: 1650-01-01T00:00:00Z
 is_a_ = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 
 has_place_latitude = `=this.dv_has_place_latitude` 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 State ::  
 Country :: [[../../../Grenada]]  
 [StateId::] 

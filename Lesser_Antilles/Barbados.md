@@ -7,7 +7,7 @@ dv_ISO4217-currency_country_name: BARBADOS
 dv_Telephone: 1-246
 dv_Global: true
 dv_Global_Name: World
-dv_has_name_: Barbados
+dv_has_name: Barbados
 dv_has_name_en: Barbados
 dv_has_name_es: Barbados
 dv_has_name_fr: Barbade
@@ -398,7 +398,7 @@ Telephone = `=this.dv_Telephone`
 Global = `=this.dv_Global` 
 Global_Name = `=this.dv_Global_Name` 
 
-name = `=this.dv_name` 
+name = `=this.dv_has_name` 
 [	has_name_en	 :: Barbados ] 
 has_name_es = `=this.dv_has_name_es` 
 has_name_fr = `=this.dv_has_name_fr` 
