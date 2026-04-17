@@ -1,1 +1,2 @@
-﻿{"geometry": {"coordinates": [[[-62.57862, 17.1455], [-62.59678, 17.13836], [-62.62637, 17.14069], [-62.61864, 17.18281], [-62.61255, 17.18913], [-62.59549, 17.17729], [-62.57862, 17.1455]]], "type": "Polygon"}, "properties": {"ISO3166-1-Alpha-3": "KNA", "country": "Saint Kitts and Nevis", "fill": "#000", "id": "5110", "name": "Saint Thomas Lowland"}, "type": "Feature"}
+{"type":"Feature","properties":{"ISO3166-1-Alpha-3":"KNA","country":"Saint Kitts and Nevis","fill":"#000","id":"5110","name":"Saint Thomas Lowland"},
+"geometry":{"type": "Polygon","coordinates": [[[-62.57862,17.1455,533.2217],[-62.59549,17.17729,194.7214],[-62.61255,17.18913,30.9069],[-62.61864,17.18281,4.4344],[-62.62637,17.14069,23.4811],[-62.59678,17.13836,254.5042],[-62.57862,17.1455,533.2217]]]}}

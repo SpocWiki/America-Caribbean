@@ -1,1 +1,2 @@
-﻿{"geometry": {"coordinates": [[[-62.56574, 17.10053], [-62.61217, 17.10415], [-62.62157, 17.12833], [-62.60846, 17.12928], [-62.59224, 17.13252], [-62.57862, 17.1455], [-62.56574, 17.10053]]], "type": "Polygon"}, "properties": {"ISO3166-1-Alpha-3": "KNA", "country": "Saint Kitts and Nevis", "fill": "#00F", "id": "5105", "name": "Saint John Figtree"}, "type": "Feature"}
+{"type":"Feature","properties":{"ISO3166-1-Alpha-3":"KNA","country":"Saint Kitts and Nevis","fill":"#00F","id":"5105","name":"Saint John Figtree"},
+"geometry":{"type": "Polygon","coordinates": [[[-62.56574,17.10053,0.0],[-62.57862,17.1455,533.2217],[-62.59224,17.13252,234.5462],[-62.60846,17.12928,78.0814],[-62.62157,17.12833,39.354],[-62.61217,17.10415,13.7543],[-62.56574,17.10053,0.0]]]}}

@@ -1,2 +1,2 @@
-
-{"geometry": {"coordinates": [[[-109.21203, 10.30268], [-109.21036, 10.28872], [-109.21858, 10.28156], [-109.22802, 10.29214], [-109.23424, 10.30793], [-109.22594, 10.31102], [-109.21203, 10.30268]]], "type": "Polygon"}, "properties": {"ISO3166-1-Alpha-3": "CLP", "country": "Clipperton Island", "id": null, "name": "Clipperton Island"}, "type": "Feature"}
+{"type":"Feature","properties":{"ISO3166-1-Alpha-3":"CLP","country":"Clipperton Island","id":null,"name":"Clipperton Island"},
+"geometry":{"type": "Polygon","coordinates": [[[-109.21203,10.30268,-1.0],[-109.22594,10.31102,-1.0],[-109.23424,10.30793,1.6472],[-109.22802,10.29214,0.0],[-109.21858,10.28156,0.0],[-109.21036,10.28872,1.1388],[-109.21203,10.30268,-1.0]]]}}
