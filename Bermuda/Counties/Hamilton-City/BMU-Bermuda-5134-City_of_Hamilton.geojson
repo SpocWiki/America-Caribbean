@@ -1,2 +1,2 @@
-{"type":"Feature","properties":{"ISO3166-1-Alpha-3":"BMU","country":"Bermuda","fill":"#F0F","id":"5134","name":"City of Hamilton"},
-"geometry":{"type": "Polygon","coordinates": [[[-64.78443,32.29056,0.0],[-64.78443,32.29734,7.0146],[-64.79382,32.29637,7.8708],[-64.79452,32.28955,0.0],[-64.78443,32.29056,0.0]]]}}
+{"type": "Feature","id": "5134","bbox": [-64.79452,32.28955,-64.78443,32.29734],"geometry": {"type": "Polygon","coordinates": [[[-64.78443,32.29056,0.0],[-64.78443,32.29734,7.0146],[-64.79382,32.29637,7.8708],[-64.79452,32.28955,0.0],[-64.78443,32.29056,0.0]]]}
+,"properties": {"ISO3166-1-Alpha-3": "BMU","country": "Bermuda","fill": "#F0F","name": "City of Hamilton","area_km2": 0.6631422,"hist_schema_id": "Elevation0-9000","hist_area_km2": {"0": 0.5735282,"25": 0.089614}}}

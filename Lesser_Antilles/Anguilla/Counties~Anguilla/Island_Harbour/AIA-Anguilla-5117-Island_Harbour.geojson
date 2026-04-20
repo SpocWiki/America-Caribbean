@@ -1,2 +1,2 @@
-{"type":"Feature","properties":{"ISO3166-1-Alpha-3":"AIA","country":"Anguilla","fill":"#FF0","id":"5117","name":"Island Harbour"},
-"geometry":{"type": "Polygon","coordinates": [[[-63.00755,18.26734,0.0],[-62.99998,18.26734,0.0],[-62.99452,18.2749,0.0],[-63.00739,18.27302,0.0],[-63.00755,18.26734,0.0]]]}}
+{"type": "Feature","id": "5117","bbox": [-63.00755,18.26734,-62.99452,18.2749],"geometry": {"type": "Polygon","coordinates": [[[-63.00755,18.26734,0.0],[-62.99998,18.26734,0.0],[-62.99452,18.2749,0.0],[-63.00739,18.27302,0.0],[-63.00755,18.26734,0.0]]]}
+,"properties": {"ISO3166-1-Alpha-3": "AIA","country": "Anguilla","fill": "#FF0","name": "Island Harbour","area_km2": 0.744932,"hist_schema_id": "Elevation0-9000","hist_area_km2": {"0": 0.744932}}}

@@ -1,2 +1,2 @@
-{"type":"Feature","properties":{"ISO3166-1-Alpha-3":"BHS","country":"The Bahamas","fill":"#F0F","id":"5013","name":"Grand Cay"},
-"geometry":{"type": "Polygon","coordinates": [[[-78.33064,27.22297,0.0],[-78.32364,27.23192,-0.0608],[-78.33161,27.23656,0.1798],[-78.34097,27.23245,0.0],[-78.33064,27.22297,0.0]]]}}
+{"type": "Feature","id": "5013","bbox": [-78.34097,27.22297,-78.32364,27.23656],"geometry": {"type": "Polygon","coordinates": [[[-78.33064,27.22297,0.0],[-78.32364,27.23192,-0.0608],[-78.33161,27.23656,0.1798],[-78.34097,27.23245,0.0],[-78.33064,27.22297,0.0]]]}
+,"properties": {"ISO3166-1-Alpha-3": "BHS","country": "The Bahamas","fill": "#F0F","name": "Grand Cay","area_km2": 1.300817,"hist_schema_id": "Elevation0-9000","hist_area_km2": {"0": 1.300817}}}

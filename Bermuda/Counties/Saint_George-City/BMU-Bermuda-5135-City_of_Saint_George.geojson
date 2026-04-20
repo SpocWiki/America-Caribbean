@@ -1,2 +1,2 @@
-{"type":"Feature","properties":{"ISO3166-1-Alpha-3":"BMU","country":"Bermuda","fill":"#F0F","id":"5135","name":"City of Saint George"},
-"geometry":{"type": "Polygon","coordinates": [[[-64.677,32.36978,12.6631],[-64.66849,32.37425,0.0],[-64.67207,32.38097,2.9803],[-64.68102,32.37605,0.0],[-64.677,32.36978,12.6631]]]}}
+{"type": "Feature","id": "5135","bbox": [-64.68102,32.36978,-64.66849,32.38097],"geometry": {"type": "Polygon","coordinates": [[[-64.677,32.36978,12.6631],[-64.66849,32.37425,0.0],[-64.67207,32.38097,2.9803],[-64.68102,32.37605,0.0],[-64.677,32.36978,12.6631]]]}
+,"properties": {"ISO3166-1-Alpha-3": "BMU","country": "Bermuda","fill": "#F0F","name": "City of Saint George","area_km2": 0.7699807,"hist_schema_id": "Elevation0-9000","hist_area_km2": {"0": 0.7699807}}}
