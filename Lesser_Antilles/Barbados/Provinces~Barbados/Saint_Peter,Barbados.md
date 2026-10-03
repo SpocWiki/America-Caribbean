@@ -6,6 +6,8 @@ aliases:
 location:
   - 13.26
   - -59.63
+  - 17.1
+  - -61.74
 type: geo-Region
 title: Saint_Peter
 license: CC BY-SA 4.0
@@ -43,6 +45,13 @@ dv_is_same_as:
   - "[Saint_Peter.private](/_private/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Peter.private.md)"
   - "[Saint_Peter.personal](/_personal/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Peter.personal.md)"
   - "[Saint_Peter.secret](/_secret/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Peter.secret.md)"
+  - "[Saint_Peter](/_Standards/Earth/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Peter.md)"
+  - "[Saint_Peter.public](/_public/Earth/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Peter.public.md)"
+  - "[Saint_Peter.internal](/_internal/Earth/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Peter.internal.md)"
+  - "[Saint_Peter.protect](/_protect/Earth/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Peter.protect.md)"
+  - "[Saint_Peter.private](/_private/Earth/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Peter.private.md)"
+  - "[Saint_Peter.personal](/_personal/Earth/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Peter.personal.md)"
+  - "[Saint_Peter.secret](/_secret/Earth/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Peter.secret.md)"
 ---
 
 # [[Saint_Peter,Barbados]]

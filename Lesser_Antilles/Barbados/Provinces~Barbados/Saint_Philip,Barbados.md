@@ -6,6 +6,8 @@ aliases:
 location:
   - 13.14
   - -59.47
+  - 17.06
+  - -61.71
 type: geo-Region
 title: Saint_Philip
 license: CC BY-SA 4.0
@@ -43,6 +45,13 @@ dv_is_same_as:
   - "[Saint_Philip.private](/_private/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Philip.private.md)"
   - "[Saint_Philip.personal](/_personal/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Philip.personal.md)"
   - "[Saint_Philip.secret](/_secret/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_Philip.secret.md)"
+  - "[Saint_Philip](/_Standards/Earth/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Philip.md)"
+  - "[Saint_Philip.public](/_public/Earth/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Philip.public.md)"
+  - "[Saint_Philip.internal](/_internal/Earth/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Philip.internal.md)"
+  - "[Saint_Philip.protect](/_protect/Earth/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Philip.protect.md)"
+  - "[Saint_Philip.private](/_private/Earth/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Philip.private.md)"
+  - "[Saint_Philip.personal](/_personal/Earth/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Philip.personal.md)"
+  - "[Saint_Philip.secret](/_secret/Earth/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_Philip.secret.md)"
 ---
 
 # [[Saint_Philip,Barbados]]

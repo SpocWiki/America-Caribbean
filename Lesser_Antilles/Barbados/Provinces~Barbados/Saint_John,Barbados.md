@@ -6,6 +6,8 @@ aliases:
 location:
   - 13.18
   - -59.5
+  - 17.1
+  - -61.8
 type: geo-Region
 title: Saint_John
 license: CC BY-SA 4.0
@@ -43,6 +45,13 @@ dv_is_same_as:
   - "[Saint_John.private](/_private/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_John.private.md)"
   - "[Saint_John.personal](/_personal/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_John.personal.md)"
   - "[Saint_John.secret](/_secret/Earth/Continent/America~Caribbean/Barbados/Provinces~Barbados/Saint_John.secret.md)"
+  - "[Saint_John](/_Standards/Earth/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_John.md)"
+  - "[Saint_John.public](/_public/Earth/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_John.public.md)"
+  - "[Saint_John.internal](/_internal/Earth/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_John.internal.md)"
+  - "[Saint_John.protect](/_protect/Earth/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_John.protect.md)"
+  - "[Saint_John.private](/_private/Earth/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_John.private.md)"
+  - "[Saint_John.personal](/_personal/Earth/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_John.personal.md)"
+  - "[Saint_John.secret](/_secret/Earth/Continent/America~Caribbean/Antigua_and_Barbuda/Counties/Saint_John.secret.md)"
 ---
 
 # [[Saint_John,Barbados]]
